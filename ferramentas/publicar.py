@@ -35,6 +35,10 @@ def main():
     idx = json.load(open(INDEX, encoding='utf-8')) if os.path.exists(INDEX) else {"artigos": []}
     ja = {a["slug"]: a for a in idx.get("artigos", [])}
     antigos = slugs_da_linha()
+    # pautas pendentes ainda não foram escritas: os slugs delas estão liberados
+    pp = os.path.join(RAIZ, 'pautas-pendentes.md')
+    if os.path.exists(pp):
+        antigos -= set(re.findall(r'\*\*Slug:\*\*\s*([a-z0-9-]+)', open(pp, encoding='utf-8').read()))
     erros, novos, avisos = [], [], []
     for md in sorted(glob.glob(os.path.join(RAIZ, 'artigos', '**', '*.md'), recursive=True)):
         txt = open(md, encoding='utf-8').read()

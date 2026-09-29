@@ -1,0 +1,7 @@
+{
+  "leia": "Para postar de novo no Instagram um post que já saiu: acrescente um item com id novo (nunca repita um id), o slug e o horário de Brasília a partir do qual pode sair. O site confere este arquivo a cada busca.",
+  "posts": [
+    {"id": "2026-09-29-ira", "slug": "guerra-do-ira", "depois": "2026-09-29 09:30"},
+    {"id": "2026-09-29-jobs", "slug": "steve-jobs", "depois": "2026-09-29 10:30"}
+  ]
+}

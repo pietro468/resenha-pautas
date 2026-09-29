@@ -1,24 +1,39 @@
 # Carrossel do Instagram (@resenharentavel)
 
-Toda matéria ganha um carrossel. O Instagram do Resenha é um perfil de notícias: o post precisa parar o dedo de quem está rolando o feed. O site monta as imagens sozinho a partir do arquivo `carrossel.json` que você salva na pasta do artigo (mesma pasta do .md). Você escreve os textos; o site desenha os slides com as fotos da matéria e publica no Instagram na hora em que a matéria entra no ar.
+Toda matéria ganha um post no Instagram: carrossel ou imagem única. O Instagram do Resenha é um perfil de notícias: o post precisa parar o dedo de quem está rolando o feed. O site monta as imagens sozinho a partir do arquivo `carrossel.json` que você salva na pasta do artigo (mesma pasta do .md). Você escreve os textos; o site desenha os slides com as fotos da matéria e publica no Instagram na hora em que a matéria entra no ar.
+
+## Identidade visual (sempre a mesma)
+
+O visual é sempre o de empresa de notícias: foto forte em tela cheia, degradê escuro, texto branco, detalhe em verde e o logo pequeno no topo. Nada de estilo "print de tweet" ou fundo branco com texto. O que varia é o **formato** e o **jeito de escrever o gancho**, nunca a identidade.
+
+## Os dois formatos de post
+
+- **Imagem única** (`"formato": "unico"`): uma foto com uma frase, sem slides. Use para **notícia urgente ou de hoje**, quando a frase já é a notícia ("Governo publica MP que proíbe as bets"). Por padrão o texto sai em frase normal (não em caixa alta), alinhado à esquerda, com a chamada em cima ("URGENTE:", "ÀS VÉSPERAS DO 1º TURNO:", "AGORA:"). A legenda conta a notícia.
+- **Carrossel** (`"formato": "carrossel"`, o padrão): capa + slides. Use para explicativos, rankings, comparações, biografias e temas livres.
+
+Para as notícias do dia, prefira a imagem única quando o fato é simples e acabou de acontecer; carrossel quando a notícia pede explicação ("o que muda para você"). Ao longo do dia, **intercale**: não publique 3 posts seguidos no mesmo formato e com o mesmo tipo de gancho.
 
 ## A capa é o que importa
 
-A capa (primeiro slide) decide se a pessoa arrasta ou passa reto. Ela é sempre: foto da matéria em tela cheia, degradê escuro embaixo, a **chamada** pequena em verde e o **gancho** grande em caixa alta.
+A capa decide se a pessoa arrasta ou passa reto. Ela é sempre: foto da matéria em tela cheia, degradê escuro embaixo, a **chamada** pequena em verde e o **gancho** grande.
 
 **Foto:** a capa usa a foto de capa da matéria (`"capa": "capa"`). Se outra foto da matéria for mais forte (um rosto conhecido, uma cena marcante, algo que explica a notícia sozinho), use o nome do arquivo dela. Por isso, escolha a foto de capa do artigo já pensando no Instagram: pessoa reconhecível, emoção, cena icônica. Evite foto genérica, prédio sem graça ou pessoa de costas.
 
-**Gancho:** NÃO é o título do site (que é feito para o Google). É uma frase de 7 a 14 palavras, no máximo 95 caracteres, que faz a pessoa querer saber o resto. Escreva 3 opções e escolha a mais forte. Fórmulas que funcionam:
-- **Número ou dinheiro concreto:** "BETO CARRERO CRIA ÁREA DA GALINHA PINTADINHA COM R$ 50 MILHÕES"
-- **Fala com você:** "O QUE FAZ E QUANTO GANHA CADA POLÍTICO EM QUEM VOCÊ VOTA NESTE ANO"
-- **Ranking ou lista:** "TOP 10 JOGADORES COM MAIS PARTIDAS POR SELEÇÕES"
-- **Nome famoso + fato inesperado:** "O FILME MAIS CARO DA HISTÓRIA NÃO SE PAGOU NO CINEMA"
-- **Notícia seca, verbo no presente:** "GOVERNO PROÍBE AS BETS E DÁ 10 DIAS PARA SACAR O SALDO"
-- **Curiosidade ou contradição:** "POR QUE O PAÍS QUE SEDIA A COPA QUASE SEMPRE PERDE DINHEIRO"
+**Gancho:** NÃO é o título do site (que é feito para o Google). É uma frase de 7 a 14 palavras, no máximo 95 caracteres, que faz a pessoa querer saber o resto. Escreva 3 opções, de tipos diferentes, e fique com a mais forte.
 
-Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que o texto não cumpre), sem travessão, sem ponto final, sem clickbait mentiroso, neutro em política.
+O gancho **não precisa ser a matéria em si**. Muitas vezes o melhor gancho é um ângulo lateral, algo do dia a dia do leitor ligado ao assunto, e o carrossel leva até a matéria. Exemplo: numa matéria sobre inflação, em vez de "Inflação de 2026 fica em X%", o gancho "O que dava pra comprar com R$ 50 em 2000 e o que dá hoje?", com os slides comparando produto por produto. Tipos de gancho, para alternar:
+- **Ângulo lateral e concreto:** uma pergunta do dia a dia que a matéria responde ("O que dava pra comprar com R$ 50 em 2000 x 2026?").
+- **Frase forte, curta, que provoca:** uma verdade que incomoda, com uma palavra de impacto ("A inflação é um imposto que ninguém votou"). Precisa ser sustentada pela matéria e não pode ser opinião política.
+- **Número ou dinheiro concreto:** "Beto Carrero cria área da Galinha Pintadinha com R$ 50 milhões".
+- **Fala com você:** "O que faz e quanto ganha cada político em quem você vota neste ano".
+- **Ranking ou lista:** "Top 10 jogadores com mais partidas por seleções".
+- **Nome famoso + fato inesperado:** "O filme mais caro da história não se pagou no cinema".
+- **Notícia seca, verbo no presente:** "Governo proíbe as bets e dá 10 dias para sacar o saldo".
+- **Curiosidade ou contradição:** "Por que o país que sedia a Copa quase sempre perde dinheiro".
 
-**Chamada:** 2 a 4 palavras que prometem continuação: "DESLIZE PARA VER", "ENTENDA", "VEJA OS NÚMEROS", "VEJA O RANKING", "O QUE MUDA".
+Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que o texto não cumpre), sem travessão, sem ponto final, sem clickbait mentiroso, neutro em política. No carrossel sai em caixa alta; na imagem única, em frase normal (`"estilo": "frase"` força frase normal também no carrossel).
+
+**Chamada:** 2 a 5 palavras em cima do gancho. No carrossel promete continuação ("DESLIZE PARA VER", "ENTENDA", "VEJA OS NÚMEROS", "VEJA O RANKING"); na imagem única dá o contexto ("URGENTE:", "AGORA:", "ÀS VÉSPERAS DO 1º TURNO:").
 
 ## Os slides de dentro
 
@@ -44,8 +59,13 @@ A legenda é uma matéria curta: primeira linha com a notícia ou o gancho em fr
 
 ## Modelo do carrossel.json
 
+Imagem única: só `formato`, `chamada`, `gancho`, `capa` e `legenda` (sem `slides`).
+
+Carrossel:
+
 ```json
 {
+  "formato": "carrossel",
   "gancho": "Fim das bets pode devolver até R$ 117 bilhões por ano ao comércio",
   "chamada": "Deslize para ver",
   "capa": "capa",

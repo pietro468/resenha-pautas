@@ -79,6 +79,7 @@ def main():
             if len(re.findall(r'^\s*-\s*arquivo:', fm_txt, re.M)) < 2: e.append("biografia precisa de pelo menos 2 fotos da pessoa em imagens:")
         if re.search(r'\.png\s*$', meta.get("capa_url", ""), re.I): avisos.append(f"{rel}: capa em PNG parece gráfico; a capa deve ser foto")
         if not meta.get("busca_imagem"): avisos.append(f"{rel}: sem busca_imagem")
+        if not re.search(r'^!\[[^\]]*\]\([^)\s]+\.png\)', corpo, re.M): avisos.append(f"{rel}: sem infográfico próprio; se o artigo tem comparação, números ou passo a passo, gere um com ferramentas/infografico.js")
         if e:
             erros += [f"{rel}: {x}" for x in e]; continue
         arquivos = [os.path.basename(md)] + sorted(f for f in os.listdir(os.path.dirname(md)) if f.lower().endswith(IMG_EXT))

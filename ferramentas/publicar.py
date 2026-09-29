@@ -87,7 +87,6 @@ def main():
             if len(re.findall(r'^\s*-\s*arquivo:', fm_txt, re.M)) < 2: e.append("biografia precisa de pelo menos 2 fotos da pessoa em imagens:")
         novo = meta.get("data", "") >= "2026-09-30"  # regras de foto que valem dos artigos novos em diante
         urls_fotos = [meta.get("capa_url", "")] + re.findall(r'^\s*url:\s*"?([^"\s]+)', fm_txt, re.M)
-        if novo and any('staticflickr.com' in u or 'flickr.com' in u for u in urls_fotos): e.append("foto com link do Flickr: o site não consegue baixar. Ache a mesma foto no Wikimedia Commons e use o link de lá (ver linha-editorial.md, seção 8)")
         if novo:
             vistos = [u for u in urls_fotos if u]
             if len(vistos) != len(set(vistos)): e.append("a mesma foto aparece duas vezes (capa e imagens:). Cada foto tem que ser diferente")

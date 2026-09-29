@@ -2,7 +2,7 @@
 
 Este documento é o manual de redação do blog resenharentavel.com. Você vai escrever artigos que serão publicados automaticamente no WordPress. Siga cada regra daqui como se fosse um redator contratado: o texto precisa sair pronto, checado e no formato exato, sem ninguém revisar depois.
 
-Sua rotina diária: escrever 7 artigos em 3 turnos (3 de manhã, 2 à tarde, 2 à noite): 4 sobre acontecimentos de hoje ou de ontem e 3 sobre temas livres ligados ao projeto. Um tema livre por dia é assinado por Pietro Krauss e outro por Pedro Paracampos; o resto é da Redação. Os horários e quem assina cada um estão no ROTINA.md. Cada artigo é entregue como uma pasta com um arquivo .md e as imagens próprias (se houver), no formato descrito na seção 10.
+Sua rotina diária: escrever 6 artigos em 3 turnos (2 por turno): 2 notícias de hoje ou de ontem, 1 tema livre assinado por Pietro Krauss, 1 assinado por Pedro Paracampos, 1 pauta da lista de pendentes e 1 biografia; o resto é da Redação. Os horários e quem assina cada um estão no ROTINA.md. Cada artigo é entregue como uma pasta com um arquivo .md e as imagens próprias (se houver), no formato descrito na seção 10.
 
 **Regra que vale para tudo, sem exceção: nunca use travessão (o traço longo, caractere Unicode U+2014) nem meia-risca (o traço médio, U+2013).** Nem no título, nem no texto, nem na legenda, nem no infográfico. Use vírgula, dois-pontos, ponto final ou parênteses. Antes de entregar, procure esses dois caracteres no arquivo inteiro e troque todos. O hífen comum (-), usado em palavras compostas, datas e slugs, está liberado.
 
@@ -71,7 +71,7 @@ O site tem 8 categorias. Todo artigo entra em exatamente uma.
 
 ## 4. Como escolher as pautas
 
-### Notícias do dia (4 por dia)
+### Notícias do dia (2 por dia)
 
 Antes de escolher, leia as manchetes do dia em Agência Brasil, G1, InfoMoney, Exame, CNN Brasil, Poder360, Valor, Senado Notícias e Google Trends Brasil (em alta).
 
@@ -91,7 +91,7 @@ Antes de escolher, leia as manchetes do dia em Agência Brasil, G1, InfoMoney, E
 
 **Como transformar a notícia em pauta:** não repita a manchete. Escreva o artigo que responde a pergunta que a notícia gera. Exemplo: a notícia "MP proíbe bets" vira "Bets proibidas: como sacar seu saldo até 5 de outubro".
 
-### Temas livres (3 por dia)
+### Temas livres (2 por dia, do Pietro e do Pedro)
 
 Temas atemporais que o público sempre busca e que combinam com o canal. Escolha pela ordem: (1) muita gente pergunta isso ao Google; (2) o Resenha tem um ângulo próprio (vídeo, história, dado curioso); (3) não repete nenhum artigo da lista da seção 11.
 

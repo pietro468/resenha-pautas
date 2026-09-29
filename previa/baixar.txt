@@ -1,3 +1,2 @@
-s1.jpg https://live.staticflickr.com/65535/54063581561_12954744b7_b.jpg
-s2.jpg https://live.staticflickr.com/65535/54062708072_638d702a74_b.jpg
-s3.jpg https://live.staticflickr.com/65535/54064036815_3f278a2619_b.jpg
+q1.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Starship+launch+Super+Heavy+liftoff&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|DateTimeOriginal&iiurlwidth=640
+q2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=SpaceX+Starship+flight+test+2025&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|DateTimeOriginal&iiurlwidth=640

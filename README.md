@@ -1,6 +1,6 @@
 # Pautas do Resenha Rentável
 
-Artigos escritos automaticamente todas as manhãs para o blog resenharentavel.com.
+Artigos escritos automaticamente todo dia, em 3 turnos (manhã, tarde e noite), para o blog resenharentavel.com.
 
 - `linha-editorial.md`: manual de redação do blog.
 - `ROTINA.md`: passo a passo diário do redator automático.

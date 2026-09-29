@@ -49,7 +49,7 @@ def main():
             if not meta.get(k): e.append(f"campo '{k}' vazio")
         if '—' in txt or '–' in txt: e.append("tem travessão ou meia-risca (troque por vírgula, dois-pontos ou parênteses)")
         if meta.get("categoria") and meta["categoria"] not in CATS: e.append(f"categoria '{meta['categoria']}' não existe")
-        if meta.get("assina") != "Redação": e.append("assina precisa ser \"Redação\"")
+        if meta.get("assina") not in ("Redação", "Pietro Krauss", "Pedro Paracampos"): e.append("assina precisa ser \"Redação\", \"Pietro Krauss\" ou \"Pedro Paracampos\"")
         if meta.get("data") and not re.match(r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$', meta["data"]): e.append("data fora do formato AAAA-MM-DD HH:MM")
         if slug and not re.match(r'^[a-z0-9]+(-[a-z0-9]+)*$', slug): e.append("slug só pode ter letras minúsculas, números e hífens")
         if slug in antigos: e.append("slug já usado num dos 117 artigos da linha editorial")

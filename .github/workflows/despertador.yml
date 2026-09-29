@@ -20,4 +20,4 @@ jobs:
             [ "$code" = "200" ] && exit 0
             sleep 70
           done
-          echo "O site não respondeu com 200 (pode estar só demorando para publicar)."
+          echo "O site não respondeu com 200 (pode estar só demorando para publicar)."; exit 1

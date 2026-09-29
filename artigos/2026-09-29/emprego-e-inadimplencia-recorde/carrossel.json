@@ -1,0 +1,46 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "gancho": "O Brasil nunca teve tanta gente trabalhando, nem tanta gente ==com conta atrasada==",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "Os dois recordes",
+      "texto": "==Emprego:== **103,5 milhões** de pessoas trabalhando, o maior número desde 2012.\n\n==Calote:== **6%** do crédito das famílias com mais de 90 dias de atraso, o maior nível da série.",
+      "foto": "capa",
+      "fonte": "IBGE e Banco Central, 29/09"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "Desemprego em queda",
+      "esquerda": {"rotulo": "2025", "valor": "5,6%", "detalhe": "junho a agosto"},
+      "direita": {"rotulo": "2026", "valor": "5,3%", "detalhe": "junho a agosto"},
+      "texto": "São **5,8 milhões** de desempregados, 300 mil a menos em um ano.",
+      "fonte": "IBGE, PNAD Contínua"
+    },
+    {
+      "tipo": "numero",
+      "numero": "61,7%",
+      "texto": "ao ano: é o juro médio cobrado das famílias em agosto. Com essa taxa, uma conta atrasada ==cresce muito rápido==.",
+      "foto": "inadimplencia-cartoes-de-credito.jpg",
+      "fonte": "Banco Central"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O que muda para você",
+      "texto": "De cada **R$ 100** que entram no mês, quase ==R$ 29== já vão para parcelas e juros.\n\nSobra menos para aluguel, mercado e contas, e qualquer imprevisto vira atraso.",
+      "foto": "inadimplencia-conta-atrasada.jpg",
+      "fonte": "Banco Central, dado de julho"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "No fim das contas",
+      "texto": "Ter emprego não basta quando o salário já chega comprometido com **dívida cara**.\n\nO emprego forte segura a renda, mas enquanto os juros não caírem de verdade, o calote continua alto."
+    },
+    {"tipo": "final"}
+  ],
+  "legenda": "O Brasil bateu dois recordes no mesmo dia: nunca teve tanta gente trabalhando e nunca teve tanto crédito das famílias em atraso.\n\nSegundo o IBGE, 103,5 milhões de pessoas estavam ocupadas no trimestre de junho a agosto, o maior número desde 2012. O desemprego caiu para 5,3%.\n\nJá o Banco Central mostrou que 6% do crédito às famílias estava com mais de 90 dias de atraso em agosto, o maior nível da série. Os juros médios cobrados das famílias chegaram a 61,7% ao ano.\n\nA explicação está no orçamento: em julho, quase 29% da renda mensal das famílias já ia para parcelas e juros. Com o salário comprometido, qualquer imprevisto vira conta atrasada.\n\n(Fotos: Rodolfo Gaion, Dave Garcia e RDNE Stock Project/Pexels)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

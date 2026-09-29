@@ -1,19 +1,14 @@
 {
   "formato": "carrossel",
   "chamada": "Veja a história",
-  "capa": "steve-jobs-macintosh-1984.jpg",
-  "capa_estilo": "dupla",
-  "capa_extra": "capa",
-  "rotulos": [
-    "1984",
-    "2010"
-  ],
+  "capa": "capa",
+  "capa_estilo": "classico",
   "estilo": "frase",
   "gancho": "Steve Jobs foi demitido da empresa que criou e ficou bilionário ==fora dela==",
   "slides": [
     {
       "tipo": "foto_texto",
-      "foto": "steve-jobs-macintosh-1984.jpg",
+      "foto": "steve-jobs-1.jpg",
       "titulo": "A garagem",
       "texto": "Em **1976**, aos 21 anos, Jobs fundou a Apple com Steve Wozniak na casa dos pais. Aos 25, depois da estreia na bolsa, já tinha mais de ==US$ 200 milhões==.",
       "fonte": "Wikipédia e Cult of Mac"

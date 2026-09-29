@@ -42,6 +42,7 @@ O visual é o mesmo, mas **nenhum post pode parecer cópia do anterior**. Altern
 **1. Estilo da capa** (`"capa_estilo"`):
 - `"classico"` (padrão): uma foto em tela cheia. O estilo mais usado, mas não em todos.
 - `"circulo"`: foto principal + uma segunda foto num círculo no canto (`"capa_extra": "arquivo.jpg"`). Bom quando a notícia junta duas coisas (uma empresa e um produto, uma pessoa e um lugar).
+- Em `circulo` e `dupla`, use só fotos que você tem certeza que vão baixar (as da lista `imagens:` da matéria, com link testado). Se a segunda foto não existir, o site volta sozinho para a capa simples.
 - `"dupla"`: a tela dividida em duas fotos, com um X no meio (`"capa_extra"` e `"rotulos": ["2000", "2026"]` ou `["Antes", "Depois"]`, `["Brasil", "EUA"]`). Bom para comparações e versus.
 - Imagem única (`"formato": "unico"`), para notícia urgente.
 

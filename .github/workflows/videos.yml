@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "25 9,15,20 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/videos.yml']
 permissions:
   contents: write
 jobs:

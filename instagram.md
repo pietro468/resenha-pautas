@@ -190,7 +190,7 @@ Regras: frase curta (até umas 25 palavras), em português natural; frase real e
 **Posição do texto em todos os posts:** o texto fica na metade de baixo da imagem, mas nunca encostado na borda: termina a uns 240 px do fim (o site já faz isso sozinho). Na capa "Hoje na história", o selo mostra só "HOJE NA HISTÓRIA", o `ha` ("Há 15 anos") sai pequeno em cima do gancho, o gancho é curto (até umas 10 palavras) e o destaque `==...==` vai no **nome da pessoa**; a capa só fica em preto e branco quando a data é de morte (`"luto": true`); nas outras datas, colorida.
 
 
-## Aprendizados das referências (set/2026) — valem para todo carrossel
+## Aprendizados das referências (set/2026): valem para todo carrossel
 
 **Capa**
 - Rosto grande e próximo vence prédio, objeto ou paisagem. Em lista ou ranking de pessoas, use 2 ou 3 rostos (`dupla` ou `circulo`).

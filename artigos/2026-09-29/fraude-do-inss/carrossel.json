@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "capa_extra": "fraude-do-inss-sede-do-inss.jpg",
+  "chamada": "Entenda o caso",
+  "capa": "capa",
+  "gancho": "==R$ 6,3 bilhões== saíram da aposentadoria de quem nunca assinou nada",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que aconteceu", "texto": "Associações cobravam mensalidade **direto no benefício** de aposentados.\n\nSó que quase ninguém tinha autorizado. Entre 2019 e 2024, foram ==R$ 6,3 bilhões==.\n\nE como ninguém percebeu?", "foto": "capa", "fonte": "PF e CGU, via CNN Brasil"},
+    {"tipo": "numero", "numero": "97,6%", "texto": "dos aposentados ouvidos pela CGU disseram que **nunca autorizaram** o desconto. A assinatura era falsa ou nem existia.", "foto": "fraude-do-inss-sede-do-inss.jpg", "fonte": "CGU, via CNN Brasil"},
+    {"tipo": "texto", "titulo": "Como o esquema agia", "texto": "A lei deixa a associação descontar a mensalidade, **se o aposentado autorizar**.\n\nNinguém conferia essa autorização. Em 2024, os descontos chegaram a ==R$ 2,8 bilhões== num só ano.\n\nAté que a PF bateu na porta.", "foto": "cpmi-do-inss-oitiva.jpg", "fonte": "Agência Brasil"},
+    {"tipo": "texto", "titulo": "Quem é o Careca do INSS", "texto": "Para a PF, o empresário Antônio Carlos Camilo Antunes era o **operador** do esquema. Está preso desde setembro de 2025.\n\nEle nega. Foi indiciado, mas ==não foi julgado==.", "foto": "capa", "fonte": "CNN Brasil, Agência Senado e Poder360"},
+    {"tipo": "comparacao", "titulo": "E o dinheiro voltou?", "esquerda": {"rotulo": "Descontado", "valor": "R$ 6,3 bi", "detalhe": "de 2019 a 2024"}, "direita": {"rotulo": "Devolvido", "valor": "R$ 3,3 bi", "detalhe": "até agosto de 2026"}, "texto": "4,8 milhões de aposentados já receberam de volta.", "fonte": "PF e Ministério da Previdência, via O Tempo"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "A PF indiciou 48 pessoas. Agora a **Procuradoria-Geral da República** decide se leva o caso à Justiça.\n\nA lição: confira o extrato do benefício todo mês.", "fonte": "Poder360"},
+    {"tipo": "final"}
+  ],
+  "legenda": "R$ 6,3 bilhões saíram da aposentadoria de gente que nunca assinou nada.\n\nSegundo a PF e a CGU, associações cobravam mensalidades direto no benefício de aposentados e pensionistas entre 2019 e 2024, com autorizações falsas ou inexistentes. Numa auditoria da CGU, 97,6% dos aposentados ouvidos disseram que nunca autorizaram o desconto.\n\nO empresário Antônio Carlos Camilo Antunes, o Careca do INSS, é apontado pela PF como operador do esquema. Ele está preso desde setembro de 2025 e nega participação. Em julho de 2026, a PF indiciou 48 pessoas. Indiciamento não é condenação: a Procuradoria-Geral da República ainda decide se apresenta denúncia.\n\nAté agosto de 2026, 4,8 milhões de aposentados foram ressarcidos, num total de R$ 3,3 bilhões, segundo o Ministério da Previdência.\n\nVocê ou alguém da sua família teve desconto no benefício?\n\n(Fotos: Edilson Rodrigues, Waldemir Barreto e Jefferson Rudy/Agência Senado)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

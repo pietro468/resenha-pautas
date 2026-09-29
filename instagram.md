@@ -62,7 +62,7 @@ Regra do dia: entre os posts de um mesmo dia, varie o estilo de capa e o tipo de
 
 ## Os slides de dentro
 
-De 3 a 8 slides depois da capa. O último slide é conteúdo, como no concorrente: **não** faça slide de "leia no link da bio". Cada slide tem **uma ideia** e cabe numa olhada: no máximo umas 45 palavras. Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
+**Varie as fotos:** não repita a mesma foto em todos os slides. Se a matéria tem 2 ou mais fotos, cada slide de fundo escuro usa uma foto diferente (capa, depois as fotos do texto, alternando), e a capa do post usa a foto mais forte. Por isso, toda matéria deve ter pelo menos 2 fotos no texto além da capa, sempre que existir foto livre boa do assunto. De 3 a 8 slides depois da capa. O último slide é conteúdo, como no concorrente: **não** faça slide de "leia no link da bio". Cada slide tem **uma ideia** e cabe numa olhada: no máximo umas 45 palavras. Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
 
 Formatos por tipo de matéria:
 - **Notícia:** capa + 3 a 5 slides ("O que aconteceu", "O que muda para você", "Próximos passos").

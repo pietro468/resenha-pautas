@@ -90,6 +90,7 @@ def main():
                 car = json.load(open(cj, encoding='utf-8'))
                 ctxt = json.dumps(car, ensure_ascii=False)
                 if '\u2014' in ctxt or '\u2013' in ctxt or '—' in ctxt or '–' in ctxt: e.append("carrossel.json tem travessão ou meia-risca")
+                if car.get("estilo") != "frase": e.append('carrossel.json sem "estilo": "frase" (o gancho da capa sai sempre em frase normal, ver instagram.md)')
                 if not car.get("gancho"): e.append("carrossel.json sem gancho")
                 elif len(car["gancho"]) > 95: e.append("gancho do carrossel com mais de 95 caracteres")
                 if len(car.get("slides", [])) > 9: e.append("carrossel com mais de 9 slides além da capa (limite do Instagram é 10)")

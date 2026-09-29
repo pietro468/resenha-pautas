@@ -8,7 +8,7 @@ O visual é sempre o de empresa de notícias: foto forte em tela cheia, degradê
 
 ## Os dois formatos de post
 
-- **Imagem única** (`"formato": "unico"`): uma foto com uma frase, sem slides. Use para **notícia urgente ou de hoje**, quando a frase já é a notícia ("Governo publica MP que proíbe as bets"). O texto sai na fonte da marca (Brim, caixa alta), alinhado à esquerda, com a chamada em cima ("URGENTE:", "ÀS VÉSPERAS DO 1º TURNO:", "AGORA:"). A legenda conta a notícia.
+- **Imagem única** (`"formato": "unico"`): uma foto com uma frase, sem slides. Use para **notícia urgente ou de hoje**, quando a frase já é a notícia ("Governo publica MP que proíbe as bets"). O texto sai em frase normal, alinhado à esquerda, com a chamada em cima ("URGENTE:", "ÀS VÉSPERAS DO 1º TURNO:", "AGORA:"). A legenda conta a notícia.
 - **Carrossel** (`"formato": "carrossel"`, o padrão): capa + slides. Use para explicativos, rankings, comparações, biografias e temas livres.
 
 Para as notícias do dia, prefira a imagem única quando o fato é simples e acabou de acontecer; carrossel quando a notícia pede explicação ("o que muda para você"). Ao longo do dia, **intercale**: não publique 3 posts seguidos no mesmo formato e com o mesmo tipo de gancho.
@@ -31,7 +31,7 @@ O gancho **não precisa ser a matéria em si**. Muitas vezes o melhor gancho é 
 - **Notícia seca, verbo no presente:** "Governo proíbe as bets e dá 10 dias para sacar o saldo".
 - **Curiosidade ou contradição:** "Por que o país que sedia a Copa quase sempre perde dinheiro".
 
-Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que o texto não cumpre), sem travessão, sem ponto final, sem clickbait mentiroso, neutro em política. O gancho sai sempre na fonte da marca (Brim, caixa alta), no carrossel e na imagem única. **Nunca use `"estilo": "frase"`**: o Pietro prefere a Brim em todos os posts.
+Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que o texto não cumpre), sem travessão, sem ponto final, sem clickbait mentiroso, neutro em política. O gancho da capa sai sempre em **frase normal** (fonte Plex em negrito, não em caixa alta), no carrossel e na imagem única: o Pietro achou mais fácil de ler. Por isso, **todo carrossel.json leva `"estilo": "frase"`**. Os títulos dos slides de dentro continuam na Brim.
 
 **Chamada:** 2 a 5 palavras em cima do gancho. No carrossel promete continuação ("DESLIZE PARA VER", "ENTENDA", "VEJA OS NÚMEROS", "VEJA O RANKING"); na imagem única dá o contexto ("URGENTE:", "AGORA:", "ÀS VÉSPERAS DO 1º TURNO:").
 
@@ -82,6 +82,7 @@ Carrossel:
 ```json
 {
   "formato": "carrossel",
+  "estilo": "frase",
   "gancho": "Fim das bets pode devolver até R$ 117 bilhões por ano ao comércio",
   "chamada": "Deslize para ver",
   "capa": "capa",

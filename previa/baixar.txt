@@ -1,0 +1,3 @@
+burj.jpg https://images.pexels.com/photos/18957954/pexels-photo-18957954.jpeg?auto=compress&w=1600&fm=jpg
+shanghai.jpg https://images.pexels.com/photos/16578941/pexels-photo-16578941.jpeg?auto=compress&w=1600&fm=jpg
+makkah.jpg https://images.pexels.com/photos/12052403/pexels-photo-12052403.jpeg?auto=compress&w=1600&fm=jpg

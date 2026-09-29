@@ -229,7 +229,7 @@ Obrigatória. Foto real, horizontal, de boa qualidade (de preferência 1600 px d
 - **A capa é a imagem mais importante do artigo.** Sempre uma **foto** real. Nunca use infográfico, gráfico, tabela ou print como capa.
 - **Biografias:** a capa é sempre uma foto da própria pessoa, de rosto ou meio corpo, reconhecível. E o texto precisa ter **pelo menos 2 fotos da pessoa** em momentos diferentes (juventude, trabalho, evento), na lista `imagens:`. Preencha o campo `pessoa:` com o nome completo, do jeito que aparece na Wikipédia (ex.: `pessoa: "Daniel Vorcaro"`).
 - **Quando o artigo gira em torno de uma pessoa** (mesmo fora de Biografias), prefira a foto dela na capa e preencha `pessoa:`.
-- Preencha também `busca_imagem:` com 2 a 4 palavras do que a foto de capa deve mostrar (ex.: `busca_imagem: "Banco Central Brasília"`). Se a sua foto não baixar, o site usa isso para procurar outra foto livre sozinho.
+- Preencha também `busca_imagem:` com 2 a 4 palavras **em inglês** do que a foto de capa deve mostrar, bem concretas (ex.: `busca_imagem: "US dollar banknotes"`, `"Central Bank of Brazil building"`). Se a sua foto não baixar, o site usa isso para procurar outra foto livre sozinho, e só aceita foto cuja descrição combine com essas palavras.
 - Prefira fontes que liberam o download direto: Flickr (live.staticflickr.com) e Wikimedia Commons. O site da Agência Brasil costuma bloquear.
 
 ### Imagens dentro do texto
@@ -302,7 +302,7 @@ youtube: "https://youtu.be/VlXh0CPJ0LM"
 capa: "o-que-faz-o-stf-capa.jpg"
 capa_url: "https://live.staticflickr.com/65535/53331816063_8560be428a_k.jpg"
 capa_credito: "Pedro França/Agência Senado (CC BY 2.0)"
-busca_imagem: "Supremo Tribunal Federal plenário"
+busca_imagem: "Supreme Federal Court Brazil"
 imagens:
   - arquivo: "plenario-do-stf-sessao-2026.jpg"
     url: "https://live.staticflickr.com/65535/55440972333_04e3d7cbd5_k.jpg"
@@ -330,7 +330,7 @@ Regras dos campos:
 - `capa_url`: link direto da foto em alta resolução.
 - `capa_credito`: `Autor/Instituição (LICENÇA)`.
 - `pessoa`: nome completo da pessoa principal do artigo (obrigatório em Biografias; nos outros, só se o artigo girar em torno de alguém). Senão, `""`.
-- `busca_imagem`: 2 a 4 palavras descrevendo a foto de capa ideal, para o site procurar outra se a sua não baixar.
+- `busca_imagem`: 2 a 4 palavras em inglês descrevendo a foto de capa ideal, para o site procurar outra se a sua não baixar.
 - `imagens`: lista das fotos do texto, com `arquivo`, `url`, `credito` e `legenda`. Se não houver fotos no texto, use `imagens: []`.
 
 Logo depois do bloco vem o corpo do artigo em markdown, começando direto pelo primeiro parágrafo (o título não se repete no corpo).

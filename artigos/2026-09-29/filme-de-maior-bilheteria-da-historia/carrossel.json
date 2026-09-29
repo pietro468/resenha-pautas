@@ -1,0 +1,41 @@
+{
+  "formato": "carrossel",
+  "chamada": "Veja a história",
+  "capa": "capa",
+  "gancho": "O filme que mais faturou na história tem quase 17 anos",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "US$ 2,92 bi",
+      "texto": "é a bilheteria mundial de ==Avatar== (2009), de James Cameron, somando os relançamentos. Nenhum filme arrecadou mais.",
+      "foto": "james-cameron-1.jpg",
+      "fonte": "Box Office Mojo"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Custou pouco perto disso",
+      "texto": "O orçamento oficial foi de **US$ 237 milhões**.\n\nSó a primeira passagem pelos cinemas rendeu **US$ 2,75 bilhões**, mais de ==dez vezes== o custo.",
+      "foto": "capa"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Esperou mais de 10 anos",
+      "texto": "Cameron escreveu a ideia em ==1994==, mas achou que a tecnologia não dava conta de Pandora.\n\nAs filmagens só começaram em ==2007==, com um sistema próprio de câmeras 3D.",
+      "foto": "james-cameron-1.jpg"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Tirou o recorde de si mesmo",
+      "texto": "Em janeiro de 2010, Avatar passou ==Titanic==, que também era de James Cameron.\n\nEm 2019, perdeu o posto para ==Vingadores: Ultimato==. Relançamentos na Ásia e na China, em 2020 e 2021, devolveram a liderança.",
+      "foto": "capa"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O top 5 hoje",
+      "texto": "==1.== Avatar\n\n==2.== Vingadores: Ultimato\n\n==3.== Homem-Aranha: Um Novo Dia\n\n==4.== Avatar: O Caminho da Água\n\n==5.== Titanic",
+      "foto": "james-cameron-1.jpg",
+      "fonte": "Box Office Mojo e Exame"
+    }
+  ],
+  "legenda": "O filme que mais faturou na história tem quase 17 anos: Avatar, de James Cameron.\n\nLançado em 2009, ele arrecadou US$ 2,92 bilhões somando os relançamentos. Custou US$ 237 milhões e passou Titanic em pouco mais de um mês. Titanic, aliás, também é de Cameron.\n\nEm 2019, Vingadores: Ultimato tomou o recorde. Relançamentos na Ásia e na China devolveram o posto a Avatar em 2021.\n\nA matéria completa está no link da bio.\n\n(Fotos: Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

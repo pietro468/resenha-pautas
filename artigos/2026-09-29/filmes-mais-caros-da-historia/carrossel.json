@@ -1,0 +1,39 @@
+{
+  "formato": "carrossel",
+  "chamada": "Veja os números",
+  "capa": "capa",
+  "gancho": "O filme mais caro da história custou US$ 658 milhões e o cinema não pagou a conta",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "US$ 658,8 mi",
+      "texto": "foi o custo de ==Jurassic World: Domínio== (2022), o filme mais caro já feito, segundo balanços entregues no Reino Unido.",
+      "fonte": "Fortune, junho de 2026"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por que custou tanto",
+      "texto": "==Pandemia:== o filme foi rodado em 2020, com protocolos caros e meses de filmagem parada.\n\n==Cenários de pé:== equipe e segurança pagas para manter tudo montado.\n\n==Quarentena de luxo:== hotel com diária de **mais de US$ 600** para o elenco.",
+      "fonte": "Fortune"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E deu lucro?",
+      "texto": "A bilheteria foi de cerca de **US$ 1 bilhão**. Mas o estúdio fica com mais ou menos ==metade== do que o público paga.\n\nResultado: uns **US$ 500 milhões** para a Universal, contra um custo de **US$ 531 milhões** depois do reembolso do governo britânico.",
+      "fonte": "Fortune"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Os que viraram prejuízo",
+      "texto": "==Indiana Jones e a Relíquia do Destino:== custou **US$ 419 milhões** e fez US$ 384 milhões no mundo.\n\n==Branca de Neve (2025):== custou **US$ 336,5 milhões** e fez US$ 205,7 milhões. A Deadline estimou prejuízo de cerca de US$ 115 milhões.",
+      "fonte": "Forbes e Deadline"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Quem pagou com folga",
+      "texto": "==Star Wars: O Despertar da Força== custou **US$ 638,9 milhões** e arrecadou **US$ 2,07 bilhões** no mundo.\n\nGastar muito não garante público. Mas, quando o público vem, a conta fecha com sobra.",
+      "fonte": "Fortune e Box Office Mojo"
+    }
+  ],
+  "legenda": "O filme mais caro da história custou US$ 658,8 milhões, e só a bilheteria não pagou a conta.\n\nSegundo balanços entregues ao governo britânico e analisados pela Fortune, Jurassic World: Domínio (2022) bateu o recorde por causa da pandemia: filmagens paradas, protocolos caros e quarentena do elenco em hotel de luxo.\n\nO filme fez cerca de US$ 1 bilhão no mundo, mas o estúdio fica com mais ou menos metade disso. Indiana Jones e Branca de Neve tiveram destino pior e viraram prejuízo. Já Star Wars: O Despertar da Força pagou tudo com folga.\n\nA matéria completa está no link da bio.\n\n(Foto: Carol M. Highsmith/Biblioteca do Congresso dos EUA)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -5,7 +5,8 @@
    "pasta": "artigos/2026-09-29/filmes-mais-caros-da-historia",
    "arquivos": [
     "filmes-mais-caros-da-historia.md",
-    "filmes-mais-caros-da-historia-custo-bilheteria.png"
+    "filmes-mais-caros-da-historia-custo-bilheteria.png",
+    "carrossel.json"
    ],
    "titulo": "Filmes mais caros da história: quanto custaram e se deram lucro",
    "data": "2026-09-29 00:30"
@@ -14,7 +15,8 @@
    "slug": "fgc-como-funciona",
    "pasta": "artigos/2026-09-29/fgc-como-funciona",
    "arquivos": [
-    "fgc-como-funciona.md"
+    "fgc-como-funciona.md",
+    "carrossel.json"
    ],
    "titulo": "FGC: como funciona a garantia de até R$ 250 mil",
    "data": "2026-09-29 00:40"
@@ -33,11 +35,12 @@
    "slug": "filme-de-maior-bilheteria-da-historia",
    "pasta": "artigos/2026-09-29/filme-de-maior-bilheteria-da-historia",
    "arquivos": [
-    "filme-de-maior-bilheteria-da-historia.md"
+    "filme-de-maior-bilheteria-da-historia.md",
+    "carrossel.json"
    ],
    "titulo": "Filme de maior bilheteria da história: como Avatar chegou lá",
    "data": "2026-09-29 01:20"
   }
  ],
- "atualizado": "2026-09-29 02:23"
+ "atualizado": "2026-09-29 02:28"
 }

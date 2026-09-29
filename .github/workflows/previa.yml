@@ -1,0 +1,26 @@
+name: Baixar fotos para prévia
+on:
+  push:
+    branches: [main]
+    paths: ['previa/baixar.txt']
+permissions:
+  contents: write
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar
+        run: |
+          mkdir -p previa/fotos
+          while read -r nome url; do
+            [ -z "$nome" ] && continue
+            curl -sL -A "Mozilla/5.0 ResenhaRentavel/1.0" -m 60 "$url" -o "previa/fotos/$nome" || true
+          done < previa/baixar.txt
+          ls -la previa/fotos
+      - name: Salvar
+        run: |
+          git config user.name "Resenha Rentável"
+          git config user.email "pietro468@users.noreply.github.com"
+          git add previa/fotos
+          git diff --cached --quiet || (git commit -m "Fotos para prévia" && git push)

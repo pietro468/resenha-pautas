@@ -26,12 +26,19 @@ def front(txt):
             meta[mm.group(1).lower()] = v
     return meta, txt[m.end():]
 
+FOCO = re.compile(r'^\s*\d+(\.\d+)?\s*,\s*\d+(\.\d+)?\s*(,\s*[123](\.\d+)?\s*)?$')
+def foco_ruim(car):
+    """confere capa_foco e foco dos slides ("x,y" ou "x,y,zoom")"""
+    vals = [car.get("capa_foco")] + [sl.get("foco") for sl in car.get("slides", []) if isinstance(sl, dict)]
+    return any(v not in (None, "") and not FOCO.match(str(v)) for v in vals)
+
 def slugs_da_linha():
     p = os.path.join(RAIZ, 'linha-editorial.md')
     if not os.path.exists(p): return set()
     return set(re.findall(r'\|\s*[^|\n]+\|\s*([a-z0-9][a-z0-9-]+)\s*\|\s*$', open(p, encoding='utf-8').read(), re.M))
 
 def main():
+    if os.path.isdir('previa'): print("AVISO: apague a pasta previa/ antes do commit (git rm -r previa)")
     idx = json.load(open(INDEX, encoding='utf-8')) if os.path.exists(INDEX) else {"artigos": []}
     ja = {a["slug"]: a for a in idx.get("artigos", [])}
     antigos = slugs_da_linha()
@@ -91,6 +98,7 @@ def main():
                 ctxt = json.dumps(car, ensure_ascii=False)
                 if '\u2014' in ctxt or '\u2013' in ctxt or '—' in ctxt or '–' in ctxt: e.append("carrossel.json tem travessão ou meia-risca")
                 if car.get("estilo") != "frase": e.append('carrossel.json sem "estilo": "frase" (o gancho da capa sai sempre em frase normal, ver instagram.md)')
+                if foco_ruim(car): e.append('carrossel.json: capa_foco/foco fora do formato "x,y" ou "x,y,zoom" (ver instagram.md)')
                 if not car.get("gancho"): e.append("carrossel.json sem gancho")
                 elif len(car["gancho"]) > 95: e.append("gancho do carrossel com mais de 95 caracteres")
                 if car.get("formato", "carrossel") != "unico" and meta.get("data", "") >= "2026-09-29 13:00":  # regra de início, meio, fim e CTA
@@ -133,6 +141,7 @@ def main():
             for f in d.get("fotos", []):
                 if not f.get("url") or not f.get("credito") or not f.get("arquivo"): e.append("foto sem arquivo, url ou crédito")
             car = d.get("carrossel") or {}
+            if foco_ruim(car): e.append('capa_foco/foco fora do formato "x,y" ou "x,y,zoom"')
             if not car.get("gancho"): e.append("carrossel sem gancho")
             elif len(car["gancho"]) > 95: e.append("gancho com mais de 95 caracteres")
             if not car.get("legenda"): e.append("carrossel sem legenda")

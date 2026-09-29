@@ -1,7 +1,22 @@
 {
-  "leia": "Para postar de novo no Instagram um post que já saiu: acrescente um item com id novo (nunca repita um id), o slug e o horário de Brasília a partir do qual pode sair. O site confere este arquivo a cada busca.",
+  "leia": "Para postar de novo no Instagram um post que já saiu: acrescente um item com id novo (nunca repita um id), o slug e o horário de Brasília a partir do qual pode sair. O site confere este arquivo a cada busca. Para trocar a foto de capa (no site e no Instagram) antes de postar de novo, use \"materia\" no lugar de \"slug\" e acrescente \"capa_url\" (link direto da foto) e \"capa_credito\".",
   "posts": [
-    {"id": "2026-09-29-ira", "slug": "guerra-do-ira", "depois": "2026-09-29 09:30"},
-    {"id": "2026-09-29-jobs", "slug": "steve-jobs", "depois": "2026-09-29 10:30"}
+    {
+      "id": "2026-09-29-ira",
+      "slug": "guerra-do-ira",
+      "depois": "2026-09-29 09:30"
+    },
+    {
+      "id": "2026-09-29-jobs",
+      "slug": "steve-jobs",
+      "depois": "2026-09-29 10:30"
+    },
+    {
+      "id": "2026-09-29-starship-capa",
+      "materia": "starship-em-orbita",
+      "depois": "2026-09-29 20:00",
+      "capa_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Starship_lifted_off_from_Starbase_during_flight_test_11.jpg",
+      "capa_credito": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0)"
+    }
   ]
 }

@@ -1,4 +1,0 @@
-c1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Starship_lifted_off_from_Starbase_during_flight_test_11.jpg/960px-Starship_lifted_off_from_Starbase_during_flight_test_11.jpg
-c2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/We_are_GO_FLIGHT%21_%2854063904509%29.jpg/960px-We_are_GO_FLIGHT%21_%2854063904509%29.jpg
-c3.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Starship_5_Booster_Landing_on_Mechzilla.jpg/960px-Starship_5_Booster_Landing_on_Mechzilla.jpg
-c4.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Afterglow_of_SpaceX_IFT-5_%2854063834273%29.jpg/960px-Afterglow_of_SpaceX_IFT-5_%2854063834273%29.jpg

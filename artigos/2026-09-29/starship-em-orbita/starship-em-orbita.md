@@ -10,8 +10,8 @@ slug: "starship-em-orbita"
 tags: ["Starship", "SpaceX", "Starlink", "internet via satélite", "Elon Musk"]
 youtube: ""
 capa: "starship-em-orbita-capa.jpg"
-capa_url: "https://live.staticflickr.com/65535/54063581561_12954744b7_b.jpg"
-capa_credito: "Steve Jurvetson (CC BY 2.0)"
+capa_url: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Starship_lifted_off_from_Starbase_during_flight_test_11.jpg"
+capa_credito: "Shujianyang/Wikimedia Commons (CC BY-SA 4.0)"
 pessoa: ""
 busca_imagem: "SpaceX Starship rocket launch"
 imagens:
@@ -69,4 +69,4 @@ A SpaceX prepara a nave para um teste da NASA previsto para o ano que vem, dentr
 
 Em resumo, o 14º voo mostrou que a Starship chega à órbita e entrega carga, que era o que faltava. A falha no motor lembra que o foguete ainda está em fase de testes. Mesmo assim, o caminho para a nova geração da Starlink ficou aberto.
 
-*Foto de capa: Steve Jurvetson (CC BY 2.0)*
+*Foto de capa: Shujianyang/Wikimedia Commons (CC BY-SA 4.0)*

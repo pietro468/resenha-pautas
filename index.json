@@ -1,4 +1,15 @@
 {
- "artigos": [],
- "atualizado": "2026-09-29 00:14"
+ "artigos": [
+  {
+   "slug": "filmes-mais-caros-da-historia",
+   "pasta": "artigos/2026-09-29/filmes-mais-caros-da-historia",
+   "arquivos": [
+    "filmes-mais-caros-da-historia.md",
+    "filmes-mais-caros-da-historia-custo-bilheteria.png"
+   ],
+   "titulo": "Filmes mais caros da história: quanto custaram e se deram lucro",
+   "data": "2026-09-29 00:30"
+  }
+ ],
+ "atualizado": "2026-09-29 00:23"
 }

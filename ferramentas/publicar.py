@@ -110,6 +110,14 @@ def main():
         if slug not in ja: novos.append(item)
         ja[slug] = item
     idx["artigos"] = sorted(ja.values(), key=lambda a: (a.get("data", ""), a["slug"]))
+    # títulos: no máximo 1 em cada 3 com dois-pontos no mesmo dia (vale a partir de 30/09/2026)
+    dias = {}
+    for a in idx["artigos"]:
+        if a.get("data", "") >= "2026-09-30": dias.setdefault(a["data"][:10], []).append(a)
+    for d, arts in dias.items():
+        c = [a["titulo"] for a in arts if ":" in a["titulo"]]
+        if len(c) > max(1, len(arts) // 3):
+            erros.append(f"{d}: títulos demais com dois-pontos ({len(c)} de {len(arts)}). Reescreva com outra estrutura (ver regra do título na linha editorial): " + " | ".join(c))
     idx["atualizado"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     for a in avisos: print("AVISO:", a)
     if erros:

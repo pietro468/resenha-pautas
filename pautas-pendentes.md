@@ -4,9 +4,9 @@ Arquivo de trabalho para o Claude que vai escrever os artigos restantes do resen
 
 São 86 pautas, numeradas na ordem em que devem sair: as mais urgentes e ligadas a datas vêm primeiro. Todas são assinadas pela Redação e publicadas no mesmo dia em que forem escritas.
 
-Regras que valem para todas: nunca usar travessão nem meia-risca; frase-chave exata no começo do título, na primeira frase, na meta descrição, no slug, em pelo menos 2 intertítulos e no alt de uma imagem; pelo menos 2 links externos e 2 internos; tags obrigatórias; checagem profunda de todo número e data antes de escrever (os dados abaixo são o ponto de partida, não substituem a checagem, e fatos de 2026 precisam ser confirmados nas notícias do dia).
+Regras que valem para todas: nunca usar travessão nem meia-risca; frase-chave no título (numa frase natural), na primeira frase, na meta descrição, no slug, em pelo menos 2 intertítulos e no alt de uma imagem; pelo menos 2 links externos e 2 internos; tags obrigatórias; checagem profunda de todo número e data antes de escrever (os dados abaixo são o ponto de partida, não substituem a checagem, e fatos de 2026 precisam ser confirmados nas notícias do dia).
 
-Os títulos abaixo são a sugestão aprovada. Pode ajustar a redação se uma busca mostrar formulação melhor, mantendo a frase-chave no começo.
+Os títulos abaixo são só ponto de partida. Muitos seguem o padrão "Palavra-chave: frase", que virou vício: reescreva o título seguindo a regra de título da linha editorial (estrutura variada, no máximo 1 em cada 3 com dois-pontos), mantendo a frase-chave dentro do título e o slug sugerido.
 
 Links internos: use só slugs que já estejam publicados. Se um slug sugerido ainda estiver nesta lista de pendentes, troque por outro já publicado da lista abaixo.
 

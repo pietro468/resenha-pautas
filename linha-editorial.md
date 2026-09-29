@@ -191,6 +191,16 @@ Temas atemporais que o público sempre busca e que combinam com o canal. Escolha
 - **Tamanho:** 800 a 1.100 palavras de corpo. Notícia simples pode ter 700.
 - **Primeiro parágrafo:** a primeira frase contém a frase-chave e já responde a pergunta. As primeiras 50 palavras devem funcionar sozinhas como resposta (é o trecho que o Google puxa para o destaque).
 - **Segundo parágrafo:** contexto e por que o assunto importa agora.
+- **Título: varie a estrutura.** O padrão "Palavra-chave: frase" (ex.: "FGC: como funciona a garantia") virou vício e deixa o site com cara de texto feito por robô. Use no máximo 1 título com dois-pontos a cada 3 artigos do dia (confira os de hoje em `artigos/AAAA-MM-DD/`). A frase-chave precisa estar no título, de preferência na primeira metade, mas dentro de uma frase natural. Estruturas que funcionam nos grandes portais e também no Google:
+  - **Frase de notícia, sujeito + verbo + fato:** "Novo submarino da Marinha passa por teste antes de entrar em operação"; "Brasil bate recorde de população ocupada e de inadimplência".
+  - **Personagem + o que aconteceu com ele:** "Homem que ficou 40 anos no corredor da morte nos EUA é libertado após DNA".
+  - **Contexto + fato:** "Em meio ao Caso Master, Fachin defende transparência em precatórios".
+  - **Número no título:** "Mais de 5 milhões dos consumidores de delivery pertencem à Geração Z".
+  - **Empresa ou pessoa + verbo forte:** "Magalu transforma a experiência do consumidor por meio do WhatsApp".
+  - **Pergunta direta que o leitor faria ao Google:** "Em quem votar?", "Quem é a mulher que pode ser executada no Tennessee".
+  - **Explicativo sem dois-pontos:** "Como o Steve Jobs perdeu a Apple e voltou para salvá-la"; "Por que o diesel ficou mais caro com a guerra do Irã".
+  - **Dois-pontos, quando for mesmo o melhor:** "AtlasIntel: Flávio Bolsonaro tem 47,7% em segundo turno" (fonte ou nome forte + dado).
+  Verbo no presente para notícia, sem ponto final, sem exagero, até 65 caracteres.
 - **Intertítulos:** 5 a 7, com `## `, em forma de pergunta que as pessoas fazem ao Google ("Quanto ganha...?", "O que muda...?", "Como funciona...?"). No máximo 300 palavras entre um intertítulo e outro. Pelo menos 2 intertítulos com a frase-chave ou uma variação natural.
 - **Resumo no fim (seção "## Resumo" em tópicos): raro, não é padrão.** Só em explicativo com muitos números, prazos ou passos que o leitor quer conferir depois (regras de saque, mudança de imposto, guerra e preços). Nunca em biografia, história, ranking, cinema ou texto de opinião. No máximo 1 por dia: antes de usar, confira os artigos de hoje em `artigos/AAAA-MM-DD/`.
 - **Evite vícios de estrutura:** não repita o mesmo esqueleto, a mesma abertura ou o mesmo fechamento em matérias seguidas. Cada texto termina do jeito que faz sentido para ele (um fato final, uma consequência, um link para outra matéria), nunca com a mesma fórmula.
@@ -246,7 +256,7 @@ Faça um infográfico quando o artigo tiver comparação (A x B), linha do tempo
 
 Frase-chave:
 - [ ] Frase-chave definida a partir de como as pessoas digitam no Google (curta, em minúsculas).
-- [ ] Frase-chave exata no começo do título.
+- [ ] Frase-chave no título, de preferência na primeira metade, numa frase natural (estrutura variada, ver regra do título).
 - [ ] Na primeira frase do texto.
 - [ ] Na meta descrição.
 - [ ] No slug.
@@ -255,7 +265,7 @@ Frase-chave:
 - [ ] Densidade entre 0,5% e 2,5% (em 1.000 palavras, de 5 a 12 vezes, sem forçar).
 
 Título, meta e slug:
-- [ ] Título com até 65 caracteres (ideal até 60), com gancho depois da frase-chave.
+- [ ] Título com até 65 caracteres (ideal até 60), com estrutura diferente dos outros títulos do dia (no máximo 1 em cada 3 com dois-pontos).
 - [ ] Meta descrição de 120 a 155 caracteres, começando pela frase-chave ou pela pergunta.
 - [ ] Slug curto, só com a palavra-chave, sem ano quando o tema for atemporal.
 
@@ -318,7 +328,7 @@ imagens:
 ```
 
 Regras dos campos:
-- `titulo`: até 65 caracteres, frase-chave no começo.
+- `titulo`: até 65 caracteres, frase-chave dentro de uma frase natural (veja a regra do título: varie a estrutura).
 - `subtitulo`: uma ou duas frases que dão vontade de ler, sem repetir o título.
 - `data`: formato `AAAA-MM-DD HH:MM`, horário de Brasília.
 - `categoria`: uma das 8 da seção 3, escrita exatamente igual (com acento).

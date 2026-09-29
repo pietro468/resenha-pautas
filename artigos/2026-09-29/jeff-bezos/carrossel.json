@@ -17,7 +17,8 @@
       "tipo": "texto",
       "titulo": "A garagem",
       "texto": "Ele não queria chegar aos 80 arrependido de **não ter tentado**.\n\nA Amazon nasceu numa garagem, vendendo livros. Os pais puseram ==US$ 245 mil== no negócio.\n\nMas o lucro demorou.",
-      "fonte": "CNBC e Amazon"
+      "fonte": "CNBC e Amazon",
+      "foto": "jeff-bezos-2017.jpg"
     },
     {
       "tipo": "numero",

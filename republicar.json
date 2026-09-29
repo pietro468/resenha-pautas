@@ -29,6 +29,12 @@
       "materia": "fraude-do-inss",
       "depois": "2026-09-29 20:15",
       "refazer": true
+    },
+    {
+      "id": "2026-09-29-bezos-refazer-2",
+      "materia": "jeff-bezos",
+      "depois": "2026-09-29 19:30",
+      "refazer": true
     }
   ]
 }

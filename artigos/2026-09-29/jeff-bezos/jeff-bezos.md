@@ -35,6 +35,10 @@ imagens:
     url: "https://upload.wikimedia.org/wikipedia/commons/3/33/Jeff_Bezos_2016.jpg"
     credito: "Departamento de Defesa dos EUA/Wikimedia Commons (CC BY 2.0)"
     legenda: "Jeff Bezos em 2016"
+  - arquivo: "jeff-bezos-2017.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Jeff_Bezos_talking.jpg"
+    credito: "Van Ha/Força Aérea dos EUA (domínio público)"
+    legenda: "Jeff Bezos em 2017"
 ---
 
 Jeff Bezos fundou a Amazon em 1994, numa garagem nos arredores de Seattle, como uma livraria na internet. Três décadas depois, a empresa virou uma das maiores do planeta, e o fundador acumula US$ 367 bilhões, a segunda maior fortuna do mundo, segundo a [Forbes](https://www.forbes.com/profile/jeff-bezos/) em 29 de setembro de 2026. A maior parte vem dos cerca de 8% que ele ainda tem da Amazon; outra fatia grande vem da Blue Origin, a empresa de foguetes que ele criou em 2000.

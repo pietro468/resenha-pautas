@@ -19,7 +19,19 @@ A capa decide se a pessoa arrasta ou passa reto. Ela é sempre: foto da matéria
 
 **Foto:** a capa usa a foto de capa da matéria (`"capa": "capa"`). Se outra foto da matéria for mais forte (um rosto conhecido, uma cena marcante, algo que explica a notícia sozinho), use o nome do arquivo dela. Por isso, escolha a foto de capa do artigo já pensando no Instagram: pessoa reconhecível, emoção, cena icônica. Evite foto genérica, prédio sem graça ou pessoa de costas.
 
-**Gancho:** NÃO é o título do site (que é feito para o Google). É uma frase de 7 a 14 palavras, no máximo 95 caracteres, que faz a pessoa querer saber o resto. Escreva 3 opções, de tipos diferentes, e fique com a mais forte.
+**Gancho:** NÃO é o título do site (que é feito para o Google). É a frase que faz a pessoa **parar de rolar o feed**. De 6 a 14 palavras, no máximo 95 caracteres. Escreva **5 opções**, de tipos diferentes, e fique com a mais forte pelo teste abaixo.
+
+**Teste do gancho (pedido do Pietro: o gancho precisa ser muito chamativo).** Antes de escolher, responda: se essa frase aparecesse no feed de alguém que nunca ouviu falar do assunto, a pessoa pararia para ler? O gancho forte tem pelo menos uma destas coisas:
+- **Contradição ou surpresa:** algo que parece não fazer sentido. "O Brasil nunca teve tanto emprego. E nunca teve tanta conta atrasada"
+- **Você no centro:** mostra o efeito na vida de quem lê. "Seu salário já chega pela metade no fim do mês"
+- **Número que choca, concreto:** "R$ 29 de cada R$ 100 do seu salário já são do banco"
+- **Segredo ou bastidor:** "O dinheiro de Steve Jobs não veio da Apple"
+- **Perda, risco ou conflito:** "Quem tem carteira assinada também está atrasando as contas"
+- **Pergunta que a pessoa quer ver respondida:** "Por que o diesel sobe se o Brasil produz petróleo?"
+
+Gancho fraco, que não pode: frase que só descreve o fato em tom de relatório ("Emprego e inadimplência batem recorde"), palavra técnica, "Entenda", "Saiba", "Confira", nome de órgão no começo ("IBGE divulga...", "Banco Central informa..."), e frases longas com vírgula. Compare:
+- Fraco: "Emprego e inadimplência batem recorde no Brasil". Forte: "Nunca teve tanta gente trabalhando no Brasil. Então por que tanta conta atrasada?"
+- Fraco: "Steve Jobs: como criou a Apple". Forte: "Steve Jobs foi demitido da própria empresa e ficou bilionário fora dela"
 
 O gancho **não precisa ser a matéria em si**. Muitas vezes o melhor gancho é um ângulo lateral, algo do dia a dia do leitor ligado ao assunto, e o carrossel leva até a matéria. Exemplo: numa matéria sobre inflação, em vez de "Inflação de 2026 fica em X%", o gancho "O que dava pra comprar com R$ 50 em 2000 e o que dá hoje?", com os slides comparando produto por produto. Tipos de gancho, para alternar:
 - **Ângulo lateral e concreto:** uma pergunta do dia a dia que a matéria responde ("O que dava pra comprar com R$ 50 em 2000 x 2026?").
@@ -34,6 +46,15 @@ O gancho **não precisa ser a matéria em si**. Muitas vezes o melhor gancho é 
 Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que o texto não cumpre), sem travessão, sem ponto final, sem clickbait mentiroso, neutro em política. O gancho da capa sai sempre em **frase normal** (fonte Plex em negrito, não em caixa alta), no carrossel e na imagem única: o Pietro achou mais fácil de ler. Por isso, **todo carrossel.json leva `"estilo": "frase"`**. Os títulos dos slides de dentro continuam na Brim.
 
 **Chamada:** 2 a 5 palavras em cima do gancho. No carrossel promete continuação ("DESLIZE PARA VER", "ENTENDA", "VEJA OS NÚMEROS", "VEJA O RANKING"); na imagem única dá o contexto ("URGENTE:", "AGORA:", "ÀS VÉSPERAS DO 1º TURNO:").
+
+## Linguagem simples em todos os slides e na legenda
+
+O Instagram é lido rápido, no celular, por gente que não entende de economia. Escreva como quem explica para um amigo no WhatsApp:
+- **Palavra do dia a dia no lugar da técnica:** "conta atrasada" ou "calote" em vez de inadimplência; "gente trabalhando" em vez de população ocupada; "o que sobra do salário" em vez de comprometimento de renda; "juros" em vez de spread; "subiu 1 ponto" em vez de "1 p.p.". Se precisar do termo técnico, explique na mesma frase.
+- **Frases curtas:** no máximo umas 15 palavras cada, uma ideia por frase. No máximo 30 palavras por slide.
+- **Um número por slide**, e sempre traduzido para algo concreto: "6% do crédito atrasado" vira "de cada R$ 100 emprestados às famílias, R$ 6 estão atrasados".
+- **Títulos dos slides também simples e com gancho:** "Por que isso acontece?", "E o seu bolso?", "O problema dos juros", em vez de "Contexto" ou "Dados do Banco Central".
+- Antes de enviar, leia cada slide e pergunte: um adolescente de 15 anos entenderia de primeira? Se não, reescreva.
 
 ## Variedade: o que alternar
 

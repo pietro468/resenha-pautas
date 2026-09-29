@@ -129,7 +129,7 @@ def main():
             txt = json.dumps(d, ensure_ascii=False)
             if '\u2014' in txt or '\u2013' in txt or '—' in txt or '–' in txt: e.append("tem travessão ou meia-risca")
             if not re.match(r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$', d.get("data", "")): e.append("data fora do formato AAAA-MM-DD HH:MM")
-            if not d.get("fotos"): e.append("sem fotos")
+            if not d.get("fotos") and (d.get("carrossel") or {}).get("capa_estilo") != "frase_do_dia": e.append("sem fotos")
             for f in d.get("fotos", []):
                 if not f.get("url") or not f.get("credito") or not f.get("arquivo"): e.append("foto sem arquivo, url ou crédito")
             car = d.get("carrossel") or {}

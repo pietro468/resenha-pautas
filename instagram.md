@@ -163,7 +163,7 @@ Regras: a capa usa sempre `"capa_estilo": "hoje"` (foto em tela cheia em preto e
 
 ## Frase do dia (post só do Instagram, 1 por dia)
 
-Uma imagem só (sem carrossel): foto da pessoa em tela cheia, degradê verde-escuro embaixo, aspas grandes em verde, a frase em branco, o nome da pessoa em verde e, embaixo, o que ela é. Sai todo dia às 13:00.
+Uma imagem só, sem foto: **o centro é a frase**. Fundo creme, faixa verde-escura na lateral, aspas gigantes em verde-claro ao fundo, "FRASE DO DIA" no canto, a frase grande em verde-escuro (`==trecho==` sai em verde médio, use no trecho mais forte), e embaixo o nome da pessoa e o que ela é. Sai todo dia às 13:00.
 
 Arquivo: `instagram/AAAA-MM-DD/frase-SLUG/post.json`. Modelo:
 
@@ -171,18 +171,20 @@ Arquivo: `instagram/AAAA-MM-DD/frase-SLUG/post.json`. Modelo:
 {
   "titulo": "Frase do dia: Warren Buffett e a maré",
   "data": "2026-09-30 13:00",
-  "fotos": [{"arquivo": "frase-buffett-2015.jpg", "url": "link direto da foto livre", "credito": "Autor/Acervo (licença)"}],
+  "fotos": [],
   "carrossel": {
     "formato": "unico", "estilo": "frase", "capa": "capa", "capa_estilo": "frase_do_dia",
-    "gancho": "a frase, igual ao campo frase",
-    "frase": "Só quando a maré baixa você descobre quem estava nadando pelado.",
+    "gancho": "a frase, sem os ==",
+    "frase": "Só quando a maré baixa você descobre quem estava ==nadando pelado==.",
     "autor": "Warren Buffett",
     "cargo": "Investidor, comandou a Berkshire Hathaway por 60 anos",
-    "legenda": "\"A frase.\" Autor\n\nDe onde veio a frase e o que ela quer dizer, em 2 ou 3 frases simples.\n\nQuem é a pessoa, em 1 ou 2 frases.\n\n(Foto: ...)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+    "legenda": "..."
   }
 }
 ```
 
-Regras: frase curta (até umas 25 palavras), traduzida para um português natural; frase real e confirmada, com a origem dita na legenda; tema de dinheiro, trabalho, negócios, risco, disciplina ou carreira; `cargo` curto (até umas 8 palavras), dizendo o que a pessoa é ou fez; foto de rosto da pessoa, com espaço acima do peito para o texto; sem travessão; nunca frase do Pietro, do Pedro, de político em atividade ou de gente polêmica; não repetir a mesma pessoa em 7 dias.
+**A legenda explica a frase** (é o que dá valor ao post): 1) a frase entre aspas e o autor; 2) "O que ele quis dizer", em linguagem simples; 3) um exemplo real ou do dia a dia; 4) "A lição para o seu bolso", prática; 5) uma frase sobre quem é a pessoa; 6) "Siga o @resenharentavel...". Sem travessão.
 
-**Posição do texto em todos os posts:** o texto fica na metade de baixo da imagem, mas nunca encostado na borda: termina a uns 240 px do fim (o site já faz isso sozinho). Na capa "Hoje na história", o gancho é curto (até umas 10 palavras) e o destaque `==...==` vai no **nome da pessoa**; a capa só fica em preto e branco quando a data é de morte (`"luto": true`); nas outras datas, colorida.
+Regras: frase curta (até umas 25 palavras), em português natural; frase real e confirmada numa fonte confiável; tema de dinheiro, trabalho, negócios, risco, disciplina ou carreira; `cargo` curto; nunca frase do Pietro, do Pedro, de político em atividade ou de gente polêmica; não repetir a pessoa em 7 dias.
+
+**Posição do texto em todos os posts:** o texto fica na metade de baixo da imagem, mas nunca encostado na borda: termina a uns 240 px do fim (o site já faz isso sozinho). Na capa "Hoje na história", o selo mostra só "HOJE NA HISTÓRIA", o `ha` ("Há 15 anos") sai pequeno em cima do gancho, o gancho é curto (até umas 10 palavras) e o destaque `==...==` vai no **nome da pessoa**; a capa só fica em preto e branco quando a data é de morte (`"luto": true`); nas outras datas, colorida.

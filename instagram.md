@@ -37,21 +37,20 @@ Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que
 
 ## Os slides de dentro
 
-De 3 a 8 slides depois da capa. Cada slide tem **uma ideia** e cabe numa olhada: no máximo uns 45 palavras. Tipos:
+De 3 a 8 slides depois da capa. O último slide é conteúdo, como no concorrente: **não** faça slide de "leia no link da bio". Cada slide tem **uma ideia** e cabe numa olhada: no máximo uns 45 palavras. Tipos:
 
 - `"texto"`: título curto em verde + texto. Use `==Rótulo:==` para os rótulos em verde e `**trecho**` para destacar em negrito. Parágrafos separados por linha em branco. Bom para "O que diz / O que muda / Quem ganha / O que falta".
 - `"numero"`: um número gigante + uma frase explicando. Use quando existe um dado que choca.
 - `"ranking"`: `"posicao": "10º"`, `"nome"`, `"detalhe"` e a foto da pessoa ou coisa. Um item por slide.
 - `"foto"`: só a foto (com `"texto"` opcional curto embaixo). Bom quando o assunto é visual.
-- `"final"`: slide de fechamento com o símbolo do Resenha, "Matéria completa no link da bio" e o @. Use sempre como último.
 
 Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
 
 Formatos por tipo de matéria:
-- **Notícia:** capa + 3 a 5 slides de texto ("O que aconteceu", "O que muda para você", "Próximos passos") + final.
-- **Explicativo:** capa + um slide por item comparado, sempre com a mesma estrutura de rótulos + final.
-- **Ranking:** capa + um slide `ranking` por item + final.
-- **Biografia:** capa com o rosto da pessoa + 4 a 6 slides com as fases da vida e os números da fortuna (use as fotos da pessoa da matéria) + final.
+- **Notícia:** capa + 3 a 5 slides de texto ("O que aconteceu", "O que muda para você", "Próximos passos").
+- **Explicativo:** capa + um slide por item comparado, sempre com a mesma estrutura de rótulos.
+- **Ranking:** capa + um slide `ranking` por item.
+- **Biografia:** capa com o rosto da pessoa + 4 a 6 slides com as fases da vida e os números da fortuna (use as fotos da pessoa da matéria).
 
 ## Legenda
 
@@ -71,8 +70,7 @@ Carrossel:
   "capa": "capa",
   "slides": [
     {"tipo": "numero", "numero": "R$ 117 bi", "texto": "é quanto as apostas online podem tirar do comércio **por ano**, segundo a ==CNC== e o ==IDV==.", "foto": "proibicao-das-bets-varejo-supermercado.jpg", "fonte": "CNC e IDV, via Mercado & Consumo"},
-    {"tipo": "texto", "titulo": "O que diz a MP", "texto": "==Sites fora do ar:== até **6 de outubro**.\n\n==Saque do saldo:== até **5/10, às 23h59**.", "foto": "capa", "fonte": "Agência Senado"},
-    {"tipo": "final"}
+    {"tipo": "texto", "titulo": "O que diz a MP", "texto": "==Sites fora do ar:== até **6 de outubro**.\n\n==Saque do saldo:== até **5/10, às 23h59**.", "foto": "capa", "fonte": "Agência Senado"}
   ],
   "legenda": "O fim das bets pode devolver ao comércio parte dos bilhões que iam para as apostas.\n\n..."
 }

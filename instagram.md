@@ -21,6 +21,11 @@ A capa decide se a pessoa arrasta ou passa reto. Ela é sempre: foto da matéria
 
 **Gancho:** NÃO é o título do site (que é feito para o Google). É a frase que faz a pessoa **parar de rolar o feed**. De 6 a 14 palavras, no máximo 95 caracteres. Escreva **5 opções**, de tipos diferentes, e fique com a mais forte pelo teste abaixo.
 
+**Primeiro teste, antes de tudo: dá para entender do que se trata?** Quem vê o post não leu a matéria e não sabe do caso. O gancho precisa dizer **o assunto** (quem ou o quê) com palavras que qualquer pessoa reconhece: INSS, aposentados, Petrobras, Neymar, Pix, aluguel. Leia o gancho sozinho, sem a foto e sem a matéria: se alguém perguntaria "sair de onde?", "quem?", "do que você está falando?", ele está confuso e precisa ser reescrito.
+- Confuso: "R$ 6,3 bilhões saíram da aposentadoria de quem nunca assinou nada" (não diz que é o INSS, nem o que "saíram" quer dizer).
+- Claro e chamativo: "Aposentados perderam ==R$ 6,3 bilhões== em descontos do INSS que nunca autorizaram"; "Descontos falsos no INSS tiraram ==R$ 6,3 bilhões== de aposentados"
+- Número e mistério só funcionam **junto** com o assunto, nunca no lugar dele.
+
 **Teste do gancho (pedido do Pietro: o gancho precisa ser muito chamativo).** Antes de escolher, responda: se essa frase aparecesse no feed de alguém que nunca ouviu falar do assunto, a pessoa pararia para ler? O gancho forte tem pelo menos uma destas coisas:
 - **Contradição ou surpresa:** algo que parece não fazer sentido. "O Brasil nunca teve tanto emprego. E nunca teve tanta conta atrasada"
 - **Você no centro:** mostra o efeito na vida de quem lê. "Seu salário já chega pela metade no fim do mês"

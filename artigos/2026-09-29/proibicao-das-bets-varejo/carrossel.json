@@ -1,0 +1,37 @@
+{
+  "gancho": "Fim das bets pode devolver até R$ 117 bilhões por ano ao comércio",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "R$ 117 bi",
+      "texto": "é quanto as apostas online podem tirar do comércio brasileiro **por ano**, segundo estimativa da ==CNC== e do ==IDV==.",
+      "foto": "proibicao-das-bets-varejo-supermercado.jpg",
+      "fonte": "CNC e IDV, via Mercado & Consumo"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O que diz a MP",
+      "texto": "==Sites fora do ar:== até **6 de outubro**.\n\n==Saque do saldo:== o apostador pode sacar até **5/10, às 23h59**. Depois, os bancos devolvem o dinheiro em até 7 dias.\n\n==Validade:== a MP já vale, mas o Congresso tem **120 dias** para aprovar.",
+      "foto": "capa",
+      "fonte": "MP 1.394/2026, Agência Senado"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Quem sente primeiro",
+      "texto": "==Supermercados e atacarejos:== o dinheiro da aposta saía do orçamento do mês.\n\n==Farmácias:== o consumo essencial reage mais rápido.\n\n==Roupas e eletrônicos:== o efeito tende a ser mais lento.",
+      "foto": "proibicao-das-bets-varejo-supermercado.jpg",
+      "fonte": "Levante, Nomus e Sinter Futura, via CNN Brasil e InfoMoney"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O que pode frear",
+      "texto": "==Juros altos:== muitas famílias vão usar a folga para **pagar dívidas** antes de voltar às compras.\n\n==Bets ilegais:== parte do dinheiro pode migrar para sites clandestinos.\n\n==Justiça:== as 85 empresas licenciadas pagaram **R$ 30 milhões** cada e prometem contestar.",
+      "foto": "capa",
+      "fonte": "BTG Pactual, Finscale e Mercado & Consumo"
+    },
+    { "tipo": "final" }
+  ],
+  "legenda": "O fim das bets pode devolver ao comércio parte dos bilhões que os brasileiros gastavam em apostas.\n\nA Medida Provisória 1.394/2026, publicada em 25 de setembro, proíbe as apostas de quota fixa no país. Os sites precisam sair do ar até 6 de outubro, e o apostador pode sacar o saldo até as 23h59 do dia 5.\n\nSegundo a CNC e o IDV, as apostas online podem tirar até R$ 117 bilhões por ano do comércio. Para analistas, supermercados, atacarejos e farmácias devem ser os primeiros a sentir a volta desse dinheiro.\n\nMas há freios: juros altos, famílias endividadas e o risco de migração para sites ilegais. As 85 empresas licenciadas também prometem ir à Justiça.\n\nA matéria completa está no link da bio.\n\n(Fotos: Marcos Oliveira/Agência Senado)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

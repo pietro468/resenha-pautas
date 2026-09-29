@@ -83,6 +83,24 @@ def main():
         if e:
             erros += [f"{rel}: {x}" for x in e]; continue
         arquivos = [os.path.basename(md)] + sorted(f for f in os.listdir(os.path.dirname(md)) if f.lower().endswith(IMG_EXT))
+        cj = os.path.join(os.path.dirname(md), 'carrossel.json')
+        if os.path.exists(cj):
+            arquivos.append('carrossel.json')
+            try:
+                car = json.load(open(cj, encoding='utf-8'))
+                ctxt = json.dumps(car, ensure_ascii=False)
+                if '\u2014' in ctxt or '\u2013' in ctxt or '—' in ctxt or '–' in ctxt: e.append("carrossel.json tem travessão ou meia-risca")
+                if not car.get("gancho"): e.append("carrossel.json sem gancho")
+                elif len(car["gancho"]) > 95: e.append("gancho do carrossel com mais de 95 caracteres")
+                if len(car.get("slides", [])) > 9: e.append("carrossel com mais de 9 slides além da capa (limite do Instagram é 10)")
+                if len(car.get("legenda", "")) > 2100: e.append("legenda do carrossel com mais de 2100 caracteres")
+                if not car.get("legenda"): e.append("carrossel.json sem legenda")
+            except Exception as ex:
+                e.append(f"carrossel.json inválido ({ex})")
+        else:
+            avisos.append(f"{rel}: sem carrossel.json (o post não vai para o Instagram)")
+        if e:
+            erros += [f"{rel}: {x}" for x in e]; continue
         item = {"slug": slug, "pasta": pasta, "arquivos": arquivos, "titulo": meta["titulo"], "data": meta["data"]}
         if slug not in ja: novos.append(item)
         ja[slug] = item

@@ -50,7 +50,27 @@
    ],
    "titulo": "Golpe do falso advogado: como funciona e como não cair",
    "data": "2026-09-29 03:15"
+  },
+  {
+   "slug": "steve-jobs",
+   "pasta": "artigos/2026-09-29/steve-jobs",
+   "arquivos": [
+    "steve-jobs.md",
+    "carrossel.json"
+   ],
+   "titulo": "Steve Jobs: como criou a Apple, perdeu tudo e voltou",
+   "data": "2026-09-29 03:50"
+  },
+  {
+   "slug": "guerra-do-ira",
+   "pasta": "artigos/2026-09-29/guerra-do-ira",
+   "arquivos": [
+    "guerra-do-ira.md",
+    "carrossel.json"
+   ],
+   "titulo": "Guerra do Irã: por que o conflito em Ormuz afeta o seu bolso",
+   "data": "2026-09-29 03:52"
   }
  ],
- "atualizado": "2026-09-29 03:28"
+ "atualizado": "2026-09-29 03:47"
 }

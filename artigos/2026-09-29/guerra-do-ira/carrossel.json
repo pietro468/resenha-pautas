@@ -1,0 +1,46 @@
+{
+  "formato": "carrossel",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "estilo": "frase",
+  "gancho": "Por que uma guerra do outro lado do mundo deixou o ==diesel== mais caro no Brasil?",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "20%",
+      "texto": "do petróleo consumido no mundo passava pelo **Estreito de Ormuz**, a rota que o Irã fechou em julho.",
+      "foto": "capa",
+      "fonte": "EIA"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O que aconteceu",
+      "texto": "==Fevereiro:== EUA e Israel atacam o Irã, que revida com mísseis e drones.\n\n==Julho:== o Irã anuncia o fechamento de Ormuz.\n\n==Setembro:== o governo americano rejeita a proposta iraniana de reabrir o estreito, e o Brent passa dos **US$ 100**.",
+      "foto": "capa",
+      "fonte": "Agência Brasil e Al Jazeera"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "Diesel S10 nos postos",
+      "esquerda": {"rotulo": "Antes da guerra", "valor": "R$ 6,22", "detalhe": "fevereiro de 2026"},
+      "direita": {"rotulo": "Agora", "valor": "R$ 7,33", "detalhe": "fim de setembro"},
+      "texto": "O Brasil importa de **20% a 30%** do diesel que consome, e esse diesel segue o preço lá de fora.",
+      "fonte": "ANP, via Reuters e Exame"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Como chega à comida",
+      "texto": "==Frete:== mais de 65% da carga viaja de caminhão, e o diesel é até **45%** do custo.\n\n==Adubo:== o Brasil importa até **90%** dos fertilizantes, e o Golfo é grande fornecedor de ureia.",
+      "foto": "capa",
+      "fonte": "Exame e InfoMoney"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que o governo fez",
+      "texto": "Cortou tributos da gasolina e do diesel e paga **R$ 1 por litro** de subvenção ao diesel.\n\nO custo é de cerca de ==R$ 7 bilhões por mês==.",
+      "fonte": "Agência Brasil"
+    }
+  ],
+  "legenda": "A guerra do Irã chegou ao posto de gasolina brasileiro.\n\nPelo Estreito de Ormuz passava cerca de 20% do petróleo consumido no mundo. Desde julho, com o anúncio de fechamento pelo Irã, o tráfego caiu para perto de um sétimo do normal. No fim de setembro, o governo americano rejeitou uma proposta iraniana para reabrir a rota, e o barril do tipo Brent voltou a passar dos US$ 100.\n\nO Brasil importa de 20% a 30% do diesel que consome. Resultado: o diesel S10 chegou a R$ 7,33 nos postos, o maior valor desde abril, segundo a ANP.\n\nO efeito vai além do combustível. Mais de 65% da carga do país viaja de caminhão, e o Brasil importa até 90% dos fertilizantes que usa. Frete e adubo mais caros tendem a pressionar o preço da comida.\n\nPara segurar os preços, o governo cortou tributos e paga subvenção ao diesel, a um custo de cerca de R$ 7 bilhões por mês.\n\n(Foto: Punit Singh/Pexels)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

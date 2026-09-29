@@ -1,0 +1,59 @@
+{
+  "formato": "carrossel",
+  "chamada": "Veja a história",
+  "capa": "steve-jobs-macintosh-1984.jpg",
+  "capa_estilo": "dupla",
+  "capa_extra": "capa",
+  "rotulos": [
+    "1984",
+    "2010"
+  ],
+  "estilo": "frase",
+  "gancho": "Steve Jobs foi demitido da empresa que criou e ficou bilionário ==fora dela==",
+  "slides": [
+    {
+      "tipo": "foto_texto",
+      "foto": "steve-jobs-macintosh-1984.jpg",
+      "titulo": "A garagem",
+      "texto": "Em **1976**, aos 21 anos, Jobs fundou a Apple com Steve Wozniak na casa dos pais. Aos 25, depois da estreia na bolsa, já tinha mais de ==US$ 200 milhões==.",
+      "fonte": "Wikipédia e Cult of Mac"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "A demissão",
+      "texto": "Em **1985**, depois de brigar com o presidente da empresa e o conselho, Jobs perdeu o comando e saiu da Apple.\n\nVendeu quase todas as ações e fundou a ==NeXT==.",
+      "foto": "capa",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "numero",
+      "numero": "US$ 10 mi",
+      "texto": "foi quanto Jobs pagou em **1986** pelo estúdio que virou a ==Pixar==. Com Toy Story, em 1995, ele virou bilionário.",
+      "foto": "capa",
+      "fonte": "Cult of Mac"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "Quanto a Apple valia",
+      "esquerda": {
+        "rotulo": "1996",
+        "valor": "US$ 3 bi",
+        "detalhe": "a 90 dias de quebrar"
+      },
+      "direita": {
+        "rotulo": "2011",
+        "valor": "US$ 350 bi",
+        "detalhe": "quando Jobs saiu"
+      },
+      "texto": "Na volta, ele lançou **iMac, iPod, iPhone e iPad** e recebia salário de ==US$ 1== por ano.",
+      "fonte": "WRAL e Gulf News"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "A fortuna veio da Disney",
+      "texto": "Em 2011, a Forbes estimava a fortuna de Jobs em **US$ 7 bilhões**.\n\nCerca de ==US$ 4,4 bilhões== eram ações da **Disney**, que comprou a Pixar em 2006. Na Apple, eram perto de US$ 2 bilhões.",
+      "fonte": "Forbes e Bloomberg"
+    }
+  ],
+  "legenda": "Steve Jobs foi tirado da empresa que ele mesmo criou e ficou bilionário com uma aposta feita fora dela.\n\nEle fundou a Apple em 1976, aos 21 anos, com Steve Wozniak, na casa dos pais. Em 1985, depois de brigar com o presidente da empresa e com o conselho, perdeu o comando e saiu.\n\nNo ano seguinte, pagou US$ 10 milhões pelo estúdio de animação de George Lucas que virou a Pixar. Com Toy Story e a estreia da Pixar na bolsa, em 1995, virou bilionário.\n\nEm 1997, voltou para uma Apple que valia menos de US$ 3 bilhões e lançou iMac, iPod, iPhone e iPad. Quando saiu, em 2011, ela valia cerca de US$ 350 bilhões.\n\nNa morte, a Forbes estimava sua fortuna em US$ 7 bilhões, a maior parte em ações da Disney, que comprou a Pixar em 2006.\n\n(Fotos: Matthew Yohe/Wikimedia Commons e Bernard Gotfryd/Library of Congress)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

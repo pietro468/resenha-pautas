@@ -85,6 +85,13 @@ def main():
         if meta.get("categoria") == "Biografias":
             if not meta.get("pessoa"): e.append("biografia sem o campo pessoa")
             if len(re.findall(r'^\s*-\s*arquivo:', fm_txt, re.M)) < 2: e.append("biografia precisa de pelo menos 2 fotos da pessoa em imagens:")
+        novo = meta.get("data", "") >= "2026-09-30"  # regras de foto que valem dos artigos novos em diante
+        urls_fotos = [meta.get("capa_url", "")] + re.findall(r'^\s*url:\s*"?([^"\s]+)', fm_txt, re.M)
+        if novo and any('staticflickr.com' in u or 'flickr.com' in u for u in urls_fotos): e.append("foto com link do Flickr: o site não consegue baixar. Ache a mesma foto no Wikimedia Commons e use o link de lá (ver linha-editorial.md, seção 8)")
+        if novo:
+            vistos = [u for u in urls_fotos if u]
+            if len(vistos) != len(set(vistos)): e.append("a mesma foto aparece duas vezes (capa e imagens:). Cada foto tem que ser diferente")
+        if novo and meta.get("pessoa") and len(re.findall(r'^\s*-\s*arquivo:', fm_txt, re.M)) < 3: e.append("matéria sobre uma pessoa precisa de pelo menos 3 fotos diferentes dela em imagens: (além da capa), para o artigo e os slides não repetirem foto")
         if re.search(r'\.png\s*$', meta.get("capa_url", ""), re.I): avisos.append(f"{rel}: capa em PNG parece gráfico; a capa deve ser foto")
         if not meta.get("busca_imagem"): avisos.append(f"{rel}: sem busca_imagem")
         if e:
@@ -98,6 +105,15 @@ def main():
                 ctxt = json.dumps(car, ensure_ascii=False)
                 if '\u2014' in ctxt or '\u2013' in ctxt or '—' in ctxt or '–' in ctxt: e.append("carrossel.json tem travessão ou meia-risca")
                 if car.get("estilo") != "frase": e.append('carrossel.json sem "estilo": "frase" (o gancho da capa sai sempre em frase normal, ver instagram.md)')
+                if novo:
+                    listadas = set(re.findall(r'^\s*-\s*arquivo:\s*"?([^"\s]+)', fm_txt, re.M))
+                    usadas = [car.get("capa", "capa") or "capa"] + [sl.get("foto") for sl in car.get("slides", []) if isinstance(sl, dict) and sl.get("foto")]
+                    rep = sorted({f for f in usadas if usadas.count(f) > 1})
+                    if rep: e.append("carrossel.json repete foto (" + ", ".join(rep) + "): cada slide com foto usa uma foto diferente; slide de texto sem foto diferente fica sem \"foto\" (fundo verde)")
+                    faltam = [f for f in usadas if f != "capa" and f not in listadas]
+                    if faltam: e.append("carrossel.json usa foto que não está em imagens: (" + ", ".join(faltam) + ")")
+                    for sl in car.get("slides", []):
+                        if isinstance(sl, dict) and sl.get("tipo") in ("foto", "foto_texto", "item") and not sl.get("foto"): e.append(f"slide '{sl.get('tipo')}' sem \"foto\"")
                 if foco_ruim(car): e.append('carrossel.json: capa_foco/foco fora do formato "x,y" ou "x,y,zoom" (ver instagram.md)')
                 if not car.get("gancho"): e.append("carrossel.json sem gancho")
                 elif len(car["gancho"]) > 95: e.append("gancho do carrossel com mais de 95 caracteres")

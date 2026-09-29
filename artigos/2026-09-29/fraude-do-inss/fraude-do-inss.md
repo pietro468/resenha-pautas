@@ -10,19 +10,27 @@ slug: "fraude-do-inss"
 tags: ["fraude do INSS", "Careca do INSS", "Operação Sem Desconto", "CPMI do INSS", "aposentados"]
 youtube: ""
 capa: "fraude-do-inss-capa.jpg"
-capa_url: "https://live.staticflickr.com/65535/54859026843_fd92f5ba1a_b.jpg"
-capa_credito: "Edilson Rodrigues/Agência Senado (CC BY-SA 4.0)"
+capa_url: "https://upload.wikimedia.org/wikipedia/commons/f/fe/CPMI_-_INSS_-_Comiss%C3%A3o_Parlamentar_Mista_de_Inqu%C3%A9rito_do_INSS_-_2025_%2854810718107%29.jpg"
+capa_credito: "Geraldo Magela/Agência Senado (CC BY-SA 4.0)"
 pessoa: ""
-busca_imagem: "INSS building Brasilia"
+busca_imagem: "Brazil social security agency"
 imagens:
-  - arquivo: "fraude-do-inss-sede-do-inss.jpg"
-    url: "https://live.staticflickr.com/7859/47095608441_5be2f3ea1c_b.jpg"
-    credito: "Jefferson Rudy/Agência Senado (CC BY 2.0)"
-    legenda: "Fachada do INSS em Brasília, em 2019"
-  - arquivo: "cpmi-do-inss-oitiva.jpg"
-    url: "https://live.staticflickr.com/65535/54760119700_b3c7e1d281_b.jpg"
+  - arquivo: "fraude-do-inss-agencia-da-previdencia.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Instituto_Nacional_do_Seguro_Social.JPG"
+    credito: "Elza Fiúza/Agência Brasil (CC BY 3.0 BR)"
+    legenda: "Atendimento numa agência da Previdência Social"
+  - arquivo: "careca-do-inss-na-cpmi.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/e/e7/CPMI_-_INSS_-_Comiss%C3%A3o_Parlamentar_Mista_de_Inqu%C3%A9rito_do_INSS_-_2025_%2854810969772%29.jpg"
     credito: "Waldemir Barreto/Agência Senado (CC BY-SA 4.0)"
-    legenda: "Oitiva na CPMI do INSS, em 1º de setembro de 2025"
+    legenda: "Antônio Carlos Camilo Antunes, o Careca do INSS, depõe na CPMI do INSS em setembro de 2025"
+  - arquivo: "fraude-do-inss-aposentada.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Canind%C3%A9_-_Cear%C3%A1_%284044602426%29.jpg/1920px-Canind%C3%A9_-_Cear%C3%A1_%284044602426%29.jpg"
+    credito: "Otávio Nogueira/Wikimedia Commons (CC BY 2.0)"
+    legenda: "Aposentada em Canindé, no Ceará (imagem ilustrativa)"
+  - arquivo: "fraude-do-inss-idosa-no-centro-do-rio.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elderly_Woman_on_Street_-_Centro_-_Rio_de_Janeiro_-_Brazil_%2817283396639%29.jpg/1920px-Elderly_Woman_on_Street_-_Centro_-_Rio_de_Janeiro_-_Brazil_%2817283396639%29.jpg"
+    credito: "Adam Jones/Wikimedia Commons (CC BY-SA 2.0)"
+    legenda: "Idosa no Centro do Rio de Janeiro (imagem ilustrativa)"
 ---
 
 A fraude do INSS foi um esquema de descontos que aposentados e pensionistas nunca autorizaram: associações cobravam mensalidades direto no benefício, com filiações falsas. Segundo a Polícia Federal e a Controladoria-Geral da União (CGU), cerca de R$ 6,3 bilhões saíram assim da folha entre 2019 e 2024. O personagem mais conhecido do caso é o empresário Antônio Carlos Camilo Antunes, o "Careca do INSS", preso desde setembro de 2025 e indiciado pela PF, mas ainda sem julgamento.
@@ -37,7 +45,7 @@ O caso veio a público em 23 de abril de 2025, com a Operação Sem Desconto. Na
 
 No mesmo dia, o então presidente do INSS, Alessandro Stefanutto, foi afastado por decisão judicial. Em seguida, em 2 de maio, o ministro da Previdência, Carlos Lupi, pediu demissão e disse que seu nome "nunca foi citado" nas investigações, de acordo com a [Agência Brasil](https://agenciabrasil.ebc.com.br/politica/noticia/2025-05/apos-fraude-no-inss-lupi-pede-demissao-do-ministerio-da-previdencia). O governo, então, suspendeu todos os acordos que permitiam esse tipo de desconto.
 
-![Fachada do INSS em Brasília, órgão no centro da fraude do INSS](fraude-do-inss-sede-do-inss.jpg)
+![Atendimento numa agência da Previdência Social, órgão ligado ao INSS](fraude-do-inss-agencia-da-previdencia.jpg)
 
 ## Como o esquema de descontos funcionava?
 
@@ -63,7 +71,7 @@ Indiciamento, porém, não é condenação. Agora cabe à PGR decidir se apresen
 
 A comissão parlamentar mista de inquérito foi instalada em 20 de agosto de 2025 e fez 38 reuniões em sete meses. No entanto, terminou em 28 de março de 2026 sem relatório final. O parecer do relator, que pedia o indiciamento de 216 pessoas, foi rejeitado por 19 votos a 12, segundo a [Agência Senado](https://www12.senado.leg.br/noticias/materias/2026/03/28/cpmi-do-inss-termina-sem-relatorio-final). Um texto alternativo, que pedia 130 indiciamentos, não chegou a ser votado.
 
-![Oitiva na CPMI do INSS, que investigou a fraude do INSS no Congresso](cpmi-do-inss-oitiva.jpg)
+![Antônio Carlos Camilo Antunes, o Careca do INSS, em depoimento à CPMI da fraude do INSS](careca-do-inss-na-cpmi.jpg)
 
 ## Como foi o ressarcimento dos aposentados?
 
@@ -75,4 +83,4 @@ Vale um alerta: desconfie de quem cobra taxa ou pede senha para "liberar" o ress
 
 A fraude do INSS mostrou como uma autorização que ninguém conferia virou um desvio bilionário. O dinheiro começou a voltar, mas a parte penal ainda depende da PGR e do Supremo. Para entender outro caso financeiro que também passou pelo STF em 2026, veja o [escândalo do Banco Master](https://resenharentavel.com/banco-master-escandalo/) e o que a [CPI das Bets](https://resenharentavel.com/cpi-das-bets-quem-lucrou/) descobriu sobre quem lucrou com as apostas.
 
-*Foto de capa: Edilson Rodrigues/Agência Senado (CC BY-SA 4.0)*
+*Foto de capa: Geraldo Magela/Agência Senado (CC BY-SA 4.0)*

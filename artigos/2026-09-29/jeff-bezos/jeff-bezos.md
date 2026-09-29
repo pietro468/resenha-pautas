@@ -10,19 +10,31 @@ slug: "jeff-bezos"
 tags: ["Jeff Bezos", "Amazon", "Blue Origin", "AWS", "bilionários"]
 youtube: ""
 capa: "jeff-bezos-capa.jpg"
-capa_url: "https://live.staticflickr.com/65535/32878819397_64ea65b12e_b.jpg"
-capa_credito: "Daniel Oberhaus/Flickr (CC BY 2.0)"
+capa_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped2%29.jpg/1920px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped2%29.jpg"
+capa_credito: "Seattle City Council/Wikimedia Commons (CC BY 2.0)"
 pessoa: "Jeff Bezos"
 busca_imagem: "Jeff Bezos portrait"
 imagens:
+  - arquivo: "jeff-bezos-2004.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/2/21/Jeff_Bezos_%28153327601%29.jpg"
+    credito: "JD Lasica/Wikimedia Commons (CC BY 2.0)"
+    legenda: "Jeff Bezos em 2004, dez anos depois de fundar a Amazon"
   - arquivo: "jeff-bezos-2010.jpg"
-    url: "https://live.staticflickr.com/1156/5129303018_53dd74260d_b.jpg"
-    credito: "Steve Jurvetson/Flickr (CC BY 2.0)"
-    legenda: "Jeff Bezos em outubro de 2010"
-  - arquivo: "jeff-bezos-blue-origin-2017.jpg"
-    url: "https://upload.wikimedia.org/wikipedia/commons/0/03/Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg"
-    credito: "Força Aérea dos EUA (domínio público)"
-    legenda: "Jeff Bezos, já como dono da Blue Origin, em visita à Força Aérea dos EUA em 2017"
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jeff_Bezos%27_iconic_laugh.jpg/1280px-Jeff_Bezos%27_iconic_laugh.jpg"
+    credito: "Steve Jurvetson/Wikimedia Commons (CC BY 2.0)"
+    legenda: "Jeff Bezos em 2010, quando a Amazon já tinha Prime, AWS e Kindle"
+  - arquivo: "jeff-bezos-blue-origin-2019.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jeff_Bezos_Unveils_Blue_Origin_Lunar_Lander.jpg/1920px-Jeff_Bezos_Unveils_Blue_Origin_Lunar_Lander.jpg"
+    credito: "Daniel Oberhaus/Wikimedia Commons (CC BY 4.0)"
+    legenda: "Jeff Bezos apresenta o módulo lunar da Blue Origin, em 2019"
+  - arquivo: "jeff-bezos-2005.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Jeff_Bezos_2005.jpg"
+    credito: "James Duncan Davidson/Wikimedia Commons (domínio público)"
+    legenda: "Jeff Bezos em 2005"
+  - arquivo: "jeff-bezos-2016.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/3/33/Jeff_Bezos_2016.jpg"
+    credito: "Departamento de Defesa dos EUA/Wikimedia Commons (CC BY 2.0)"
+    legenda: "Jeff Bezos em 2016"
 ---
 
 Jeff Bezos fundou a Amazon em 1994, numa garagem nos arredores de Seattle, como uma livraria na internet. Três décadas depois, a empresa virou uma das maiores do planeta, e o fundador acumula US$ 367 bilhões, a segunda maior fortuna do mundo, segundo a [Forbes](https://www.forbes.com/profile/jeff-bezos/) em 29 de setembro de 2026. A maior parte vem dos cerca de 8% que ele ainda tem da Amazon; outra fatia grande vem da Blue Origin, a empresa de foguetes que ele criou em 2000.
@@ -41,7 +53,7 @@ Em 1994, Bezos percebeu que o uso da internet crescia num ritmo absurdo e decidi
 
 A Amazon foi registrada em 5 de julho de 1994 e começou a funcionar na garagem de uma casa em Bellevue, no estado de Washington. O site entrou no ar em julho de 1995, e o primeiro livro vendido foi "Fluid Concepts and Creative Analogies", de Douglas Hofstadter, segundo a [própria Amazon](https://www.aboutamazon.com/news/workplace/first-amazon-office-jeff-bezos-garage). Em 1995, os pais dele colocaram US$ 245.573 no negócio, de acordo com a [CNBC](https://www.cnbc.com/2018/08/02/how-jeff-bezos-got-his-parents-to-invest-in-amazon--turning-them-into.html).
 
-![Jeff Bezos em 2010, quando a Amazon já era gigante do comércio on-line](jeff-bezos-2010.jpg)
+![Jeff Bezos em 2004, dez anos depois de largar Wall Street para fundar a Amazon](jeff-bezos-2004.jpg)
 
 ## Como a Amazon de Jeff Bezos cresceu sem dar lucro?
 
@@ -50,6 +62,8 @@ A empresa abriu capital em maio de 1997, a US$ 18 por ação. Levantou US$ 54 mi
 > "Acreditamos que uma medida fundamental do nosso sucesso será o valor que criarmos para os acionistas no longo prazo." Jeff Bezos, carta aos acionistas da Amazon, 1997
 
 Por isso, a Amazon gastou pesado para crescer, primeiro com livros e depois com quase tudo. O primeiro lucro anual veio só em 2003, de US$ 35 milhões, segundo a [Computerworld](https://www.computerworld.com/article/1325643/amazon-records-first-profitable-year-in-its-history.html). Em seguida, vieram três lançamentos que mudaram a empresa: o Prime, em 2005, a AWS, em 2006, e o leitor digital Kindle, em 2007.
+
+![Jeff Bezos em 2010, quando a Amazon já tinha o Prime, a AWS e o Kindle](jeff-bezos-2010.jpg)
 
 ## De onde vem o dinheiro da Amazon hoje?
 
@@ -71,7 +85,7 @@ A Blue Origin nasceu em 2000, com a meta de baratear o acesso ao espaço. Em 20 
 
 O caminho, no entanto, teve tropeços. Em maio de 2026, um New Glenn explodiu num teste em solo, e a empresa promete [voltar a voar](https://www.blueorigin.com/news/new-glenn-return-to-flight) até o fim do ano. Mesmo assim, em julho a Blue Origin fez sua primeira captação externa: US$ 10 bilhões, com valor de mercado estimado em US$ 130 bilhões, segundo a [Forbes](https://www.forbes.com/sites/tylerroush/2026/07/08/jeff-bezos-blue-origin-valued-at-130-billion-after-first-fundraising-round/). O próprio Bezos pôs US$ 2 bilhões na rodada.
 
-![Jeff Bezos em 2017, em visita à Força Aérea dos EUA como dono da Blue Origin](jeff-bezos-blue-origin-2017.jpg)
+![Jeff Bezos apresenta o módulo lunar da Blue Origin, em 2019](jeff-bezos-blue-origin-2019.jpg)
 
 A trajetória de Jeff Bezos mostra que a maior fortuna nem sempre vem do produto mais visível. O consumidor conhece a caixa da Amazon na porta de casa, mas o dinheiro grosso vem da nuvem, e agora também dos foguetes. Para comparar com outros caminhos até o topo, veja como [Elon Musk](https://resenharentavel.com/elon-musk-fortuna/) virou trilionário, como [Warren Buffett](https://resenharentavel.com/warren-buffett/) enriqueceu investindo e o que o voo da [Starship](https://resenharentavel.com/starship-em-orbita/) muda na corrida espacial privada.
 

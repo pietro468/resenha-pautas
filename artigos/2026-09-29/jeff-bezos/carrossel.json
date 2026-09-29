@@ -3,17 +3,59 @@
   "estilo": "frase",
   "capa_estilo": "classico",
   "chamada": "Veja a história",
-  "capa": "capa",
+  "capa": "jeff-bezos-2005.jpg",
   "gancho": "Jeff Bezos largou Wall Street aos 30 para vender livros numa ==garagem==",
   "slides": [
-    {"tipo": "foto_texto", "foto": "jeff-bezos-2010.jpg", "titulo": "O emprego que ele largou", "texto": "Formado em Princeton, Bezos virou vice-presidente de um fundo de Wall Street aos **30 anos**.\n\nEm 1994, pediu demissão. O motivo era uma conta simples.", "fonte": "Britannica"},
-    {"tipo": "texto", "titulo": "A garagem", "texto": "Ele não queria chegar aos 80 arrependido de **não ter tentado**.\n\nA Amazon nasceu numa garagem, vendendo livros. Os pais puseram ==US$ 245 mil== no negócio.\n\nMas o lucro demorou.", "foto": "capa", "fonte": "CNBC e Amazon"},
-    {"tipo": "numero", "numero": "9 anos", "texto": "foi o tempo até a Amazon ter o **primeiro lucro anual**, em 2003. Até lá, tudo era reinvestido para crescer.", "foto": "jeff-bezos-2010.jpg", "fonte": "Computerworld"},
-    {"tipo": "numero", "numero": "60%", "texto": "do lucro da Amazon hoje vem da ==nuvem==, o aluguel de servidores da AWS. **Não das compras** que você faz no site.", "foto": "capa", "fonte": "Amazon, 2º trimestre de 2026"},
-    {"tipo": "foto_texto", "foto": "jeff-bezos-blue-origin-2017.jpg", "titulo": "Os foguetes", "texto": "Em 2000, ele criou a **Blue Origin**. Em 2021, voou ao espaço.\n\nEm 2026, a empresa foi avaliada em ==US$ 130 bilhões==. E isso mexeu na fortuna.", "fonte": "Blue Origin e Forbes"},
-    {"tipo": "numero", "numero": "US$ 367 bi", "texto": "é a fortuna de Jeff Bezos, a **segunda maior do mundo**, segundo a Forbes em 29 de setembro de 2026.", "foto": "capa", "fonte": "Forbes"},
-    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Bezos aceitou passar anos sem lucro para construir algo grande.\n\nE a maior fortuna veio de um negócio que **nem estava no plano**: a nuvem.", "fonte": "Forbes e Amazon"},
-    {"tipo": "final"}
+    {
+      "tipo": "foto_texto",
+      "foto": "jeff-bezos-2004.jpg",
+      "titulo": "O emprego que ele largou",
+      "texto": "Formado em Princeton, Bezos virou vice-presidente de um fundo de Wall Street aos **30 anos**.\n\nEm 1994, pediu demissão. O motivo era uma conta simples.",
+      "fonte": "Britannica"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "A garagem",
+      "texto": "Ele não queria chegar aos 80 arrependido de **não ter tentado**.\n\nA Amazon nasceu numa garagem, vendendo livros. Os pais puseram ==US$ 245 mil== no negócio.\n\nMas o lucro demorou.",
+      "fonte": "CNBC e Amazon"
+    },
+    {
+      "tipo": "numero",
+      "numero": "9 anos",
+      "texto": "foi o tempo até a Amazon ter o **primeiro lucro anual**, em 2003. Até lá, tudo era reinvestido para crescer.",
+      "foto": "jeff-bezos-2010.jpg",
+      "fonte": "Computerworld"
+    },
+    {
+      "tipo": "numero",
+      "numero": "60%",
+      "texto": "do lucro da Amazon hoje vem da ==nuvem==, o aluguel de servidores da AWS. **Não das compras** que você faz no site.",
+      "foto": "capa",
+      "fonte": "Amazon, 2º trimestre de 2026"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "jeff-bezos-blue-origin-2019.jpg",
+      "titulo": "Os foguetes",
+      "texto": "Em 2000, ele criou a **Blue Origin**. Em 2021, voou ao espaço.\n\nEm 2026, a empresa foi avaliada em ==US$ 130 bilhões==. E isso mexeu na fortuna.",
+      "fonte": "Blue Origin e Forbes"
+    },
+    {
+      "tipo": "numero",
+      "numero": "US$ 367 bi",
+      "texto": "é a fortuna de Jeff Bezos, a **segunda maior do mundo**, segundo a Forbes em 29 de setembro de 2026.",
+      "foto": "jeff-bezos-2016.jpg",
+      "fonte": "Forbes"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "Bezos aceitou passar anos sem lucro para construir algo grande.\n\nE a maior fortuna veio de um negócio que **nem estava no plano**: a nuvem.",
+      "fonte": "Forbes e Amazon"
+    },
+    {
+      "tipo": "final"
+    }
   ],
-  "legenda": "Jeff Bezos largou um emprego de vice-presidente em Wall Street, aos 30 anos, para vender livros numa garagem.\n\nA Amazon foi registrada em 1994 e só teve o primeiro lucro anual em 2003. Hoje, cerca de 60% do lucro operacional vem da AWS, o serviço de nuvem que aluga servidores para outras empresas, segundo o balanço do 2º trimestre de 2026.\n\nFora da Amazon, Bezos criou a Blue Origin em 2000. Em julho de 2026, a empresa de foguetes captou US$ 10 bilhões e foi avaliada em US$ 130 bilhões, segundo a Forbes.\n\nCom isso, a Forbes estima a fortuna dele em US$ 367 bilhões, a segunda maior do mundo, em 29 de setembro de 2026.\n\nVocê largaria um emprego seguro para apostar numa ideia?\n\n(Fotos: Daniel Oberhaus e Steve Jurvetson/Flickr, CC BY 2.0; Força Aérea dos EUA, domínio público)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  "legenda": "Jeff Bezos largou um emprego de vice-presidente em Wall Street, aos 30 anos, para vender livros numa garagem.\n\nA Amazon foi registrada em 1994 e só teve o primeiro lucro anual em 2003. Hoje, cerca de 60% do lucro operacional vem da AWS, o serviço de nuvem que aluga servidores para outras empresas, segundo o balanço do 2º trimestre de 2026.\n\nFora da Amazon, Bezos criou a Blue Origin em 2000. Em julho de 2026, a empresa de foguetes captou US$ 10 bilhões e foi avaliada em US$ 130 bilhões, segundo a Forbes.\n\nCom isso, a Forbes estima a fortuna dele em US$ 367 bilhões, a segunda maior do mundo, em 29 de setembro de 2026.\n\nVocê largaria um emprego seguro para apostar numa ideia?\n\n(Fotos: James Duncan Davidson, JD Lasica, Steve Jurvetson, Seattle City Council, Daniel Oberhaus e Departamento de Defesa dos EUA, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
 }

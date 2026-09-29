@@ -1,5 +1,5 @@
 {
-  "leia": "Para postar de novo no Instagram um post que já saiu: acrescente um item com id novo (nunca repita um id), o slug e o horário de Brasília a partir do qual pode sair. O site confere este arquivo a cada busca. Para trocar a foto de capa (no site e no Instagram) antes de postar de novo, use \"materia\" no lugar de \"slug\" e acrescente \"capa_url\" (link direto da foto) e \"capa_credito\".",
+  "leia": "Para postar de novo no Instagram um post que já saiu: acrescente um item com id novo (nunca repita um id), o slug e o horário de Brasília a partir do qual pode sair. O site confere este arquivo a cada busca. Para trocar a foto de capa (no site e no Instagram) antes de postar de novo, use \"materia\" no lugar de \"slug\" e acrescente \"capa_url\" (link direto da foto) e \"capa_credito\". Para refazer uma matéria inteira (texto, fotos, capa e Instagram), use \"materia\" e \"refazer\": true: o site apaga a matéria e importa de novo do repositório na busca seguinte.",
   "posts": [
     {
       "id": "2026-09-29-ira",
@@ -17,6 +17,18 @@
       "depois": "2026-09-29 20:00",
       "capa_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Starship_lifted_off_from_Starbase_during_flight_test_11.jpg",
       "capa_credito": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "id": "2026-09-29-bezos-refazer",
+      "materia": "jeff-bezos",
+      "depois": "2026-09-29 19:20",
+      "refazer": true
+    },
+    {
+      "id": "2026-09-29-inss-refazer",
+      "materia": "fraude-do-inss",
+      "depois": "2026-09-29 20:15",
+      "refazer": true
     }
   ]
 }

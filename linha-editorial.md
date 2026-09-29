@@ -221,28 +221,28 @@ Obrigatória. Foto real, horizontal, de boa qualidade (de preferência 1600 px d
 
 **Só use imagens com licença livre para uso comercial:** domínio público, CC0, CC BY ou CC BY-SA. Nunca use foto de agência de notícias (Getty, AP, Reuters, AFP, Folhapress, Estadão Conteúdo) nem imagem sem licença clara.
 
-**Onde buscar:**
-- **Flickr da Agência Senado** (flickr.com/photos/agenciasenado): Congresso, CPIs, audiências, Brasília. Licença CC BY 2.0 ou CC BY-SA 4.0 (confira em cada foto).
-- **Flickr do TSE** (tsejusbr), **do STF** (supremotribunalfederal), **da Casa Branca** (whitehouse, domínio público) e **do Arquivo Nacional dos EUA** (usnationalarchives).
-- **Agência Brasil** (agenciabrasil.ebc.com.br): CC BY 3.0 BR, com crédito "Nome/Agência Brasil". Não vale para fotos da Reuters publicadas lá.
-- **Flickr de fotógrafos com CC BY** (ex.: Gage Skidmore, Steve Jurvetson), sempre confirmando a licença na página da foto.
-- **Wikimedia Commons**, confirmando autor e licença na página do arquivo.
-- **NASA** (images.nasa.gov) e **Biblioteca do Congresso dos EUA** (loc.gov), domínio público na maioria.
-- **Miniatura de vídeo do próprio canal**: `https://i.ytimg.com/vi/ID_DO_VIDEO/maxresdefault.jpg`, crédito "Resenha Rentável (acervo próprio)". Use quando o artigo tem vídeo do canal e não há foto livre melhor.
-
-**Link direto em alta resolução:**
-- No Flickr, abra `https://www.flickr.com/photos/USUARIO/ID/sizes/k/` e copie o endereço `https://live.staticflickr.com/...` do tamanho 2048. Se não existir, tente `/sizes/h/` (1600) e depois `/sizes/l/` (1024).
-- No Commons, use `https://commons.wikimedia.org/wiki/Special:FilePath/NOME_DO_ARQUIVO.jpg?width=2000` (nome exato, espaços como _).
-- Confira a licença e o autor na página da foto, não só no resultado de busca.
+**Onde buscar (sempre pelo Wikimedia Commons):**
+- **Use o Wikimedia Commons** (commons.wikimedia.org) como fonte de todos os links de foto. O Flickr bloqueia o download do site e as fotos somem (foi isso que deixou capas erradas). As fotos da Agência Senado, da Agência Brasil, da Casa Branca, da NASA e de fotógrafos como Steve Jurvetson e Gage Skidmore quase sempre estão também no Commons, com o mesmo autor e licença: procure pelo nome ou pelo número da foto do Flickr.
+- Para buscar, use a API do Commons (ela devolve link, tamanho, autor, licença e descrição): `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=TERMOS&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640`. Como o seu computador não acessa o Commons, faça a busca pelo caminho da pasta `previa/` (instagram.md): uma linha `nome.json URL_DA_API`.
+- A descrição da foto diz quem aparece nela (ex.: "Mesa: empresário Fulano (depoente)"). Leia antes de escolher.
+- **Link direto:** o arquivo original (`https://upload.wikimedia.org/wikipedia/commons/x/xy/Arquivo.jpg`) ou a miniatura de 1920px ou 1280px (`https://upload.wikimedia.org/wikipedia/commons/thumb/x/xy/Arquivo.jpg/1920px-Arquivo.jpg`), só quando o original for maior que isso. Outras larguras não baixam.
+- **Miniatura de vídeo do próprio canal** só quando não houver foto livre melhor: `https://i.ytimg.com/vi/ID_DO_VIDEO/maxresdefault.jpg`, crédito "Resenha Rentável (acervo próprio)".
 
 **Crédito:** formato `Autor/Instituição (LICENÇA)`. Exemplos: `Pedro França/Agência Senado (CC BY 2.0)`, `Pete Souza/Casa Branca (domínio público)`, `Marcello Casal Jr/Agência Brasil (CC BY 3.0 BR)`.
+
+### A foto é a coisa mais importante da matéria
+- **Toda foto precisa ter sentido direto com o título e com o trecho onde entra.** Matéria sobre uma pessoa: a pessoa. Sobre um órgão: o órgão, o atendimento, quem é afetado. Nunca paisagem genérica, céu, nuvem, textura ou foto "bonita" sem relação.
+- **Nenhuma foto se repete**: capa, fotos do texto e slides do Instagram usam fotos diferentes. Matéria sobre uma pessoa leva **pelo menos 3 fotos diferentes dela** (épocas ou situações diferentes), além da capa. Procure até achar: pessoas conhecidas têm dezenas de fotos livres no Commons.
+- **A capa do Instagram pode (e muitas vezes deve) ser diferente da capa do site**: ela precisa casar com o gancho do post. Ex.: o artigo fala do "Careca do INSS", então a capa do site é ele; o gancho do Instagram fala dos aposentados que perderam dinheiro, então a capa do post é uma foto de aposentado. Escolha com `"capa": "arquivo.jpg"` no `carrossel.json` (a foto precisa estar em `imagens:`; fotos que não entram no texto também podem ficar na lista, só para o Instagram).
+- Foto de pessoa comum usada para ilustrar (ex.: uma aposentada) leva "(imagem ilustrativa)" na legenda e no crédito do post, para não parecer que ela é personagem do caso.
+- Investigado não é culpado também na foto: prefira foto neutra (falando, sentado à mesa). Nada de foto humilhante (mão na cabeça, cara de choro) para sugerir culpa.
 
 ### Regras que valem acima de tudo para a capa
 - **A capa é a imagem mais importante do artigo.** Sempre uma **foto** real. Nunca use infográfico, gráfico, tabela ou print como capa.
 - **Biografias:** a capa é sempre uma foto da própria pessoa, de rosto ou meio corpo, reconhecível. E o texto precisa ter **pelo menos 2 fotos da pessoa** em momentos diferentes (juventude, trabalho, evento), na lista `imagens:`. Preencha o campo `pessoa:` com o nome completo, do jeito que aparece na Wikipédia (ex.: `pessoa: "Daniel Vorcaro"`).
 - **Quando o artigo gira em torno de uma pessoa** (mesmo fora de Biografias), prefira a foto dela na capa e preencha `pessoa:`.
 - Preencha também `busca_imagem:` com 2 a 4 palavras **em inglês** do que a foto de capa deve mostrar, bem concretas (ex.: `busca_imagem: "US dollar banknotes"`, `"Central Bank of Brazil building"`). Se a sua foto não baixar, o site usa isso para procurar outra foto livre sozinho, e só aceita foto cuja descrição combine com essas palavras.
-- Prefira fontes que liberam o download direto: Flickr (live.staticflickr.com) e Wikimedia Commons. O site da Agência Brasil costuma bloquear.
+- Links do Flickr (live.staticflickr.com) e do site da Agência Brasil não baixam no site: use sempre o Wikimedia Commons.
 
 ### Imagens dentro do texto
 Duas ou três, cada uma ligada ao parágrafo onde entra (a pessoa jovem no trecho da infância, a sede da empresa no trecho do negócio, a sessão do Senado no trecho da votação). Mesmas regras de licença da capa. Cada uma vai na lista `imagens:` do topo do arquivo e entra no texto, numa linha própria, como `![texto alternativo descritivo](nome-do-arquivo.jpg)`. Nome do arquivo em minúsculas, com hífens, sem acento, com a palavra-chave quando fizer sentido.

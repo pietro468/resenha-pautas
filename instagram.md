@@ -99,7 +99,7 @@ Todo carrossel conta uma história completa, na ordem abaixo. Nunca termine no m
 
 No total, de 5 a 8 slides depois da capa, contando o CTA (limite do Instagram: 10 imagens com a capa). Nada de slide de "leia no link da bio".
 
-**Varie as fotos:** não repita a mesma foto em todos os slides. Se a matéria tem 2 ou mais fotos, cada slide de fundo escuro usa uma foto diferente (capa, depois as fotos do texto, alternando), e a capa do post usa a foto mais forte. Por isso, toda matéria deve ter pelo menos 2 fotos no texto além da capa, sempre que existir foto livre boa do assunto. Cada slide tem **uma ideia** e cabe numa olhada: no máximo umas 45 palavras. Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
+**Nunca repita foto:** cada slide com foto usa uma foto diferente, e nenhuma repete a capa do post. Slide de texto sem foto nova fica **sem o campo `"foto"`**: ele sai com o fundo verde da marca, que é melhor do que a mesma foto de novo. A capa do post é a foto que mais combina com o gancho, e pode ser diferente da capa do site (`"capa": "arquivo.jpg"`). Para ter fotos suficientes, a matéria lista em `imagens:` todas as fotos que vai usar, inclusive as que só aparecem no Instagram. O `publicar.py` recusa foto repetida. Cada slide tem **uma ideia** e cabe numa olhada: no máximo umas 45 palavras. Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
 
 Como a estrutura fica em cada tipo de matéria:
 - **Notícia:** capa, "O que aconteceu", 2 slides de contexto e "O que muda para você", conclusão, CTA.

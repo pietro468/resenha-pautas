@@ -35,26 +35,43 @@ Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que
 
 **Chamada:** 2 a 5 palavras em cima do gancho. No carrossel promete continuação ("DESLIZE PARA VER", "ENTENDA", "VEJA OS NÚMEROS", "VEJA O RANKING"); na imagem única dá o contexto ("URGENTE:", "AGORA:", "ÀS VÉSPERAS DO 1º TURNO:").
 
-## Os slides de dentro
+## Variedade: o que alternar
 
-De 3 a 8 slides depois da capa. O último slide é conteúdo, como no concorrente: **não** faça slide de "leia no link da bio". Cada slide tem **uma ideia** e cabe numa olhada: no máximo uns 45 palavras. Tipos:
+O visual é o mesmo, mas **nenhum post pode parecer cópia do anterior**. Alterne sempre estas três coisas:
 
-- `"texto"`: título curto em verde + texto. Use `==Rótulo:==` para os rótulos em verde e `**trecho**` para destacar em negrito. Parágrafos separados por linha em branco. Bom para "O que diz / O que muda / Quem ganha / O que falta".
-- `"numero"`: um número gigante + uma frase explicando. Use quando existe um dado que choca.
-- `"ranking"`: `"posicao": "10º"`, `"nome"`, `"detalhe"` e a foto da pessoa ou coisa. Um item por slide.
+**1. Estilo da capa** (`"capa_estilo"`):
+- `"classico"` (padrão): uma foto em tela cheia. O estilo mais usado, mas não em todos.
+- `"circulo"`: foto principal + uma segunda foto num círculo no canto (`"capa_extra": "arquivo.jpg"`). Bom quando a notícia junta duas coisas (uma empresa e um produto, uma pessoa e um lugar).
+- `"dupla"`: a tela dividida em duas fotos, com um X no meio (`"capa_extra"` e `"rotulos": ["2000", "2026"]` ou `["Antes", "Depois"]`, `["Brasil", "EUA"]`). Bom para comparações e versus.
+- Imagem única (`"formato": "unico"`), para notícia urgente.
+
+**2. Destaque no gancho:** marque com `==...==` a palavra ou o número que mais chama atenção; ele sai em verde ("BETO CARRERO CRIA ÁREA DA GALINHA PINTADINHA COM ==R$ 50 MILHÕES=="). Use em mais ou menos metade dos posts, só em 1 a 3 palavras.
+
+**3. Tipos de slide de dentro** (misture 2 ou 3 tipos no mesmo carrossel):
+- `"texto"`: foto de fundo escurecida, título verde e texto. `==Rótulo:==` sai em verde, `**trecho**` em negrito, linha em branco separa parágrafos.
+- `"texto_claro"`: fundo creme, título grande verde-escuro e texto escuro. Quebra o ritmo entre slides escuros; ótimo para "por que isso acontece" e conclusões.
+- `"foto_texto"`: foto grande em cima e o texto num painel verde embaixo. Bom para contar uma história ou mostrar uma pessoa ou lugar (`"foto"`, `"titulo"`, `"texto"`).
+- `"numero"`: um número gigante em verde + uma frase. Para o dado que choca.
+- `"comparacao"`: duas colunas lado a lado (`"titulo"`, `"esquerda": {"rotulo": "2000", "valor": "1.000", "detalhe": "pães com R$ 50"}`, `"direita"`: {...}, `"texto"` opcional embaixo). Para antes e depois, A x B, preço de ontem x hoje.
+- `"citacao"`: aspas grandes, a frase e quem disse (`"texto"`, `"autor"`, `"contexto"`). Só frase real, confirmada, com fonte; nunca de Pietro ou Pedro.
+- `"ranking"`: `"posicao": "10°"`, `"nome"`, `"detalhe"` e a foto. Um item por slide.
 - `"foto"`: só a foto (com `"texto"` opcional curto embaixo). Bom quando o assunto é visual.
 
-Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
+Regra do dia: entre os posts de um mesmo dia, varie o estilo de capa e o tipo de gancho; o `classico` pode ser o mais comum, mas nunca 3 seguidos. Antes de escrever o carrossel, olhe os `carrossel.json` já feitos hoje em `artigos/AAAA-MM-DD/`.
+
+## Os slides de dentro
+
+De 3 a 8 slides depois da capa. O último slide é conteúdo, como no concorrente: **não** faça slide de "leia no link da bio". Cada slide tem **uma ideia** e cabe numa olhada: no máximo umas 45 palavras. Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
 
 Formatos por tipo de matéria:
-- **Notícia:** capa + 3 a 5 slides de texto ("O que aconteceu", "O que muda para você", "Próximos passos").
+- **Notícia:** capa + 3 a 5 slides ("O que aconteceu", "O que muda para você", "Próximos passos").
 - **Explicativo:** capa + um slide por item comparado, sempre com a mesma estrutura de rótulos.
 - **Ranking:** capa + um slide `ranking` por item.
-- **Biografia:** capa com o rosto da pessoa + 4 a 6 slides com as fases da vida e os números da fortuna (use as fotos da pessoa da matéria).
+- **Biografia:** capa com o rosto da pessoa + 4 a 6 slides com as fases da vida (`foto_texto` funciona muito bem) e os números da fortuna.
 
 ## Legenda
 
-A legenda é uma matéria curta: primeira linha com a notícia ou o gancho em frase normal; depois 3 a 5 parágrafos curtos com os fatos e números principais (com a fonte); depois "A matéria completa está no link da bio."; depois o crédito das fotos entre parênteses; e por fim "Siga o @resenharentavel para entender como o dinheiro move o mundo." Sem hashtags em excesso (no máximo 3, no fim, se fizer sentido). Sem travessão. Nunca citar Pietro ou Pedro.
+A legenda é uma matéria curta: primeira linha com a notícia ou o gancho em frase normal; depois 3 a 5 parágrafos curtos com os fatos e números principais (com a fonte); depois o crédito das fotos entre parênteses; e por fim "Siga o @resenharentavel para entender como o dinheiro move o mundo." Sem hashtags em excesso (no máximo 3, no fim, se fizer sentido). Sem travessão. Nunca citar Pietro ou Pedro.
 
 ## Modelo do carrossel.json
 

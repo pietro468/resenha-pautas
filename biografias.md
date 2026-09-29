@@ -8,7 +8,7 @@ Regras: categoria `Biografias`; campo `pessoa:` com o nome como está na Wikipé
 
 Quando a lista acabar, a rotina pode acrescentar novos nomes que combinem com o nicho (por exemplo, alguém que virou notícia no mundo dos negócios), anotando aqui antes de escrever. Se achar que não há mais ninguém que faça sentido, pare as biografias diárias e avise o Pietro no resumo do turno.
 
-Já publicadas (não repetir): Elon Musk, Daniel Vorcaro, Silvio Santos, Warren Buffett, Donald Trump (patrimônio), Virginia Fonseca, Jorge Paulo Lemann, Eduardo Saverin, Michael Jackson, Satoshi Nakamoto, Daniel Fraga, Walt Disney, David Beckham, Rogério Vilela.
+Já publicadas (não repetir): Elon Musk, Daniel Vorcaro, Silvio Santos, Warren Buffett, Donald Trump (patrimônio), Virginia Fonseca, Jorge Paulo Lemann, Eduardo Saverin, Michael Jackson, Satoshi Nakamoto, Daniel Fraga, Walt Disney, David Beckham, Rogério Vilela, Steve Jobs.
 
 | Nº | Pessoa | Slug sugerido | Ângulo |
 |---|---|---|---|

@@ -118,6 +118,37 @@ def main():
         c = [a["titulo"] for a in arts if ":" in a["titulo"]]
         if len(c) > max(1, len(arts) // 3):
             erros.append(f"{d}: títulos demais com dois-pontos ({len(c)} de {len(arts)}). Reescreva com outra estrutura (ver regra do título na linha editorial): " + " | ".join(c))
+    # posts só do Instagram: instagram/AAAA-MM-DD/SLUG/post.json
+    ig = []
+    for pj in sorted(glob.glob(os.path.join(RAIZ, 'instagram', '*', '*', 'post.json'))):
+        rel = os.path.relpath(pj, RAIZ)
+        slug = os.path.basename(os.path.dirname(pj))
+        e = []
+        try:
+            d = json.load(open(pj, encoding='utf-8'))
+            txt = json.dumps(d, ensure_ascii=False)
+            if '\u2014' in txt or '\u2013' in txt or '—' in txt or '–' in txt: e.append("tem travessão ou meia-risca")
+            if not re.match(r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$', d.get("data", "")): e.append("data fora do formato AAAA-MM-DD HH:MM")
+            if not d.get("fotos"): e.append("sem fotos")
+            for f in d.get("fotos", []):
+                if not f.get("url") or not f.get("credito") or not f.get("arquivo"): e.append("foto sem arquivo, url ou crédito")
+            car = d.get("carrossel") or {}
+            if not car.get("gancho"): e.append("carrossel sem gancho")
+            elif len(car["gancho"]) > 95: e.append("gancho com mais de 95 caracteres")
+            if not car.get("legenda"): e.append("carrossel sem legenda")
+            elif len(car["legenda"]) > 2100: e.append("legenda com mais de 2100 caracteres")
+            if car.get("estilo") != "frase": e.append('carrossel sem "estilo": "frase"')
+            if car.get("formato", "carrossel") != "unico":
+                sl = car.get("slides", [])
+                if not sl or sl[-1].get("tipo") not in ("final", "cta"): e.append('o último slide precisa ser {"tipo": "final"}')
+                if len(sl) > 9: e.append("mais de 9 slides além da capa")
+        except Exception as ex:
+            e.append(f"post.json inválido ({ex})")
+        if e:
+            erros.extend(f"{rel}: {x}" for x in e); continue
+        ig.append({"slug": slug, "pasta": os.path.relpath(os.path.dirname(pj), RAIZ), "data": d["data"]})
+    novos_ig = [x for x in ig if x["slug"] not in {y["slug"] for y in idx.get("instagram", [])}]
+    idx["instagram"] = ig
     idx["atualizado"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     for a in avisos: print("AVISO:", a)
     if erros:
@@ -127,6 +158,7 @@ def main():
     json.dump(idx, open(INDEX, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(f"OK. {len(novos)} artigo(s) novo(s) no index.json:")
     for a in novos: print(f"  {a['data']}  {a['titulo']}")
+    for a in novos_ig: print(f"  Só Instagram: {a['data']}  {a['slug']}")
 
 if __name__ == '__main__':
     main()

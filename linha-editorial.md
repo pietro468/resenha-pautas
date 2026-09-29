@@ -219,9 +219,11 @@ Temas atemporais que o público sempre busca e que combinam com o canal. Escolha
 ### Foto de capa
 Obrigatória. Foto real, horizontal, de boa qualidade (de preferência 1600 px de largura ou mais), ligada diretamente ao assunto. Quando o artigo é sobre uma pessoa, a capa ideal é uma foto dela.
 
-**Que imagens podem entrar:** sempre a **melhor foto** para a matéria, venha de onde vier, dentro destes dois grupos:
-1. **Fotos livres:** domínio público, CC0, CC BY ou CC BY-SA (Flickr, Commons, Openverse, acervos oficiais).
-2. **Reprodução:** imagem que circula na internet e que os sites de notícia usam como "Reprodução": frame ou print de vídeo do YouTube, print ou foto de post público (Instagram, X, TikTok, Facebook), imagem de TV, foto divulgada pela própria pessoa, empresa ou família. Vale no site e no Instagram. **Sempre com o crédito de reprodução dizendo de onde veio:** `Reprodução/YouTube/Nome do canal`, `Reprodução/Instagram/@perfil`, `Reprodução/TV Globo`, `Divulgação/Nome da empresa`. Quando a imagem foi achada num site de notícias, o crédito é o que o próprio site deu (ex.: `Reprodução/YouTube/Instagram`).
+**Que imagens podem entrar, em ordem de preferência:**
+1. **Fotos livres (primeira opção):** domínio público, CC0, CC BY ou CC BY-SA (Flickr, Commons, Openverse, acervos oficiais). Procure aqui primeiro.
+2. **Reprodução (quando a matéria precisa dela):** use quando o texto cita algo que só existe como imagem na internet (um post, um vídeo, uma cena de TV, um print) ou quando não há foto livre boa do assunto. Vale frame ou print de vídeo do YouTube, foto ou print de post público (Instagram, X, TikTok, Facebook), imagem de TV, foto divulgada pela própria pessoa, empresa ou família. Vale no site e no Instagram.
+
+**Sempre ache a origem da imagem de reprodução.** Não basta ter visto num site de notícias: descubra de onde ela veio (qual vídeo, qual perfil, qual post, qual emissora) e pegue da fonte original quando der. O crédito diz essa origem: `Reprodução/YouTube/Nome do canal`, `Reprodução/Instagram/@perfil`, `Reprodução/TV Globo`, `Divulgação/Nome da empresa`. Se não conseguir descobrir a origem, não use.
 
 **Nunca:** foto de agência de notícias ou de fotógrafo profissional (Getty, AP, Reuters, AFP, EFE, Folhapress, Estadão Conteúdo, Agência O Globo, Fotoarena, Agência Enquadrar, Shutterstock, iStock). Essas agências têm robôs que acham a foto e mandam cobrança em dinheiro. Se o crédito da foto no site de notícias for de uma delas (ou de um fotógrafo com o nome do jornal, como "Fulano/Agência O Globo" ou "Fulano/Metrópoles"), ela não serve, mesmo que pareça ótima. Na dúvida sobre de onde veio, não use.
 

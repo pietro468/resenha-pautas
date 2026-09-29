@@ -130,3 +130,32 @@ Carrossel:
 ```
 
 Todo número do carrossel precisa estar na matéria, com fonte. O `ferramentas/publicar.py` confere o arquivo.
+
+
+## "Hoje na história" (post só do Instagram)
+
+Post de curiosidade, que não vira matéria no site. Sai só quando a data é realmente forte: morte ou nascimento de uma grande personalidade do nicho (Steve Jobs, Michael Jackson, Walt Disney, Senna, Warren Buffett...), de preferência em ano redondo, ou um fato histórico muito curioso do mundo do dinheiro. Nunca force: sem data forte, sem post. No máximo 2 por semana.
+
+Arquivo: `instagram/AAAA-MM-DD/hoje-SLUG/post.json` (AAAA-MM-DD é o dia em que o post sai). Modelo:
+
+```json
+{
+  "titulo": "Hoje na história: 5 de outubro de 2011, morre Steve Jobs",
+  "data": "2026-10-05 10:00",
+  "fotos": [
+    {"arquivo": "hoje-jobs-2010.jpg", "url": "link direto da foto livre", "credito": "Autor/Acervo (licença)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel", "estilo": "frase", "capa": "capa", "capa_estilo": "hoje",
+    "chamada": "Hoje na história", "data_evento": "5 out", "ano": "2011", "ha": "Há 15 anos",
+    "gancho": "Morria Steve Jobs, o homem que foi ==demitido da própria empresa== e voltou para salvá-la",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-jobs-macintosh-1984.jpg", "texto": "Uma frase curta sobre esta foto."},
+      {"tipo": "final"}
+    ],
+    "legenda": "Hoje, há 15 anos, ..."
+  }
+}
+```
+
+Regras: a capa usa sempre `"capa_estilo": "hoje"` (fundo creme, foto emoldurada em tom antigo, data grande e o selo "Hoje na história"); a primeira foto da lista é a capa. Dentro, **só slides de foto** (`"tipo": "foto"`), de 3 a 6, cada um com uma frase curta (até umas 20 palavras) que conta a história em ordem, e o último é `{"tipo": "final"}`. Fotos sempre com licença livre (Wikimedia Commons: use o arquivo original ou miniatura de 1280px), de preferência da própria pessoa em momentos diferentes da vida. Legenda com a história em 3 a 5 parágrafos curtos, fatos com fonte, crédito das fotos e o "Siga o @resenharentavel...". Mesmas regras de sempre: sem travessão, linguagem simples, nada de polêmica pessoal.

@@ -1,0 +1,18 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Entenda a diferença",
+  "gancho": "O influenciador vende a própria vida, o criador vende ==o que produz==",
+  "capa": "capa",
+  "capa_estilo": "dupla",
+  "capa_extra": "criador-de-conteudo-gravando-video.jpg",
+  "rotulos": ["Influenciador", "Criador"],
+  "slides": [
+    {"tipo": "comparacao", "titulo": "O que cada um vende", "esquerda": {"rotulo": "Influenciador", "valor": "A pessoa", "detalhe": "rotina, estilo e opinião"}, "direita": {"rotulo": "Criador", "valor": "O conteúdo", "detalhe": "vídeo, aula, série, análise"}, "texto": "Teste rápido: você continuaria assistindo se **outra pessoa** apresentasse?"},
+    {"tipo": "texto", "titulo": "Intimidade à distância", "texto": "Em **1956**, Donald Horton e Richard Wohl descreveram a relação ==parassocial==: a sensação de conhecer quem só aparece na tela.\n\nÉ o motor da influência.", "foto": "influenciador-gravando-com-ring-light.jpg", "fonte": "Psychiatry, 1956"},
+    {"tipo": "numero", "numero": "US$ 37 bi", "texto": "era o investimento previsto em anúncios com criadores nos EUA em 2025, alta de **26%** sobre 2024.", "foto": "criador-de-conteudo-gravando-video.jpg", "fonte": "IAB, novembro de 2025"},
+    {"tipo": "texto", "titulo": "Poucos vivem disso", "texto": "==48%== dos criadores que ganharam dinheiro faturaram até **US$ 15 mil** no ano.\n\nSó ==13%== passaram de **US$ 100 mil**.", "foto": "capa", "fonte": "NeoReach, via Wall Street Journal (2024)"},
+    {"tipo": "texto_claro", "titulo": "Confiança virou regra", "texto": "Em maio de 2026, o Conar atualizou o guia para influenciadores, com regras sobre identificação de anúncios, IA e proteção de crianças.\n\nAs redes sociais responderam por **77%** das reclamações do Conar no ano anterior.", "fonte": "Meio & Mensagem"}
+  ],
+  "legenda": "Influenciador e criador de conteúdo parecem a mesma coisa, mas vendem produtos diferentes: um vende a própria vida, o outro vende o que produz.\n\nA diferença pesa no bolso. Segundo o IAB, o investimento em anúncios com criadores nos EUA deveria chegar a US$ 37 bilhões em 2025, alta de 26% em um ano. Na hora de escolher parceiros, 58% dos anunciantes olham a reputação do criador.\n\nViver disso, porém, é para poucos. Uma pesquisa da NeoReach citada pelo Wall Street Journal mostrou que 48% dos criadores que ganharam dinheiro faturaram até US$ 15 mil no ano.\n\nE a confiança virou regra: em maio de 2026, o Conar atualizou o guia de publicidade para influenciadores digitais.\n\n(Fotos: Ivan S, cottonbro studio e PNW Production/Pexels)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

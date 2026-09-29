@@ -163,14 +163,14 @@ Regras: a capa usa sempre `"capa_estilo": "hoje"` (foto em tela cheia em preto e
 
 ## Frase do dia (post só do Instagram, 1 por dia)
 
-Uma imagem só, sem foto: **o centro é a frase**. Fundo creme, faixa verde-escura na lateral, aspas gigantes em verde-claro ao fundo, "FRASE DO DIA" no canto, a frase grande em verde-escuro (`==trecho==` sai em verde médio, use no trecho mais forte), e embaixo o nome da pessoa e o que ela é. Sai todo dia às 13:00.
+Uma imagem só, sem foto: **o centro é a frase**. Fundo creme, faixa verde-escura na lateral, aspas gigantes em verde-claro ao fundo, "FRASE DO DIA" no canto, a frase grande em verde-escuro (`==trecho==` sai em verde médio, use no trecho mais forte), e embaixo o nome da pessoa e o que ela é. Sai todo dia às 07:00 (escrita no turno da noite do dia anterior).
 
 Arquivo: `instagram/AAAA-MM-DD/frase-SLUG/post.json`. Modelo:
 
 ```json
 {
   "titulo": "Frase do dia: Warren Buffett e a maré",
-  "data": "2026-09-30 13:00",
+  "data": "2026-09-30 07:00",
   "fotos": [],
   "carrossel": {
     "formato": "unico", "estilo": "frase", "capa": "capa", "capa_estilo": "frase_do_dia",
@@ -194,7 +194,8 @@ Regras: frase curta (até umas 25 palavras), em português natural; frase real e
 
 **Capa**
 - Rosto grande e próximo vence prédio, objeto ou paisagem. Em lista ou ranking de pessoas, use 2 ou 3 rostos (`dupla` ou `circulo`).
-- Use `"subgancho"`: uma frase curta embaixo do gancho que completa a promessa com um número ou um fato ("O diesel S10 chegou a R$ 7,33, o maior preço desde abril."). O gancho abre a curiosidade; o subgancho prova que vale a pena arrastar.
+- `"subgancho"` é opcional: uma frase bem curta (até 8 palavras) embaixo do gancho, com um número ou fato ("O diesel S10 já custa R$ 7,33 nos postos."). Só use quando o gancho for curto; gancho e subgancho juntos, no máximo umas 20 palavras. Pouco texto na capa: a foto precisa aparecer.
+- Gancho de capa: de preferência até 12 palavras. O rosto ou o assunto da foto não pode ficar coberto pelo texto.
 - Ganchos que mais funcionaram: nome famoso + fato forte ("Paul Walker morreu aos 40, mas deixou uma frase..."), número chocante ("73 diagnósticos de câncer"), eliminação ("o vencedor não foi corrida, musculação ou natação"), segredo ("quase ninguém sabe o verdadeiro motivo"), pequeno contra gigante ("filho de agricultor criou um chocolate que a Nestlé copiou"), comparação que indigna ("quanto cada país cobra de imposto?"). Terminar com dois-pontos ou pergunta ajuda.
 
 **Corpo**
@@ -208,7 +209,7 @@ Regras: frase curta (até umas 25 palavras), em português natural; frase real e
 
 ## Imagem única de notícia urgente
 
-Para fato novo e simples ("AGORA", "URGENTE", "ATENÇÃO"), use `"formato": "unico"` com `"capa_estilo": "urgente"`: foto em cima, painel verde-escuro sólido embaixo, etiqueta vermelha com a `chamada` e a hora (`"quando": "29 set · 14h"`), e a manchete em frase normal. É visualmente diferente de todo carrossel. Use só quando o fato é mesmo novidade do dia.
+Para fato novo e simples ("AGORA", "URGENTE", "ATENÇÃO"), use `"formato": "unico"` com `"capa_estilo": "urgente"`: foto em cima, painel verde-escuro sólido embaixo, etiqueta vermelha com a `chamada` ("AGORA", "URGENTE", "ATENÇÃO") e a manchete em frase normal, sem data. Linguagem de notícia, nada informal. É visualmente diferente de todo carrossel. Use só quando o fato é mesmo novidade do dia.
 
 ## Placar (post de dados, só Instagram, se aprovado)
 

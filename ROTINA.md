@@ -32,7 +32,8 @@ Você é o redator automático do blog resenharentavel.com. São 9 artigos por d
 7. **Confira tudo:** rode `python3 ferramentas/publicar.py`. Ele checa os campos, travessões, categoria, autor, data e slug, e atualiza o `index.json`. Se aparecer ERRO, corrija o artigo e rode de novo até dar OK. Leia também os AVISOS.
 8. **Revise como editor:** releia os artigos do turno procurando fato sem fonte, opinião política, acusação sem condenação, travessão, frase-chave fora do lugar e parágrafos longos. Corrija o que encontrar e rode o passo 7 de novo.
 9. **Envie:** `git add -A`, `git commit -m "Pautas AAAA-MM-DD (turno)"` e `git push`. Se o push falhar, faça `git pull --rebase` e tente de novo uma vez.
-10. **Resumo final:** termine com uma mensagem curta em português listando os títulos do turno, a categoria, quem assina e o horário de cada um. Sem travessão.
+   Logo depois do push, avise o site abrindo com a ferramenta WebFetch o endereço `https://resenharentavel.com/wp-json/rri/v1/buscar` (peça para ela devolver o texto da resposta). Isso faz o site importar na hora. Se a resposta não disser que importou, espere 1 minuto e abra de novo uma vez. Anote a resposta para o resumo.
+10. **Resumo final:** termine com uma mensagem curta em português listando os títulos do turno, a categoria, quem assina e o horário de cada um, e dizendo se o site confirmou a importação. Sem travessão.
 
 ## Regras que não podem falhar
 

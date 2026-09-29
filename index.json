@@ -1,4 +1,14 @@
 {
- "artigos": [],
- "atualizado": "2026-09-28 23:22"
+ "artigos": [
+  {
+   "slug": "teste-automatico",
+   "pasta": "artigos/2026-09-29/teste-automatico",
+   "arquivos": [
+    "teste-automatico.md"
+   ],
+   "titulo": "[TESTE] O que é a Selic? Como a taxa básica mexe no seu bolso",
+   "data": "2030-01-01 08:00"
+  }
+ ],
+ "atualizado": "2026-09-28 23:25"
 }

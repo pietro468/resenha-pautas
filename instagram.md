@@ -132,34 +132,38 @@ Carrossel:
 Todo número do carrossel precisa estar na matéria, com fonte. O `ferramentas/publicar.py` confere o arquivo.
 
 
-## "Hoje na história" (post só do Instagram)
+## "Hoje na história" (post só do Instagram, todo dia às 10:00)
 
-Post de curiosidade, que não vira matéria no site. Sai **todo dia às 10:00**, com o fato do dia que mais combina com o Resenha (personalidade do nicho, empresa, produto, filme, marco da economia ou da geopolítica) e um gancho forte, de preferência com o nome famoso.
+Post de curiosidade, que não vira matéria no site: o fato do dia que mais combina com o Resenha (personalidade do nicho, empresa, produto, filme, marco da economia, da geopolítica ou da corrida espacial).
 
-Arquivo: `instagram/AAAA-MM-DD/hoje-SLUG/post.json` (AAAA-MM-DD é o dia em que o post sai). Modelo:
+**Capa:** `"capa_estilo": "hoje"`. Em cima do gancho sai pequeno o `"ha"` ("Há 55 anos") e o gancho é **direto**, dizendo o que aconteceu, sem enfeite: "Abria a ==Walt Disney World==, na Flórida"; "Morria ==Steve Jobs==, o fundador da Apple"; "A ==União Soviética== lançava o Sputnik e começava a corrida espacial". Pessoa muito famosa: o nome vai no gancho, com destaque. Pessoa pouco conhecida: descreva quem ela foi pelo feito ("Nascia o homem que ==venceu Thomas Edison== na guerra da eletricidade"). Cuidado com exageros que geram ataque: "um dos rostos mais famosos", nunca "o rosto mais famoso". Datas de morte com `"luto": true` (capa em preto e branco); as outras, coloridas.
+
+**Carrossel: só fotos, sem texto nenhum.** De 4 a 8 slides `{"tipo": "foto", "foto": "arquivo.jpg"}` (sem o campo `texto`), com as melhores fotos **da época e do próprio acontecimento** (o dia da abertura, o lançamento, a pessoa naquele tempo). Fontes de fotos antigas livres: Wikimedia Commons, Library of Congress, NASA, arquivos públicos (Florida Memory, Arquivo Nacional, Agência Brasil), acervos em domínio público. Se não houver boas fotos livres do fato, escolha outro fato do dia. Por último, `{"tipo": "final"}`.
+
+**Legenda muito bem elaborada** (é ela que conta a história): primeira linha com um título curto em caixa alta ("HÁ 55 ANOS, A DISNEY ABRIA SEU MAIOR PARQUE"); depois 4 a 6 parágrafos curtos, como uma reportagem: o que aconteceu naquele dia, o contexto, os números (quanto custou, quantas pessoas, quanto rende hoje), um detalhe curioso que pouca gente sabe, e o que aquilo significa hoje. Pode citar especialista ou documento, sempre real e com fonte. No fim, o crédito das fotos entre parênteses e o "Siga o @resenharentavel...". Sem "link na bio", sem travessão, no máximo 3 hashtags.
+
+Arquivo: `instagram/AAAA-MM-DD/hoje-SLUG/post.json`. Modelo:
 
 ```json
 {
-  "titulo": "Hoje na história: 5 de outubro de 2011, morre Steve Jobs",
-  "data": "2026-10-05 10:00",
+  "titulo": "Hoje na história: abertura da Walt Disney World",
+  "data": "2026-10-01 10:00",
   "fotos": [
-    {"arquivo": "hoje-jobs-2010.jpg", "url": "link direto da foto livre", "credito": "Autor/Acervo (licença)"}
+    {"arquivo": "hoje-disney-1971-1.jpg", "url": "link direto da foto livre", "credito": "Autor/Acervo (licença)"}
   ],
   "carrossel": {
     "formato": "carrossel", "estilo": "frase", "capa": "capa", "capa_estilo": "hoje",
-    "chamada": "Hoje na história", "data_evento": "5 out", "ano": "2011", "ha": "Há 15 anos",
-    "gancho": "Morria Steve Jobs, o homem que foi ==demitido da própria empresa== e voltou para salvá-la",
+    "ha": "Há 55 anos",
+    "gancho": "Abria a ==Walt Disney World==, na Flórida",
     "slides": [
-      {"tipo": "foto", "foto": "hoje-jobs-macintosh-1984.jpg", "texto": "Uma frase curta sobre esta foto."},
+      {"tipo": "foto", "foto": "hoje-disney-1971-2.jpg"},
+      {"tipo": "foto", "foto": "hoje-disney-1971-3.jpg"},
       {"tipo": "final"}
     ],
-    "legenda": "Hoje, há 15 anos, ..."
+    "legenda": "HÁ 55 ANOS, A DISNEY ABRIA SEU MAIOR PARQUE\n\n..."
   }
 }
 ```
-
-Regras: a capa usa sempre `"capa_estilo": "hoje"` (foto em tela cheia em preto e branco, moldura fina, folha de calendário com o selo "Hoje na história", "HÁ X ANOS" em verde e o gancho em branco; escolha para a capa uma foto de rosto forte, com espaço livre no canto de cima à direita); a primeira foto da lista é a capa. Dentro, **só slides de foto** (`"tipo": "foto"`), de 3 a 6, cada um com uma frase curta (até umas 20 palavras) que conta a história em ordem, e o último é `{"tipo": "final"}`. Fotos sempre com licença livre (Wikimedia Commons: use o arquivo original ou miniatura de 1280px), de preferência da própria pessoa em momentos diferentes da vida. Legenda com a história em 3 a 5 parágrafos curtos, fatos com fonte, crédito das fotos e o "Siga o @resenharentavel...". Mesmas regras de sempre: sem travessão, linguagem simples, nada de polêmica pessoal.
-
 
 ## Frase do dia (post só do Instagram, 1 por dia)
 
@@ -218,7 +222,7 @@ Para fato novo e simples ("AGORA", "URGENTE", "ATENÇÃO"), use `"formato": "uni
 
 ## História real (post só do Instagram, 3 por semana: segunda, quarta e sexta, às 20:00)
 
-História de superação **real e confirmada**, ligada a carreira, negócio, dinheiro ou esporte: alguém que saiu de baixo, quase quebrou, foi rejeitado ou demitido e deu a volta (ex.: o filho de agricultor que criou um chocolate copiado pelas gigantes; o ator que dormia em banco de praça e virou James Bond). Nada de doença, tragédia pessoal explorada ou pessoa comum sem autorização; nada de Pietro ou Pedro; nada de política.
+História de superação **real e confirmada**, sempre com **fotos da própria pessoa** (na capa e nos slides; se não houver fotos livres dela, escolha outra história), ligada a carreira, negócio, dinheiro ou esporte: alguém que saiu de baixo, quase quebrou, foi rejeitado ou demitido e deu a volta (ex.: o filho de agricultor que criou um chocolate copiado pelas gigantes; o ator que dormia em banco de praça e virou James Bond). Nada de doença, tragédia pessoal explorada ou pessoa comum sem autorização; nada de Pietro ou Pedro; nada de política.
 
 Arquivo: `instagram/AAAA-MM-DD/historia-SLUG/post.json`, `"data"` às 20:00. Capa: `"capa_estilo": "historia"` (faixas pretas de cinema em cima e embaixo, "HISTÓRIA REAL" no canto, gancho em frase normal com `==destaque==`). Gancho em até 12 palavras, com o momento mais baixo ou mais surpreendente da história. **Se a pessoa for muito famosa, diga o nome no gancho**, com destaque ("==Steve Jobs== foi expulso da empresa que ele mesmo criou"); se for pouco conhecida, descreva quem ela era ("Esse filho de agricultor criou um chocolate que a Nestlé copiou"). Corpo: 5 a 8 slides `foto` ou `foto_texto`, contando em ordem, **cada slide terminando com uma frase de suspense** que puxa o próximo; a virada perto do fim; conclusão com a lição; `{"tipo": "final"}`. Legenda conta a história em parágrafos curtos, com as fontes, e termina com uma pergunta.
 

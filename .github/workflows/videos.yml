@@ -1,0 +1,26 @@
+name: Lista de vídeos do canal
+# Antes de cada turno de escrita (06:47, 12:47 e 17:47 de Brasília), salva em videos.json
+# a lista de vídeos do canal que o site busca no YouTube.
+on:
+  schedule:
+    - cron: "25 9,15,20 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  videos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar a lista
+        run: |
+          curl -s -m 120 "https://resenharentavel.com/?rest_route=/rri/v1/videos&n=$(date +%s)" -o novo.json
+          python3 -c "import json;d=json.load(open('novo.json'));assert d" && python3 -m json.tool --no-ensure-ascii novo.json > videos.json
+          rm -f novo.json
+      - name: Salvar no repositório
+        run: |
+          git config user.name "Resenha Rentável"
+          git config user.email "pietro468@users.noreply.github.com"
+          git add videos.json
+          git diff --cached --quiet || (git commit -m "Lista de vídeos atualizada" && git push)

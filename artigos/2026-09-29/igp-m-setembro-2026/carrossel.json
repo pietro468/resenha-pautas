@@ -1,0 +1,64 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "circulo",
+  "capa_extra": "igp-m-setembro-soja-colheita.jpg",
+  "gancho": "Por que o preço da soja mexe no ==seu aluguel==?",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "3,34%",
+      "texto": "é quanto sobe o aluguel corrigido pelo ==IGP-M== que faz aniversário em **outubro**.",
+      "foto": "capa",
+      "fonte": "FGV, 29/09/2026"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "igp-m-setembro-soja-colheita.jpg",
+      "titulo": "Por que a soja entra na conta?",
+      "texto": "O IGP-M olha muito o preço no atacado. Em setembro, **soja, milho e carne** ficaram mais caros e puxaram o índice para cima.",
+      "fonte": "FGV Ibre, via InfoMoney"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E a conta de luz?",
+      "texto": "Em agosto, a luz veio com o desconto do ==Bônus de Itaipu==.\n\nEm setembro, voltou ao preço normal e pesou de novo.",
+      "foto": "reajuste-aluguel-igp-m-predios-sao-paulo.jpg",
+      "fonte": "FGV e IBGE"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "Aluguel de R$ 2.000",
+      "esquerda": {
+        "rotulo": "Pelo IGP-M",
+        "valor": "R$ 2.066,80",
+        "detalhe": "sobe 3,34%"
+      },
+      "direita": {
+        "rotulo": "Pelo IPCA",
+        "valor": "R$ 2.084,40",
+        "detalhe": "sobe 4,22%"
+      },
+      "texto": "Hoje, o IGP-M ainda sai **mais barato**.",
+      "fonte": "FGV e IBGE (IPCA em 12 meses até agosto)"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E o seu bolso?",
+      "texto": "==A conta:== aluguel atual vezes **1,0334**.\n\n==Dá para negociar:== a lei deixa dono e inquilino combinarem um aumento menor. Sempre por escrito.",
+      "foto": "capa",
+      "fonte": "Lei do Inquilinato, art. 18"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "O aluguel pelo IGP-M sobe e desce com grãos, carne e dólar.\n\nQuer pagar menos? Converse com o dono **antes** da nova parcela."
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Se o seu aluguel é corrigido pelo IGP-M e faz aniversário em outubro, ele vai subir 3,34%.\n\nO IGP-M subiu 1,57% em setembro, segundo a FGV. Em agosto, tinha caído 0,22%. Quem puxou foi o atacado: soja, milho e carne ficaram mais caros. A conta de luz também voltou ao normal depois do Bônus de Itaipu.\n\nNa prática, um aluguel de R$ 2.000 vai para R$ 2.066,80. Se fosse pelo IPCA, que acumula 4,22% em 12 meses até agosto, iria para R$ 2.084,40.\n\nE dá para negociar: a Lei do Inquilinato deixa dono e inquilino combinarem um aumento menor. Faça sempre por escrito.\n\n(Fotos: Rafaela Gonçalves Sanches, Melquizedeque Almeida e Andre Moura/Pexels)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

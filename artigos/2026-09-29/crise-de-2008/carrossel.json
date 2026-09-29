@@ -1,0 +1,63 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Veja os números",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "gancho": "Os EUA gastaram US$ 443 bilhões salvando bancos em 2008. ==Quase tudo voltou==",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "O dia do pânico",
+      "texto": "Em **15 de setembro de 2008**, o banco ==Lehman Brothers== quebrou.\n\nO governo não salvou. E os bancos pararam de confiar uns nos outros.",
+      "foto": "capa",
+      "fonte": "History"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "crise-de-2008-casa-a-venda.jpg",
+      "titulo": "Tudo começou numa casa",
+      "texto": "Bancos emprestaram para quem dificilmente ia pagar. Quando o preço das casas caiu, veio uma onda de ==calotes==.",
+      "fonte": "Federal Reserve History"
+    },
+    {
+      "tipo": "numero",
+      "numero": "10%",
+      "texto": "foi a taxa de desemprego nos EUA no pior momento. Antes da crise, era **menos de 5%**.",
+      "foto": "bolsa-de-nova-york-wall-street.jpg",
+      "fonte": "Federal Reserve History"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "A conta do resgate",
+      "esquerda": {
+        "rotulo": "Gasto",
+        "valor": "US$ 443,5 bi",
+        "detalhe": "bancos, seguradora e montadoras"
+      },
+      "direita": {
+        "rotulo": "Prejuízo final",
+        "valor": "US$ 31,1 bi",
+        "detalhe": "o resto voltou"
+      },
+      "texto": "O dinheiro voltou ao governo com juros e venda de ações.",
+      "fonte": "Tesouro dos EUA e GAO"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E no Brasil?",
+      "texto": "Em 22 de outubro de 2008, a bolsa brasileira caiu **mais de 10%** num dia só.\n\nNo ano seguinte, a economia encolheu.",
+      "foto": "capa",
+      "fonte": "FGV EESP e IBGE"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "A lição",
+      "texto": "Crédito fácil demais parece riqueza até a conta chegar.\n\nE, quando ela chega, não paga só **quem pegou o empréstimo**."
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Em 2008, o governo dos EUA gastou US$ 443,5 bilhões para salvar bancos, uma seguradora e montadoras. No fim, o prejuízo foi de US$ 31,1 bilhões, segundo o GAO. O resto voltou.\n\nTudo começou com casas. Bancos emprestaram para quem dificilmente ia pagar. Quando o preço dos imóveis caiu, os calotes se espalharam.\n\nEm 15 de setembro de 2008, o Lehman Brothers quebrou. O desemprego nos EUA chegou a 10%.\n\nNo Brasil, a bolsa caiu mais de 10% num único dia de outubro. Em 2009, a economia encolheu, segundo o IBGE.\n\n(Fotos: David Shankbone/Wikimedia Commons, CC BY-SA 3.0; Kindel Media e Vlada Karpovich/Pexels)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

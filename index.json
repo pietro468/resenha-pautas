@@ -110,7 +110,27 @@
    ],
    "titulo": "Homem que passou 40 anos no corredor da morte nos EUA sai da prisão",
    "data": "2026-09-29 13:10"
+  },
+  {
+   "slug": "igp-m-setembro-2026",
+   "pasta": "artigos/2026-09-29/igp-m-setembro-2026",
+   "arquivos": [
+    "igp-m-setembro-2026.md",
+    "carrossel.json"
+   ],
+   "titulo": "IGP-M de setembro sobe 1,57% e encarece o aluguel de outubro",
+   "data": "2026-09-29 14:00"
+  },
+  {
+   "slug": "crise-de-2008",
+   "pasta": "artigos/2026-09-29/crise-de-2008",
+   "arquivos": [
+    "crise-de-2008.md",
+    "carrossel.json"
+   ],
+   "titulo": "Como a crise de 2008 começou nas casas dos EUA e parou o mundo",
+   "data": "2026-09-29 16:00"
   }
  ],
- "atualizado": "2026-09-29 13:06"
+ "atualizado": "2026-09-29 16:13"
 }

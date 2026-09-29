@@ -2,7 +2,7 @@
   "formato": "carrossel",
   "chamada": "Veja os números",
   "capa": "capa",
-  "gancho": "O filme mais caro da história custou US$ 658 milhões e o cinema não pagou a conta",
+  "gancho": "O filme mais caro da história custou ==US$ 658 milhões== e o cinema não pagou a conta",
   "slides": [
     {
       "tipo": "numero",
@@ -17,15 +17,25 @@
       "fonte": "Fortune"
     },
     {
-      "tipo": "texto",
+      "tipo": "texto_claro",
       "titulo": "E deu lucro?",
-      "texto": "A bilheteria foi de cerca de **US$ 1 bilhão**. Mas o estúdio fica com mais ou menos ==metade== do que o público paga.\n\nResultado: uns **US$ 500 milhões** para a Universal, contra um custo de **US$ 531 milhões** depois do reembolso do governo britânico.",
+      "texto": "A bilheteria foi de cerca de **US$ 1 bilhão**. Mas o estúdio fica com mais ou menos ==metade== do que o público paga.\n\nSobraram uns **US$ 500 milhões** para a Universal, contra um custo de **US$ 531 milhões** depois do reembolso britânico.",
       "fonte": "Fortune"
     },
     {
-      "tipo": "texto",
-      "titulo": "Os que viraram prejuízo",
-      "texto": "==Indiana Jones e a Relíquia do Destino:== custou **US$ 419 milhões** e fez US$ 384 milhões no mundo.\n\n==Branca de Neve (2025):== custou **US$ 336,5 milhões** e fez US$ 205,7 milhões. A Deadline estimou prejuízo de cerca de US$ 115 milhões.",
+      "tipo": "comparacao",
+      "titulo": "Indiana Jones 5",
+      "esquerda": {
+        "rotulo": "Custou",
+        "valor": "US$ 419 mi",
+        "detalhe": "de produção"
+      },
+      "direita": {
+        "rotulo": "Faturou",
+        "valor": "US$ 384 mi",
+        "detalhe": "no mundo inteiro"
+      },
+      "texto": "E a **Branca de Neve** de 2025 custou US$ 336,5 milhões e fez US$ 205,7 milhões. A Deadline estimou ==prejuízo de US$ 115 milhões==.",
       "fonte": "Forbes e Deadline"
     },
     {

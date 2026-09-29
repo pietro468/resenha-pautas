@@ -12,16 +12,26 @@
       "fonte": "Box Office Mojo"
     },
     {
-      "tipo": "texto",
-      "titulo": "Custou pouco perto disso",
-      "texto": "O orçamento oficial foi de **US$ 237 milhões**.\n\nSó a primeira passagem pelos cinemas rendeu **US$ 2,75 bilhões**, mais de ==dez vezes== o custo.",
+      "tipo": "comparacao",
+      "titulo": "Custo x bilheteria",
+      "esquerda": {
+        "rotulo": "Custou",
+        "valor": "US$ 237 mi",
+        "detalhe": "orçamento oficial"
+      },
+      "direita": {
+        "rotulo": "Faturou",
+        "valor": "US$ 2,75 bi",
+        "detalhe": "só na primeira passagem pelos cinemas"
+      },
+      "texto": "Mais de ==dez vezes== o que custou.",
       "foto": "capa"
     },
     {
-      "tipo": "texto",
+      "tipo": "foto_texto",
+      "foto": "james-cameron-1.jpg",
       "titulo": "Esperou mais de 10 anos",
-      "texto": "Cameron escreveu a ideia em ==1994==, mas achou que a tecnologia não dava conta de Pandora.\n\nAs filmagens só começaram em ==2007==, com um sistema próprio de câmeras 3D.",
-      "foto": "james-cameron-1.jpg"
+      "texto": "James Cameron escreveu a ideia em ==1994==, mas achou que a tecnologia não dava conta de Pandora. As filmagens só começaram em ==2007==, com câmeras 3D criadas para o filme."
     },
     {
       "tipo": "texto",
@@ -30,7 +40,7 @@
       "foto": "capa"
     },
     {
-      "tipo": "texto",
+      "tipo": "texto_claro",
       "titulo": "O top 5 hoje",
       "texto": "==1.== Avatar\n\n==2.== Vingadores: Ultimato\n\n==3.== Homem-Aranha: Um Novo Dia\n\n==4.== Avatar: O Caminho da Água\n\n==5.== Titanic",
       "foto": "james-cameron-1.jpg",

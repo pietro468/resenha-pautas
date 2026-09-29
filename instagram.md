@@ -134,7 +134,7 @@ Todo número do carrossel precisa estar na matéria, com fonte. O `ferramentas/p
 
 ## "Hoje na história" (post só do Instagram)
 
-Post de curiosidade, que não vira matéria no site. Sai só quando a data é realmente forte: morte ou nascimento de uma grande personalidade do nicho (Steve Jobs, Michael Jackson, Walt Disney, Senna, Warren Buffett...), de preferência em ano redondo, ou um fato histórico muito curioso do mundo do dinheiro. Nunca force: sem data forte, sem post. No máximo 2 por semana.
+Post de curiosidade, que não vira matéria no site. Sai **todo dia às 10:00**, com o fato do dia que mais combina com o Resenha (personalidade do nicho, empresa, produto, filme, marco da economia ou da geopolítica) e um gancho forte, de preferência com o nome famoso.
 
 Arquivo: `instagram/AAAA-MM-DD/hoje-SLUG/post.json` (AAAA-MM-DD é o dia em que o post sai). Modelo:
 
@@ -220,7 +220,7 @@ Para fato novo e simples ("AGORA", "URGENTE", "ATENÇÃO"), use `"formato": "uni
 
 História de superação **real e confirmada**, ligada a carreira, negócio, dinheiro ou esporte: alguém que saiu de baixo, quase quebrou, foi rejeitado ou demitido e deu a volta (ex.: o filho de agricultor que criou um chocolate copiado pelas gigantes; o ator que dormia em banco de praça e virou James Bond). Nada de doença, tragédia pessoal explorada ou pessoa comum sem autorização; nada de Pietro ou Pedro; nada de política.
 
-Arquivo: `instagram/AAAA-MM-DD/historia-SLUG/post.json`, `"data"` às 20:00. Capa: `"capa_estilo": "historia"` (faixas pretas de cinema em cima e embaixo, "HISTÓRIA REAL" no canto, gancho em frase normal com `==destaque==`). Gancho em até 12 palavras, com o momento mais baixo ou mais surpreendente da história ("Aos 30 anos, ele foi expulso da empresa que ==ele mesmo criou=="). Corpo: 5 a 8 slides `foto` ou `foto_texto`, contando em ordem, **cada slide terminando com uma frase de suspense** que puxa o próximo; a virada perto do fim; conclusão com a lição; `{"tipo": "final"}`. Legenda conta a história em parágrafos curtos, com as fontes, e termina com uma pergunta.
+Arquivo: `instagram/AAAA-MM-DD/historia-SLUG/post.json`, `"data"` às 20:00. Capa: `"capa_estilo": "historia"` (faixas pretas de cinema em cima e embaixo, "HISTÓRIA REAL" no canto, gancho em frase normal com `==destaque==`). Gancho em até 12 palavras, com o momento mais baixo ou mais surpreendente da história. **Se a pessoa for muito famosa, diga o nome no gancho**, com destaque ("==Steve Jobs== foi expulso da empresa que ele mesmo criou"); se for pouco conhecida, descreva quem ela era ("Esse filho de agricultor criou um chocolate que a Nestlé copiou"). Corpo: 5 a 8 slides `foto` ou `foto_texto`, contando em ordem, **cada slide terminando com uma frase de suspense** que puxa o próximo; a virada perto do fim; conclusão com a lição; `{"tipo": "final"}`. Legenda conta a história em parágrafos curtos, com as fontes, e termina com uma pergunta.
 
 ## Curiosidades (post só do Instagram, todo dia às 12:30)
 

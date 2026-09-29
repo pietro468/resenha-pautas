@@ -214,3 +214,16 @@ Para fato novo e simples ("AGORA", "URGENTE", "ATENÇÃO"), use `"formato": "uni
 ## Placar (post de dados, só Instagram, se aprovado)
 
 `"formato": "unico"`, `"capa_estilo": "placar"`, com `"gancho"`, `"chamada"` ("Em números"), `"fonte"` e `"linhas"`: lista de até 5 itens `{"rotulo", "valor", "num", "destaque"}` (o `num` define o tamanho da barra; `"destaque": 1` pinta de verde o item principal). Todos os números com fonte.
+
+
+## História real (post só do Instagram, 3 por semana: segunda, quarta e sexta, às 20:00)
+
+História de superação **real e confirmada**, ligada a carreira, negócio, dinheiro ou esporte: alguém que saiu de baixo, quase quebrou, foi rejeitado ou demitido e deu a volta (ex.: o filho de agricultor que criou um chocolate copiado pelas gigantes; o ator que dormia em banco de praça e virou James Bond). Nada de doença, tragédia pessoal explorada ou pessoa comum sem autorização; nada de Pietro ou Pedro; nada de política.
+
+Arquivo: `instagram/AAAA-MM-DD/historia-SLUG/post.json`, `"data"` às 20:00. Capa: `"capa_estilo": "historia"` (faixas pretas de cinema em cima e embaixo, "HISTÓRIA REAL" no canto, gancho em frase normal com `==destaque==`). Gancho em até 12 palavras, com o momento mais baixo ou mais surpreendente da história ("Aos 30 anos, ele foi expulso da empresa que ==ele mesmo criou=="). Corpo: 5 a 8 slides `foto` ou `foto_texto`, contando em ordem, **cada slide terminando com uma frase de suspense** que puxa o próximo; a virada perto do fim; conclusão com a lição; `{"tipo": "final"}`. Legenda conta a história em parágrafos curtos, com as fontes, e termina com uma pergunta.
+
+## Curiosidades (post só do Instagram, todo dia às 12:30)
+
+Listas de curiosidades sobre dinheiro e luxo, com números: "Quem são os donos das casas mais caras do mundo", "Quais são as casas mais caras do mundo", "Qual o carro mais caro do mundo", "Quem são as pessoas mais ricas do Brasil hoje", "Quanto ganham os jogadores mais bem pagos do mundo", "Os iates mais caros", "Os prédios mais altos"...
+
+Arquivo: `instagram/AAAA-MM-DD/curiosidade-SLUG/post.json`, `"data"` às 12:30. Capa: `"capa_estilo": "trio"` com a primeira foto da lista e mais duas em `"capa_extras": ["arquivo2.jpg", "arquivo3.jpg"]` (três fotos lado a lado), `"chamada": "Curiosidades"` e o gancho em forma de pergunta, curto ("Quais são os ==prédios mais altos== do mundo?"). Corpo: um slide por item, do menor para o maior (o topo fica para o fim), com `{"tipo": "item", "foto", "posicao": "3º lugar", "detalhe": "Cidade, país ou o que é", "nome", "valor": "US$ 60 milhões", "fonte"}`; de 5 a 8 itens; depois `{"tipo": "final"}`. Todo número com fonte confiável e atual (Forbes, Bloomberg, relatórios oficiais), com o ano do dado na legenda. Fotos com licença livre (Wikimedia, Pexels, agências públicas); se não houver foto livre da pessoa, use foto do bem (a casa, o carro, o prédio). Legenda: os itens em lista curta com os valores e a fonte, e uma pergunta no fim ("Qual desses você escolheria?").

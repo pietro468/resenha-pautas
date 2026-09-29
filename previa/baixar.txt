@@ -1,5 +1,0 @@
-tanker.jpg https://images.pexels.com/photos/36563588/pexels-photo-36563588.jpeg?auto=compress&w=1600&fm=jpg
-workers.jpg https://images.pexels.com/photos/25190747/pexels-photo-25190747.jpeg?auto=compress&w=1600&fm=jpg
-influencer.jpg https://images.pexels.com/photos/7676403/pexels-photo-7676403.jpeg?auto=compress&w=1600&fm=jpg
-creator.jpg https://images.pexels.com/photos/5878879/pexels-photo-5878879.jpeg?auto=compress&w=1600&fm=jpg
-phone.jpg https://images.pexels.com/photos/3943951/pexels-photo-3943951.jpeg?auto=compress&w=1600&fm=jpg

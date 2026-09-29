@@ -188,3 +188,28 @@ Arquivo: `instagram/AAAA-MM-DD/frase-SLUG/post.json`. Modelo:
 Regras: frase curta (até umas 25 palavras), em português natural; frase real e confirmada numa fonte confiável; tema de dinheiro, trabalho, negócios, risco, disciplina ou carreira; `cargo` curto; nunca frase do Pietro, do Pedro, de político em atividade ou de gente polêmica; não repetir a pessoa em 7 dias.
 
 **Posição do texto em todos os posts:** o texto fica na metade de baixo da imagem, mas nunca encostado na borda: termina a uns 240 px do fim (o site já faz isso sozinho). Na capa "Hoje na história", o selo mostra só "HOJE NA HISTÓRIA", o `ha` ("Há 15 anos") sai pequeno em cima do gancho, o gancho é curto (até umas 10 palavras) e o destaque `==...==` vai no **nome da pessoa**; a capa só fica em preto e branco quando a data é de morte (`"luto": true`); nas outras datas, colorida.
+
+
+## Aprendizados das referências (set/2026) — valem para todo carrossel
+
+**Capa**
+- Rosto grande e próximo vence prédio, objeto ou paisagem. Em lista ou ranking de pessoas, use 2 ou 3 rostos (`dupla` ou `circulo`).
+- Use `"subgancho"`: uma frase curta embaixo do gancho que completa a promessa com um número ou um fato ("O diesel S10 chegou a R$ 7,33, o maior preço desde abril."). O gancho abre a curiosidade; o subgancho prova que vale a pena arrastar.
+- Ganchos que mais funcionaram: nome famoso + fato forte ("Paul Walker morreu aos 40, mas deixou uma frase..."), número chocante ("73 diagnósticos de câncer"), eliminação ("o vencedor não foi corrida, musculação ou natação"), segredo ("quase ninguém sabe o verdadeiro motivo"), pequeno contra gigante ("filho de agricultor criou um chocolate que a Nestlé copiou"), comparação que indigna ("quanto cada país cobra de imposto?"). Terminar com dois-pontos ou pergunta ajuda.
+
+**Corpo**
+- Cada slide termina puxando o próximo: uma frase curta de suspense no fim ("Mas ainda faltava uma peça.", "E aí veio a crise de 2008.", "Só que tem um detalhe."). É o que faz a pessoa arrastar até o fim.
+- Guarde a revelação principal para perto do fim (slide 5 a 7), não entregue tudo no slide 2.
+- Uma foto por slide, sempre ligada ao texto do slide. Texto curto: no máximo umas 35 palavras.
+- Posts de dados: pouco texto, número grande, mesma estrutura repetida em cada slide.
+
+**Legenda**
+- Primeira linha forte (repete ou amplia o gancho), parágrafos de 1 a 2 frases, e **termine com uma pergunta** simples para puxar comentários ("E você, já caiu num golpe assim?"), antes do "Siga o @resenharentavel".
+
+## Imagem única de notícia urgente
+
+Para fato novo e simples ("AGORA", "URGENTE", "ATENÇÃO"), use `"formato": "unico"` com `"capa_estilo": "urgente"`: foto em cima, painel verde-escuro sólido embaixo, etiqueta vermelha com a `chamada` e a hora (`"quando": "29 set · 14h"`), e a manchete em frase normal. É visualmente diferente de todo carrossel. Use só quando o fato é mesmo novidade do dia.
+
+## Placar (post de dados, só Instagram, se aprovado)
+
+`"formato": "unico"`, `"capa_estilo": "placar"`, com `"gancho"`, `"chamada"` ("Em números"), `"fonte"` e `"linhas"`: lista de até 5 itens `{"rotulo", "valor", "num", "destaque"}` (o `num` define o tamanho da barra; `"destaque": 1` pinta de verde o item principal). Todos os números com fonte.

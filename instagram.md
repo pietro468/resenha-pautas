@@ -195,7 +195,7 @@ Regras: frase curta (até umas 25 palavras), em português natural; frase real e
 **Capa**
 - Rosto grande e próximo vence prédio, objeto ou paisagem. Em lista ou ranking de pessoas, use 2 ou 3 rostos (`dupla` ou `circulo`).
 - `"subgancho"` é opcional: uma frase bem curta (até 8 palavras) embaixo do gancho, com um número ou fato ("O diesel S10 já custa R$ 7,33 nos postos."). Só use quando o gancho for curto; gancho e subgancho juntos, no máximo umas 20 palavras. Pouco texto na capa: a foto precisa aparecer.
-- Gancho de capa: de preferência até 12 palavras. O rosto ou o assunto da foto não pode ficar coberto pelo texto.
+- Gancho de capa: curto, de preferência até 10 palavras (no máximo 3 linhas na capa), para o texto não subir e cobrir a foto. Ex.: "Por que a guerra do Irã deixou o ==diesel== mais caro?". O rosto ou o assunto da foto não pode ficar coberto pelo texto.
 - Ganchos que mais funcionaram: nome famoso + fato forte ("Paul Walker morreu aos 40, mas deixou uma frase..."), número chocante ("73 diagnósticos de câncer"), eliminação ("o vencedor não foi corrida, musculação ou natação"), segredo ("quase ninguém sabe o verdadeiro motivo"), pequeno contra gigante ("filho de agricultor criou um chocolate que a Nestlé copiou"), comparação que indigna ("quanto cada país cobra de imposto?"). Terminar com dois-pontos ou pergunta ajuda.
 
 **Corpo**

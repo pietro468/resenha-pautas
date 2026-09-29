@@ -93,6 +93,10 @@ def main():
                 if car.get("estilo") != "frase": e.append('carrossel.json sem "estilo": "frase" (o gancho da capa sai sempre em frase normal, ver instagram.md)')
                 if not car.get("gancho"): e.append("carrossel.json sem gancho")
                 elif len(car["gancho"]) > 95: e.append("gancho do carrossel com mais de 95 caracteres")
+                if car.get("formato", "carrossel") != "unico" and meta.get("data", "") >= "2026-09-29 13:00":  # regra de início, meio, fim e CTA
+                    sl = car.get("slides", [])
+                    if not sl or sl[-1].get("tipo") not in ("final", "cta"): e.append('carrossel.json: o último slide precisa ser o CTA {"tipo": "final"} (ver instagram.md)')
+                    elif len(sl) < 5: e.append("carrossel.json com poucos slides: precisa de notícia, meio, conclusão e CTA (mínimo 5 depois da capa)")
                 if len(car.get("slides", [])) > 9: e.append("carrossel com mais de 9 slides além da capa (limite do Instagram é 10)")
                 if len(car.get("legenda", "")) > 2100: e.append("legenda do carrossel com mais de 2100 caracteres")
                 if not car.get("legenda"): e.append("carrossel.json sem legenda")

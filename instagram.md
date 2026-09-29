@@ -60,15 +60,26 @@ O visual é o mesmo, mas **nenhum post pode parecer cópia do anterior**. Altern
 
 Regra do dia: entre os posts de um mesmo dia, varie o estilo de capa e o tipo de gancho; o `classico` pode ser o mais comum, mas nunca 3 seguidos. Antes de escrever o carrossel, olhe os `carrossel.json` já feitos hoje em `artigos/AAAA-MM-DD/`.
 
-## Os slides de dentro
+## Os slides de dentro: sempre início, meio, fim e CTA
 
-**Varie as fotos:** não repita a mesma foto em todos os slides. Se a matéria tem 2 ou mais fotos, cada slide de fundo escuro usa uma foto diferente (capa, depois as fotos do texto, alternando), e a capa do post usa a foto mais forte. Por isso, toda matéria deve ter pelo menos 2 fotos no texto além da capa, sempre que existir foto livre boa do assunto. De 3 a 8 slides depois da capa. O último slide é conteúdo, como no concorrente: **não** faça slide de "leia no link da bio". Cada slide tem **uma ideia** e cabe numa olhada: no máximo umas 45 palavras. Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
+Todo carrossel conta uma história completa, na ordem abaixo. Nunca termine no meio (só contexto, sem conclusão).
 
-Formatos por tipo de matéria:
-- **Notícia:** capa + 3 a 5 slides ("O que aconteceu", "O que muda para você", "Próximos passos").
-- **Explicativo:** capa + um slide por item comparado, sempre com a mesma estrutura de rótulos.
-- **Ranking:** capa + um slide `ranking` por item.
-- **Biografia:** capa com o rosto da pessoa + 4 a 6 slides com as fases da vida (`foto_texto` funciona muito bem) e os números da fortuna.
+1. **Capa (início):** o gancho, a parte mais chamativa.
+2. **A notícia (início):** 1 slide que dá o fato de verdade, direto: o que aconteceu, quem, quanto, quando.
+3. **Meio (2 a 4 slides):** contexto (por que aconteceu, como chegou até aqui, os números que explicam) e **implicação na vida das pessoas** (o que muda no bolso, no trabalho, no dia a dia de quem está lendo).
+4. **Fim (1 slide):** a conclusão. Amarra tudo numa ideia final: o que isso significa, o que esperar a seguir ou a lição da história. Use de preferência `texto_claro`, com título como "No fim das contas", "O que fica", "E agora?" ou algo próprio do assunto. Não é resumo do que já foi dito: é a leitura final.
+5. **CTA (último slide):** `{"tipo": "final"}`. O site desenha sozinho o slide de seguir o perfil, com o texto padrão ("O Instagram provavelmente nunca mais vai mostrar esta página para você." e "Se você quer mais resenhas como esta, é só seguir a gente."). Se quiser variar, use `"titulo"` e `"texto"` com a mesma ideia, curtos e sem travessão. Se esquecer, o site coloca o CTA padrão.
+
+No total, de 5 a 8 slides depois da capa, contando o CTA (limite do Instagram: 10 imagens com a capa). Nada de slide de "leia no link da bio".
+
+**Varie as fotos:** não repita a mesma foto em todos os slides. Se a matéria tem 2 ou mais fotos, cada slide de fundo escuro usa uma foto diferente (capa, depois as fotos do texto, alternando), e a capa do post usa a foto mais forte. Por isso, toda matéria deve ter pelo menos 2 fotos no texto além da capa, sempre que existir foto livre boa do assunto. Cada slide tem **uma ideia** e cabe numa olhada: no máximo umas 45 palavras. Cada slide pode ter `"foto"` (arquivo de uma foto da matéria, ou `"capa"`) para o fundo, e `"fonte"` (de onde veio o dado).
+
+Como a estrutura fica em cada tipo de matéria:
+- **Notícia:** capa, "O que aconteceu", 2 slides de contexto e "O que muda para você", conclusão, CTA.
+- **Explicativo:** capa, a resposta direta, um slide por item comparado (mesma estrutura de rótulos), conclusão, CTA.
+- **Ranking:** capa, um slide `ranking` por item, conclusão (o que o ranking mostra), CTA.
+- **Biografia:** capa com o rosto da pessoa, o fato mais marcante, as fases da vida (`foto_texto` funciona muito bem) e os números da fortuna, a lição da trajetória como conclusão, CTA.
+- **Imagem única** (`"formato": "unico"`): continua sem slides e sem CTA; a conclusão vai na legenda.
 
 ## Legenda
 
@@ -89,7 +100,9 @@ Carrossel:
   "capa": "capa",
   "slides": [
     {"tipo": "numero", "numero": "R$ 117 bi", "texto": "é quanto as apostas online podem tirar do comércio **por ano**, segundo a ==CNC== e o ==IDV==.", "foto": "proibicao-das-bets-varejo-supermercado.jpg", "fonte": "CNC e IDV, via Mercado & Consumo"},
-    {"tipo": "texto", "titulo": "O que diz a MP", "texto": "==Sites fora do ar:== até **6 de outubro**.\n\n==Saque do saldo:== até **5/10, às 23h59**.", "foto": "capa", "fonte": "Agência Senado"}
+    {"tipo": "texto", "titulo": "O que diz a MP", "texto": "==Sites fora do ar:== até **6 de outubro**.\n\n==Saque do saldo:== até **5/10, às 23h59**.", "foto": "capa", "fonte": "Agência Senado"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "A conclusão da história em 2 ou 3 frases.", "fonte": "..."},
+    {"tipo": "final"}
   ],
   "legenda": "O fim das bets pode devolver ao comércio parte dos bilhões que iam para as apostas.\n\n..."
 }

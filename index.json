@@ -40,7 +40,17 @@
    ],
    "titulo": "Filme de maior bilheteria da história: como Avatar chegou lá",
    "data": "2026-09-29 01:20"
+  },
+  {
+   "slug": "golpe-do-falso-advogado",
+   "pasta": "artigos/2026-09-29/golpe-do-falso-advogado",
+   "arquivos": [
+    "golpe-do-falso-advogado.md",
+    "carrossel.json"
+   ],
+   "titulo": "Golpe do falso advogado: como funciona e como não cair",
+   "data": "2026-09-29 03:15"
   }
  ],
- "atualizado": "2026-09-29 02:39"
+ "atualizado": "2026-09-29 03:18"
 }

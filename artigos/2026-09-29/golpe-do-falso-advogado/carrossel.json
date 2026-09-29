@@ -1,0 +1,51 @@
+{
+  "formato": "carrossel",
+  "chamada": "Alerta de golpe",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "estilo": "frase",
+  "gancho": "Seu advogado pediu um Pix para liberar o dinheiro do processo? Pode ser ==golpe==",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "Como funciona",
+      "texto": "==Dados reais:== o golpista consulta processos públicos na internet.\n\n==Perfil falso:== cria um WhatsApp com o **nome e a foto** do advogado verdadeiro.\n\n==A isca:== diz que a causa foi ganha e pede uma \"taxa\" por **Pix** para liberar o valor.",
+      "foto": "capa",
+      "fonte": "OAB-PR e Agência Câmara"
+    },
+    {
+      "tipo": "numero",
+      "numero": "2,6 mil",
+      "texto": "casos só no **Paraná** de janeiro a julho de 2026, mais do que em ==todo o ano de 2025==.",
+      "foto": "capa",
+      "fonte": "OAB-PR, via TMC"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Agora com IA",
+      "texto": "Os criminosos já usam inteligência artificial para **clonar a voz** de advogados a partir de vídeos nas redes sociais.\n\nEm alguns casos, fazem até ==chamada de vídeo== com a imagem manipulada.",
+      "foto": "capa",
+      "fonte": "OAB-PR"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "Como não cair",
+      "texto": "==1.== Advogado não cobra taxa por Pix para você receber um processo.\n\n==2.== Não responda pelo número da mensagem. Ligue para um contato **que você já tinha**.\n\n==3.== Confira o processo no **site do tribunal**.",
+      "fonte": "OAB-PR"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Caí no golpe. E agora?",
+      "texto": "==Na hora:== peça ao seu banco o **MED**, o mecanismo do Banco Central para tentar recuperar o Pix.\n\n==Depois:== registre boletim de ocorrência e guarde os prints e o comprovante.",
+      "foto": "capa",
+      "fonte": "OAB-PR e Banco Central"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "Pena de até 8 anos",
+      "texto": "A Câmara aprovou em março um projeto que cria o crime de golpe do falso advogado, com pena de **4 a 8 anos** de prisão.\n\nO texto ainda precisa passar pelo ==Senado==.",
+      "fonte": "Agência Câmara"
+    }
+  ],
+  "legenda": "Recebeu mensagem do seu advogado dizendo que você ganhou a causa, mas que precisa pagar uma taxa por Pix para liberar o dinheiro? Desconfie.\n\nNo golpe do falso advogado, criminosos consultam processos públicos na internet, criam um perfil com o nome e a foto do advogado verdadeiro e pedem um Pix para \"liberar\" um valor que não existe. Segundo a Agência Câmara, cerca de 90% dos casos acontecem por aplicativos de mensagem.\n\nSó no Paraná, a OAB registrou mais de 2,6 mil casos de janeiro a julho de 2026, mais do que em todo o ano de 2025. Os golpistas já usam até voz clonada por inteligência artificial.\n\nPara se proteger: advogado não cobra taxa por Pix para liberar dinheiro de processo, confirme sempre por um contato que você já tinha e consulte o processo no site do tribunal. Se cair, peça o MED ao seu banco na hora e registre boletim de ocorrência.\n\n(Foto: Anna Shvets/Pexels)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

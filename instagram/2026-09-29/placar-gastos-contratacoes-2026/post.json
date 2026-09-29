@@ -1,0 +1,22 @@
+{
+  "titulo": "Placar: os clubes que mais gastaram com contratações em 2026",
+  "data": "2026-09-29 17:50",
+  "fotos": [],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa": "capa",
+    "capa_estilo": "placar",
+    "chamada": "Em números",
+    "gancho": "Quem mais gastou com ==reforços== em 2026",
+    "fonte": "Torcedores.com, valores divulgados até agosto de 2026",
+    "linhas": [
+      {"rotulo": "Flamengo", "valor": "R$ 341 mi", "num": 341.4, "destaque": 1},
+      {"rotulo": "Cruzeiro", "valor": "R$ 299 mi", "num": 299.2},
+      {"rotulo": "Palmeiras", "valor": "R$ 212 mi", "num": 212.2},
+      {"rotulo": "Vasco", "valor": "R$ 181 mi", "num": 181.3},
+      {"rotulo": "Atlético-MG", "valor": "R$ 166 mi", "num": 165.8}
+    ],
+    "legenda": "O Flamengo gastou R$ 341 milhões com reforços em 2026, e contratou só 3 jogadores.\n\nQuase todo esse valor foi para um nome: Lucas Paquetá, que veio do West Ham por cerca de R$ 260 milhões, a contratação mais cara da história do futebol brasileiro, segundo o Poder360. Os outros dois foram o zagueiro Vitão e o goleiro Andrew.\n\nO Cruzeiro fez o caminho oposto: gastou R$ 299 milhões espalhados em 11 contratações. Palmeiras (R$ 212 milhões), Vasco (R$ 181 milhões) e Atlético-MG (R$ 166 milhões) completam o top 5.\n\nSomando os 20 times da Série A, foram mais de R$ 2 bilhões em 242 contratações até agosto, segundo levantamento do Torcedores.com com os valores divulgados pelos clubes e pela imprensa.\n\nNa sua opinião, quem gastou melhor?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo.\n\n#futebol #brasileirao #mercadodabola"
+  }
+}

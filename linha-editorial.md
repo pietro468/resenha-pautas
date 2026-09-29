@@ -192,6 +192,8 @@ Temas atemporais que o público sempre busca e que combinam com o canal. Escolha
 - **Primeiro parágrafo:** a primeira frase contém a frase-chave e já responde a pergunta. As primeiras 50 palavras devem funcionar sozinhas como resposta (é o trecho que o Google puxa para o destaque).
 - **Segundo parágrafo:** contexto e por que o assunto importa agora.
 - **Intertítulos:** 5 a 7, com `## `, em forma de pergunta que as pessoas fazem ao Google ("Quanto ganha...?", "O que muda...?", "Como funciona...?"). No máximo 300 palavras entre um intertítulo e outro. Pelo menos 2 intertítulos com a frase-chave ou uma variação natural.
+- **Resumo no fim (seção "## Resumo" em tópicos): raro, não é padrão.** Só em explicativo com muitos números, prazos ou passos que o leitor quer conferir depois (regras de saque, mudança de imposto, guerra e preços). Nunca em biografia, história, ranking, cinema ou texto de opinião. No máximo 1 por dia: antes de usar, confira os artigos de hoje em `artigos/AAAA-MM-DD/`.
+- **Evite vícios de estrutura:** não repita o mesmo esqueleto, a mesma abertura ou o mesmo fechamento em matérias seguidas. Cada texto termina do jeito que faz sentido para ele (um fato final, uma consequência, um link para outra matéria), nunca com a mesma fórmula.
 - **Fechamento:** um parágrafo curto que resume o essencial, sem o intertítulo "Conclusão".
 - **Listas:** evite no corpo do texto. Prefira parágrafos. Passo a passo também vai em parágrafo, com "primeiro", "depois", "por fim". Se o passo a passo for longo, faça um infográfico (seção 8).
 - **Tabelas:** não use tabela em markdown no texto. Quando uma comparação ajudar (ex.: deputado x senador), transforme em infográfico.

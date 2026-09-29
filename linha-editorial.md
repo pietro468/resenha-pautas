@@ -219,7 +219,17 @@ Temas atemporais que o público sempre busca e que combinam com o canal. Escolha
 ### Foto de capa
 Obrigatória. Foto real, horizontal, de boa qualidade (de preferência 1600 px de largura ou mais), ligada diretamente ao assunto. Quando o artigo é sobre uma pessoa, a capa ideal é uma foto dela.
 
-**Só use imagens com licença livre para uso comercial:** domínio público, CC0, CC BY ou CC BY-SA. Nunca use foto de agência de notícias (Getty, AP, Reuters, AFP, Folhapress, Estadão Conteúdo) nem imagem sem licença clara.
+**Que imagens podem entrar:** sempre a **melhor foto** para a matéria, venha de onde vier, dentro destes dois grupos:
+1. **Fotos livres:** domínio público, CC0, CC BY ou CC BY-SA (Flickr, Commons, Openverse, acervos oficiais).
+2. **Reprodução:** imagem que circula na internet e que os sites de notícia usam como "Reprodução": frame ou print de vídeo do YouTube, print ou foto de post público (Instagram, X, TikTok, Facebook), imagem de TV, foto divulgada pela própria pessoa, empresa ou família. Vale no site e no Instagram. **Sempre com o crédito de reprodução dizendo de onde veio:** `Reprodução/YouTube/Nome do canal`, `Reprodução/Instagram/@perfil`, `Reprodução/TV Globo`, `Divulgação/Nome da empresa`. Quando a imagem foi achada num site de notícias, o crédito é o que o próprio site deu (ex.: `Reprodução/YouTube/Instagram`).
+
+**Nunca:** foto de agência de notícias ou de fotógrafo profissional (Getty, AP, Reuters, AFP, EFE, Folhapress, Estadão Conteúdo, Agência O Globo, Fotoarena, Agência Enquadrar, Shutterstock, iStock). Essas agências têm robôs que acham a foto e mandam cobrança em dinheiro. Se o crédito da foto no site de notícias for de uma delas (ou de um fotógrafo com o nome do jornal, como "Fulano/Agência O Globo" ou "Fulano/Metrópoles"), ela não serve, mesmo que pareça ótima. Na dúvida sobre de onde veio, não use.
+
+**Como pegar uma imagem de reprodução:**
+- **Frame de vídeo do YouTube:** a miniatura principal (`https://i.ytimg.com/vi/ID/maxresdefault.jpg`) quase sempre tem texto, seta e montagem, e não serve de capa. Use os frames automáticos do próprio vídeo, que não têm texto: `https://i.ytimg.com/vi/ID/maxres1.jpg`, `maxres2.jpg`, `maxres3.jpg` (se não existirem, `hq1.jpg`, `hq2.jpg`, `hq3.jpg`). Abra na prévia e escolha o melhor.
+- **Imagem que está num site de notícias:** pegue o link direto do arquivo da imagem (o endereço que termina em .jpg, .png ou .webp dentro da página) e confira o crédito escrito embaixo dela.
+- **Post público:** o link direto da imagem do post, quando der para pegar; se não der, procure a mesma imagem num site de notícias que já a publicou.
+- Toda imagem de reprodução passa pela prévia como qualquer outra, e segue as mesmas regras: tem que ter sentido com o título, mostrar bem o assunto e não repetir.
 
 **Onde buscar (quanto mais opções, melhor):** procure sempre nas duas fontes grandes e escolha a foto mais forte.
 - **Openverse** (busca o Flickr, o Wikimedia Commons e outros acervos livres de uma vez): `https://api.openverse.org/v1/images/?q=TERMOS&license_type=commercial,modification&page_size=40`. Cada resultado traz `source` (flickr, wikimedia...), `license`, `creator`, `title`, `url` (o link da foto) e `thumbnail` (uma miniatura que dá para abrir na prévia). Para buscar só no Flickr, acrescente `&source=flickr`.
@@ -235,7 +245,7 @@ Obrigatória. Foto real, horizontal, de boa qualidade (de preferência 1600 px d
 - Se a foto escolhida não baixar no site, o post do Instagram fica segurado para conferir (o site nunca troca por foto aleatória). Por isso, sempre que tiver a mesma foto em duas fontes, use a do Commons.
 - **Miniatura de vídeo do próprio canal** só quando não houver foto livre melhor: `https://i.ytimg.com/vi/ID_DO_VIDEO/maxresdefault.jpg`, crédito "Resenha Rentável (acervo próprio)".
 
-**Crédito:** formato `Autor/Instituição (LICENÇA)`. Exemplos: `Pedro França/Agência Senado (CC BY 2.0)`, `Pete Souza/Casa Branca (domínio público)`, `Marcello Casal Jr/Agência Brasil (CC BY 3.0 BR)`.
+**Crédito:** foto livre no formato `Autor/Instituição (LICENÇA)`; reprodução no formato `Reprodução/Origem`. Exemplos: `Pedro França/Agência Senado (CC BY 2.0)`, `Pete Souza/Casa Branca (domínio público)`, `Marcello Casal Jr/Agência Brasil (CC BY 3.0 BR)`.
 
 ### A foto é a coisa mais importante da matéria
 - **Toda foto precisa ter sentido direto com o título e com o trecho onde entra.** Matéria sobre uma pessoa: a pessoa. Sobre um órgão: o órgão, o atendimento, quem é afetado. Nunca paisagem genérica, céu, nuvem, textura ou foto "bonita" sem relação.
@@ -296,7 +306,7 @@ Legibilidade (Yoast verde):
 Final:
 - [ ] Nenhum travessão (U+2014) nem meia-risca (U+2013) no arquivo.
 - [ ] Todos os fatos com fonte confirmada.
-- [ ] Todas as imagens com licença livre, crédito e link direto.
+- [ ] Todas as imagens livres ou de reprodução (nunca de agência), com crédito e link direto.
 
 ---
 
@@ -347,7 +357,7 @@ Regras dos campos:
 - `youtube`: link `https://youtu.be/ID` de um vídeo do canal ou `""`.
 - `capa`: nome do arquivo da capa, `SLUG-capa.jpg`.
 - `capa_url`: link direto da foto em alta resolução.
-- `capa_credito`: `Autor/Instituição (LICENÇA)`.
+- `capa_credito`: `Autor/Instituição (LICENÇA)` ou `Reprodução/Origem`.
 - `pessoa`: nome completo da pessoa principal do artigo (obrigatório em Biografias; nos outros, só se o artigo girar em torno de alguém). Senão, `""`.
 - `busca_imagem`: 2 a 4 palavras em inglês descrevendo a foto de capa ideal, para o site procurar outra se a sua não baixar.
 - `imagens`: lista das fotos do texto, com `arquivo`, `url`, `credito` e `legenda`. Se não houver fotos no texto, use `imagens: []`.

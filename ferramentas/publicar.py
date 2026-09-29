@@ -85,6 +85,10 @@ def main():
         if meta.get("categoria") == "Biografias":
             if not meta.get("pessoa"): e.append("biografia sem o campo pessoa")
             if len(re.findall(r'^\s*-\s*arquivo:', fm_txt, re.M)) < 2: e.append("biografia precisa de pelo menos 2 fotos da pessoa em imagens:")
+        AGENCIAS = ("getty", "associated press", "ap photo", "reuters", "afp", "efe", "folhapress", "estadão conteúdo", "estadao conteudo", "agência o globo", "agencia o globo", "fotoarena", "enquadrar", "shutterstock", "istock")
+        creditos = [meta.get("capa_credito", "")] + re.findall(r'^\s*credito:\s*"?([^"\n]+)', txt.split('---', 2)[1], re.M)
+        for cr in creditos:
+            if any(re.search(r"(?<![a-zà-ú])" + re.escape(a.strip("/ )")) + r"(?![a-zà-ú])", cr.lower()) for a in AGENCIAS): e.append(f"foto de agência de notícias ({cr.strip()}): não pode, mesmo como reprodução")
         novo = meta.get("data", "") >= "2026-09-30"  # regras de foto que valem dos artigos novos em diante
         urls_fotos = [meta.get("capa_url", "")] + re.findall(r'^\s*url:\s*"?([^"\s]+)', fm_txt, re.M)
         if novo:

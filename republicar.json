@@ -19,21 +19,15 @@
       "capa_credito": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0)"
     },
     {
-      "id": "2026-09-29-bezos-refazer",
-      "materia": "jeff-bezos",
-      "depois": "2026-09-29 19:20",
-      "refazer": true
-    },
-    {
-      "id": "2026-09-29-inss-refazer",
+      "id": "2026-09-29-inss-de-novo",
       "materia": "fraude-do-inss",
-      "depois": "2026-09-29 20:15",
+      "depois": "2026-09-29 19:50",
       "refazer": true
     },
     {
-      "id": "2026-09-29-bezos-refazer-2",
+      "id": "2026-09-29-bezos-de-novo",
       "materia": "jeff-bezos",
-      "depois": "2026-09-29 19:30",
+      "depois": "2026-09-29 19:50",
       "refazer": true
     }
   ]

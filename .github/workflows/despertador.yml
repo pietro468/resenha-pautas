@@ -1,0 +1,23 @@
+name: Despertador do site
+# Avisa o resenharentavel.com para importar artigos novos, publicar os agendados
+# e mandar os posts para o Instagram. Roda a cada 10 minutos e logo depois de cada envio.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Chamar o site
+        run: |
+          for i in 1 2 3; do
+            code=$(curl -s -o resposta.txt -w "%{http_code}" -m 240 "https://resenharentavel.com/?rest_route=/rri/v1/buscar&n=$(date +%s)") || code=000
+            echo "Tentativa $i: HTTP $code"; cat resposta.txt 2>/dev/null; echo
+            [ "$code" = "200" ] && exit 0
+            sleep 70
+          done
+          echo "O site não respondeu com 200 (pode estar só demorando para publicar)."

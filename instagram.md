@@ -215,9 +215,9 @@ Regras: frase curta (até umas 25 palavras), em português natural; frase real e
 
 Para fato novo e simples ("AGORA", "URGENTE", "ATENÇÃO"), use `"formato": "unico"` com `"capa_estilo": "urgente"`: foto em cima, painel verde-escuro sólido embaixo, etiqueta vermelha com a `chamada` ("AGORA", "URGENTE", "ATENÇÃO") e a manchete em frase normal, sem data. Linguagem de notícia, nada informal. É visualmente diferente de todo carrossel. Use só quando o fato é mesmo novidade do dia.
 
-## Placar (post de dados, só Instagram, se aprovado)
+## Placar (post só do Instagram, terça e quinta, às 17:30)
 
-`"formato": "unico"`, `"capa_estilo": "placar"`, com `"gancho"`, `"chamada"` ("Em números"), `"fonte"` e `"linhas"`: lista de até 5 itens `{"rotulo", "valor", "num", "destaque"}` (o `num` define o tamanho da barra; `"destaque": 1` pinta de verde o item principal). Todos os números com fonte.
+Arquivo: `instagram/AAAA-MM-DD/placar-SLUG/post.json`, `"data"` às 17:30. Imagem única, sem foto (`"fotos": []`). `"formato": "unico"`, `"capa_estilo": "placar"`, com `"gancho"` curto (a pergunta ou a conclusão, com `==destaque==`), `"chamada"` ("Em números"), `"fonte"` e `"linhas"`: lista de 3 a 5 itens `{"rotulo", "valor", "num", "destaque"}` (o `num` é o número puro que define o tamanho da barra; `"destaque": 1` pinta de verde o item principal, normalmente o Brasil ou o maior). Temas: preços entre países, empresas mais valiosas, fortunas, salários, gastos de clubes, custo de vida. Todos os números com fonte confiável e atual, com o ano do dado. Legenda: explica o que os números mostram em 2 a 4 parágrafos curtos, com as fontes, e termina com uma pergunta.
 
 
 ## História real (post só do Instagram, 3 por semana: segunda, quarta e sexta, às 20:00)

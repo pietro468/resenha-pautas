@@ -129,7 +129,7 @@ def main():
             txt = json.dumps(d, ensure_ascii=False)
             if '\u2014' in txt or '\u2013' in txt or '—' in txt or '–' in txt: e.append("tem travessão ou meia-risca")
             if not re.match(r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$', d.get("data", "")): e.append("data fora do formato AAAA-MM-DD HH:MM")
-            if not d.get("fotos") and (d.get("carrossel") or {}).get("capa_estilo") != "frase_do_dia": e.append("sem fotos")
+            if not d.get("fotos") and (d.get("carrossel") or {}).get("capa_estilo") not in ("frase_do_dia", "placar"): e.append("sem fotos")
             for f in d.get("fotos", []):
                 if not f.get("url") or not f.get("credito") or not f.get("arquivo"): e.append("foto sem arquivo, url ou crédito")
             car = d.get("carrossel") or {}
@@ -138,6 +138,11 @@ def main():
             if not car.get("legenda"): e.append("carrossel sem legenda")
             elif len(car["legenda"]) > 2100: e.append("legenda com mais de 2100 caracteres")
             if car.get("estilo") != "frase": e.append('carrossel sem "estilo": "frase"')
+            if car.get("capa_estilo") == "placar":
+                ln = car.get("linhas") or []
+                if not 2 <= len(ln) <= 5: e.append("placar precisa de 2 a 5 linhas")
+                if any(not l.get("rotulo") or not l.get("valor") or not isinstance(l.get("num"), (int, float)) for l in ln): e.append("linha do placar sem rotulo, valor ou num")
+                if not car.get("fonte"): e.append("placar sem fonte")
             if car.get("formato", "carrossel") != "unico":
                 sl = car.get("slides", [])
                 if not sl or sl[-1].get("tipo") not in ("final", "cta"): e.append('o último slide precisa ser {"tipo": "final"}')

@@ -41,7 +41,7 @@ Segundo a Fortune, o estúdio ainda pagou quarentena para o elenco num hotel bri
 
 Para responder, é preciso saber como a bilheteria é dividida. O estúdio não fica com tudo que o público paga no cinema. Em geral, os cinemas ficam com uma parte grande, e a Fortune calcula que a Universal recebeu cerca de 50% da bilheteria de Domínio. Além disso, a campanha de divulgação costuma custar dezenas de milhões de dólares, e esse gasto não entra no custo de produção.
 
-Com essa conta, O Despertar da Força é o caso de sucesso absoluto. O filme arrecadou US$ 2,07 bilhões no mundo, uma das [maiores bilheterias da história](https://resenharentavel.com/maiores-bilheterias-da-historia/), valor muito acima do que custou. Domínio, por outro lado, fez cerca de US$ 1 bilhão. Assim, a fatia da Universal ficou perto de US$ 500 milhões, abaixo do custo líquido de US$ 531 milhões. Na prática, o cinema sozinho não pagou o filme, e o resultado dependeu de outras receitas, como streaming, TV e produtos licenciados.
+Com essa conta, O Despertar da Força é o caso de sucesso absoluto. O filme arrecadou US$ 2,07 bilhões no mundo, uma das maiores bilheterias da história (atrás só de nomes como [Avatar, o filme de maior bilheteria da história](https://resenharentavel.com/filme-de-maior-bilheteria-da-historia/)), valor muito acima do que custou. Domínio, por outro lado, fez cerca de US$ 1 bilhão. Assim, a fatia da Universal ficou perto de US$ 500 milhões, abaixo do custo líquido de US$ 531 milhões. Na prática, o cinema sozinho não pagou o filme, e o resultado dependeu de outras receitas, como streaming, TV e produtos licenciados.
 
 ## Quais filmes caros deram prejuízo?
 
@@ -53,7 +53,7 @@ Branca de Neve (2025) seguiu o mesmo caminho. O remake custou US$ 336,5 milhões
 
 A lógica é a das franquias. Um filme de uma marca conhecida atrai público no mundo inteiro, vende brinquedos, alimenta parques temáticos e gera continuações. Por isso, os estúdios aceitam orçamentos gigantes quando acreditam no retorno de longo prazo, e não só no fim de semana de estreia.
 
-Mesmo assim, os números recentes mostram uma mudança de rota. Depois do recorde de Domínio, a Universal produziu Jurassic World: Recomeço (2025) por US$ 254,2 milhões, menos da metade, segundo a Fortune. Ou seja, até a franquia mais cara da história aprendeu a apertar o cinto. Quem gosta de ver como o dinheiro move o cinema também encontra boas histórias na lista de [filmes sobre dinheiro](https://resenharentavel.com/filmes-sobre-dinheiro/) e nos bastidores de [Michael](https://resenharentavel.com/filme-michael-bilheteria/).
+Mesmo assim, os números recentes mostram uma mudança de rota. Depois do recorde de Domínio, a Universal produziu Jurassic World: Recomeço (2025) por US$ 254,2 milhões, menos da metade, segundo a Fortune. Ou seja, até a franquia mais cara da história aprendeu a apertar o cinto. Quem gosta de ver como o dinheiro move o cinema também encontra boas histórias em [A Rede Social 2](https://resenharentavel.com/a-rede-social-2/) e na [fortuna de Michael Jackson](https://resenharentavel.com/fortuna-de-michael-jackson/).
 
 Em resumo, os filmes mais caros da história passaram de US$ 500 milhões, e o recorde é de Jurassic World: Domínio, encarecido pela pandemia. O Despertar da Força pagou a conta com folga, enquanto Indiana Jones e Branca de Neve mostraram que um orçamento gigante também pode virar um prejuízo gigante.
 

@@ -38,7 +38,13 @@ def main():
     # pautas pendentes ainda não foram escritas: os slugs delas estão liberados
     pp = os.path.join(RAIZ, 'pautas-pendentes.md')
     if os.path.exists(pp):
-        antigos -= set(re.findall(r'\*\*Slug:\*\*\s*([a-z0-9-]+)', open(pp, encoding='utf-8').read()))
+        _pp = open(pp, encoding='utf-8').read()
+        pendentes = set(re.findall(r'\*\*Slug:\*\*\s*([a-z0-9-]+)', _pp))
+        antigos -= pendentes
+        antigos |= set(re.findall(r'^- \d+\. ([a-z0-9-]+)\s*$', _pp, re.M))
+    # artigos que já existem no site: os da linha editorial que não estão pendentes + os do index.json
+    no_ar = set(antigos) | set(ja)
+    novos_slugs = {os.path.basename(os.path.dirname(m)) for m in glob.glob(os.path.join(RAIZ, 'artigos', '**', '*.md'), recursive=True)}
     erros, novos, avisos = [], [], []
     for md in sorted(glob.glob(os.path.join(RAIZ, 'artigos', '**', '*.md'), recursive=True)):
         txt = open(md, encoding='utf-8').read()
@@ -58,6 +64,8 @@ def main():
         if slug and not re.match(r'^[a-z0-9]+(-[a-z0-9]+)*$', slug): e.append("slug só pode ter letras minúsculas, números e hífens")
         if slug in antigos: e.append("slug já usado num dos 117 artigos da linha editorial")
         if slug in ja and ja[slug]["pasta"] != pasta: e.append("slug já usado por outro artigo do index.json")
+        for ln in re.findall(r'resenharentavel\.com/([a-z0-9-]+)/?\)', corpo):
+            if ln not in no_ar and ln != slug and ln not in novos_slugs: e.append(f"link interno para '{ln}', que ainda não está publicado (use só artigos que já estão no ar)")
         if len(meta.get("titulo", "")) > 70: avisos.append(f"{rel}: título com mais de 70 caracteres")
         n = len(re.findall(r'\w+', corpo))
         if n < 600: avisos.append(f"{rel}: só {n} palavras")

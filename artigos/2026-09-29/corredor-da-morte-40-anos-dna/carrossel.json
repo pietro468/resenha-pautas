@@ -1,0 +1,45 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Caso real",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "gancho": "Ele passou 40 anos esperando a execução. O DNA da cena do crime ==não é dele==",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "O que aconteceu",
+      "texto": "Douglas Carter foi condenado à morte em **1985**, nos EUA.\n\nNesta semana, aos **71 anos**, ele saiu da prisão.\n\nO motivo: um exame de DNA não achou o material dele no ==sangue da cena== nem na ==faca do crime==.",
+      "foto": "capa",
+      "fonte": "ABC News e KUTV"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Como ele foi condenado?",
+      "texto": "Não havia **nenhuma prova física**. Só uma confissão, que ele diz ter sido forçada.\n\nAnos depois, duas testemunhas contaram que ganharam ==dinheiro e presentes== da polícia.",
+      "foto": "corredor-da-morte-cela-cadeado.jpg",
+      "fonte": "ABC News"
+    },
+    {
+      "tipo": "numero",
+      "numero": "203",
+      "texto": "condenados à morte nos EUA já foram inocentados depois, desde 1973. Para cada **8 executados**, ==1 foi inocentado==.",
+      "foto": "corredor-da-morte-exame-de-dna.jpg",
+      "fonte": "Death Penalty Information Center"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E quem paga por isso?",
+      "texto": "Utah paga **um salário médio por ano** que a pessoa ficou presa.\n\nMas só até ==15 anos==. E só se ela provar que é inocente.\n\nNo caso de Carter, seriam 15 de 40 anos.",
+      "foto": "capa",
+      "fonte": "Innocence Project"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "Ainda não acabou",
+      "texto": "Carter **ainda não foi inocentado**. Um novo julgamento, em 2027, vai decidir.\n\nMas, seja qual for o resultado, ==40 anos não voltam==."
+    },
+    {"tipo": "final"}
+  ],
+  "legenda": "Douglas Carter passou 40 anos no corredor da morte nos Estados Unidos. Nesta semana, aos 71 anos, ele saiu da prisão.\n\nEle foi condenado em 1985 pela morte de Eva Olesen, em Utah. Não havia prova física, só uma confissão que ele diz ter sido forçada. Um novo exame de DNA não encontrou o material genético dele no sangue da cena nem na faca do crime.\n\nCarter ainda não foi inocentado. A promotoria diz que o exame não prova, sozinho, a inocência, e um novo julgamento está marcado para 2027. A pena de morte já foi retirada.\n\nDesde 1973, pelo menos 203 condenados à morte nos EUA foram inocentados depois, segundo o Death Penalty Information Center. Em Utah, quem prova a inocência recebe um salário médio por ano preso, mas só até 15 anos.\n\n(Fotos: Ron Lach e Mikhail Nilov/Pexels)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

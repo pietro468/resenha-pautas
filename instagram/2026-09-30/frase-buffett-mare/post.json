@@ -1,0 +1,18 @@
+{
+  "titulo": "Frase do dia: Warren Buffett e a maré",
+  "data": "2026-09-30 13:00",
+  "fotos": [
+    {"arquivo": "frase-buffett-2015.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/1280px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg", "credito": "SelectUSA/Departamento de Comércio dos EUA (Domínio público)"}
+  ],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa": "capa",
+    "capa_estilo": "frase_do_dia",
+    "gancho": "Só quando a maré baixa você descobre quem estava nadando pelado",
+    "frase": "Só quando a maré baixa você descobre quem estava nadando pelado.",
+    "autor": "Warren Buffett",
+    "cargo": "Investidor, comandou a Berkshire Hathaway por 60 anos",
+    "legenda": "\"Só quando a maré baixa você descobre quem estava nadando pelado.\" Warren Buffett\n\nA frase é uma das mais conhecidas do investidor e fala de crises: quando o dinheiro está sobrando, qualquer empresa ou investimento arriscado parece dar certo. É na hora do aperto que aparecem os erros e os exageros.\n\nBuffett comandou a Berkshire Hathaway de 1965 até o fim de 2025 e virou um dos homens mais ricos do mundo investindo em empresas sólidas por muito tempo.\n\n(Foto: SelectUSA/Departamento de Comércio dos EUA)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

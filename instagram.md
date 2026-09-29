@@ -159,3 +159,30 @@ Arquivo: `instagram/AAAA-MM-DD/hoje-SLUG/post.json` (AAAA-MM-DD é o dia em que 
 ```
 
 Regras: a capa usa sempre `"capa_estilo": "hoje"` (foto em tela cheia em preto e branco, moldura fina, folha de calendário com o selo "Hoje na história", "HÁ X ANOS" em verde e o gancho em branco; escolha para a capa uma foto de rosto forte, com espaço livre no canto de cima à direita); a primeira foto da lista é a capa. Dentro, **só slides de foto** (`"tipo": "foto"`), de 3 a 6, cada um com uma frase curta (até umas 20 palavras) que conta a história em ordem, e o último é `{"tipo": "final"}`. Fotos sempre com licença livre (Wikimedia Commons: use o arquivo original ou miniatura de 1280px), de preferência da própria pessoa em momentos diferentes da vida. Legenda com a história em 3 a 5 parágrafos curtos, fatos com fonte, crédito das fotos e o "Siga o @resenharentavel...". Mesmas regras de sempre: sem travessão, linguagem simples, nada de polêmica pessoal.
+
+
+## Frase do dia (post só do Instagram, 1 por dia)
+
+Uma imagem só (sem carrossel): foto da pessoa em tela cheia, degradê verde-escuro embaixo, aspas grandes em verde, a frase em branco, o nome da pessoa em verde e, embaixo, o que ela é. Sai todo dia às 13:00.
+
+Arquivo: `instagram/AAAA-MM-DD/frase-SLUG/post.json`. Modelo:
+
+```json
+{
+  "titulo": "Frase do dia: Warren Buffett e a maré",
+  "data": "2026-09-30 13:00",
+  "fotos": [{"arquivo": "frase-buffett-2015.jpg", "url": "link direto da foto livre", "credito": "Autor/Acervo (licença)"}],
+  "carrossel": {
+    "formato": "unico", "estilo": "frase", "capa": "capa", "capa_estilo": "frase_do_dia",
+    "gancho": "a frase, igual ao campo frase",
+    "frase": "Só quando a maré baixa você descobre quem estava nadando pelado.",
+    "autor": "Warren Buffett",
+    "cargo": "Investidor, comandou a Berkshire Hathaway por 60 anos",
+    "legenda": "\"A frase.\" Autor\n\nDe onde veio a frase e o que ela quer dizer, em 2 ou 3 frases simples.\n\nQuem é a pessoa, em 1 ou 2 frases.\n\n(Foto: ...)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}
+```
+
+Regras: frase curta (até umas 25 palavras), traduzida para um português natural; frase real e confirmada, com a origem dita na legenda; tema de dinheiro, trabalho, negócios, risco, disciplina ou carreira; `cargo` curto (até umas 8 palavras), dizendo o que a pessoa é ou fez; foto de rosto da pessoa, com espaço acima do peito para o texto; sem travessão; nunca frase do Pietro, do Pedro, de político em atividade ou de gente polêmica; não repetir a mesma pessoa em 7 dias.
+
+**Posição do texto em todos os posts:** o texto fica na metade de baixo da imagem, mas nunca encostado na borda: termina a uns 240 px do fim (o site já faz isso sozinho). Na capa "Hoje na história", o gancho é curto (até umas 10 palavras) e o destaque `==...==` vai no **nome da pessoa**; a capa só fica em preto e branco quando a data é de morte (`"luto": true`); nas outras datas, colorida.

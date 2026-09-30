@@ -14,20 +14,19 @@ jobs:
         run: |
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
           out=sonda/resultado.txt; : > $out
-          for u in \
-            https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip \
-            https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip \
-            https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/prestacao_de_contas_eleitorais_candidatos_2026.zip ; do
-            echo "== $u" >> $out; curl -sI -A "$UA" -m 60 "$u" | head -12 >> $out
+          mkdir -p /tmp/z && cd /tmp/z
+          for f in consulta_cand/consulta_cand_2026 bem_candidato/bem_candidato_2026 historico_candidatura/historico_candidatura_2026 consulta_cand_complementar/consulta_cand_complementar_2026; do
+            curl -s -A "$UA" -m 300 -o a.zip "https://cdn.tse.jus.br/estatistica/sead/odsele/$f.zip"; echo "== $f" >> $GITHUB_WORKSPACE/$out
+            unzip -l a.zip | head -8 >> $GITHUB_WORKSPACE/$out
+            n=$(unzip -Z1 a.zip | grep -i -E "_SP\.csv$|_BRASIL\.csv$" | head -1); [ -z "$n" ] && n=$(unzip -Z1 a.zip | grep -i csv | head -1)
+            echo "-- $n" >> $GITHUB_WORKSPACE/$out
+            unzip -p a.zip "$n" | iconv -f latin1 -t utf-8 | head -3 >> $GITHUB_WORKSPACE/$out
+            rm a.zip
           done
-          echo "== ckan cand" >> $out
-          curl -s -A "$UA" -m 60 "https://dadosabertos.tse.jus.br/api/3/action/package_show?id=candidatos-2026" | python3 -c "import json,sys;d=json.load(sys.stdin);[print(r.get('name'),r.get('url'),r.get('last_modified')) for r in d['result']['resources']]" >> $out 2>&1
-          echo "== ckan contas" >> $out
-          curl -s -A "$UA" -m 60 "https://dadosabertos.tse.jus.br/api/3/action/package_search?q=presta%C3%A7%C3%A3o%20de%20contas%202026&rows=5" | python3 -c "import json,sys;d=json.load(sys.stdin);[print(p['name'],[r.get('url') for r in p['resources']][:6]) for p in d['result']['results']]" >> $out 2>&1
-          echo "== divulga (UA navegador)" >> $out
-          curl -s -A "$UA" -H "Accept: application/json" -H "Referer: https://divulgacandcontas.tse.jus.br/divulga/" -m 60 -o /tmp/d.json -w "%{http_code}\n" "https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/BR/20322002026/1/candidatos" >> $out
-          head -c 300 /tmp/d.json >> $out; echo >> $out
-          echo "== ip" >> $out; curl -s -m 20 https://ipinfo.io/country >> $out
+          curl -s -A "$UA" -m 600 -o c.zip "https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/prestacao_de_contas_eleitorais_candidatos_2026.zip"
+          echo "== contas" >> $GITHUB_WORKSPACE/$out; unzip -l c.zip | head -40 >> $GITHUB_WORKSPACE/$out
+          for n in $(unzip -Z1 c.zip | grep -i "_SP.csv" ); do echo "-- $n" >> $GITHUB_WORKSPACE/$out; unzip -p c.zip "$n" | iconv -f latin1 -t utf-8 | head -2 >> $GITHUB_WORKSPACE/$out; done
+          cd $GITHUB_WORKSPACE
       - name: Salvar
         run: |
           git config user.name "Resenha Rentável"

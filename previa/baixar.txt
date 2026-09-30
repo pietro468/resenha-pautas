@@ -1,1 +1,1 @@
-q.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata|mime&iiextmetadatafilter=LicenseShortName&iiurlwidth=960&gsrsearch=%22Club+de+Regatas+Vasco+da+Gama%22+logo
+vasco2.png https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/CR_Vasco_da_Gama.svg/960px-CR_Vasco_da_Gama.svg.png

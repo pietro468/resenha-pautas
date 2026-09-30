@@ -26,6 +26,23 @@ A capa decide se a pessoa arrasta ou passa reto. Ela é sempre: foto da matéria
 - Claro e chamativo: "Aposentados perderam ==R$ 6,3 bilhões== em descontos do INSS que nunca autorizaram"; "Descontos falsos no INSS tiraram ==R$ 6,3 bilhões== de aposentados"
 - Número e mistério só funcionam **junto** com o assunto, nunca no lugar dele.
 
+**Ganchos que o Pietro aprovou (modelo a seguir):**
+- "O governo gasta mais de R$ 3 bilhões por dia só com juros da dívida"
+- "A Netflix perdeu a briga pela HBO Max e ainda embolsou US$ 2,8 bilhões"
+- "Quais são os prédios mais altos do mundo?"
+- "Depois da proibição das bets, o Pix caiu 10% em 3 dias"
+- "Jeff Bezos largou Wall Street aos 30 para vender livros numa garagem"
+- "Starship chega à órbita pela primeira vez e solta 26 satélites da Starlink"
+
+**Ganchos que ficaram ruins, e como deveriam ter sido:**
+- Ruim: "O prazo do Simples Nacional acabava hoje. Agora vai até 15 de outubro" (não diz quem fez). Bom: "Governo estende prazo para entrar no Simples Nacional. Agora vai até 15 de outubro". Notícia assim, de urgência e simples, sai em **imagem única** (estilo `urgente`) com tudo explicado na legenda.
+- Ruim: "O mundo adora a cultura do Brasil, mas ainda confia pouco no país para investir". Bom: "O mundo ama a cultura brasileira. Mas ainda tem medo de investir no Brasil" (frases curtas, contraste forte).
+- Ruim: "Morria James Dean, aos 24 anos, antes de ver seus maiores filmes". Bom: "Há 71 anos morria James Dean, aos 24 anos, ícone de Hollywood" (o que aconteceu, o nome, a idade que choca e quem ele era).
+- Ruim: "R$ 6,3 bilhões saíram da aposentadoria de quem nunca assinou nada". Bom: "R$ 6,3 bilhões foram descontados de aposentados sem autorização"; "O escândalo do INSS pode ter tirado R$ 6,3 bilhões de aposentados"; "Como R$ 6,3 bilhões foram descontados de aposentados?".
+- Ruim: "Quem mais gastou com reforços em 2026" (reforço de quê?). Bom: "Os clubes que mais gastaram com reforços em 2026" ou "Quais clubes mais gastaram com reforços em 2026?".
+- Ruim: "Os EUA gastaram US$ 443 bilhões salvando bancos em 2008. Quase tudo voltou" (conta o fim e mata a tensão). Bom: "Em 2008, bancos quebraram, bolsas despencaram e o pânico tomou conta do mundo"; "Em 2008, o sistema financeiro americano quase quebrou"; "Quando os bancos começaram a quebrar em 2008, os EUA colocaram US$ 443 bilhões na mesa". O desfecho ("quase tudo voltou") fica para os slides ou a legenda.
+- Regra que sai desses exemplos: o gancho diz **o assunto**, **quem** e **o fato que choca**, e guarda o desfecho para dentro do post.
+
 **Teste do gancho (pedido do Pietro: o gancho precisa ser muito chamativo).** Antes de escolher, responda: se essa frase aparecesse no feed de alguém que nunca ouviu falar do assunto, a pessoa pararia para ler? O gancho forte tem pelo menos uma destas coisas:
 - **Contradição ou surpresa:** algo que parece não fazer sentido. "O Brasil nunca teve tanto emprego. E nunca teve tanta conta atrasada"
 - **Você no centro:** mostra o efeito na vida de quem lê. "Seu salário já chega pela metade no fim do mês"
@@ -52,6 +69,17 @@ Regras do gancho: verdadeiro e fiel à matéria (nada de exagero ou promessa que
 
 **Chamada:** 2 a 5 palavras em cima do gancho. No carrossel promete continuação ("DESLIZE PARA VER", "ENTENDA", "VEJA OS NÚMEROS", "VEJA O RANKING"); na imagem única dá o contexto ("URGENTE:", "AGORA:", "ÀS VÉSPERAS DO 1º TURNO:").
 
+## Fotos do Instagram: o que o Pietro pediu (set/2026)
+
+- **A foto mostra exatamente o assunto.** Bets são apostas **online**: a foto é um celular com o site ou app de apostas na tela (pode ser reprodução de foto de reportagem, com crédito), nunca roleta ou cassino físico. Pix: celular fazendo Pix, QR code do Pix. Cada foto tem que responder "isso é sobre o quê?" sem legenda.
+- **Rosto nunca atrás do texto.** Em capa com pessoa, escolha foto em que o rosto fica no **terço de cima** e aparece claramente, de frente, sem ser coberto pelo gancho. Se a melhor foto tem o rosto no meio ou embaixo, ela vai para um slide de dentro, e a capa usa outra. Na dúvida, prefira o retrato claro da pessoa.
+- **Toda foto de pessoa tem que mostrar a pessoa.** Em "Hoje na história", biografia ou história real, não use foto em que a pessoa não aparece ou não dá para reconhecer (só o carro, só a casa, de costas, de muito longe).
+- **Prédios, monumentos, obras, veículos: inteiros e de perto.** Em ranking de prédios mais altos, a foto mostra o prédio **da base ao topo**, bem visível, sem ponte, neblina ou outro prédio na frente, e sem o texto cobrindo. Prefira foto em pé, com o prédio no meio. Vale para qualquer "o maior", "o mais caro", "o mais rápido": a foto tem que mostrar a coisa e o tamanho dela.
+- **Marcas e empresas:** use o logo (estilo `versus` na capa, ou o logo no slide).
+- **Mais fotos nos slides.** O Instagram é visual: na maioria dos slides de dentro, principalmente nos que vêm de matéria do site, entre uma foto que ilustra aquele slide (bandeira e paisagens do Brasil numa matéria sobre marca país; Tesouro, Banco Central, notas de real numa matéria sobre dívida). Pode repetir alguma foto, mas não todas; slide de fundo verde liso só quando não existir foto boa.
+- **Placar de clubes, empresas ou países:** coloque o escudo, o logo ou a bandeira antes do nome em cada linha (`"logo": "escudo-flamengo.png"` na linha, com o arquivo em `fotos` do post). Escudos e logos: procure no Wikimedia Commons.
+- **Textos dentro da margem.** Números e rótulos lado a lado (slide `comparacao`) usam rótulos curtos, de até 16 letras ("Juros", "Crescimento", "Simples", "IBS e CBS"). O site diminui o que for maior, mas rótulo curto fica mais bonito.
+
 ## Linguagem simples em todos os slides e na legenda
 
 O Instagram é lido rápido, no celular, por gente que não entende de economia. Escreva como quem explica para um amigo no WhatsApp:
@@ -75,6 +103,7 @@ O visual é o mesmo, mas **nenhum post pode parecer cópia do anterior**. Altern
 - `"classico"` (padrão): uma foto em tela cheia. O estilo mais usado, mas não em todos.
 - `"circulo"`: foto principal + uma segunda foto num círculo no canto (`"capa_extra": "arquivo.jpg"`). Bom quando a notícia junta duas coisas (uma empresa e um produto, uma pessoa e um lugar).
 - Em `circulo` e `dupla`, use só fotos que você tem certeza que vão baixar (as da lista `imagens:` da matéria, com link testado). Se a segunda foto não existir, o site volta sozinho para a capa simples.
+- `"versus"`: **quando o post é sobre marcas ou empresas se enfrentando** (Netflix x Paramount, Apple x Samsung, iFood x Rappi), use os **logos** das duas em cartões brancos com um X no meio: `"capa_estilo": "versus"`, `"logos": ["netflix-logo.png", "paramount-logo.png"]` (os logos vão em `imagens:`, em PNG, do Wikimedia Commons; procure "NOME logo.svg" e use a miniatura PNG de 960px) e `"capa"` com uma foto escura de fundo ou `"nenhuma"` (fundo verde). Nunca use foto genérica ou prédio com o nome cortado para representar uma marca.
 - `"dupla"`: a tela dividida em duas fotos, com um X no meio (`"capa_extra"` e `"rotulos": ["2000", "2026"]` ou `["Antes", "Depois"]`, `["Brasil", "EUA"]`). Bom para comparações e versus.
 - Imagem única (`"formato": "unico"`), para notícia urgente.
 
@@ -95,6 +124,8 @@ Regra do dia: entre os posts de um mesmo dia, varie o estilo de capa e o tipo de
 ## Os slides de dentro: sempre início, meio, fim e CTA
 
 Todo carrossel conta uma história completa, na ordem abaixo. Nunca termine no meio (só contexto, sem conclusão).
+
+**O carrossel entrega o que o gancho prometeu.** Quem arrastou, arrastou por causa do gancho. Se o gancho é "A Netflix perdeu a briga pela HBO Max e ainda embolsou US$ 2,8 bilhões", os slides seguintes contam essa briga: o acordo, quem entrou na disputa, por que a Netflix desistiu e por que recebeu o dinheiro. Nada de voltar para "como a Netflix começou em 2007": a história da empresa pode estar no site, não no carrossel. Antes de fechar, leia só o gancho e o slide 2: o slide 2 tem que ser a continuação direta do gancho.
 
 1. **Capa (início):** o gancho, a parte mais chamativa.
 2. **A notícia (início):** 1 slide que dá o fato de verdade, direto: o que aconteceu, quem, quanto, quando.

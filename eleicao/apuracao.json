@@ -1,0 +1,2930 @@
+{
+ "gerado": "2026-09-30T23:06Z",
+ "fonte": "TSE, resultados.tse.jus.br",
+ "pres": {
+  "pst": 0.0,
+  "final": false,
+  "hora": "",
+  "cands": [
+   {
+    "nome": "Flavio Bolsonaro",
+    "partido": "PL",
+    "n": "22",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Ronaldo Caiado",
+    "partido": "PSD",
+    "n": "55",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Lula",
+    "partido": "PT",
+    "n": "13",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Clariana Barao",
+    "partido": "DC",
+    "n": "27",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Edmilson Costa",
+    "partido": "PCB",
+    "n": "21",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Hertz Dias",
+    "partido": "PSTU",
+    "n": "16",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Escritor Augusto Cury",
+    "partido": "AVANTE",
+    "n": "70",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Zema",
+    "partido": "NOVO",
+    "n": "30",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Samara",
+    "partido": "UP",
+    "n": "80",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Veterinário Wilson Grassi",
+    "partido": "DEMOCRATA",
+    "n": "35",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Renan Santos",
+    "partido": "MISSÃO",
+    "n": "14",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Leonardo Avalanche",
+    "partido": "PRTB",
+    "n": "28",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   },
+   {
+    "nome": "Rui Costa Pimenta",
+    "partido": "PCO",
+    "n": "29",
+    "votos": 0,
+    "pct": 0.0,
+    "st": ""
+   }
+  ]
+ },
+ "gov": {
+  "ac": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Mailza Assis",
+     "partido": "PP",
+     "n": "11",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eudo Raffael",
+     "partido": "PCB",
+     "n": "21",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dr.luisinho",
+     "partido": "AGIR",
+     "n": "36",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Alan Rick",
+     "partido": "REPUBLICANOS",
+     "n": "10",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "al": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Renan Filho",
+     "partido": "MDB",
+     "n": "15",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Márcio Jambo",
+     "partido": "DEMOCRATA",
+     "n": "35",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Jhc",
+     "partido": "PSDB",
+     "n": "45",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Lenilda Luna",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ap": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Clécio",
+     "partido": "UNIÃO",
+     "n": "44",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dr. Furlan",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Jairo Palheta",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Delegado Marcos",
+     "partido": "DC",
+     "n": "27",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "am": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Roberto Cidade",
+     "partido": "UNIÃO",
+     "n": "44",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Omar Aziz",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Isael Munduruku",
+     "partido": "REDE",
+     "n": "18",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Gilberto Vasconcelos",
+     "partido": "PSTU",
+     "n": "16",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ba": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Jerônimo Rodrigues",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ariel Capistrano",
+     "partido": "DC",
+     "n": "27",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Maria Bona",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Aroldo Felix",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ce": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Ciro Gomes",
+     "partido": "PSDB",
+     "n": "45",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Elmano de Freitas",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Zé Batista",
+     "partido": "PSTU",
+     "n": "16",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Vera Lúcia",
+     "partido": "NOVO",
+     "n": "30",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "df": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Expedito Mendonça",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Celina Leão",
+     "partido": "PP",
+     "n": "11",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professora Samara Mineiro",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Paula Belmonte",
+     "partido": "PSDB",
+     "n": "45",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "es": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Lorenzo Pazolini",
+     "partido": "REPUBLICANOS",
+     "n": "10",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ricardo Ferraço",
+     "partido": "MDB",
+     "n": "15",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Helder Salomão",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rafael Demuner",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "go": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Wilder Morais",
+     "partido": "PL",
+     "n": "22",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luciana Amorim",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luis Cesar Bueno",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Danilo da Silva",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ma": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Roberto Rocha",
+     "partido": "PRTB",
+     "n": "28",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eduardo Braide",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Reginaldo Lima",
+     "partido": "PCB",
+     "n": "21",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Orleans Brandão",
+     "partido": "MDB",
+     "n": "15",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "mt": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Doutora Natasha",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Otaviano Pivetta",
+     "partido": "REPUBLICANOS",
+     "n": "10",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rafaell Milas",
+     "partido": "MISSÃO",
+     "n": "14",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Mauricio Coelho",
+     "partido": "MOBILIZA",
+     "n": "33",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ms": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Fábio Trad",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Daniel Lemes",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "João Henrique Catan",
+     "partido": "NOVO",
+     "n": "30",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Lucien Rezende",
+     "partido": "PSOL",
+     "n": "50",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "mg": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Rafael Duda",
+     "partido": "PSTU",
+     "n": "16",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Cleitinho Azevedo",
+     "partido": "REPUBLICANOS",
+     "n": "10",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Patrus Ananias",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professor Túlio Lopes",
+     "partido": "PCB",
+     "n": "21",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pa": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Well Macedo",
+     "partido": "PSTU",
+     "n": "16",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Gal Leite",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Araceli",
+     "partido": "PSOL",
+     "n": "50",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Hana Ghassan",
+     "partido": "MDB",
+     "n": "15",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pb": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Cícero Lucena",
+     "partido": "MDB",
+     "n": "15",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Camilo Duarte",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Lucas Ribeiro",
+     "partido": "PP",
+     "n": "11",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Pedro Coutinho",
+     "partido": "DC",
+     "n": "27",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pr": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Sandro Alex",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Adriano Funileiro",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luiz França",
+     "partido": "MISSÃO",
+     "n": "14",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Requião Filho",
+     "partido": "PDT",
+     "n": "12",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pe": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Raquel Lyra",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ivan Moraes",
+     "partido": "PSOL",
+     "n": "50",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Guilherme Fonseca",
+     "partido": "PSTU",
+     "n": "16",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Victor Assis",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pi": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Elizeu Aguiar",
+     "partido": "NOVO",
+     "n": "30",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professor Jurity",
+     "partido": "DC",
+     "n": "27",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ravenna da Inclusão",
+     "partido": "DEMOCRATA",
+     "n": "35",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dra. Lúcia Santos",
+     "partido": "PSDB",
+     "n": "45",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rj": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Douglas Ruas",
+     "partido": "PL",
+     "n": "22",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "André Marinho",
+     "partido": "NOVO",
+     "n": "30",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luan Monteiro",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eduardo Paes",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rn": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Rodrigo de Bolsonaro",
+     "partido": "AGIR",
+     "n": "36",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Arinalda do Mlb",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Godeiro Linharess",
+     "partido": "DC",
+     "n": "27",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Cadu de Lula",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rs": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Gabriel Souza",
+     "partido": "MDB",
+     "n": "15",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Juliana Brizola",
+     "partido": "PDT",
+     "n": "12",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rejane de Oliveira",
+     "partido": "PSTU",
+     "n": "16",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Priscila Voigt",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ro": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Adailton Furia",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Hildon Chaves",
+     "partido": "UNIÃO",
+     "n": "44",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Samuel Costa",
+     "partido": "PSB",
+     "n": "40",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcos Rogério",
+     "partido": "PL",
+     "n": "22",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rr": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Farah Mesquita",
+     "partido": "SOLIDARIEDADE",
+     "n": "77",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rosi Aires",
+     "partido": "PSOL",
+     "n": "50",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Clébio Genuíno",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Arthur Henrique",
+     "partido": "PL",
+     "n": "22",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "sc": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "João Rodrigues",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Laís Chaud",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Bruno Pedreiro do Pco",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ralf Zimmer",
+     "partido": "PRD",
+     "n": "25",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "sp": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Tarcísio",
+     "partido": "REPUBLICANOS",
+     "n": "10",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Fernando Haddad",
+     "partido": "PT",
+     "n": "13",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Izadora Dias",
+     "partido": "PCO",
+     "n": "29",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Vivian Mendes",
+     "partido": "UP",
+     "n": "80",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "se": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Ricardo Marques",
+     "partido": "PL",
+     "n": "22",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Taty Cristina de Jesus",
+     "partido": "DC",
+     "n": "27",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Fábio",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Valmir de Francisquinho",
+     "partido": "REPUBLICANOS",
+     "n": "10",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "to": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Vicentinho Júnior",
+     "partido": "PSDB",
+     "n": "45",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Du Pereira",
+     "partido": "DC",
+     "n": "27",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ataides de Oliveira",
+     "partido": "NOVO",
+     "n": "30",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Laurez Moreira",
+     "partido": "PSD",
+     "n": "55",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  }
+ },
+ "sen": {
+  "ac": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Dr. Junior Feitosa",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcio Bittar",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Gladson Camelí",
+     "partido": "PP",
+     "n": "111",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professor Inacio Moreira",
+     "partido": "PSOL",
+     "n": "500",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eduardo Velloso",
+     "partido": "SOLIDARIEDADE",
+     "n": "777",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Mara Rocha",
+     "partido": "REPUBLICANOS",
+     "n": "100",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "al": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Dr. Wanderley",
+     "partido": "MDB",
+     "n": "156",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Renan",
+     "partido": "MDB",
+     "n": "151",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Davi Davino Filho",
+     "partido": "REPUBLICANOS",
+     "n": "100",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Alexandre Fleming",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marina Jhc",
+     "partido": "PSDB",
+     "n": "456",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Arthur Lira",
+     "partido": "PP",
+     "n": "111",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ap": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Alliny Serrão",
+     "partido": "UNIÃO",
+     "n": "444",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Randolfe",
+     "partido": "PT",
+     "n": "130",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Helio Silva",
+     "partido": "PCO",
+     "n": "290",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Juíza Jô",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professor Uzian Pinto",
+     "partido": "DC",
+     "n": "272",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Capi",
+     "partido": "PSB",
+     "n": "401",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "am": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Xuxa do Amazonas",
+     "partido": "MOBILIZA",
+     "n": "333",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Plinio Valério",
+     "partido": "PSDB",
+     "n": "455",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Wilson Lima",
+     "partido": "UNIÃO",
+     "n": "444",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dailson Corrêa",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eduardo Braga",
+     "partido": "MDB",
+     "n": "155",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Capitão Alberto Neto",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ba": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Jaques Wagner",
+     "partido": "PT",
+     "n": "130",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rui Costa",
+     "partido": "PT",
+     "n": "133",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professora Delliana",
+     "partido": "PSOL",
+     "n": "500",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcelo Carvalho",
+     "partido": "REDE",
+     "n": "180",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcelo Santtana",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcelo Millet",
+     "partido": "PCO",
+     "n": "290",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ce": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Lino Alves",
+     "partido": "PCO",
+     "n": "290",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Catarina Matos",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Reginaldo",
+     "partido": "PSTU",
+     "n": "162",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luizianne",
+     "partido": "REDE",
+     "n": "180",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Cid Gomes",
+     "partido": "PSB",
+     "n": "400",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Capitão Wagner",
+     "partido": "UNIÃO",
+     "n": "445",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "df": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Tiago",
+     "partido": "AGIR",
+     "n": "360",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Bia Kicis",
+     "partido": "PL",
+     "n": "223",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Michelle Bolsonaro",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professor Guilherme Amorim",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ronaldo Fonseca",
+     "partido": "PSD",
+     "n": "555",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Erika Kokay",
+     "partido": "PT",
+     "n": "131",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "es": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Renato Casagrande",
+     "partido": "PSB",
+     "n": "400",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rose de Freitas",
+     "partido": "MDB",
+     "n": "156",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Maguinha Malta",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Evair de Melo",
+     "partido": "REPUBLICANOS",
+     "n": "100",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcos do Val",
+     "partido": "AVANTE",
+     "n": "700",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Sergio Meneguelli",
+     "partido": "PSD",
+     "n": "556",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "go": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Gustavo Mendanha",
+     "partido": "PRD",
+     "n": "251",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Gracinha Caiado",
+     "partido": "UNIÃO",
+     "n": "444",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Oséias Varão",
+     "partido": "PL",
+     "n": "227",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Gustavo Gayer",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dr. Zacharias Calil",
+     "partido": "MDB",
+     "n": "155",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Guilherme Darques",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ma": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Weverton Rocha",
+     "partido": "PDT",
+     "n": "123",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Roseana Sarney",
+     "partido": "MDB",
+     "n": "151",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Wilson Leite",
+     "partido": "PSTU",
+     "n": "160",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Cidônio Gonçalves",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Fufuca",
+     "partido": "PP",
+     "n": "111",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Simplício Araújo",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "mt": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Zé Medeiros",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Janaina Riva",
+     "partido": "MDB",
+     "n": "150",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Coronel Darwin",
+     "partido": "DEMOCRATA",
+     "n": "351",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Margareth Buzetti",
+     "partido": "PP",
+     "n": "111",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Mauro Mendes",
+     "partido": "UNIÃO",
+     "n": "444",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Fávaro",
+     "partido": "PSD",
+     "n": "555",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ms": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Reinaldo Azambuja",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Capitão Contar",
+     "partido": "PL",
+     "n": "221",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Valderi Garcia",
+     "partido": "PCO",
+     "n": "290",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Beto do Movimento",
+     "partido": "PSOL",
+     "n": "500",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Vander Loubet",
+     "partido": "PT",
+     "n": "133",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Soraya",
+     "partido": "PSB",
+     "n": "400",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "mg": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Juíz Ramon Moreira",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Carlin Moura",
+     "partido": "AVANTE",
+     "n": "700",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Victória Mello Vic",
+     "partido": "PSTU",
+     "n": "161",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Jordano Metalúrgico",
+     "partido": "PSTU",
+     "n": "160",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Tião Pessoa",
+     "partido": "PCO",
+     "n": "290",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Aécio Neves",
+     "partido": "PSDB",
+     "n": "456",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pa": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Delegado Éder Mauro",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Fernanda Lopes",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Livia Noronha",
+     "partido": "SOLIDARIEDADE",
+     "n": "777",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Coronel Jonildo",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Zequinha Marinho",
+     "partido": "PODE",
+     "n": "200",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Edlaine Rodrigues",
+     "partido": "DEMOCRATA",
+     "n": "355",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pb": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Nabor",
+     "partido": "REPUBLICANOS",
+     "n": "100",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Joao Azevêdo",
+     "partido": "PSB",
+     "n": "400",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dr. Marcelo Queiroga",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Veneziano",
+     "partido": "MDB",
+     "n": "155",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "André Gadelha",
+     "partido": "MDB",
+     "n": "151",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Major Fábio",
+     "partido": "NOVO",
+     "n": "300",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pr": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Marcelo Marcelino",
+     "partido": "PCO",
+     "n": "290",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Cristina Graeml",
+     "partido": "PSD",
+     "n": "555",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Alexandre Curi",
+     "partido": "REPUBLICANOS",
+     "n": "100",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Joaquim do Mlb",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Karen Guerreiro",
+     "partido": "MISSÃO",
+     "n": "144",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dr Rosinha",
+     "partido": "PT",
+     "n": "132",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pe": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Gorett Bitu",
+     "partido": "UP",
+     "n": "801",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Samuel Timoteo",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Carlos Sant'anna",
+     "partido": "NOVO",
+     "n": "300",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Mariano Macedo",
+     "partido": "PSTU",
+     "n": "161",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Túlio Gadêlha",
+     "partido": "PSD",
+     "n": "555",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eduardo da Fonte",
+     "partido": "PP",
+     "n": "111",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "pi": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Pedro Laurentino",
+     "partido": "UP",
+     "n": "800",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Irmão Evandro Marques",
+     "partido": "DC",
+     "n": "278",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Dionisio Carvalho",
+     "partido": "DC",
+     "n": "277",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Danniel Rocha",
+     "partido": "PSTU",
+     "n": "166",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Antônio José Lira",
+     "partido": "AVANTE",
+     "n": "700",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Antônio Barros",
+     "partido": "NOVO",
+     "n": "300",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rj": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Helio Secco",
+     "partido": "MISSÃO",
+     "n": "144",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Carlos Portinho",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Carlos Jordy",
+     "partido": "PL",
+     "n": "221",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luiz Eugenio",
+     "partido": "PCO",
+     "n": "290",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcos Dias",
+     "partido": "PODE",
+     "n": "200",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Ó Clemente",
+     "partido": "DEMOCRATA",
+     "n": "355",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rn": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Rosália Fernandes",
+     "partido": "PSTU",
+     "n": "166",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luciana Mandu",
+     "partido": "PSTU",
+     "n": "161",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Clóvis Costa do Coletivo Nós",
+     "partido": "AGIR",
+     "n": "369",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Gari Wendell Batista",
+     "partido": "AGIR",
+     "n": "360",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Styvenson Valentim",
+     "partido": "PODE",
+     "n": "200",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Coronel Hélio",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rs": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Manuela D'ávila",
+     "partido": "PSOL",
+     "n": "500",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Pimenta",
+     "partido": "PT",
+     "n": "131",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Frederico Antunes",
+     "partido": "PSD",
+     "n": "555",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rigotto",
+     "partido": "MDB",
+     "n": "151",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marcel Van Hattem",
+     "partido": "NOVO",
+     "n": "300",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Sanderson",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "ro": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Dr. Fernando Máximo",
+     "partido": "PL",
+     "n": "221",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Bruno Scheid",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Acir Gurgacz",
+     "partido": "PDT",
+     "n": "123",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Luis Fernando",
+     "partido": "PSD",
+     "n": "555",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Neidinha",
+     "partido": "PSB",
+     "n": "400",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Engenheiro Thulio",
+     "partido": "MISSÃO",
+     "n": "144",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "rr": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Teresa Surita",
+     "partido": "MDB",
+     "n": "155",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Chico Rodrigues",
+     "partido": "PSB",
+     "n": "400",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Márcio Junqueira",
+     "partido": "PSDB",
+     "n": "456",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Hilton Xavier",
+     "partido": "AVANTE",
+     "n": "700",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Hiperion de Oliveira",
+     "partido": "PV",
+     "n": "433",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Regina Tio Ivo",
+     "partido": "NOVO",
+     "n": "300",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "sc": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Túlio de Amorim Pfuetzenreiter",
+     "partido": "MISSÃO",
+     "n": "144",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Lunelli",
+     "partido": "MDB",
+     "n": "155",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Esperidião Amin",
+     "partido": "PP",
+     "n": "111",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Carlos Bolsonaro",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Carol de Toni",
+     "partido": "PL",
+     "n": "221",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Décio Lima",
+     "partido": "PT",
+     "n": "133",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "sp": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "André do Prado",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Guilherme Derrite",
+     "partido": "PP",
+     "n": "111",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Petter Maahs",
+     "partido": "PCB",
+     "n": "211",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Guto Schiavetto",
+     "partido": "MISSÃO",
+     "n": "144",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Simone Tebet",
+     "partido": "PSB",
+     "n": "400",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Marina Silva",
+     "partido": "REDE",
+     "n": "180",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "se": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Eduardo Amorim",
+     "partido": "REPUBLICANOS",
+     "n": "100",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Delegado André David",
+     "partido": "REPUBLICANOS",
+     "n": "101",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Delegado Alessandro",
+     "partido": "MDB",
+     "n": "155",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Edvaldo",
+     "partido": "PDT",
+     "n": "123",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Coronel Rocha",
+     "partido": "PL",
+     "n": "221",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Rodrigo Valadares",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  },
+  "to": {
+   "pst": 0.0,
+   "final": false,
+   "hora": "",
+   "cands": [
+    {
+     "nome": "Paulo Mourão",
+     "partido": "PT",
+     "n": "133",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eli Borges",
+     "partido": "REPUBLICANOS",
+     "n": "100",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Eduardo Gomes",
+     "partido": "PL",
+     "n": "222",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Professor Osvaldo",
+     "partido": "PSOL",
+     "n": "500",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Fábio Ribeiro",
+     "partido": "REDE",
+     "n": "180",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    },
+    {
+     "nome": "Helio Rodrigues Bolsonaro",
+     "partido": "DEMOCRATA",
+     "n": "351",
+     "votos": 0,
+     "pct": 0.0,
+     "st": ""
+    }
+   ]
+  }
+ },
+ "dep_federal_top": [
+  {
+   "nome": "Nauan Aragão",
+   "partido": "AVANTE",
+   "n": "7033",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Daiane Fontinele",
+   "partido": "AVANTE",
+   "n": "7012",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "My Parfan",
+   "partido": "AVANTE",
+   "n": "7000",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Rosa Maria",
+   "partido": "AVANTE",
+   "n": "7070",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Cristiane de Paula",
+   "partido": "PDT",
+   "n": "1250",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Djê Cavalcante",
+   "partido": "PDT",
+   "n": "1200",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Reidivan Rocha",
+   "partido": "PDT",
+   "n": "1234",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Fernando Melo",
+   "partido": "PODE",
+   "n": "2000",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Jéssica Neves",
+   "partido": "PODE",
+   "n": "2013",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Wstany Silva",
+   "partido": "PODE",
+   "n": "2007",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Jéssica Souza",
+   "partido": "PODE",
+   "n": "2020",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Rudson Ribeiro",
+   "partido": "PODE",
+   "n": "2010",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Cacique Ninawá Huni Kui",
+   "partido": "PT",
+   "n": "1311",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Neide Lopes",
+   "partido": "PT",
+   "n": "1312",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "André Kamai",
+   "partido": "PT",
+   "n": "1313",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Marinilda Nascimento",
+   "partido": "PT",
+   "n": "1314",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Marcio Alecio",
+   "partido": "PT",
+   "n": "1333",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Virgílio Viana",
+   "partido": "PV",
+   "n": "4321",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Sidilene Silva",
+   "partido": "PV",
+   "n": "4300",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Perpétua Almeida",
+   "partido": "PCDOB",
+   "n": "6513",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Joãozinho",
+   "partido": "PCDOB",
+   "n": "6511",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Andreia Lima",
+   "partido": "SOLIDARIEDADE",
+   "n": "7745",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Marcio Albion",
+   "partido": "SOLIDARIEDADE",
+   "n": "7788",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Pastor Maanain",
+   "partido": "SOLIDARIEDADE",
+   "n": "7711",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Ana Paula",
+   "partido": "SOLIDARIEDADE",
+   "n": "7700",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Dr.raimundo Castro",
+   "partido": "SOLIDARIEDADE",
+   "n": "7767",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Marcos Torres",
+   "partido": "SOLIDARIEDADE",
+   "n": "7789",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Rose Silva",
+   "partido": "PRD",
+   "n": "2525",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Pricila Paulino",
+   "partido": "PRD",
+   "n": "2500",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  },
+  {
+   "nome": "Zé Carlos",
+   "partido": "PRD",
+   "n": "2520",
+   "votos": 0,
+   "pct": 0.0,
+   "st": "",
+   "uf": "AC"
+  }
+ ],
+ "gov_t2": {}
+}

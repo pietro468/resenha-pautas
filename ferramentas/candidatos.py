@@ -114,7 +114,32 @@ def main():
         jul = titulo(r.get('DS_SITUACAO_JULGAMENTO_URNA') or r.get('DS_SITUACAO_JULGAMENTO') or r.get('DS_DETALHE_SITUACAO_CAND'))
         c['sit'] = jul  # Deferido, Indeferido com recurso, Renúncia...
         c['voto'] = limpo(r.get('NM_TIPO_DESTINACAO_VOTOS', ''))  # Válido, Anulado sub judice...
-        c['urna'] = 0 if limpo(r.get('ST_CANDIDATO_INSERIDO_URNA', '')).upper().startswith('N') else 1
+        c.setdefault('urna', 0 if limpo(r.get('ST_CANDIDATO_INSERIDO_URNA', '')).upper().startswith('N') else 1)
+
+    # ---------- quem está na urna: confere com os arquivos de resultado do TSE ----------
+    cods = {'pres': ('6257', '0001'), 'gov': ('6259', '0003'), 'sen': ('6259', '0005'), 'df': ('6259', '0006'), 'de': ('6259', '0007')}
+    grupos_urna = collections.defaultdict(list)
+    for c in cands.values():
+        grupos_urna[(c['uf'], c['cargo'], c['cd'])].append(c)
+    for (uf, cargo, cd), lista in grupos_urna.items():
+        ele, cod = cods[cargo]
+        if cd == 8:
+            cod = '0008'
+        url = 'https://resultados.tse.jus.br/oficial/ele2026/%s/dados/%s/%s-c%s-e%06d-u.json' % (ele, uf, uf, cod, int(ele))
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 ResenhaRentavel/1.0'})
+            d = json.load(urllib.request.urlopen(req, timeout=60))
+            na_urna = set()
+            for a in d['carg'][0]['agr']:
+                for p in a['par']:
+                    for x in p['cand']:
+                        na_urna.add(str(x['sqcand']))
+                        if x.get('dvt'):
+                            pass
+            for c in lista:
+                c['urna'] = 1 if c['sq'] in na_urna else 0
+        except Exception as e:
+            print('sem arquivo de urna', uf, cargo, e)
 
     # ---------- bens ----------
     perfil = collections.defaultdict(lambda: {'bens': [], 'hist': [], 'doad': [], 'forn': []})

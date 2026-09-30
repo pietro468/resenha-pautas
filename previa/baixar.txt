@@ -1,8 +1,4 @@
-fa3c265c6.jpg https://upload.wikimedia.org/wikipedia/commons/4/4f/Aceptamos_Pix_en_Argentina.jpg
-ffea7b1ec.jpg https://upload.wikimedia.org/wikipedia/commons/b/b3/Pix_Hipermercado_Continente.jpg
-f838f2ef1.jpg https://upload.wikimedia.org/wikipedia/commons/3/31/Feira_em_Itajub%C3%A1_aceita_Pix.jpg
-f71c7b2ae.jpg https://upload.wikimedia.org/wikipedia/commons/2/2b/TRENSURB_INICIA_TESTES_COM_PAGAMENTO_POR_PIX_NAS_BILHETERIAS_%2853196899079%29.jpg
-fa77b1dfc.jpg https://upload.wikimedia.org/wikipedia/commons/3/33/TRENSURB_INICIA_TESTES_COM_PAGAMENTO_POR_PIX_NAS_BILHETERIAS_%2853197426685%29.jpg
-f4aa8c785.jpg https://upload.wikimedia.org/wikipedia/commons/5/5c/2024-11-11%2C_CPIMJAE_-_CPI_da_Manipula%C3%A7%C3%A3o_de_Jogos_e_Apostas_Esportivas_%2854133250593%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
-bc2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Banco_Central_do_Brasil.jpg/960px-Banco_Central_do_Brasil.jpg
-bc1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Central_Bank_of_Brazil.jpg/960px-Central_Bank_of_Brazil.jpg
+x1.jpg https://images.pexels.com/photos/7594401/pexels-photo-7594401.jpeg?auto=compress&w=1280&fm=jpg
+x2.jpg https://images.pexels.com/photos/7594371/pexels-photo-7594371.jpeg?auto=compress&w=1280&fm=jpg
+x3.jpg https://images.pexels.com/photos/5920577/pexels-photo-5920577.jpeg?auto=compress&w=1280&fm=jpg
+t1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/TRENSURB_INICIA_TESTES_COM_PAGAMENTO_POR_PIX_NAS_BILHETERIAS_%2853196899079%29.jpg/1280px-TRENSURB_INICIA_TESTES_COM_PAGAMENTO_POR_PIX_NAS_BILHETERIAS_%2853196899079%29.jpg

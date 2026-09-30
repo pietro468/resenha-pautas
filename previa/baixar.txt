@@ -1,0 +1,10 @@
+ele-c.json https://resultados.tse.jus.br/oficial/comum/config/ele-c.json
+br-pres.json https://resultados.tse.jus.br/oficial/ele2022/544/dados-simplificados/br/br-c0001-e000544-r.json
+sp-pres.json https://resultados.tse.jus.br/oficial/ele2022/544/dados-simplificados/sp/sp-c0001-e000544-r.json
+spmun-pres.json https://resultados.tse.jus.br/oficial/ele2022/544/dados-simplificados/sp/sp71072-c0001-e000544-r.json
+sp-gov.json https://resultados.tse.jus.br/oficial/ele2022/546/dados-simplificados/sp/sp-c0003-e000546-r.json
+sp-sen.json https://resultados.tse.jus.br/oficial/ele2022/546/dados-simplificados/sp/sp-c0005-e000546-r.json
+sp-df.json https://resultados.tse.jus.br/oficial/ele2022/546/dados-simplificados/sp/sp-c0006-e000546-r.json
+spmun-gov.json https://resultados.tse.jus.br/oficial/ele2022/546/dados-simplificados/sp/sp71072-c0003-e000546-r.json
+mun544.json https://resultados.tse.jus.br/oficial/ele2022/544/config/mun-e000544-cm.json
+mun546.json https://resultados.tse.jus.br/oficial/ele2022/546/config/mun-e000546-cm.json

@@ -1,0 +1,2 @@
+pt.json https://pt.wikipedia.org/w/api.php?action=query&format=json&titles=Club_de_Regatas_Vasco_da_Gama&prop=pageimages|images&piprop=original&imlimit=50
+en.json https://en.wikipedia.org/w/api.php?action=query&format=json&titles=CR_Vasco_da_Gama&prop=pageimages&piprop=original

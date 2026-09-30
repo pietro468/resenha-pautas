@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "capa_foco": "50,42",
+  "gancho": "O mundo adora a cultura do Brasil, mas ainda confia pouco no país para ==investir==",
+  "slides": [
+    {"tipo": "texto", "titulo": "Isso tem nome: marca país", "texto": "É a imagem que um país tem lá fora.\n\nFunciona como a marca de uma empresa: ajuda a vender turismo, produtos e atrair dinheiro.\n\nE dá para medir.", "fonte": "Ipsos"},
+    {"tipo": "foto_texto", "foto": "marca-pais-italia-moda-milao.jpg", "titulo": "Quem está no topo", "texto": "Num ranking com 40 mil entrevistados, o ==Japão== ficou em 1º em 2025.\n\nDepois vêm Alemanha, Canadá, ==Itália== e Suíça.\n\nE o Brasil?", "fonte": "Anholt Nation Brands Index 2025"},
+    {"tipo": "numero", "numero": "27º", "texto": "é a posição do ==Brasil== entre 50 países. A Argentina ficou em 30º.\n\nMas tem um ponto em que o Brasil brilha.", "fonte": "Anholt Nation Brands Index 2025"},
+    {"tipo": "foto_texto", "foto": "marca-pais-brasil-carnaval-sambodromo.jpg", "titulo": "A cultura puxa a fila", "texto": "Em outro ranking, o Brasil é o **11º do mundo** em cultura e está no topo em ==esportes e entretenimento==.\n\nE isso já chega ao caixa.", "fonte": "Brand Finance Global Soft Power Index 2026"},
+    {"tipo": "foto_texto", "foto": "marca-pais-rio-de-janeiro-corcovado.jpg", "titulo": "Turista nunca gastou tanto", "texto": "Foram **9,3 milhões** de estrangeiros em 2025, um recorde.\n\nEles deixaram ==US$ 7,9 bilhões== no país.\n\nSó que falta uma peça.", "fonte": "Embratur e Banco Central"},
+    {"tipo": "texto", "titulo": "O ponto fraco", "texto": "Nos rankings, o Brasil vai mal em **governo**, **negócios** e **confiança nas instituições**.\n\nOu seja: o mundo quer visitar, mas pensa duas vezes antes de ==investir==.", "fonte": "Brand Finance"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "Reputação é um ativo, como uma marca. O Brasil já conquistou a simpatia do mundo. O próximo passo é ser visto também como um lugar confiável para colocar dinheiro.", "fonte": "Brand Finance e Anholt"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O mundo adora a cultura do Brasil, mas ainda confia pouco no país para investir. Isso tem nome: marca país.\n\nO termo foi criado em 1996 pelo britânico Simon Anholt. A ideia é que a imagem de um país funciona como a marca de uma empresa e mexe com turismo, exportações e investimento.\n\nNo Nation Brands Index de 2025, o Brasil ficou em 27º entre 50 países. O Japão lidera, seguido por Alemanha, Canadá, Itália e Suíça.\n\nNo Global Soft Power Index 2026, da Brand Finance, o Brasil subiu para 29º, é o 11º em cultura e aparece no topo em esportes e entretenimento. O ponto fraco: governo, negócios e confiança nas instituições.\n\nO turismo mostra o lado bom: 9,3 milhões de estrangeiros em 2025, segundo a Embratur, e US$ 7,9 bilhões gastos no país, segundo o Banco Central.\n\nQual país você acha que tem a melhor imagem do mundo?\n\n(Fotos: dany13, CC BY 2.0; l0da_ralta, CC BY 2.0; Mark Scott Johnson, CC BY 2.0; Artyominc, CC BY-SA 3.0; todas via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

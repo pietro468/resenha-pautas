@@ -1,0 +1,33 @@
+{
+  "titulo": "História real: Coronel Sanders e o KFC depois dos 65",
+  "data": "2026-09-30 20:00",
+  "fotos": [
+    {"arquivo": "historia-sanders-anos-1970.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Manfred_Katz_together_with_Colonel_Harland_David_Sanders_%28founder_of_KFC%29.jpg/1920px-Manfred_Katz_together_with_Colonel_Harland_David_Sanders_%28founder_of_KFC%29.jpg", "credito": "Suissrael/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "historia-sanders-1914.png", "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Harland_Sanders_%28circa_1914%29.png", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-sanders-ferroviario.png", "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Harland_Sanders_the_railroad_worker.png", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-sanders-cartao-corbin.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Colonel_Sanders%27_business_card%2C_c._late_1940s.jpg", "credito": "Cartão de visita, fim dos anos 1940/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-sanders-museu-corbin.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Harland_Sanders_Caf%C3%A9_and_Museum_-_October_2023_-_Sarah_Stierch_10.jpg/1920px-Harland_Sanders_Caf%C3%A9_and_Museum_-_October_2023_-_Sarah_Stierch_10.jpg", "credito": "Sarah Stierch/Wikimedia Commons (CC BY 4.0)"},
+    {"arquivo": "historia-sanders-balde-kfc.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Harland_Sanders_Caf%C3%A9_and_Museum_-_October_2023_-_Sarah_Stierch_18.jpg/1920px-Harland_Sanders_Caf%C3%A9_and_Museum_-_October_2023_-_Sarah_Stierch_18.jpg", "credito": "Sarah Stierch/Wikimedia Commons (CC BY 4.0)"},
+    {"arquivo": "historia-sanders-teera.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Colonel_Sanders_in_Tehran%2C_1970s_-_02.jpg", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "historia-sanders-anos-1970.jpg",
+    "capa_estilo": "historia",
+    "capa_foco": "62,32,1.4",
+    "chamada": "História real",
+    "gancho": "Aos 65 anos, o criador do ==KFC== vivia com US$ 105 por mês da aposentadoria",
+    "slides": [
+      {"tipo": "foto_texto", "foto": "historia-sanders-1914.png", "titulo": "Começou cedo, e mal", "texto": "Harland Sanders nasceu em 1890. Perdeu o pai aos 5 anos.\n\nAdulto, pulou de emprego em emprego. E nenhum deu certo por muito tempo.", "fonte": "Wikipedia e History"},
+      {"tipo": "foto_texto", "foto": "historia-sanders-ferroviario.png", "titulo": "Dezenas de profissões", "texto": "Foi ferroviário, condutor de bonde, vendedor de seguros e de pneus.\n\nAté que, aos 40 anos, assumiu um posto de gasolina no Kentucky.", "fonte": "Wikipedia e History"},
+      {"tipo": "foto_texto", "foto": "historia-sanders-cartao-corbin.jpg", "titulo": "O frango do posto", "texto": "Em 1930, em ==Corbin==, começou a servir frango frito aos viajantes.\n\nCriou a receita com ==11 ervas e especiarias== e virou \"coronel\", título honorário do Kentucky.\n\nO negócio cresceu. Até a estrada mudar.", "fonte": "KFC e Wikipedia"},
+      {"tipo": "foto_texto", "foto": "historia-sanders-museu-corbin.jpg", "titulo": "A rodovia levou tudo", "texto": "Nos anos 1950, a nova rodovia ==Interstate 75== desviou os clientes de Corbin.\n\nAos 65 anos, ele vendeu o restaurante. Sobrou a poupança e **US$ 105 por mês** da previdência.\n\nEle tinha uma última carta.", "fonte": "History e Wikipedia"},
+      {"tipo": "foto_texto", "foto": "historia-sanders-balde-kfc.jpg", "titulo": "A estrada, de novo", "texto": "Com um Ford 1946, saiu de cidade em cidade oferecendo a receita a donos de restaurante.\n\nQuem topava passava a vender o frango com o nome dele: ==Kentucky Fried Chicken==.", "fonte": "History"},
+      {"tipo": "foto_texto", "foto": "historia-sanders-teera.jpg", "titulo": "A virada", "texto": "Em 1964, aos 73 anos, já eram **mais de 600 unidades**.\n\nEle vendeu a empresa por ==US$ 2 milhões== e virou o rosto da marca pelo mundo.", "fonte": "Wikipedia"},
+      {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Hoje o KFC tem mais de 30 mil restaurantes em 150 países. Tudo começou de verdade quando o dono já tinha idade para se aposentar.", "fonte": "KFC"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Aos 65 anos, o criador do KFC vivia com US$ 105 por mês da previdência. A história dele só estava começando.\n\nHarland Sanders nasceu em 1890, perdeu o pai aos 5 anos e passou por dezenas de empregos: ferroviário, condutor de bonde, vendedor de seguros e de pneus.\n\nEm 1930, num posto de gasolina em Corbin, no Kentucky, começou a servir frango frito aos viajantes. Ali criou a receita com 11 ervas e especiarias e ganhou o título honorário de coronel do Kentucky.\n\nNos anos 1950, a rodovia Interstate 75 tirou os clientes da cidade. Aos 65 anos, ele vendeu o restaurante e ficou com a poupança e o cheque da previdência, segundo o History.\n\nFoi aí que pegou o carro e saiu vendendo franquias da receita. Em 1964, aos 73 anos, com mais de 600 unidades, vendeu a empresa por US$ 2 milhões. Hoje o KFC tem mais de 30 mil restaurantes em 150 países, segundo a própria rede.\n\nVocê acha que existe idade certa para começar um negócio?\n\n(Fotos: Suissrael, CC BY-SA 4.0; Sarah Stierch, CC BY 4.0; acervo histórico em domínio público; todas via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

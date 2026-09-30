@@ -1,8 +1,0 @@
-c-56brazil.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Brazil-01259_-_Christ_the_Redeemer_%2848990185192%29.jpg/1280px-Brazil-01259_-_Christ_the_Redeemer_%2848990185192%29.jpg
-c-32christ.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Christ_on_Corcovado_mountain.JPG/1280px-Christ_on_Corcovado_mountain.JPG
-c-50christ.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Christ_the_Redeemer-%28Corcovado%29_front_view.jpg/1280px-Christ_the_Redeemer-%28Corcovado%29_front_view.jpg
-c-25christ.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Christ_the_Redeemer_2.jpg/1280px-Christ_the_Redeemer_2.jpg
-c-43christ.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Christ_the_Redeemer_statue_at_Corcovado.JPG/1280px-Christ_the_Redeemer_statue_at_Corcovado.JPG
-c-72dsc000.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DSC00035_Brazil_Rio_de_Janeiro_Christ_The_Redeemer_%2810410363174%29.jpg/1280px-DSC00035_Brazil_Rio_de_Janeiro_Christ_The_Redeemer_%2810410363174%29.jpg
-c-98dsc000.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DSC00038_Brazil_Rio_De_Janeiro_Corcovado_Christ_the_Redeemer_Cristo_Redentor_%2810410372846%29.jpg/1280px-DSC00038_Brazil_Rio_De_Janeiro_Corcovado_Christ_the_Redeemer_Cristo_Redentor_%2810410372846%29.jpg
-c-65lascar.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lascar_View_of_Rio_de_Janeiro_from_Corcovado_%284551233087%29.jpg/1280px-Lascar_View_of_Rio_de_Janeiro_from_Corcovado_%284551233087%29.jpg

@@ -182,9 +182,29 @@
    ],
    "titulo": "Quem ganhou a guerra do streaming entre Netflix e Disney+",
    "data": "2026-09-30 11:00"
+  },
+  {
+   "slug": "divida-publica-agosto-2026",
+   "pasta": "artigos/2026-09-30/divida-publica-agosto-2026",
+   "arquivos": [
+    "divida-publica-agosto-2026.md",
+    "carrossel.json"
+   ],
+   "titulo": "Dívida pública sobe a 82,9% do PIB, o maior nível em cinco anos",
+   "data": "2026-09-30 14:00"
+  },
+  {
+   "slug": "o-que-e-marca-pais",
+   "pasta": "artigos/2026-09-30/o-que-e-marca-pais",
+   "arquivos": [
+    "o-que-e-marca-pais.md",
+    "carrossel.json"
+   ],
+   "titulo": "O que é marca país e por que a imagem do Brasil vale dinheiro",
+   "data": "2026-09-30 16:00"
   }
  ],
- "atualizado": "2026-09-30 10:14",
+ "atualizado": "2026-09-30 16:12",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -200,6 +220,11 @@
    "slug": "frase-buffett-mare",
    "pasta": "instagram/2026-09-30/frase-buffett-mare",
    "data": "2026-09-30 07:00"
+  },
+  {
+   "slug": "historia-coronel-sanders",
+   "pasta": "instagram/2026-09-30/historia-coronel-sanders",
+   "data": "2026-09-30 20:00"
   },
   {
    "slug": "hoje-morte-james-dean",

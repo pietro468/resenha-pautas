@@ -1,0 +1,21 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Veja os números",
+  "capa": "capa",
+  "capa_estilo": "circulo",
+  "capa_extra": "divida-publica-notas-de-real.jpg",
+  "capa_foco": "35,40",
+  "gancho": "O governo gasta mais de ==R$ 3 bilhões por dia== só com juros da dívida",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que saiu hoje", "texto": "A dívida do Brasil chegou a ==R$ 11,1 trilhões== em agosto.\n\nIsso é **82,9% de tudo que o país produz** em um ano. O maior nível em cinco anos.\n\nMas o curioso é de onde vem a alta.", "fonte": "Banco Central, via CNN Brasil e Folhapress"},
+    {"tipo": "numero", "numero": "R$ 52 mil", "texto": "é quanto essa dívida dá **por brasileiro**, dividindo pelos 213,4 milhões de habitantes.\n\nE ela não para de crescer. Por quê?", "fonte": "Banco Central e IBGE"},
+    {"tipo": "comparacao", "titulo": "O que empurrou a dívida em 2026", "esquerda": {"rotulo": "Juros", "valor": "+6,5", "detalhe": "pontos do PIB"}, "direita": {"rotulo": "Economia crescendo", "valor": "-3,6", "detalhe": "pontos do PIB"}, "texto": "Sem os juros, a dívida teria **caído** este ano.", "fonte": "Banco Central, via CNN Brasil"},
+    {"tipo": "foto_texto", "foto": "divida-publica-notas-de-real.jpg", "titulo": "A conta dos juros", "texto": "Em 12 meses, o setor público pagou ==R$ 1,18 trilhão== de juros.\n\nSó em agosto foram **R$ 105,9 bilhões**. Um ano antes, R$ 74,3 bilhões.\n\nE o rombo do mês? Foi menor.", "fonte": "Agência Brasil"},
+    {"tipo": "texto", "titulo": "O rombo diminuiu", "texto": "Sem contar juros, o governo gastou **R$ 10 bilhões** a mais do que arrecadou em agosto.\n\nEm agosto de 2025, tinham sido **R$ 17,3 bilhões**.\n\nO problema está nos juros, que acompanham a ==Selic de 13,75%==.", "fonte": "Agência Brasil"},
+    {"tipo": "texto_claro", "titulo": "E o seu bolso?", "texto": "Quem investe no Tesouro Direto recebe esses juros.\n\nMas cada real pago em juros não vai para outra despesa. E a Selic alta também encarece o cartão e o financiamento.", "fonte": "Agência Brasil"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "Hoje, quem define o rumo da dívida não é o rombo do mês. São os juros. Enquanto eles pesarem mais do que o crescimento da economia, a dívida sobe.", "fonte": "Banco Central"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O governo gasta mais de R$ 3 bilhões por dia só com juros da dívida pública.\n\nSegundo o Banco Central, a dívida bruta chegou a R$ 11,1 trilhões em agosto de 2026, ou 82,9% do PIB. É o maior nível desde agosto de 2021, segundo a Folhapress.\n\nEm 12 meses, os juros somaram R$ 1,182 trilhão, de acordo com a Agência Brasil. No ano, eles adicionaram 6,5 pontos do PIB à dívida.\n\nO rombo sem juros até diminuiu: foi de R$ 10 bilhões em agosto, contra R$ 17,3 bilhões um ano antes. Mas, com a Selic em 13,75%, a conta de juros pesa muito mais.\n\nVocê acha que a maioria das pessoas sabe quanto o país gasta com juros?\n\n(Fotos: Senado Federal/Wikimedia Commons, CC BY 2.0; rawpixel, CC0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

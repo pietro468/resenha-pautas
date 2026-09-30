@@ -26,6 +26,9 @@ jobs:
           echo "== rest index namespaces" >> $o; curl -s -m 30 "$S/wp-json/" | python3 -c "import json,sys;d=json.load(sys.stdin);print(d.get('namespaces'))" >> $o 2>&1
           echo "== cors buscar" >> $o; curl -sI -m 60 -H "Origin: https://evil.example" "$S/?rest_route=/rri/v1/videos" | grep -iE "^(HTTP|access-control)" >> $o
           echo "== plugins lista (rest)" >> $o; curl -s -m 30 "$S/wp-json/wp/v2/plugins" | head -c 200 >> $o; echo >> $o
+          echo "== aviso do github (buscar)" >> $o; curl -s -m 240 "$S/?rest_route=/rri/v1/buscar&n=$(date +%s)" | head -c 300 >> $o; echo >> $o
+          echo "== apuracao uf invalida" >> $o; curl -s -m 60 "$S/?rest_route=/rri/v1/eleicao&c=pres&uf=xy" | head -c 200 >> $o; echo >> $o
+          echo "== contador (3 cliques na mesma materia)" >> $o; for i in 1 2 3; do curl -s -m 30 -X POST "$S/?rest_route=/rr/v1/view/1" | head -c 80 >> $o; echo >> $o; done
           echo "== 5 logins errados seguidos (usuário inventado)" >> $o
           for i in 1 2 3 4 5 6; do curl -s -o /dev/null -w "%{http_code} " -m 30 -d "log=teste-inexistente-rr&pwd=errada$i&wp-submit=Log+In" $S/wp-login.php >> $o; done; echo >> $o
       - name: Salvar

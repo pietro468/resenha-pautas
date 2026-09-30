@@ -1,0 +1,36 @@
+name: Sonda do site (análise de segurança)
+on:
+  push:
+    branches: [main]
+    paths: ['sonda-site/pedido.txt']
+permissions:
+  contents: write
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Testes só de leitura
+        run: |
+          S=https://resenharentavel.com; o=sonda-site/resultado.txt; : > $o
+          echo "== cabeçalhos da home" >> $o; curl -sI -m 30 $S/ | grep -iE "^(HTTP|server|content-security|strict-transport|x-frame|x-content-type|referrer-policy|permissions-policy|x-powered|set-cookie)" >> $o
+          echo "== usuarios (wp/v2/users)" >> $o; curl -s -m 30 "$S/wp-json/wp/v2/users" | head -c 600 >> $o; echo >> $o
+          echo "== usuarios (?author=1)" >> $o; curl -sI -m 30 "$S/?author=1" | grep -iE "^(HTTP|location)" >> $o
+          echo "== xmlrpc" >> $o; curl -s -m 30 -X POST -H "Content-Type: text/xml" --data '<?xml version="1.0"?><methodCall><methodName>system.listMethods</methodName></methodCall>' $S/xmlrpc.php | head -c 400 >> $o; echo >> $o
+          echo "== wp-login" >> $o; curl -sI -m 30 $S/wp-login.php | grep -iE "^(HTTP|location|server)" >> $o
+          echo "== readme.html" >> $o; curl -s -o /dev/null -w "%{http_code}\n" -m 30 $S/readme.html >> $o
+          echo "== debug.log" >> $o; curl -s -o /dev/null -w "%{http_code}\n" -m 30 $S/wp-content/debug.log >> $o
+          echo "== uploads listagem" >> $o; curl -s -o /dev/null -w "%{http_code}\n" -m 30 $S/wp-content/uploads/ >> $o
+          echo "== plugins listagem" >> $o; curl -s -o /dev/null -w "%{http_code}\n" -m 30 $S/wp-content/plugins/importador-resenha/ >> $o
+          echo "== versao wp (generator)" >> $o; curl -s -m 30 $S/ | grep -io '<meta name="generator"[^>]*>' | head -3 >> $o
+          echo "== rest index namespaces" >> $o; curl -s -m 30 "$S/wp-json/" | python3 -c "import json,sys;d=json.load(sys.stdin);print(d.get('namespaces'))" >> $o 2>&1
+          echo "== cors buscar" >> $o; curl -sI -m 60 -H "Origin: https://evil.example" "$S/?rest_route=/rri/v1/videos" | grep -iE "^(HTTP|access-control)" >> $o
+          echo "== plugins lista (rest)" >> $o; curl -s -m 30 "$S/wp-json/wp/v2/plugins" | head -c 200 >> $o; echo >> $o
+          echo "== 5 logins errados seguidos (usuário inventado)" >> $o
+          for i in 1 2 3 4 5 6; do curl -s -o /dev/null -w "%{http_code} " -m 30 -d "log=teste-inexistente-rr&pwd=errada$i&wp-submit=Log+In" $S/wp-login.php >> $o; done; echo >> $o
+      - name: Salvar
+        run: |
+          git config user.name "Resenha Rentável"
+          git config user.email "pietro468@users.noreply.github.com"
+          git add sonda-site/resultado.txt
+          git commit -m "Sonda do site" && git pull --rebase -q && git push

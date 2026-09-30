@@ -1,12 +1,17 @@
 == cabeçalhos da home
 HTTP/2 200 
 server: cloudflare
-set-cookie: __cf_bm=PnWT.wIWA0SWmgufKAvnTjZJQMFnWoYsrcuIXixrDzc-1790810347.7342856-1.0.1.1-hVdJNaJrGh4XlReapLeqA9B0lEzfzroIJPFBkbXd5BO48LKjnEWvnwySns0HMRRX86cdkfjfpAvmjWPd.buyb5Invibfl2ALlghfkurD83O4GDtFPdLI210r.KSIv4g4; HttpOnly; SameSite=None; Secure; Path=/; Domain=resenharentavel.com; Expires=Wed, 30 Sep 2026 23:49:07 GMT
+strict-transport-security: max-age=31536000
+permissions-policy: camera=(), microphone=(), geolocation=(), payment=()
+referrer-policy: strict-origin-when-cross-origin
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+set-cookie: __cf_bm=dUglblJwJNEE8Sn_jEUOV2yTmmWL3unpK2ftQXn_TQE-1790811720.5168447-1.0.1.1-UIIth7.7EqsIkug10U6XKGP30f6ofnqRiJD87qMqBPs5b2yJatf5ySDpAZ2JTkeFK3HdTEi9fldtBSm2jhI3ML18P7SK60fbifdiuJYq17OMLf9HTdP4x1IQDZa0JdFN; HttpOnly; SameSite=None; Secure; Path=/; Domain=resenharentavel.com; Expires=Thu, 01 Oct 2026 00:12:00 GMT
 == usuarios (wp/v2/users)
-[{"id":1,"name":"Pedro Pacampos","url":"https:\/\/resenharentavel.com","description":"","link":"https:\/\/resenharentavel.com\/author\/97361pwpadmin\/","slug":"97361pwpadmin","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/4b3c94ea05148a9c1f3037d2fc5824caa4c35801b6ab522e147c53d443a66963?s=24&d=mm&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/4b3c94ea05148a9c1f3037d2fc5824caa4c35801b6ab522e147c53d443a66963?s=48&d=mm&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/4b3c94ea05148a9c1f3037d2fc5824caa4c35801b6ab522e147c53d443a66963?s=96&d=mm&r=g"},"meta":[],"yoast_head":"<!-- This 
+{"code":"rest_no_route","message":"Nenhuma rota foi encontrada que corresponde com o URL e o m\u00e9todo de requisi\u00e7\u00e3o.","data":{"status":404}}
 == usuarios (?author=1)
 HTTP/2 301 
-location: https://resenharentavel.com/author/97361pwpadmin/
+location: https://resenharentavel.com/
 == xmlrpc
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
@@ -29,10 +34,9 @@ server: cloudflare
 == plugins listagem
 403
 == versao wp (generator)
-<meta name="generator" content="WordPress 7.1.2" />
-<meta name="generator" content="Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<meta name="generator" content="Elementor 4.3.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 == rest index namespaces
-['oembed/1.0', 'two-factor', 'wp-site-designer/v1', 'wpaas/v1', 'akismet/v1', 'coblocks', 'contact-form-7/v1', 'rri/v1', 'yoast/v1', 'elementor-mcp-composer/v1.0.17', 'elementor-one/v1', 'gdl/v1', 'objectcache/v1', 'rr/v1', 'elementor/v1/documents', 'elementor/v1', 'elementor-ai/v1', 'elementor/v1/feedback', 'mcp', 'wp/v2', 'wp-site-health/v1', 'wp-block-editor/v1', 'wp-abilities/v1']
+['oembed/1.0', 'two-factor', 'wp-site-designer/v1', 'wpaas/v1', 'akismet/v1', 'contact-form-7/v1', 'rri/v1', 'yoast/v1', 'elementor-mcp-composer/v1.0.18', 'elementor-one/v1', 'gdl/v1', 'objectcache/v1', 'rr/v1', 'elementor/v1/documents', 'elementor/v1', 'elementor-ai/v1', 'elementor/v1/feedback', 'wp/v2', 'wp-site-health/v1', 'wp-block-editor/v1', 'wp-abilities/v1']
 == cors buscar
 HTTP/2 200 
 access-control-allow-credentials: true
@@ -42,5 +46,13 @@ access-control-allow-origin: https://evil.example
 access-control-expose-headers: X-WP-Total, X-WP-TotalPages, Link
 == plugins lista (rest)
 {"code":"rest_cannot_view_plugins","message":"Sem permiss\u00e3o para gerenciar plugins deste site.","data":{"status":401}}
+== aviso do github (buscar)
+{"ok":1,"msg":"Busca feita h\u00e1 menos de 1 minuto."}
+== apuracao uf invalida
+{"ok":false,"erro":"Estado n\u00e3o encontrado."}
+== contador (3 cliques na mesma materia)
+{"code":"rr","message":"no","data":{"status":404}}
+{"ok":true}
+{"ok":true}
 == 5 logins errados seguidos (usuário inventado)
 403 403 403 403 403 403 

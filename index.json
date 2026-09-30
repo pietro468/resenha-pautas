@@ -202,9 +202,31 @@
    ],
    "titulo": "O que é marca país e por que a imagem do Brasil vale dinheiro",
    "data": "2026-09-30 16:00"
+  },
+  {
+   "slug": "preco-do-diesel",
+   "pasta": "artigos/2026-09-30/preco-do-diesel",
+   "arquivos": [
+    "preco-do-diesel.md",
+    "preco-do-diesel-composicao.png",
+    "carrossel.json"
+   ],
+   "titulo": "Por que o preço do diesel subiu e como isso chega ao frete",
+   "data": "2026-09-30 19:00"
+  },
+  {
+   "slug": "luiza-trajano",
+   "pasta": "artigos/2026-09-30/luiza-trajano",
+   "arquivos": [
+    "luiza-trajano.md",
+    "luiza-trajano-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Como Luiza Trajano transformou uma loja de Franca na Magalu",
+   "data": "2026-09-30 21:00"
   }
  ],
- "atualizado": "2026-09-30 17:12",
+ "atualizado": "2026-09-30 21:13",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -230,6 +252,11 @@
    "slug": "hoje-morte-james-dean",
    "pasta": "instagram/2026-09-30/hoje-morte-james-dean",
    "data": "2026-09-30 10:00"
+  },
+  {
+   "slug": "frase-lemann-sonhar-grande",
+   "pasta": "instagram/2026-10-01/frase-lemann-sonhar-grande",
+   "data": "2026-10-01 07:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

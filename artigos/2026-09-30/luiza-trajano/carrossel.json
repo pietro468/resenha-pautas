@@ -1,0 +1,56 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "chamada": "Veja a história",
+  "capa": "luiza-trajano-retrato-magalu.jpg",
+  "capa_foco": "50,25",
+  "capa_extra": "loja-magazine-luiza-centro-de-sao-paulo.jpg",
+  "gancho": "==Luiza Trajano== começou aos 12 anos na loja dos tios e virou bilionária",
+  "slides": [
+    {
+      "tipo": "foto_texto",
+      "foto": "escritorio-magalu-franca.jpg",
+      "titulo": "A loja de presentes",
+      "texto": "Em 1957, a tia dela comprou uma lojinha em Franca (SP) chamada **A Cristaleira**.\n\nUm concurso escolheu o novo nome: ==Magazine Luiza==.\n\nE a sobrinha já estava no balcão.",
+      "fonte": "Exame"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "luiza-trajano-2013.jpg",
+      "titulo": "Do balcão ao comando",
+      "texto": "Luiza começou aos **12 anos**, nas férias da escola. Aos 18, entrou de vez.\n\nEm ==1991==, assumiu a direção da rede. E aí vieram as ideias que marcaram a empresa.",
+      "fonte": "Revista Oeste e Forbes Brasil"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Filas na porta",
+      "texto": "Em 1992, criou as **lojas virtuais**: telas para vender o que não estava no estoque.\n\nE lançou a ==Liquidação Fantástica==, que fazia fila na porta logo cedo.\n\nO próximo passo foi a bolsa.",
+      "fonte": "Diario de Pernambuco"
+    },
+    {
+      "tipo": "numero",
+      "numero": "US$ 5,6 bi",
+      "texto": "era a fortuna dela em **julho de 2021**, com as ações da Magalu no alto.\n\nEm 2020, a Forbes a apontou como a ==mulher mais rica do Brasil==. Só que a bolsa virou.",
+      "foto": "luiza-trajano-2017.jpg",
+      "fonte": "Forbes Brasil"
+    },
+    {
+      "tipo": "numero",
+      "numero": "R$ 1 bi",
+      "texto": "é o patrimônio dela hoje, segundo a Forbes Brasil.\n\nAs ações caíram depois da pandemia. Em 2023, um prejuízo fez os papéis despencarem **22% num dia**.",
+      "foto": "luiza-trajano-web-summit-2024.jpg",
+      "fonte": "Forbes Brasil (jun/2026) e Exame"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "A loja de Franca virou uma rede nacional, que está na bolsa desde 2011.\n\nMas a fortuna no papel sobe e desce com as ações. **Construir a empresa** é uma coisa. O valor dela na bolsa é outra.",
+      "fonte": "Exame e Forbes Brasil"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Luiza Trajano começou aos 12 anos, nas férias, na loja de presentes dos tios em Franca (SP). Virou bilionária.\n\nA loja, A Cristaleira, foi comprada em 1957 pela tia, Luiza Trajano Donato, e pelo marido dela, segundo a Exame. Um concurso escolheu o nome Magazine Luiza.\n\nA sobrinha assumiu a direção em 1991, criou as lojas virtuais e a Liquidação Fantástica e levou a rede à bolsa em 2011, quando a empresa tinha 611 lojas.\n\nEm julho de 2021, a fortuna dela chegou a US$ 5,6 bilhões, segundo a Forbes Brasil. Com a queda das ações, hoje ela é estimada em R$ 1 bilhão.\n\nVocê acha que dá para montar uma rede como essa começando hoje?\n\n(Fotos: Magazine Luiza, CC BY 2.0; Germano Lüders/Magazine Luiza, CC BY 2.0; Fabio Rodrigues Pozzebom/Agência Brasil, CC BY 3.0 BR; Diogo Moreira/Governo de SP, CC BY 2.0; Web Summit Rio, CC BY 2.0; via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

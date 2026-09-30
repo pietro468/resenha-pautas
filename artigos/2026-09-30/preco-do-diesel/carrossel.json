@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "capa_foco": "65,45",
+  "gancho": "O diesel chegou a ==R$ 7,33==. E a tabela do frete subiu hoje",
+  "slides": [
+    {"tipo": "numero", "numero": "R$ 7,33", "texto": "é o preço médio do litro do **diesel S-10** no Brasil, segundo a ANP. Subiu **6,5% só em setembro**.\n\nÉ o mais caro desde abril. Mas por quê?", "foto": "preco-do-diesel-posto-de-combustivel.jpg", "fonte": "ANP, semana de 20 a 26/09, via InfoMoney"},
+    {"tipo": "texto", "titulo": "Falta diesel no mundo", "texto": "O petróleo passou de ==US$ 100== com a tensão no Oriente Médio.\n\nE a Rússia, que vendia quase metade do diesel que o Brasil compra de fora, **parou de exportar** em julho.\n\nAí entraram os EUA.", "fonte": "InfoMoney e eixos"},
+    {"tipo": "numero", "numero": "80%", "texto": "do diesel importado pelo Brasil em setembro veio dos **Estados Unidos**.\n\nE, em 22 de setembro, ==Trump== disse que o país não quer mais mandar diesel para fora.", "fonte": "eixos, com dados da Abicom"},
+    {"tipo": "foto_texto", "foto": "preco-do-diesel-refinaria-petrobras.jpg", "titulo": "E a Petrobras?", "texto": "De cada litro de R$ 7,33, só **R$ 2,83** ficam com a Petrobras.\n\nO resto é distribuição, posto, biodiesel e imposto. E o governo ainda paga um desconto de ==R$ 2,12== por litro.", "fonte": "Petrobras e SBT News"},
+    {"tipo": "foto_texto", "foto": "preco-do-diesel-caminhao-rodovia.jpg", "titulo": "Chegou ao frete", "texto": "Desde hoje vale a nova **tabela de frete mínimo** da ANTT, feita com o diesel a R$ 7,33.\n\nLevar carga ficou mais caro. E quem paga no fim da fila?", "fonte": "ANTT, via Transporte Moderno"},
+    {"tipo": "texto_claro", "titulo": "E o seu bolso?", "texto": "O caminhão leva comida, bebida e material de construção.\n\nQuando o frete sobe, parte da conta vai para o preço das coisas. O subsídio segura um pedaço, mas **não tudo**.", "fonte": "ANTT e governo federal"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O diesel S-10 chegou a R$ 7,33 por litro, e a tabela de frete mínimo da ANTT subiu nesta quarta-feira (30).\n\nSegundo a ANP, o preço médio subiu 6,5% em setembro e é o maior desde abril. O petróleo passou de US$ 100 e a Rússia parou de exportar a maior parte do seu diesel em julho, segundo o InfoMoney e a eixos.\n\nCom isso, os EUA viraram o grande fornecedor: 80% do diesel importado em setembro veio de lá, segundo a Abicom. Em 22 de setembro, Trump disse que analisa restringir as exportações.\n\nDe cada litro, R$ 2,83 ficam com a Petrobras, segundo a própria empresa. O governo mantém um desconto de R$ 2,12 por litro e elevou para R$ 500 milhões a multa máxima por preço abusivo.\n\nVocê já sentiu o diesel mais caro no preço de alguma coisa?\n\n(Fotos: Senado Federal, CC BY 2.0; Ricardo Stuckert/PR, CC BY-SA 4.0; Moacir Ximenes, domínio público; Dalton Scavassa, CC BY-SA 4.0; via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,0 +1,35 @@
+{
+  "titulo": "Hoje na história: 30 de setembro de 1955, morre James Dean",
+  "data": "2026-09-30 10:00",
+  "fotos": [
+    {"arquivo": "hoje-dean-1955-retrato.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/James_Dean_ca_1955.jpg", "credito": "Foto de divulgação de estúdio/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-dean-inicio-carreira.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/James_Dean_-_publicity_-_early.JPG", "credito": "Foto de divulgação de estúdio/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-dean-tv-1955.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/James_Dean_1955.jpg", "credito": "Barkin, Herman & Associates/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-dean-vidas-amargas.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/James_Dean_in_East_of_Eden_trailer_3.jpg", "credito": "Trailer de Vidas Amargas/Warner Bros. (domínio público)"},
+    {"arquivo": "hoje-dean-juventude-transviada.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/James_Dean_in_Rebel_Without_a_Cause.jpg", "credito": "Foto de divulgação de Juventude Transviada/Warner Bros. (domínio público)"},
+    {"arquivo": "hoje-dean-corrida-palm-springs.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/James_Dean_and_Porsche_Speedster_23F_at_Palm_Springs_Races_March%2C_1955.jpg", "credito": "Chad White/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "hoje-dean-cigarro.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Portrait_of_James_Dean_holding_a_cigarette.jpg", "credito": "Film Star Vintage/Wikimedia Commons (CC BY 2.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-dean-1955-retrato.jpg",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "30 set",
+    "ano": "1955",
+    "ha": "Há 71 anos",
+    "gancho": "Morria ==James Dean==, aos 24 anos, antes de ver seus maiores filmes",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-dean-inicio-carreira.jpg"},
+      {"tipo": "foto", "foto": "hoje-dean-tv-1955.jpg"},
+      {"tipo": "foto", "foto": "hoje-dean-vidas-amargas.jpg"},
+      {"tipo": "foto", "foto": "hoje-dean-juventude-transviada.jpg"},
+      {"tipo": "foto", "foto": "hoje-dean-corrida-palm-springs.jpg"},
+      {"tipo": "foto", "foto": "hoje-dean-cigarro.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 71 ANOS, HOLLYWOOD PERDIA JAMES DEAN\n\nNo fim da tarde de 30 de setembro de 1955, James Dean morreu num acidente de carro perto de Cholame, na Califórnia. Ele tinha 24 anos e dirigia um Porsche 550 Spyder, apelidado de \"Little Bastard\", a caminho de uma corrida em Salinas. Horas antes, tinha levado uma multa por excesso de velocidade.\n\nDean fez só três filmes como protagonista, e viu apenas um deles chegar aos cinemas: Vidas Amargas, lançado em 1955. Juventude Transviada estreou menos de um mês depois da morte dele, e Assim Caminha a Humanidade saiu em 1956.\n\nO detalhe que pouca gente sabe: ele foi o primeiro ator indicado ao Oscar de melhor ator depois de morto, por Vidas Amargas, e continua sendo o único com duas indicações póstumas de atuação.\n\nA imagem dele virou negócio. Segundo a Forbes, o espólio de James Dean faturou US$ 7 milhões em 2014, quase 60 anos depois da morte. E o Porsche do acidente sumiu em 1960 e nunca mais foi encontrado.\n\nQual filme dele você já viu?\n\n(Fotos: divulgação de estúdio e trailers da Warner Bros./domínio público; Barkin, Herman & Associates/domínio público; Chad White/Wikimedia Commons, CC BY-SA 3.0; Film Star Vintage/Wikimedia Commons, CC BY 2.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo.",
+    "luto": true
+  }
+}

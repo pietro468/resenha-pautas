@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Entenda as datas",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "capa_foco": "55,45",
+  "gancho": "O prazo do Simples Nacional acabava hoje. Agora vai até ==15 de outubro==",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que aconteceu", "texto": "O comitê que cuida do ==Simples Nacional== adiou o prazo para entrar no regime em 2027.\n\nEra **30 de setembro**. Agora é **15 de outubro**.\n\nMas essa não é a única data que mudou.", "fonte": "Resolução CGSN nº 194/2026, via Agência Gov"},
+    {"tipo": "comparacao", "titulo": "As duas datas novas", "esquerda": {"rotulo": "Entrar no Simples", "valor": "15/10", "detalhe": "antes era 30/09"}, "direita": {"rotulo": "Escolha do IBS e CBS", "valor": "30/10", "detalhe": "antes era 30/09"}, "texto": "Quem teve o pedido barrado por dívida também tem até **30/10** para resolver.", "fonte": "Fenacon e Agência Gov"},
+    {"tipo": "foto_texto", "foto": "simples-nacional-2027-pequeno-comercio.jpg", "titulo": "Por que agora e não em janeiro?", "texto": "Por causa da reforma tributária. Para 2027, o pedido passou para o ano anterior, e a empresa já começa o ano sabendo o regime.\n\nE tem uma escolha nova no meio.", "fonte": "Receita Federal"},
+    {"tipo": "texto", "titulo": "Que escolha é essa?", "texto": "Os novos impostos, ==IBS== e ==CBS==, podem ficar dentro da guia única do Simples ou ser pagos à parte.\n\nQuem não fizer nada fica na guia única.\n\nPagar à parte pode valer para quem vende para outras empresas.", "fonte": "Agência Gov"},
+    {"tipo": "texto_claro", "titulo": "E o MEI?", "texto": "Nada muda para o MEI. A opção continua sendo feita em **janeiro**.\n\nE quem já está no Simples, sem dívidas, segue no regime sem pedir nada.", "fonte": "Receita Federal"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O adiamento dá 15 dias a mais para entrar e 30 dias a mais para decidir sobre os novos impostos. Tudo é feito só no Portal do Simples Nacional. Vale conversar com o contador antes de 30 de outubro.", "fonte": "Resolução CGSN nº 194/2026"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O prazo para entrar no Simples Nacional em 2027 acabaria hoje, 30 de setembro. Agora vai até 15 de outubro.\n\nA mudança está na Resolução nº 194 do Comitê Gestor do Simples Nacional, segundo a Agência Gov. O adiamento atende a pedidos do Sebrae, do CFC e da Fenacon.\n\nA escolha nova sobre os impostos da reforma tributária, o IBS e a CBS, ganhou prazo até 30 de outubro. Quem não escolher nada fica com tudo dentro da guia única do Simples.\n\nQuem já está no regime e não tem dívidas continua nele automaticamente. Para o MEI, nada muda: a opção segue em janeiro.\n\nVocê tem empresa no Simples? Já decidiu o que fazer com o IBS e a CBS?\n\n(Fotos: Sebrae-SP/Flickr, domínio público, imagens ilustrativas)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

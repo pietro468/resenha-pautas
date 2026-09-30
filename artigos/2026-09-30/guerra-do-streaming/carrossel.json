@@ -1,0 +1,21 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "dupla",
+  "capa_extra": "guerra-do-streaming-warner-bros-caixa-dagua.jpg",
+  "rotulos": ["Netflix", "Warner"],
+  "gancho": "A Netflix perdeu a briga pela ==HBO Max== e ainda embolsou US$ 2,8 bilhões",
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 2,8 bi", "texto": "foi a multa que a ==Netflix== recebeu quando o acordo para comprar a Warner e a HBO Max foi desfeito.", "foto": "guerra-do-streaming-paramount-portao.jpg", "fonte": "Netflix, balanço do 1º tri de 2026"},
+    {"tipo": "foto_texto", "foto": "guerra-do-streaming-sede-netflix.jpg", "titulo": "Como tudo começou", "texto": "Em **2007**, a Netflix lançou o streaming com cerca de mil títulos. Quase ninguém mais fazia isso.\n\nSó que a festa não ia durar.", "fonte": "Cord Cutters News"},
+    {"tipo": "texto", "titulo": "Aí todo mundo entrou", "texto": "==2019:== Apple TV+ e Disney+\n\n==2020:== HBO Max e Peacock\n\n==2021:== Paramount+\n\nCada estúdio tirou seus filmes dos rivais. E alguns não aguentaram.", "fonte": "Variety e comunicados das empresas"},
+    {"tipo": "texto", "titulo": "Quem ficou pelo caminho", "texto": "O ==Quibi== captou **US$ 1,75 bilhão** e fechou cerca de seis meses depois de estrear.\n\nO ==CNN+== durou cerca de um mês.", "foto": "guerra-do-streaming-controle-remoto.jpg", "fonte": "CNBC e TechCrunch"},
+    {"tipo": "numero", "numero": "US$ 3,4 bi", "texto": "foi o lucro da ==Netflix== em só três meses, no 2º trimestre de 2026.", "fonte": "Netflix, balanço entregue à SEC"},
+    {"tipo": "texto", "titulo": "E a HBO Max?", "texto": "Depois que a Netflix desistiu, a ==Paramount== fechou acordo para comprar a Warner por cerca de **US$ 110 bilhões**.\n\nAté 30 de setembro, o negócio ainda esperava a Justiça dos EUA.", "fonte": "Axios e The Wrap"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O streaming nasceu para matar a TV a cabo. Hoje vende pacote, mostra anúncio e sobe preço. A Netflix venceu a fase da explosão. Agora começa a fase em que só os gigantes ficam.", "fonte": "Resenha Rentável"},
+    {"tipo": "final"}
+  ],
+  "legenda": "A Netflix perdeu a disputa pela Warner e pela HBO Max, mas saiu com US$ 2,8 bilhões no bolso.\n\nEm dezembro de 2025, ela fechou acordo para comprar os estúdios da Warner, a HBO e a HBO Max. A Paramount entrou com uma oferta maior, e a Netflix desistiu em fevereiro de 2026, recebendo a multa pelo fim do acordo.\n\nA guerra do streaming começou em 2007 e virou uma briga de gigantes depois de 2019, com Disney+, Apple TV+, HBO Max, Peacock e Paramount+. Serviços como Quibi e CNN+ ficaram pelo caminho.\n\nHoje, a Netflix lucra US$ 3,4 bilhões por trimestre, segundo o balanço do 2º trimestre de 2026. E a compra da Warner pela Paramount, de cerca de US$ 110 bilhões, ainda espera a Justiça dos EUA.\n\nQuantos streamings você assina hoje?\n\n(Fotos: stockcatalog/Flickr, CC BY 2.0; Chris Yarzab, Coolcaesar e Tony Webster/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

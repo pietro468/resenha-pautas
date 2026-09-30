@@ -162,9 +162,29 @@
    ],
    "titulo": "Pix cai 10% nos primeiros dias sem bets, mostram dados do BC",
    "data": "2026-09-29 23:20"
+  },
+  {
+   "slug": "simples-nacional-2027-prazo",
+   "pasta": "artigos/2026-09-30/simples-nacional-2027-prazo",
+   "arquivos": [
+    "simples-nacional-2027-prazo.md",
+    "carrossel.json"
+   ],
+   "titulo": "Prazo do Simples Nacional 2027 é adiado e vai até 15 de outubro",
+   "data": "2026-09-30 08:00"
+  },
+  {
+   "slug": "guerra-do-streaming",
+   "pasta": "artigos/2026-09-30/guerra-do-streaming",
+   "arquivos": [
+    "guerra-do-streaming.md",
+    "carrossel.json"
+   ],
+   "titulo": "Quem ganhou a guerra do streaming entre Netflix e Disney+",
+   "data": "2026-09-30 11:00"
   }
  ],
- "atualizado": "2026-09-29 23:17",
+ "atualizado": "2026-09-30 10:14",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -172,9 +192,19 @@
    "data": "2026-09-29 17:50"
   },
   {
+   "slug": "curiosidade-predios-mais-altos",
+   "pasta": "instagram/2026-09-30/curiosidade-predios-mais-altos",
+   "data": "2026-09-30 12:30"
+  },
+  {
    "slug": "frase-buffett-mare",
    "pasta": "instagram/2026-09-30/frase-buffett-mare",
    "data": "2026-09-30 07:00"
+  },
+  {
+   "slug": "hoje-morte-james-dean",
+   "pasta": "instagram/2026-09-30/hoje-morte-james-dean",
+   "data": "2026-09-30 10:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

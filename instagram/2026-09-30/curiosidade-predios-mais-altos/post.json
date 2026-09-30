@@ -1,0 +1,123 @@
+{
+  "titulo": "Curiosidades: os prédios mais altos do mundo em 2026",
+  "data": "2026-09-30 12:30",
+  "fotos": [
+    {
+      "arquivo": "curiosidade-predio-one-world-trade-center.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/One_World_Trade_Center_from_New_York_Harbor%2C_New_York_City.jpg/1920px-One_World_Trade_Center_from_New_York_Harbor%2C_New_York_City.jpg",
+      "credito": "Christian David/Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "arquivo": "curiosidade-predio-lotte-world-tower.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Olympic_Bridge_and_Lotte_World_Tower.jpg/1920px-Olympic_Bridge_and_Lotte_World_Tower.jpg",
+      "credito": "lazy fri13th/Wikimedia Commons (domínio público)"
+    },
+    {
+      "arquivo": "curiosidade-predio-ping-an.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ping_An_Finance_Center_-_2018-11-30.jpg",
+      "credito": "Mx. Granger/Wikimedia Commons (CC0)"
+    },
+    {
+      "arquivo": "curiosidade-predio-torre-do-relogio-meca.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Abraj_Al_Bait_Tower_2017.jpg/1920px-Abraj_Al_Bait_Tower_2017.jpg",
+      "credito": "King Eliot/Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "arquivo": "curiosidade-predio-shanghai-tower.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Shanghai_-_Shanghai_Tower_-_0003%28cropped%29.jpg/1920px-Shanghai_-_Shanghai_Tower_-_0003%28cropped%29.jpg",
+      "credito": "Stefan Fussan/Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "arquivo": "curiosidade-predio-merdeka-118.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Merdeka_Tower_20241022_-_full_2.jpg/1920px-Merdeka_Tower_20241022_-_full_2.jpg",
+      "credito": "Ahmad Ali Karim/Wikimedia Commons (CC0)"
+    },
+    {
+      "arquivo": "curiosidade-predio-burj-khalifa.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burj_Khalifa_from_a_ferry%2C_Dubai.jpg/1920px-Burj_Khalifa_from_a_ferry%2C_Dubai.jpg",
+      "credito": "Jpbowen/Wikimedia Commons (CC BY-SA 4.0)"
+    }
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-predio-burj-khalifa.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": [
+      "curiosidade-predio-merdeka-118.jpg",
+      "curiosidade-predio-shanghai-tower.jpg"
+    ],
+    "chamada": "Curiosidades",
+    "gancho": "Quais são os ==prédios mais altos== do mundo?",
+    "slides": [
+      {
+        "tipo": "item",
+        "foto": "curiosidade-predio-one-world-trade-center.jpg",
+        "posicao": "7º lugar",
+        "detalhe": "Nova York, EUA (2014)",
+        "nome": "One World Trade Center",
+        "valor": "541 metros",
+        "fonte": "CTBUH, 2026"
+      },
+      {
+        "tipo": "item",
+        "foto": "curiosidade-predio-lotte-world-tower.jpg",
+        "posicao": "6º lugar",
+        "detalhe": "Seul, Coreia do Sul (2017)",
+        "nome": "Lotte World Tower",
+        "valor": "555 metros",
+        "fonte": "CTBUH, 2026"
+      },
+      {
+        "tipo": "item",
+        "foto": "curiosidade-predio-ping-an.jpg",
+        "posicao": "5º lugar",
+        "detalhe": "Shenzhen, China (2017)",
+        "nome": "Ping An Finance Center",
+        "valor": "599 metros",
+        "fonte": "CTBUH, 2026"
+      },
+      {
+        "tipo": "item",
+        "foto": "curiosidade-predio-torre-do-relogio-meca.jpg",
+        "posicao": "4º lugar",
+        "detalhe": "Meca, Arábia Saudita (2012)",
+        "nome": "Torre do Relógio de Meca",
+        "valor": "601 metros",
+        "fonte": "CTBUH, 2026"
+      },
+      {
+        "tipo": "item",
+        "foto": "curiosidade-predio-shanghai-tower.jpg",
+        "posicao": "3º lugar",
+        "detalhe": "Xangai, China (2015)",
+        "nome": "Shanghai Tower",
+        "valor": "632 metros",
+        "fonte": "CTBUH, 2026"
+      },
+      {
+        "tipo": "item",
+        "foto": "curiosidade-predio-merdeka-118.jpg",
+        "posicao": "2º lugar",
+        "detalhe": "Kuala Lumpur, Malásia (2023)",
+        "nome": "Merdeka 118",
+        "valor": "679 metros",
+        "fonte": "CTBUH, 2026"
+      },
+      {
+        "tipo": "item",
+        "foto": "curiosidade-predio-burj-khalifa.jpg",
+        "posicao": "1º lugar",
+        "detalhe": "Dubai, Emirados Árabes Unidos (2010)",
+        "nome": "Burj Khalifa",
+        "valor": "828 metros",
+        "fonte": "CTBUH, 2026",
+        "foco": "50,45,1.6"
+      },
+      {
+        "tipo": "final"
+      }
+    ],
+    "legenda": "QUAIS SÃO OS PRÉDIOS MAIS ALTOS DO MUNDO?\n\nO ranking do Conselho de Edifícios Altos e Habitat Urbano (CTBUH), a referência mundial no assunto, em 2026:\n\n1. Burj Khalifa, Dubai: 828 m\n2. Merdeka 118, Kuala Lumpur: 679 m\n3. Shanghai Tower, Xangai: 632 m\n4. Torre do Relógio, Meca: 601 m\n5. Ping An Finance Center, Shenzhen: 599 m\n6. Lotte World Tower, Seul: 555 m\n7. One World Trade Center, Nova York: 541 m\n\nO Burj Khalifa lidera desde 2010 e ainda é quase 150 metros mais alto que o segundo colocado. A Ásia domina a lista: seis dos sete prédios ficam no continente. A altura conta até o topo da estrutura, incluindo a ponta arquitetônica, mas não antenas.\n\nEm qual desses você subiria?\n\n(Fotos: Jpbowen, Ahmad Ali Karim, Stefan Fussan, King Eliot, Mx. Granger, lazy fri13th e Christian David/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

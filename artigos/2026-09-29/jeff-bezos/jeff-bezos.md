@@ -10,8 +10,8 @@ slug: "jeff-bezos"
 tags: ["Jeff Bezos", "Amazon", "Blue Origin", "AWS", "bilionários"]
 youtube: ""
 capa: "jeff-bezos-capa.jpg"
-capa_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped2%29.jpg/1920px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped2%29.jpg"
-capa_credito: "Seattle City Council/Wikimedia Commons (CC BY 2.0)"
+capa_url: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Jeff_Bezos-171025-F-PP655-236_%2839479699761%29_%28cropped%29.jpg"
+capa_credito: "Força Aérea dos EUA (domínio público)"
 pessoa: "Jeff Bezos"
 busca_imagem: "Jeff Bezos portrait"
 imagens:
@@ -39,6 +39,10 @@ imagens:
     url: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Jeff_Bezos_talking.jpg"
     credito: "Van Ha/Força Aérea dos EUA (domínio público)"
     legenda: "Jeff Bezos em 2017"
+  - arquivo: "jeff-bezos-amazon-2018.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped2%29.jpg/1920px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped2%29.jpg"
+    credito: "Seattle City Council/Wikimedia Commons (CC BY 2.0)"
+    legenda: "Jeff Bezos na inauguração das Spheres, na sede da Amazon em Seattle, em 2018"
 ---
 
 Jeff Bezos fundou a Amazon em 1994, numa garagem nos arredores de Seattle, como uma livraria na internet. Três décadas depois, a empresa virou uma das maiores do planeta, e o fundador acumula US$ 367 bilhões, a segunda maior fortuna do mundo, segundo a [Forbes](https://www.forbes.com/profile/jeff-bezos/) em 29 de setembro de 2026. A maior parte vem dos cerca de 8% que ele ainda tem da Amazon; outra fatia grande vem da Blue Origin, a empresa de foguetes que ele criou em 2000.
@@ -93,4 +97,4 @@ O caminho, no entanto, teve tropeços. Em maio de 2026, um New Glenn explodiu nu
 
 A trajetória de Jeff Bezos mostra que a maior fortuna nem sempre vem do produto mais visível. O consumidor conhece a caixa da Amazon na porta de casa, mas o dinheiro grosso vem da nuvem, e agora também dos foguetes. Para comparar com outros caminhos até o topo, veja como [Elon Musk](https://resenharentavel.com/elon-musk-fortuna/) virou trilionário, como [Warren Buffett](https://resenharentavel.com/warren-buffett/) enriqueceu investindo e o que o voo da [Starship](https://resenharentavel.com/starship-em-orbita/) muda na corrida espacial privada.
 
-*Foto de capa: Daniel Oberhaus/Flickr (CC BY 2.0)*
+*Foto de capa: Força Aérea dos EUA (domínio público)*

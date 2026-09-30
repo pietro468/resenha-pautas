@@ -1,5 +1,5 @@
 {
-  "leia": "Para postar de novo no Instagram um post que já saiu: acrescente um item com id novo (nunca repita um id), o slug e o horário de Brasília a partir do qual pode sair. O site confere este arquivo a cada busca. Para trocar a foto de capa (no site e no Instagram) antes de postar de novo, use \"materia\" no lugar de \"slug\" e acrescente \"capa_url\" (link direto da foto) e \"capa_credito\". Para refazer uma matéria inteira (texto, fotos, capa e Instagram), use \"materia\" e \"refazer\": true: o site apaga a matéria e importa de novo do repositório na busca seguinte.",
+  "leia": "Para postar de novo no Instagram um post que já saiu: acrescente um item com id novo (nunca repita um id), o slug e o horário de Brasília a partir do qual pode sair. O site confere este arquivo a cada busca. Para trocar a foto de capa (no site e no Instagram) antes de postar de novo, use \"materia\" no lugar de \"slug\" e acrescente \"capa_url\" (link direto da foto) e \"capa_credito\". Para refazer uma matéria inteira (texto, fotos, capa e Instagram), use \"materia\" e \"refazer\": true: o site apaga a matéria e importa de novo do repositório na busca seguinte. Com \"instagram\": false, só troca a capa no site, sem postar de novo no Instagram.",
   "posts": [
     {
       "id": "2026-09-29-ira",
@@ -29,6 +29,14 @@
       "materia": "jeff-bezos",
       "depois": "2026-09-29 19:50",
       "refazer": true
+    },
+    {
+      "id": "2026-09-29-bezos-capa-rosto",
+      "materia": "jeff-bezos",
+      "depois": "2026-09-29 21:30",
+      "capa_url": "https://raw.githubusercontent.com/pietro468/resenha-pautas/main/artigos/2026-09-29/jeff-bezos/jeff-bezos-capa.jpg",
+      "capa_credito": "Força Aérea dos EUA (domínio público)",
+      "instagram": false
     }
   ]
 }

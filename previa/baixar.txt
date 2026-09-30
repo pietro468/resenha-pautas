@@ -1,6 +1,0 @@
-dc-ordinarias.json https://divulgacandcontas.tse.jus.br/divulga/rest/v1/eleicao/ordinarias
-dc-listar-pres.json https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/BR/20322002026/1/candidatos
-dc-listar-df-ac.json https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/listar/2026/AC/20322002026/6/candidatos
-dc-buscar-lula.json https://divulgacandcontas.tse.jus.br/divulga/rest/v1/candidatura/buscar/2026/BR/20322002026/candidato/280002542548
-dc-contas-lula.json https://divulgacandcontas.tse.jus.br/divulga/rest/v1/prestador/consulta/20322002026/2026/BR/1/13/13/280002542548
-cdn-head.txt https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/

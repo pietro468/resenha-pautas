@@ -111,12 +111,10 @@ def main():
         c['nmun'] = titulo(r['NM_MUNICIPIO_NASCIMENTO'])
         c['lim'] = round(num(r['VR_DESPESA_MAX_CAMPANHA']), 2)
         c['reel'] = 1 if r['ST_REELEICAO'] == 'S' else 0
-        det = titulo(r['DS_DETALHE_SITUACAO_CAND'])
-        if det:
-            c['sit'] = det
-        urna = limpo(r.get('NM_TIPO_DESTINACAO_VOTOS', ''))
-        if urna:
-            c['voto'] = urna  # Válido, Anulado, Anulado sub judice...
+        jul = titulo(r.get('DS_SITUACAO_JULGAMENTO_URNA') or r.get('DS_SITUACAO_JULGAMENTO') or r.get('DS_DETALHE_SITUACAO_CAND'))
+        c['sit'] = jul  # Deferido, Indeferido com recurso, Renúncia...
+        c['voto'] = limpo(r.get('NM_TIPO_DESTINACAO_VOTOS', ''))  # Válido, Anulado sub judice...
+        c['urna'] = 0 if limpo(r.get('ST_CANDIDATO_INSERIDO_URNA', '')).upper().startswith('N') else 1
 
     # ---------- bens ----------
     perfil = collections.defaultdict(lambda: {'bens': [], 'hist': [], 'doad': [], 'forn': []})

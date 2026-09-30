@@ -1,5 +1,1 @@
-y2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/960px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg
-y1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jeff_Bezos-171025-F-PP655-236_%2839479699761%29.jpg/960px-Jeff_Bezos-171025-F-PP655-236_%2839479699761%29.jpg
-y5.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Jeff_Bezos-171025-F-PP655-236_%2839479699761%29_%28cropped%29.jpg/960px-Jeff_Bezos-171025-F-PP655-236_%2839479699761%29_%28cropped%29.jpg
-y3.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Prime_Minister_Boris_Johnson_UNGA_visit_%2851498389942%29_%28cropped_to_Bezos%29.jpg/960px-Prime_Minister_Boris_Johnson_UNGA_visit_%2851498389942%29_%28cropped_to_Bezos%29.jpg
-y4.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Secretary_of_Defense_Ash_Carter_meets_with_Jeff_Bezos%2C_May_5%2C_2016_%281%29.jpg/960px-Secretary_of_Defense_Ash_Carter_meets_with_Jeff_Bezos%2C_May_5%2C_2016_%281%29.jpg
+y5orig.jpg https://upload.wikimedia.org/wikipedia/commons/f/ff/Jeff_Bezos-171025-F-PP655-236_%2839479699761%29_%28cropped%29.jpg

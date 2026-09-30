@@ -37,6 +37,16 @@
       "capa_url": "https://raw.githubusercontent.com/pietro468/resenha-pautas/main/artigos/2026-09-29/jeff-bezos/jeff-bezos-capa.jpg",
       "capa_credito": "Força Aérea dos EUA (domínio público)",
       "instagram": false
+    },
+    {
+      "id": "2026-09-30-streaming-bloqueio",
+      "slug": "guerra-do-streaming",
+      "depois": "2026-09-30 14:20"
+    },
+    {
+      "id": "2026-09-30-divida-bloqueio",
+      "slug": "divida-publica-agosto-2026",
+      "depois": "2026-09-30 14:50"
     }
   ]
 }

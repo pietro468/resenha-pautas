@@ -1,4 +1,0 @@
-x1.jpg https://images.pexels.com/photos/7594401/pexels-photo-7594401.jpeg?auto=compress&w=1280&fm=jpg
-x2.jpg https://images.pexels.com/photos/7594371/pexels-photo-7594371.jpeg?auto=compress&w=1280&fm=jpg
-x3.jpg https://images.pexels.com/photos/5920577/pexels-photo-5920577.jpeg?auto=compress&w=1280&fm=jpg
-t1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/TRENSURB_INICIA_TESTES_COM_PAGAMENTO_POR_PIX_NAS_BILHETERIAS_%2853196899079%29.jpg/1280px-TRENSURB_INICIA_TESTES_COM_PAGAMENTO_POR_PIX_NAS_BILHETERIAS_%2853196899079%29.jpg

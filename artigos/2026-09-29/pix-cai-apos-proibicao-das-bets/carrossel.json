@@ -1,0 +1,52 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Entenda",
+  "capa": "apostas-roleta-fichas.jpg",
+  "capa_estilo": "classico",
+  "gancho": "Depois da proibição das bets, o Pix caiu ==10%== em 3 dias",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "608 mi",
+      "texto": "de Pix de sábado a segunda. É **10% a menos** que a média das quatro semanas anteriores.",
+      "foto": "pix-pagamento-no-celular.jpg",
+      "fonte": "Banco Central, via Agência Brasil"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Dia a dia",
+      "texto": "==Sábado:== 229,6 milhões de Pix, **11% a menos**.\n\n==Domingo:== 165,9 milhões, **12% a menos**.\n\n==Segunda:== 213 milhões, **7,4% a menos**.",
+      "foto": "banco-central-sede-brasilia.jpg",
+      "fonte": "Banco Central, via Agência Brasil"
+    },
+    {
+      "tipo": "numero",
+      "numero": "15,5%",
+      "texto": "foi a queda no **valor** movimentado. Os três dias somaram ==R$ 183,6 bilhões== em Pix.",
+      "foto": "apostas-fichas-e-dinheiro.jpg",
+      "fonte": "Banco Central, via Agência Brasil"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Foram as bets?",
+      "texto": "O governo diz que ==muito provavelmente== sim: a proibição saiu na sexta (25).\n\nO **Banco Central não confirmou** a relação. Três dias ainda é pouco para ter certeza.",
+      "foto": "capa",
+      "fonte": "Ministério da Justiça, via CNN Brasil"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O tamanho das bets",
+      "texto": "Em 2024, o BC calculou que os brasileiros mandavam até ==R$ 21 bilhões por mês== às bets pelo Pix.\n\nForam cerca de **24 milhões** de apostadores.",
+      "fonte": "Banco Central, 2024"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "E agora?",
+      "texto": "O governo pediu o bloqueio de **5.209 sites** e quer tirar os apps de aposta do ar até 5 de outubro.\n\nA medida ainda precisa ser **votada pelo Congresso**.",
+      "fonte": "Poder360"
+    },
+    {"tipo": "final"}
+  ],
+  "legenda": "O Pix caiu 10% nos três primeiros dias depois da proibição das bets.\n\nDe sábado (26) a segunda (28), foram 608,6 milhões de transações, 10% abaixo da média das quatro semanas anteriores, segundo dados do Banco Central divulgados pela Agência Brasil. O valor movimentado caiu 15,5%, para R$ 183,6 bilhões.\n\nO Ministério da Justiça liga a queda à medida provisória que proibiu as apostas online, publicada na sexta (25). O Banco Central não confirmou essa relação, e três dias ainda é pouco para uma conclusão firme.\n\nPara ter uma ideia do tamanho: em 2024, o próprio BC estimou que os brasileiros mandavam até R$ 21 bilhões por mês para as bets pelo Pix.\n\nVocê acha que o dinheiro das apostas vai voltar para o comércio?\n\n(Fotos: Pavel Danilyuk e Cottonbro/Pexels, imagens ilustrativas; Trensurb/Wikimedia Commons; Jonas Pereira/Agência Senado)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

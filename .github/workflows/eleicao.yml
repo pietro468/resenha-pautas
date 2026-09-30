@@ -1,0 +1,53 @@
+name: Eleição 2026 (apuração e planos de governo)
+on:
+  schedule:
+    - cron: '*/10 20-23 4 10 *'   # 4/10, das 17h às 20h59 (Brasília)
+    - cron: '*/10 0-3 5 10 *'     # 4/10 21h até 5/10 0h59
+    - cron: '7 4-13 5 10 *'       # 5/10 de madrugada e manhã, de hora em hora
+    - cron: '*/10 20-23 25 10 *'  # 2º turno
+    - cron: '*/10 0-3 26 10 *'
+  push:
+    branches: [main]
+    paths: ['eleicao/pedido.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: eleicao
+jobs:
+  apuracao:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Resumo da apuração
+        run: python3 ferramentas/apuracao.py eleicao/apuracao.json
+      - name: Salvar
+        run: |
+          git config user.name "Resenha Rentável"
+          git config user.email "pietro468@users.noreply.github.com"
+          git add eleicao/apuracao.json
+          git diff --cached --quiet || (git commit -m "Apuração 2026: resumo do TSE" && git pull --rebase -q && git push)
+  planos:
+    if: github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Planos de governo (presidente) do TSE
+        run: |
+          sudo apt-get install -y -q poppler-utils > /dev/null
+          mkdir -p /tmp/p eleicao/planos && cd /tmp/p
+          curl -sL -A "Mozilla/5.0 ResenhaRentavel/1.0" -m 600 -o br.zip https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip
+          unzip -o -q br.zip -d br
+          find br -type f > $GITHUB_WORKSPACE/eleicao/planos/arquivos.txt
+          find br -iname '*.pdf' | while read f; do
+            n=$(basename "$f" .pdf)
+            pdftotext -enc UTF-8 "$f" "$GITHUB_WORKSPACE/eleicao/planos/$n.txt" || true
+          done
+          ls -la $GITHUB_WORKSPACE/eleicao/planos
+      - name: Salvar
+        run: |
+          git config user.name "Resenha Rentável"
+          git config user.email "pietro468@users.noreply.github.com"
+          git add eleicao/planos
+          git diff --cached --quiet || (git commit -m "Planos de governo 2026 (TSE)" && git pull --rebase -q && git push)

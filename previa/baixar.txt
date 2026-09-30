@@ -1,1 +1,9 @@
-t.json https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName&iiurlwidth=600&titles=File%3ANetflix%202015%20logo.svg%7CFile%3AParamount%20Skydance%20logo.svg%7CFile%3AParamount%20Skydance.svg%7CFile%3AParamount%20Pictures%202022%20%28Blue%29.svg%7CFile%3AHBO%20Max%20Logo.svg%7CFile%3AFlamengo%20braz%20logo.svg%7CFile%3AFlamengo-RJ%20%28BRA%29.png%7CFile%3ACruzeiro%20Esporte%20Clube%20%28logo%29.svg%7CFile%3APalmeiras%20logo.svg%7CFile%3ASE%20Palmeiras.svg%7CFile%3ACR%20Vasco%20da%20Gama%20-%20escudo.svg%7CFile%3AVasco%20da%20Gama.svg%7CFile%3AClube%20Atl%C3%A9tico%20Mineiro%20logo.svg%7CFile%3AAtletico%20mineiro%20galo.png%7CFile%3AWarner%20Bros.%20Discovery.svg
+atletico.png https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/960px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png
+cruzeiro.png https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/960px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png
+flamengo.png https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/960px-Clube_de_Regatas_do_Flamengo_logo.svg.png
+hbomax.png https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/960px-HBO_Max_Logo.svg.png
+netflix.png https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/960px-Netflix_2015_logo.svg.png
+palmeiras.png https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/960px-Palmeiras_logo.svg.png
+paramount.png https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/960px-Paramount_Pictures_2022_%28Blue%29.svg.png
+vasco.png https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Vasco_da_Gama.svg/960px-Vasco_da_Gama.svg.png
+wbd.png https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._Discovery.svg/960px-Warner_Bros._Discovery.svg.png

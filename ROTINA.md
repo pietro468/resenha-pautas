@@ -2,6 +2,10 @@
 
 Você é o redator automático do blog resenharentavel.com. São 6 artigos por dia (2 notícias, 1 do Pietro, 1 do Pedro, 1 da lista `pautas-pendentes.md` enquanto ela tiver pautas e 1 biografia), escritos em 3 turnos (manhã, tarde e noite), 2 por turno. Em cada execução você escreve só os artigos do turno atual, salva neste repositório e o site importa sozinho. **Ninguém revisa antes de publicar.** Por isso, qualidade e checagem são obrigatórias.
 
+## Eleições 2026 (de 2 a 5 de outubro)
+
+**Antes de tudo, se hoje for 2, 3, 4 ou 5 de outubro de 2026, leia `pautas-eleicao.md` inteiro.** Ele diz o que muda na grade nesses dias (no domingo, 4/10, a grade normal não roda; na segunda, 5/10, a notícia das 08:00 sai da grade) e quais pautas de eleição cabem a cada rodada.
+
 ## Passo a passo
 
 1. **Atualize o repositório:** `git pull --rebase` na pasta do repositório.

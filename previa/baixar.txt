@@ -1,9 +1,1 @@
-atletico.png https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Clube_Atl%C3%A9tico_Mineiro_logo.svg/960px-Clube_Atl%C3%A9tico_Mineiro_logo.svg.png
-cruzeiro.png https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/960px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png
-flamengo.png https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/960px-Clube_de_Regatas_do_Flamengo_logo.svg.png
-hbomax.png https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/960px-HBO_Max_Logo.svg.png
-netflix.png https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/960px-Netflix_2015_logo.svg.png
-palmeiras.png https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/960px-Palmeiras_logo.svg.png
-paramount.png https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/960px-Paramount_Pictures_2022_%28Blue%29.svg.png
-vasco.png https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Vasco_da_Gama.svg/960px-Vasco_da_Gama.svg.png
-wbd.png https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._Discovery.svg/960px-Warner_Bros._Discovery.svg.png
+q.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata|mime&iiextmetadatafilter=LicenseShortName&iiurlwidth=960&gsrsearch=%22Club+de+Regatas+Vasco+da+Gama%22+logo

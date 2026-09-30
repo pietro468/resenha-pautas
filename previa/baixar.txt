@@ -1,7 +1,5 @@
-d1.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=pagamento+instant%C3%A2neo+celular
-d2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=sports+betting+smartphone
-d3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=online+gambling+mobile+phone
-d4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Pix+Banco+Central+celular
-d5.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=casa+de+apostas
-p1.json https://api.openverse.org/v1/images/?page_size=30&license_type=commercial&q=pix
-p2.json https://api.openverse.org/v1/images/?page_size=30&license_type=commercial&q=sports%20betting
+p1.json https://api.openverse.org/v1/images/?page_size=20&license_type=commercial,modification&q=pix%20pagamento
+p2.json https://api.openverse.org/v1/images/?page_size=20&license_type=commercial,modification&q=pagamento%20celular%20qr%20code
+p3.json https://api.openverse.org/v1/images/?page_size=20&license_type=commercial,modification&q=sports%20betting%20app%20phone
+p4.json https://api.openverse.org/v1/images/?page_size=20&license_type=commercial,modification&q=apostas
+p5.json https://api.openverse.org/v1/images/?page_size=20&license_type=commercial,modification&q=mobile%20payment%20smartphone

@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "==George Lucas== vendeu Star Wars para a Disney por US$ 4 bilhões",
+  "chamada": "Veja a história",
+  "capa": "george-lucas-cannes-2024.jpg",
+  "capa_foco": "38,30",
+  "slides": [
+    {"tipo": "foto_texto", "foto": "george-lucas-2007.jpg", "titulo": "Filho da papelaria", "texto": "George Lucas nasceu em 1944, em Modesto, na Califórnia. O pai tinha uma papelaria e queria que ele assumisse a loja.\n\nEle preferiu a escola de cinema.", "fonte": "Wikipédia"},
+    {"tipo": "numero", "numero": "US$ 777 mil", "texto": "foi o custo de **American Graffiti**, de 1973. O filme passou de US$ 55 milhões no primeiro lançamento. E deu a Lucas força para negociar o próximo.", "fonte": "AFI e Wikipédia"},
+    {"tipo": "texto", "titulo": "O contrato de Star Wars", "texto": "Em vez de brigar só por salário, Lucas ficou com os **direitos das continuações** e uma fatia dos **produtos licenciados**.\n\nSó os brinquedos venderam US$ 100 milhões entre 1977 e 1978.", "foto": "george-lucas-comic-con-2025.jpg", "fonte": "Wikipédia e CITMA"},
+    {"tipo": "texto", "titulo": "Dono do próprio estúdio", "texto": "Com o lucro do primeiro filme, a Lucasfilm bancou sozinha as continuações.\n\nE ainda criou a ILM, de efeitos especiais. Até que, em 2012, a Disney bateu na porta.", "foto": "skywalker-ranch-casa-principal.jpg", "fonte": "Wikipédia"},
+    {"tipo": "comparacao", "titulo": "A venda para a Disney", "esquerda": {"rotulo": "Dinheiro", "valor": "50%", "detalhe": "do total"}, "direita": {"rotulo": "Ações", "valor": "40 mi", "detalhe": "de ações da Disney"}, "texto": "Total: **US$ 4,05 bilhões**, em outubro de 2012.", "fonte": "Comunicado da Disney à SEC"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Hoje, a Forbes calcula a fortuna de Lucas em **US$ 5,3 bilhões**.\n\nO dinheiro grande não veio do cachê. Veio de ser dono da história, dos produtos e do estúdio.", "fonte": "Forbes, setembro de 2026"},
+    {"tipo": "final"}
+  ],
+  "legenda": "George Lucas vendeu Star Wars para a Disney por US$ 4,05 bilhões. Mas a fortuna começou muito antes.\n\nFilho do dono de uma papelaria em Modesto, na Califórnia, ele trocou o balcão pela escola de cinema. Em 1973, American Graffiti custou cerca de US$ 777 mil e passou de US$ 55 milhões no primeiro lançamento.\n\nNo contrato de Star Wars, Lucas garantiu os direitos das continuações e uma fatia dos produtos licenciados. Só os brinquedos venderam US$ 100 milhões entre 1977 e 1978, segundo o CITMA.\n\nEm 2012, a Disney comprou a Lucasfilm: metade em dinheiro e metade em cerca de 40 milhões de ações. Hoje, a Forbes calcula a fortuna dele em US$ 5,3 bilhões, e em setembro ele abriu um museu de cerca de US$ 1 bilhão em Los Angeles.\n\nVocê preferiria um salário maior ou ser dono do que criou?\n\n(Fotos: Kevin Payravi, Joi Ito, Gage Skidmore e Mike McCune/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

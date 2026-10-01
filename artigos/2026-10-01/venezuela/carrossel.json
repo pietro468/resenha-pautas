@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "gancho": "Maduro está preso em Nova York. Quem manda na ==Venezuela== agora?",
+  "chamada": "Deslize para ver",
+  "capa": "delcy-rodriguez-e-donald-trump-nova-york.jpg",
+  "capa_extra": "vista-panoramica-de-caracas.jpg",
+  "capa_foco": "50,30",
+  "slides": [
+    {"tipo": "foto_texto", "foto": "delcy-rodriguez-presidente-interina-venezuela.jpg", "titulo": "Quem assumiu", "texto": "Em 3 de janeiro, os EUA capturaram Maduro e o levaram para Nova York. Dois dias depois, a vice dele, **Delcy Rodríguez**, assumiu como presidente interina. E ela mudou de rumo.", "fonte": "Wikipédia e The Rio Times"},
+    {"tipo": "texto", "titulo": "De inimigo a parceiro", "texto": "Delcy escolheu negociar com Washington.\n\nA embaixada americana reabriu em março. Os voos para os EUA voltaram em abril. E as sanções contra ela caíram.\n\nMas o maior acordo ainda estava por vir.", "fonte": "The Rio Times"},
+    {"tipo": "numero", "numero": "65 bi", "texto": "de barris de petróleo estão em 17 campos que viraram **concessões de 100 anos** para uma empresa apoiada pelos EUA, num acordo anunciado em agosto.", "foto": "refinaria-puerto-la-cruz-venezuela.jpg", "fonte": "PBS"},
+    {"tipo": "texto", "titulo": "E Maduro?", "texto": "Ele é réu por narcotráfico em Nova York e se declarou **inocente**.\n\nO julgamento foi marcado para **1º de junho de 2027**. Até lá, não há condenação.", "fonte": "Al Jazeera"},
+    {"tipo": "texto", "titulo": "E as eleições?", "texto": "Na ONU, em setembro, Delcy prometeu: \"Na Venezuela haverá eleições\".\n\nSó que **sem data**. Segundo ela, o povo vai decidir o momento certo.", "foto": "capa", "fonte": "Correio Braziliense e Euronews"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "A Venezuela trocou de comando e abriu o petróleo aos EUA em nove meses. Mas a inflação ainda passa de 500% em 12 meses, e ninguém sabe quando o país vai votar.", "fonte": "Banco Central da Venezuela, via Revista Fórum"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Maduro está preso em Nova York desde janeiro. E a Venezuela mudou muito desde então.\n\nEm 3 de janeiro, forças dos EUA capturaram Nicolás Maduro. Dois dias depois, a vice dele, Delcy Rodríguez, tomou posse como presidente interina.\n\nEla escolheu negociar com Washington: a embaixada americana reabriu, os voos voltaram e, em agosto, Trump anunciou um acordo que dá concessões de 100 anos em 17 campos com 65 bilhões de barris de petróleo a uma empresa apoiada pelos EUA (PBS).\n\nMaduro é réu por narcotráfico, se declarou inocente e tem julgamento marcado para 1º de junho de 2027 (Al Jazeera). Na ONU, em setembro, Delcy prometeu eleições, mas sem data.\n\nA economia ainda sofre: a inflação em 12 meses passava de 500% em maio, segundo o Banco Central venezuelano, e terremotos em junho deixaram mais de 6 mil mortos.\n\nVocê acha que a Venezuela vai ter eleição antes do julgamento de Maduro?\n\n(Fotos: Presidência da Venezuela, Wilfredor, Daniel Zambrano e City Vzla/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -265,9 +265,30 @@
    ],
    "titulo": "Economia dos criadores cresce, mas a classe média da internet some",
    "data": "2026-10-01 16:00"
+  },
+  {
+   "slug": "venezuela",
+   "pasta": "artigos/2026-10-01/venezuela",
+   "arquivos": [
+    "venezuela.md",
+    "carrossel.json"
+   ],
+   "titulo": "O que mudou na Venezuela desde a captura de Maduro",
+   "data": "2026-10-01 19:00"
+  },
+  {
+   "slug": "george-lucas",
+   "pasta": "artigos/2026-10-01/george-lucas",
+   "arquivos": [
+    "george-lucas.md",
+    "george-lucas-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Como George Lucas ficou bilionário com Star Wars",
+   "data": "2026-10-01 21:00"
   }
  ],
- "atualizado": "2026-10-01 16:11",
+ "atualizado": "2026-10-01 21:03",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -313,6 +334,11 @@
    "slug": "placar-juros-reais",
    "pasta": "instagram/2026-10-01/placar-juros-reais",
    "data": "2026-10-01 17:30"
+  },
+  {
+   "slug": "frase-jobs-tempo-limitado",
+   "pasta": "instagram/2026-10-02/frase-jobs-tempo-limitado",
+   "data": "2026-10-02 07:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

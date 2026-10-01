@@ -1,6 +1,0 @@
-lucas-orig.jpg https://upload.wikimedia.org/wikipedia/commons/b/b2/George_Lucas_2024.jpg
-m1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lucas_Museum_of_Narrative_Art_aug_2023.jpg/960px-Lucas_Museum_of_Narrative_Art_aug_2023.jpg
-m2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lucas_Museum_of_Narrative_Art_-_Los_Angeles_aug_2022.jpg/960px-Lucas_Museum_of_Narrative_Art_-_Los_Angeles_aug_2022.jpg
-d1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Delcy_Rodriguez_y_Donald_Trump.jpg/960px-Delcy_Rodriguez_y_Donald_Trump.jpg
-s1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sismos_Venezuela_Earthquake_Venezuela.jpg/960px-Sismos_Venezuela_Earthquake_Venezuela.jpg
-c1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Skyline_Caracas.jpg/1920px-Skyline_Caracas.jpg

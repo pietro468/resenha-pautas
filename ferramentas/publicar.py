@@ -94,7 +94,9 @@ def main():
         if novo:
             vistos = [u for u in urls_fotos if u]
             if len(vistos) != len(set(vistos)): e.append("a mesma foto aparece duas vezes (capa e imagens:). Cada foto tem que ser diferente")
-        if novo and meta.get("pessoa") and len(re.findall(r'^\s*-\s*arquivo:', fm_txt, re.M)) < 3: e.append("matéria sobre uma pessoa precisa de pelo menos 3 fotos diferentes dela em imagens: (além da capa), para o artigo e os slides não repetirem foto")
+        car_p = os.path.join(os.path.dirname(md), "carrossel.json")
+        unico = os.path.exists(car_p) and '"unico"' in open(car_p, encoding="utf-8").read()  # post de 1 imagem não tem slides para repetir foto
+        if novo and meta.get("pessoa") and not unico and len(re.findall(r'^\s*-\s*arquivo:', fm_txt, re.M)) < 3: e.append("matéria sobre uma pessoa precisa de pelo menos 3 fotos diferentes dela em imagens: (além da capa), para o artigo e os slides não repetirem foto")
         if re.search(r'\.png\s*$', meta.get("capa_url", ""), re.I): avisos.append(f"{rel}: capa em PNG parece gráfico; a capa deve ser foto")
         if not meta.get("busca_imagem"): avisos.append(f"{rel}: sem busca_imagem")
         if e:

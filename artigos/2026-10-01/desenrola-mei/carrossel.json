@@ -1,0 +1,64 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Veja as regras",
+  "capa": "desenrola-mei-vendedor-de-morango-pix.jpg",
+  "capa_estilo": "classico",
+  "capa_foco": "28,65,1.25",
+  "gancho": "MEI com dívida de até R$ 8 mil ganha ==50% de desconto== a partir de hoje",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "O que começou hoje",
+      "texto": "O governo abriu o ==Desenrola MEI Pequeno Valor==.\n\nVale para dívidas de até **R$ 8.105** com a União.\n\nE a conta é simples.",
+      "foto": "capa",
+      "fonte": "Ministério do Empreendedorismo"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "Na prática",
+      "esquerda": {
+        "rotulo": "A dívida",
+        "valor": "R$ 3.000",
+        "detalhe": "dívida média do MEI"
+      },
+      "direita": {
+        "rotulo": "Você paga",
+        "valor": "R$ 1.575",
+        "detalhe": "em até 55 meses"
+      },
+      "texto": "Entrada de 5% e metade do resto perdoada.",
+      "fonte": "Regras do governo, conta do Resenha"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "desenrola-mei-costureiras.jpg",
+      "titulo": "E quem deve mais?",
+      "texto": "Dívida de até **R$ 20 mil** tem a outra opção, que foi esticada até ==29 de janeiro==.\n\nO desconto pode chegar a **70%** do total.\n\nMas tem um detalhe.",
+      "fonte": "Ministério do Empreendedorismo"
+    },
+    {
+      "tipo": "numero",
+      "numero": "3 milhões",
+      "texto": "de MEIs estão com dívida. Só **411 mil** acordos foram fechados até agora.\n\nOu seja: a maioria ainda não negociou.",
+      "fonte": "Governo federal, até 24/9/2026"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "desenrola-mei-vendedor-ambulante-praia.jpg",
+      "titulo": "Como aderir",
+      "texto": "Entre no ==Regularize== da PGFN com a conta gov.br.\n\nConsulte pelo CNPJ, simule e emita o boleto da primeira parcela.",
+      "fonte": "PGFN"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "Quem deve até R$ 8 mil paga pouco mais da metade. Quem deve até R$ 20 mil tem até janeiro. Antes de fechar, vale simular as duas opções.",
+      "fonte": "Ministério do Empreendedorismo"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "MEI com dívida de até R$ 8 mil ganha 50% de desconto a partir de hoje.\n\nO Desenrola MEI Pequeno Valor começou nesta quinta (1º). Vale para dívidas de até R$ 8.105 com a União: o MEI paga 5% de entrada e o resto cai pela metade, em até 55 meses. A adesão vai até 31 de janeiro de 2027.\n\nNuma dívida de R$ 3 mil, a média do país, o total cai para R$ 1.575.\n\nO Desenrola MEI original, para dívidas de até R$ 20 mil, foi prorrogado até 29 de janeiro, com desconto de até 70% do total. A partir de 16 de outubro, também dá para negociar dívidas com órgãos como ANTT, Anatel e Incra.\n\nSegundo o governo, mais de 3 milhões de MEIs estão endividados, e 411 mil acordos foram fechados até 24 de setembro. A adesão é pelo portal Regularize, da PGFN.\n\nVocê conhece algum MEI com imposto atrasado?\n\n(Fotos ilustrativas: Mateus S. Figueiredo, CC BY-SA 4.0; Agência Brasília, CC BY 2.0; Joelalencar, CC BY-SA 4.0; via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

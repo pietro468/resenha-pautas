@@ -1,9 +1,0 @@
-z00.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/VidCon_attendees_%2814350632799%29.jpg/1920px-VidCon_attendees_%2814350632799%29.jpg
-z01.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/VidCon_IMG_5670_%2819858180889%29.jpg/1920px-VidCon_IMG_5670_%2819858180889%29.jpg
-z02.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/YouTube_Space_Paris_01.jpg/1920px-YouTube_Space_Paris_01.jpg
-z03.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Alli_Speed_%2814544841141%29.jpg/1920px-Alli_Speed_%2814544841141%29.jpg
-z04.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_Space_LA_exterior.jpg/1920px-YouTube_Space_LA_exterior.jpg
-z05.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Feira_de_artesanato_em_Vi%C3%A7osa_03.jpg/1920px-Feira_de_artesanato_em_Vi%C3%A7osa_03.jpg
-z06.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Vendedor_de_morango.jpg/1920px-Vendedor_de_morango.jpg
-z07.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mais_uma_turma_de_costureiras_ser%C3%A1_diplomada_pela_F%C3%A1brica_Social_%2852642062049%29.jpg/1920px-Mais_uma_turma_de_costureiras_ser%C3%A1_diplomada_pela_F%C3%A1brica_Social_%2852642062049%29.jpg
-z08.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vendedor_ambulante_na_praia.jpg/1920px-Vendedor_ambulante_na_praia.jpg

@@ -244,9 +244,30 @@
    ],
    "titulo": "Como a onda coreana fez do K-pop um negócio de US$ 19 bilhões",
    "data": "2026-10-01 11:00"
+  },
+  {
+   "slug": "desenrola-mei",
+   "pasta": "artigos/2026-10-01/desenrola-mei",
+   "arquivos": [
+    "desenrola-mei.md",
+    "desenrola-mei-opcoes.png",
+    "carrossel.json"
+   ],
+   "titulo": "Desenrola MEI ganha faixa nova com 50% de desconto em dívidas",
+   "data": "2026-10-01 14:00"
+  },
+  {
+   "slug": "economia-dos-criadores",
+   "pasta": "artigos/2026-10-01/economia-dos-criadores",
+   "arquivos": [
+    "economia-dos-criadores.md",
+    "carrossel.json"
+   ],
+   "titulo": "Economia dos criadores cresce, mas a classe média da internet some",
+   "data": "2026-10-01 16:00"
   }
  ],
- "atualizado": "2026-10-01 10:08",
+ "atualizado": "2026-10-01 16:11",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -287,6 +308,11 @@
    "slug": "hoje-abertura-disney-world",
    "pasta": "instagram/2026-10-01/hoje-abertura-disney-world",
    "data": "2026-10-01 10:00"
+  },
+  {
+   "slug": "placar-juros-reais",
+   "pasta": "instagram/2026-10-01/placar-juros-reais",
+   "data": "2026-10-01 17:30"
   },
   {
    "slug": "hoje-morte-steve-jobs",

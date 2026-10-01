@@ -1,0 +1,65 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "capa_foco": "30,75,1.6",
+  "gancho": "Marcas nunca pagaram tanto a criadores de conteúdo. Mas poucos ==vivem bem disso==",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "US$ 37 bi",
+      "texto": "é quanto as marcas devem gastar com criadores **só nos EUA** em 2025. Em 2021, eram US$ 13,9 bilhões.\n\nEntão para onde vai esse dinheiro?",
+      "foto": "economia-dos-criadores-alli-speed-vidcon.jpg",
+      "fonte": "IAB"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "A classe média da internet",
+      "esquerda": {
+        "rotulo": "2024",
+        "valor": "Quase 60%",
+        "detalhe": "ganhavam de R$ 2 mil a R$ 10 mil"
+      },
+      "direita": {
+        "rotulo": "2025",
+        "valor": "35%",
+        "detalhe": "na mesma faixa"
+      },
+      "texto": "Criadores brasileiros ouvidos em cada ano. O meio encolheu.",
+      "fonte": "Brunch e YouPix (2024), YouPix (2025)"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "economia-dos-criadores-vidcon-palco.jpg",
+      "titulo": "As pontas cresceram",
+      "texto": "Mais de **40%** ganham até R$ 2 mil por mês.\n\nPerto de **12%** passam dos R$ 10 mil.\n\nE isso não acontece só no Brasil.",
+      "fonte": "YouPix, via Metrópoles"
+    },
+    {
+      "tipo": "numero",
+      "numero": "4%",
+      "texto": "dos criadores do mundo ganham mais de ==US$ 100 mil== por ano.\n\nO resto disputa as sobras.",
+      "foto": "economia-dos-criadores-youtube-space-la.jpg",
+      "fonte": "Goldman Sachs"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "economia-dos-criadores-estudio-youtube-paris.jpg",
+      "titulo": "O que separa quem fica",
+      "texto": "Tempo: metade dos que passam de R$ 10 mil por mês faz conteúdo há **mais de 5 anos**.\n\nE várias fontes de renda, além da publicidade.",
+      "fonte": "YouPix"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "No fim das contas",
+      "texto": "O dinheiro da internet cresce, mas se concentra no topo. Viver de conteúdo virou carreira de empresa, não de sorte. Quem trata como hobby fica na base.",
+      "fonte": "IAB, YouPix e Goldman Sachs"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Marcas nunca pagaram tanto a criadores de conteúdo. Mas poucos vivem bem disso.\n\nNos EUA, o gasto das marcas com criadores deve chegar a US$ 37 bilhões em 2025, segundo o IAB. Em 2021, eram US$ 13,9 bilhões.\n\nNo Brasil, a faixa de quem fatura entre R$ 2 mil e R$ 10 mil por mês caiu para cerca de 35% em 2025, segundo a YouPix. Em 2024, eram quase 60%. Mais de 40% ganham até R$ 2 mil, e perto de 12% passam dos R$ 10 mil.\n\nNo mundo, só 4% dos criadores ganham mais de US$ 100 mil por ano, segundo o Goldman Sachs.\n\nE você, viveria só de internet?\n\n(Fotos: Gage Skidmore, CC BY-SA 2.0; Jeff Terrell, CC BY 2.0; Scot Byrd, CC BY 2.0; Pyb, CC BY-SA 4.0; via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

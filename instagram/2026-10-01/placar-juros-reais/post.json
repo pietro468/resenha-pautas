@@ -1,0 +1,20 @@
+{
+  "titulo": "Placar: os países com os maiores juros reais do mundo",
+  "data": "2026-10-01 17:30",
+  "fotos": [],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa": "capa",
+    "capa_estilo": "placar",
+    "chamada": "Em números",
+    "gancho": "O Brasil tem o ==maior juro real== do mundo",
+    "fonte": "MoneYou e Lev Intelligence, ranking de 16/9/2026 com 40 países",
+    "linhas": [
+      {"rotulo": "Brasil", "valor": "8,45%", "num": 8.45, "destaque": 1},
+      {"rotulo": "Rússia", "valor": "6,79%", "num": 6.79},
+      {"rotulo": "Colômbia", "valor": "6,33%", "num": 6.33}
+    ],
+    "legenda": "O Brasil tem o maior juro real do mundo, mesmo depois de cinco cortes seguidos na Selic.\n\nJuro real é o juro que sobra depois de descontar a inflação. Ele mostra quanto o dinheiro rende de verdade e quanto custa, de fato, pegar emprestado.\n\nNo ranking da MoneYou com a Lev Intelligence, feito com 40 países logo depois da reunião do Copom de 16 de setembro, o Brasil aparece com 8,45% ao ano. A Rússia vem em segundo, com 6,79%, e a Colômbia em terceiro, com 6,33%.\n\nNaquele dia, o Banco Central cortou a Selic de 14% para 13,75% ao ano. No juro nominal, sem descontar a inflação, o Brasil fica só em 4º lugar, atrás de Turquia (37%), Argentina (29%) e Rússia (14%).\n\nPara quem investe em renda fixa, é um juro alto. Para quem tem dívida, também. De que lado você está?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

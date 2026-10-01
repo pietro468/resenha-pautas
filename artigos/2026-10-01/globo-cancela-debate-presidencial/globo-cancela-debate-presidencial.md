@@ -11,7 +11,7 @@ tags: ["debate presidencial", "TV Globo", "Eleições 2026", "TSE", "Gilmar Mend
 youtube: ""
 capa: "globo-cancela-debate-presidencial-capa.jpg"
 capa_url: "https://raw.githubusercontent.com/pietro468/resenha-pautas/main/artigos/2026-10-01/globo-cancela-debate-presidencial/globo-cancela-debate-presidencial-capa.jpg"
-capa_credito: "Reprodução/TV"
+capa_credito: "Reprodução/TV Globo"
 pessoa: ""
 busca_imagem: "television studio debate"
 imagens: []

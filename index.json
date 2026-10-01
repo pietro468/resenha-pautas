@@ -293,6 +293,22 @@
    "data": "2026-10-01 19:00"
   },
   {
+   "slug": "trajetoria-de-lito-sousa",
+   "pasta": "artigos/2026-10-01/trajetoria-de-lito-sousa",
+   "arquivos": [
+    "trajetoria-de-lito-sousa.md",
+    "lito-sousa-estudio-avioes-e-musicas.jpg",
+    "lito-sousa-mila-seidl-bio.jpg",
+    "lito-sousa-motor-bio.jpg",
+    "lito-sousa-video-bio.jpg",
+    "lito-sousa-voo-bio.jpg",
+    "trajetoria-de-lito-sousa-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Trajetória de Lito Sousa: do hangar da Varig ao YouTube",
+   "data": "2026-10-01 19:20"
+  },
+  {
    "slug": "george-lucas",
    "pasta": "artigos/2026-10-01/george-lucas",
    "arquivos": [
@@ -301,10 +317,10 @@
     "carrossel.json"
    ],
    "titulo": "Como George Lucas ficou bilionário com Star Wars",
-   "data": "2026-10-01 21:00"
+   "data": "2026-10-06 21:00"
   }
  ],
- "atualizado": "2026-10-01 18:45",
+ "atualizado": "2026-10-01 18:51",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

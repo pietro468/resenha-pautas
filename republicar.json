@@ -47,6 +47,11 @@
       "id": "2026-09-30-divida-bloqueio",
       "slug": "divida-publica-agosto-2026",
       "depois": "2026-09-30 14:50"
+    },
+    {
+      "id": "2026-10-01-george-lucas-adiado",
+      "slug": "george-lucas",
+      "refazer": true
     }
   ]
 }

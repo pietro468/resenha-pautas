@@ -6,7 +6,7 @@ permissions-policy: camera=(), microphone=(), geolocation=(), payment=()
 referrer-policy: strict-origin-when-cross-origin
 x-content-type-options: nosniff
 x-frame-options: SAMEORIGIN
-set-cookie: __cf_bm=dUglblJwJNEE8Sn_jEUOV2yTmmWL3unpK2ftQXn_TQE-1790811720.5168447-1.0.1.1-UIIth7.7EqsIkug10U6XKGP30f6ofnqRiJD87qMqBPs5b2yJatf5ySDpAZ2JTkeFK3HdTEi9fldtBSm2jhI3ML18P7SK60fbifdiuJYq17OMLf9HTdP4x1IQDZa0JdFN; HttpOnly; SameSite=None; Secure; Path=/; Domain=resenharentavel.com; Expires=Thu, 01 Oct 2026 00:12:00 GMT
+set-cookie: __cf_bm=i.6VHnSk8WsHevuUgpjt095jTvbTWG9U6UXWqsxZ5qk-1790891969.6613634-1.0.1.1-NOcXLlfK4cuBIpjp4PqogEqp8pM4qtx5cCZHC18I7Vv10_J0lp3IpWOnoFFkL0GTIgwM37OW663FpnyU5wb6Cb_IhgxY52t9bPX2I10pYrbV_.hbFWdHi0LSjkk7.gm7; HttpOnly; SameSite=None; Secure; Path=/; Domain=resenharentavel.com; Expires=Thu, 01 Oct 2026 22:29:29 GMT
 == usuarios (wp/v2/users)
 {"code":"rest_no_route","message":"Nenhuma rota foi encontrada que corresponde com o URL e o m\u00e9todo de requisi\u00e7\u00e3o.","data":{"status":404}}
 == usuarios (?author=1)

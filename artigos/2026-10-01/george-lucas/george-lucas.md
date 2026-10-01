@@ -1,7 +1,7 @@
 ---
 titulo: "Como George Lucas ficou bilionário com Star Wars"
 subtitulo: "Ele era filho do dono de uma papelaria no interior da Califórnia. Veja como um contrato de cinema, uma empresa de efeitos especiais e a venda para a Disney criaram uma fortuna de US$ 5,3 bilhões."
-data: "2026-10-06 21:00"
+data: "2026-10-01 21:00"
 categoria: "Biografias"
 assina: "Redação"
 frase_chave: "george lucas"

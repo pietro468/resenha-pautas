@@ -52,6 +52,16 @@
       "id": "2026-10-01-george-lucas-adiado",
       "slug": "george-lucas",
       "refazer": true
+    },
+    {
+      "id": "2026-10-01-george-lucas-volta-21h",
+      "slug": "george-lucas",
+      "refazer": true
+    },
+    {
+      "id": "2026-10-01-trajetoria-lito-cancelada",
+      "slug": "trajetoria-de-lito-sousa",
+      "refazer": true
     }
   ]
 }

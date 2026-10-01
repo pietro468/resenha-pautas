@@ -1,0 +1,59 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "gancho": "O que é a ==doença de Creutzfeldt-Jakob,== que matou Lito Sousa",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "O que é",
+      "texto": "Uma doença rara que ataca o cérebro. É causada por **príons**: proteínas com defeito no formato.\n\nElas fazem as proteínas vizinhas também mudarem de forma e destroem os neurônios aos poucos.",
+      "fonte": "Gazeta do Povo"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Os tipos",
+      "texto": "**Esporádica:** 85% dos casos, sem causa conhecida.\n\n**Hereditária:** 5% a 15%, por mutação genética.\n\n**Iatrogênica:** menos de 1%, em procedimentos médicos.\n\n**Variante:** ligada à vaca louca, muito rara.",
+      "fonte": "CNN Brasil"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "lito-sousa-hospital-palmeiras.jpg",
+      "titulo": "Os sintomas",
+      "texto": "Perda de memória, tremores, falta de coordenação, espasmos, dificuldade para falar e problemas de visão.\n\nNão passa por contato social nem pelo ar.",
+      "fonte": "CNN Brasil"
+    },
+    {
+      "tipo": "numero",
+      "numero": "90%",
+      "texto": "dos pacientes morrem em até **um ano** depois dos primeiros sintomas. A doença ainda **não tem cura**.",
+      "fonte": "CNN Brasil"
+    },
+    {
+      "tipo": "numero",
+      "numero": "547",
+      "texto": "casos confirmados no Brasil de 2005 a 2021, entre **1.576** suspeitos notificados ao Ministério da Saúde.",
+      "fonte": "CNN Brasil e Termômetro da Política"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "lito-sousa-video-tratamento.jpg",
+      "titulo": "O remédio experimental",
+      "texto": "Lito foi o **primeiro ser humano** a receber o ALN-6457, que tenta desligar o gene da proteína dos príons.\n\nO remédio chegou de Nova York em 12 de setembro.",
+      "fonte": "CNN Brasil e Gazeta do Povo"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "lito-sousa-e-mila-seidl.jpg",
+      "titulo": "Até o próximo voo",
+      "texto": "O diagnóstico foi anunciado em 21 de agosto. Lito morreu em 1º de outubro, aos 59 anos.\n\nEle deixa a esposa, Mila Seidl, e o filho, Malone.",
+      "fonte": "O Tempo e Metrópoles"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "A doença de Creutzfeldt-Jakob foi a causa da morte de Lito Sousa, dono do canal Aviões e Músicas, nesta quinta-feira (1º), aos 59 anos.\n\nRara e sem cura, a doença ataca o cérebro. Ela é causada por príons, proteínas com defeito no formato que fazem as vizinhas também mudarem de forma e destroem os neurônios aos poucos. Cerca de 90% dos pacientes morrem em até um ano depois dos primeiros sintomas.\n\nA forma mais comum, a esporádica, aparece sem causa conhecida. E a doença não passa por contato social nem pelo ar.\n\nNo Brasil, foram 547 casos confirmados de 2005 a 2021, segundo dados do Ministério da Saúde.\n\nLito foi o primeiro ser humano a receber o remédio experimental ALN-6457, que chegou de Nova York em setembro com autorização da Anvisa.\n\n(Fotos: Reprodução/Redes sociais)\n(Fontes: Metrópoles, O Tempo, CNN Brasil, Gazeta do Povo e Termômetro da Política)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

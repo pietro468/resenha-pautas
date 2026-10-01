@@ -224,9 +224,29 @@
    ],
    "titulo": "Como Luiza Trajano transformou uma loja de Franca na Magalu",
    "data": "2026-09-30 21:00"
+  },
+  {
+   "slug": "pix-por-aproximacao-sem-limite",
+   "pasta": "artigos/2026-10-01/pix-por-aproximacao-sem-limite",
+   "arquivos": [
+    "pix-por-aproximacao-sem-limite.md",
+    "carrossel.json"
+   ],
+   "titulo": "Pix por aproximação perde o limite de R$ 500 a partir de hoje",
+   "data": "2026-10-01 08:00"
+  },
+  {
+   "slug": "onda-coreana-hallyu",
+   "pasta": "artigos/2026-10-01/onda-coreana-hallyu",
+   "arquivos": [
+    "onda-coreana-hallyu.md",
+    "carrossel.json"
+   ],
+   "titulo": "Como a onda coreana fez do K-pop um negócio de US$ 19 bilhões",
+   "data": "2026-10-01 11:00"
   }
  ],
- "atualizado": "2026-09-30 21:13",
+ "atualizado": "2026-10-01 10:08",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -254,9 +274,19 @@
    "data": "2026-09-30 10:00"
   },
   {
+   "slug": "curiosidade-estadios-mais-caros",
+   "pasta": "instagram/2026-10-01/curiosidade-estadios-mais-caros",
+   "data": "2026-10-01 12:30"
+  },
+  {
    "slug": "frase-lemann-sonhar-grande",
    "pasta": "instagram/2026-10-01/frase-lemann-sonhar-grande",
    "data": "2026-10-01 07:00"
+  },
+  {
+   "slug": "hoje-abertura-disney-world",
+   "pasta": "instagram/2026-10-01/hoje-abertura-disney-world",
+   "data": "2026-10-01 10:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

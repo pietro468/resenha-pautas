@@ -1,0 +1,31 @@
+{
+  "titulo": "Curiosidades: os estádios mais caros do mundo",
+  "data": "2026-10-01 12:30",
+  "fotos": [
+    {"arquivo": "curiosidade-estadio-levis.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Levi%27s_Stadium_from_air.jpg/1920px-Levi%27s_Stadium_from_air.jpg", "credito": "Runner1928/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "curiosidade-estadio-nacional-singapura.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg/1920px-Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg", "credito": "CEphoto, Uwe Aranas/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "curiosidade-estadio-tottenham.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/1920px-London_Tottenham_Hotspur_Stadium.jpg", "credito": "Arne Müseler/Wikimedia Commons (CC BY-SA 3.0 DE)"},
+    {"arquivo": "curiosidade-estadio-mercedes-benz.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mercedes-Benz_Stadium%2C_July_2018.jpg/1920px-Mercedes-Benz_Stadium%2C_July_2018.jpg", "credito": "Thomson200/Wikimedia Commons (CC0)"},
+    {"arquivo": "curiosidade-estadio-allegiant.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Allegiant_Stadium%2C_Las_Vegas%2C_Nevada_%2851426794436%29.jpg/1920px-Allegiant_Stadium%2C_Las_Vegas%2C_Nevada_%2851426794436%29.jpg", "credito": "Ken Lund/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "curiosidade-estadio-sofi.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aerial_view_of_SoFi_Stadium_%28July_2022%29.jpg/1920px-Aerial_view_of_SoFi_Stadium_%28July_2022%29.jpg", "credito": "Benoît Prieur/Wikimedia Commons (CC0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-estadio-sofi.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": ["curiosidade-estadio-allegiant.jpg", "curiosidade-estadio-tottenham.jpg"],
+    "chamada": "Curiosidades",
+    "gancho": "Quais são os ==estádios mais caros== do mundo?",
+    "slides": [
+      {"tipo": "item", "foto": "curiosidade-estadio-levis.jpg", "posicao": "6º lugar", "detalhe": "Santa Clara, EUA (2014)", "nome": "Levi's Stadium", "valor": "US$ 1,3 bilhão", "fonte": "World Construction Network, 2024"},
+      {"tipo": "item", "foto": "curiosidade-estadio-nacional-singapura.jpg", "posicao": "5º lugar", "detalhe": "Singapura (2014)", "nome": "Estádio Nacional de Singapura", "valor": "US$ 1,31 bilhão", "fonte": "World Construction Network, 2024"},
+      {"tipo": "item", "foto": "curiosidade-estadio-tottenham.jpg", "posicao": "4º lugar", "detalhe": "Londres, Inglaterra (2019)", "nome": "Tottenham Hotspur Stadium", "valor": "US$ 1,33 bilhão", "fonte": "World Construction Network, 2024"},
+      {"tipo": "item", "foto": "curiosidade-estadio-mercedes-benz.jpg", "posicao": "3º lugar", "detalhe": "Atlanta, EUA (2017)", "nome": "Mercedes-Benz Stadium", "valor": "US$ 1,5 bilhão", "fonte": "World Construction Network, 2024"},
+      {"tipo": "item", "foto": "curiosidade-estadio-allegiant.jpg", "posicao": "2º lugar", "detalhe": "Las Vegas, EUA (2020)", "nome": "Allegiant Stadium", "valor": "US$ 1,9 bilhão", "fonte": "World Construction Network, 2024"},
+      {"tipo": "item", "foto": "curiosidade-estadio-sofi.jpg", "posicao": "1º lugar", "detalhe": "Inglewood, Los Angeles, EUA (2020)", "nome": "SoFi Stadium", "valor": "US$ 5,5 bilhões", "fonte": "World Construction Network, 2024"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Quais são os estádios mais caros do mundo?\n\n1. SoFi Stadium (Los Angeles, EUA): US$ 5,5 bilhões\n2. Allegiant Stadium (Las Vegas, EUA): US$ 1,9 bilhão\n3. Mercedes-Benz Stadium (Atlanta, EUA): US$ 1,5 bilhão\n4. Tottenham Hotspur Stadium (Londres): US$ 1,33 bilhão\n5. Estádio Nacional de Singapura: US$ 1,31 bilhão\n6. Levi's Stadium (Santa Clara, EUA): US$ 1,3 bilhão\n\nOs valores são o custo de construção de cada estádio, segundo o ranking da World Construction Network (atualizado em 2024). O SoFi custou quase três vezes o segundo colocado.\n\nQual desses você queria conhecer por dentro?\n\n(Fotos: Benoît Prieur e Thomson200/Wikimedia Commons, CC0; Ken Lund, CC BY-SA 2.0; Arne Müseler, CC BY-SA 3.0 DE; CEphoto, Uwe Aranas e Runner1928, CC BY-SA 3.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

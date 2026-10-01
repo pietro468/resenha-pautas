@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "circulo",
+  "capa_extra": "onda-coreana-bong-joon-ho.jpg",
+  "capa_foco": "50,35",
+  "gancho": "K-pop e doramas já rendem ==US$ 19 bilhões== por ano à Coreia do Sul",
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 18,98 bi", "texto": "foi quanto a ==onda coreana== rendeu em exportações em 2025. Alta de **15,9%** em um ano.\n\nMas tudo começou com um dinossauro.", "foto": "onda-coreana-bts-gwanghwamun-2026.jpg", "fonte": "KOFICE e Ministério da Cultura da Coreia, via Korea Herald"},
+    {"tipo": "texto_claro", "titulo": "O susto de 1994", "texto": "O governo coreano descobriu que **Jurassic Park** rendeu mais que a venda de **1,5 milhão de carros** da Hyundai.\n\nUm filme rendia mais que uma montanha de carros. E aí veio a crise.", "fonte": "Museu Victoria and Albert"},
+    {"tipo": "texto", "titulo": "O plano depois da crise", "texto": "Depois da crise de 1997, o governo decidiu apostar em internet e cultura.\n\nA meta era **quadruplicar** as exportações do setor. Faltava o mundo prestar atenção.", "fonte": "Museu Victoria and Albert"},
+    {"tipo": "foto_texto", "foto": "onda-coreana-parasita-elenco.jpg", "titulo": "Aí o mundo prestou", "texto": "Em 2020, **Parasita** ganhou 4 Oscars, inclusive o de melhor filme. Foi o primeiro filme fora do inglês a levar o prêmio principal.", "fonte": "PBS"},
+    {"tipo": "texto", "titulo": "E a Netflix entrou no jogo", "texto": "==Round 6:== 265,2 milhões de visualizações.\n\n==KPop Demon Hunters:== 266 milhões, o maior da história da Netflix.\n\nEm 2023, a Netflix prometeu **US$ 2,5 bilhões** para a Coreia.", "foto": "onda-coreana-round-6-experiencia-seul.jpg", "fonte": "Netflix, via Inquirer e Axios"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Cultura também é economia. O K-pop ajuda a vender cosmético, comida, tecnologia e viagem. A Coreia trata isso como projeto de país há mais de 30 anos.", "fonte": "Resenha Rentável"},
+    {"tipo": "final"}
+  ],
+  "legenda": "K-pop, doramas e filmes já rendem quase US$ 19 bilhões por ano à Coreia do Sul.\n\nEm 2025, as exportações ligadas à onda coreana, a hallyu, somaram US$ 18,98 bilhões, segundo a KOFICE e o Ministério da Cultura do país.\n\nA virada começou em 1994, quando o governo descobriu que Jurassic Park tinha rendido mais que a venda de 1,5 milhão de carros da Hyundai. Depois da crise de 1997, a cultura virou estratégia de Estado.\n\nVieram o BTS, os 4 Oscars de Parasita, Round 6 e KPop Demon Hunters, o título mais visto da história da Netflix. E o turismo foi junto.\n\nO Brasil conseguiria fazer o mesmo com a própria cultura?\n\n(Fotos: Jeon Han/Korea.net, CC BY-SA 2.0; Lee Jeong Woo/Ministério da Cultura da Coreia, Kinocine, Jennifer 8. Lee e República da Coreia/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

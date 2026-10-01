@@ -1,0 +1,34 @@
+{
+  "titulo": "Hoje na história: 1º de outubro de 1971, abre a Walt Disney World",
+  "data": "2026-10-01 10:00",
+  "fotos": [
+    {"arquivo": "hoje-disney-1971-abertura.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Disney_World_Opening_Day_Crowd.jpg", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-disney-1965-anuncio.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Walt_Disney_with_Company_at_Press_Conference.jpg/1920px-Walt_Disney_with_Company_at_Press_Conference.jpg", "credito": "Florida Development Commission/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-disney-roy-terreno.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Roy_Disney_inspecting_property_in_Florida.jpg", "credito": "Florida Memory/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-disney-roy-tatum.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Roy_O._Disney_with_Donn_Tatum_inspecting_property_for_Disney_World.jpg", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-disney-monotrilho.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/View_showing_monorail_near_Disney%27s_Contemporary_Resort_hotel_at_the_Magic_Kingdom_in_Orlando%2C_Florida_%285761604265%29.jpg", "credito": "Florida Memory/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-disney-1972-barco.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Disneyworld%2C_Orlando%2C_FL%2C_summer_1972_12.jpg/1920px-Disneyworld%2C_Orlando%2C_FL%2C_summer_1972_12.jpg", "credito": "Dada1960/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "hoje-disney-1972-mansao.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Disneyworld%2C_Orlando%2C_FL%2C_summer_1972_07.jpg/1920px-Disneyworld%2C_Orlando%2C_FL%2C_summer_1972_07.jpg", "credito": "Dada1960/Wikimedia Commons (CC BY-SA 4.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-disney-1971-abertura.jpg",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "1 out",
+    "ano": "1971",
+    "ha": "Há 55 anos",
+    "gancho": "Abria a ==Walt Disney World==, que Walt Disney nunca viu pronta",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-disney-1965-anuncio.jpg"},
+      {"tipo": "foto", "foto": "hoje-disney-roy-terreno.jpg"},
+      {"tipo": "foto", "foto": "hoje-disney-roy-tatum.jpg"},
+      {"tipo": "foto", "foto": "hoje-disney-monotrilho.jpg"},
+      {"tipo": "foto", "foto": "hoje-disney-1972-barco.jpg"},
+      {"tipo": "foto", "foto": "hoje-disney-1972-mansao.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 55 ANOS, A DISNEY ABRIA SEU MAIOR PARQUE\n\nEm 1º de outubro de 1971, a Walt Disney World abriu as portas na Flórida, com o Magic Kingdom e dois hotéis. A obra custou US$ 400 milhões, segundo a D23, o fã-clube oficial da Disney.\n\nWalt Disney não viu nada disso. Ele anunciou o projeto em novembro de 1965, ao lado do irmão Roy, e morreu em dezembro de 1966. Roy, que já pensava em se aposentar, assumiu a obra e fez questão de batizar o lugar com o nome completo do irmão: Walt Disney World.\n\nO detalhe que pouca gente sabe: para não fazer o preço da terra disparar, a Disney comprou o terreno em segredo, usando empresas de fachada com nomes engraçados. Foram mais de 27 mil acres, uma área do tamanho de duas ilhas de Manhattan.\n\nA abertura foi tímida: cerca de 10 mil pessoas no primeiro dia. A Disney preferiu assim, para evitar a lotação que marcou a abertura da Disneylândia, em 1955. Roy morreu em 20 de dezembro de 1971, dois meses depois da festa de inauguração. Hoje, o Magic Kingdom é o parque temático mais visitado do mundo, com 17,8 milhões de visitantes em 2024.\n\nVocê já foi ou sonha em ir?\n\n(Fotos: Florida Development Commission e Florida Memory/domínio público; autor desconhecido/domínio público; Dada1960/Wikimedia Commons, CC BY-SA 4.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "==Rockefeller== ficou ainda mais rico quando a Justiça dividiu a empresa dele",
+  "chamada": "Veja a história",
+  "capa": "capa",
+  "capa_foco": "45,30",
+  "slides": [
+    {"tipo": "foto_texto", "foto": "certificado-standard-oil-trust.jpg", "titulo": "O dia da divisão", "texto": "Em 1911, a Suprema Corte dos EUA mandou dividir a Standard Oil em **34 empresas**.\n\nAs ações subiram, e ele virou o primeiro bilionário do país. Mas como chegou até ali?", "fonte": "History.com e Wikipédia"},
+    {"tipo": "foto_texto", "foto": "rockefeller-jovem-1872.jpg", "titulo": "O garoto da contabilidade", "texto": "Aos 16 anos, em 1855, ele virou auxiliar de contabilidade em Cleveland.\n\nDo primeiro salário, já doava 10% para a igreja. E guardava o resto.", "fonte": "History.com"},
+    {"tipo": "numero", "numero": "22 de 26", "texto": "concorrentes de Cleveland foram comprados por Rockefeller em **menos de seis semanas**, em 1872. Era só o começo.", "foto": "refinaria-standard-oil-cleveland-1889.jpg", "fonte": "PBS American Experience"},
+    {"tipo": "texto", "titulo": "A crise virou oportunidade", "texto": "Em 1873, um pânico financeiro quebrou bancos e refinarias.\n\nA Standard Oil tinha caixa e seguiu comprando. Em 1879, já controlava cerca de **90%** do petróleo refinado nos EUA.", "foto": "rockefeller-aos-49-anos.jpg", "fonte": "Cleveland Historical"},
+    {"tipo": "comparacao", "titulo": "A fortuna em 1913", "esquerda": {"rotulo": "Na época", "valor": "US$ 900 mi", "detalhe": "quase 2% da economia dos EUA"}, "direita": {"rotulo": "Hoje", "valor": "US$ 631 bi", "detalhe": "pelo peso na economia"}, "texto": "Pela inflação ao consumidor, seriam US$ 28 bilhões.", "fonte": "Guinness World Records e History.com"},
+    {"tipo": "foto_texto", "foto": "capela-rockefeller-universidade-de-chicago.jpg", "titulo": "E depois?", "texto": "Doou cerca de **US$ 540 milhões**, criou a Universidade de Chicago e a Fundação Rockefeller.\n\nMorreu em 1937, aos 97 anos.", "fonte": "Rockefeller Archive Center"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Escala, custo baixo e coragem para comprar quando todo mundo estava com medo.\n\nA mesma receita que tornou Rockefeller rico fez os EUA criarem leis contra monopólios.", "fonte": ""},
+    {"tipo": "final"}
+  ],
+  "legenda": "John D. Rockefeller ficou ainda mais rico quando a Justiça mandou dividir a empresa dele.\n\nEm 1911, a Suprema Corte dos EUA quebrou a Standard Oil em 34 empresas. As ações das novas companhias subiram, e ele virou o primeiro bilionário do país, segundo o History.com. Duas delas viraram a Exxon e a Mobil.\n\nTudo começou em 1855, quando ele conseguiu o primeiro emprego como auxiliar de contabilidade em Cleveland, aos 16 anos. Em 1870, fundou a Standard Oil. Em 1872, comprou 22 dos seus 26 concorrentes na cidade em menos de seis semanas.\n\nNa crise de 1873, enquanto rivais quebravam, a empresa seguiu comprando. Em 1879, já controlava cerca de 90% do petróleo refinado nos EUA. Em 1913, a fortuna chegou a US$ 900 milhões, quase 2% da economia americana.\n\nEle doou cerca de US$ 540 milhões e morreu em 1937, aos 97 anos.\n\nPara você, ele foi um gênio dos negócios ou o maior monopolista da história?\n\n(Fotos: Pach Brothers/National Portrait Gallery, Wikimedia Commons e w_lemay)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

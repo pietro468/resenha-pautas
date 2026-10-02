@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "capa_extra": "sede-do-inss-brasilia.jpg",
+  "gancho": "O INSS fechou 2025 com rombo de ==R$ 317 bilhões==. Ele vai quebrar?",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "slides": [
+    {"tipo": "numero", "numero": "R$ 317 bi", "texto": "foi quanto faltou para pagar aposentadorias e pensões do INSS em **2025**. O gasto passou de **R$ 1 trilhão** pela primeira vez.", "foto": "inss-vai-quebrar-agencia-previdencia-social.jpg", "fonte": "Tesouro Nacional e IFI"},
+    {"tipo": "texto", "titulo": "Então ele quebra?", "texto": "Não como uma empresa. A **Lei 8.212** manda a União cobrir o que faltar.\n\nO aposentado recebe. Mas alguém paga a diferença.", "fonte": "Lei 8.212/1991, art. 16"},
+    {"tipo": "texto_claro", "titulo": "Quem paga a conta?", "texto": "O dinheiro sai do Tesouro. Cada real que vai para cobrir o rombo **deixa de ir** para saúde, educação ou obra, ou vira mais dívida.\n\nE a conta vai crescer.", "fonte": "IFI, maio de 2026"},
+    {"tipo": "comparacao", "titulo": "O Brasil está envelhecendo", "esquerda": {"rotulo": "2023", "valor": "15,6%", "detalhe": "têm 60 anos ou mais"}, "direita": {"rotulo": "2070", "valor": "37,8%", "detalhe": "têm 60 anos ou mais"}, "texto": "Menos gente trabalhando para pagar mais aposentados.", "fonte": "IBGE, projeção de 2024"},
+    {"tipo": "texto", "titulo": "E a reforma de 2019?", "texto": "Criou idade mínima de **65 anos** para homens e **62** para mulheres.\n\nSegundo a IFI, ajudou, mas não bastou para frear o gasto.", "fonte": "EC 103/2019 e IFI"},
+    {"tipo": "texto_claro", "titulo": "E você?", "texto": "O risco não é ficar sem INSS. É se aposentar **mais tarde** ou com regras mais duras.\n\nPor isso, guardar um pouco desde cedo faz diferença.", "fonte": "Fenaprevi e Datafolha, julho de 2026"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O INSS fechou 2025 com um rombo de R$ 317,2 bilhões. Isso quer dizer que ele vai quebrar?\n\nNão do jeito que muita gente pensa. A Lei 8.212, de 1991, obriga a União a cobrir o que faltar para pagar os benefícios. Ou seja, o aposentado continua recebendo.\n\nO problema é o tamanho da conta. Segundo a Instituição Fiscal Independente, do Senado, o gasto do INSS passou de R$ 1 trilhão em 2025, quase metade do gasto do governo sem contar os juros.\n\nE ela tende a crescer: pela projeção do IBGE, os brasileiros com 60 anos ou mais vão de 15,6% da população em 2023 para 37,8% em 2070.\n\nNuma pesquisa da Fenaprevi com o Datafolha, 11% disseram acreditar que nunca vão conseguir se aposentar.\n\nE você, acha que vai se aposentar pelo INSS?\n\n(Fotos: Elza Fiúza/Agência Brasil e Agência Senado)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -410,9 +410,30 @@
    ],
    "titulo": "Quanto custa uma eleição no Brasil e quem paga a conta",
    "data": "2026-10-02 18:00"
+  },
+  {
+   "slug": "inss-vai-quebrar",
+   "pasta": "artigos/2026-10-02/inss-vai-quebrar",
+   "arquivos": [
+    "inss-vai-quebrar.md",
+    "carrossel.json"
+   ],
+   "titulo": "O INSS vai quebrar? O que os números dizem sobre a aposentadoria",
+   "data": "2026-10-02 19:00"
+  },
+  {
+   "slug": "como-rockefeller-ficou-rico",
+   "pasta": "artigos/2026-10-02/como-rockefeller-ficou-rico",
+   "arquivos": [
+    "como-rockefeller-ficou-rico.md",
+    "como-rockefeller-ficou-rico-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Como Rockefeller ficou rico e virou o primeiro bilionário dos EUA",
+   "data": "2026-10-02 21:00"
   }
  ],
- "atualizado": "2026-10-02 16:14",
+ "atualizado": "2026-10-02 21:07",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -483,6 +504,11 @@
    "slug": "hoje-nascimento-sting",
    "pasta": "instagram/2026-10-02/hoje-nascimento-sting",
    "data": "2026-10-02 10:00"
+  },
+  {
+   "slug": "frase-jordan-falhei",
+   "pasta": "instagram/2026-10-03/frase-jordan-falhei",
+   "data": "2026-10-03 07:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

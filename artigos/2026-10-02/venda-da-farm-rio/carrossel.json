@@ -1,0 +1,17 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "capa": "capa",
+  "chamada": "Entenda",
+  "gancho": "15 grupos querem comprar a ==Farm Rio==. A marca pode valer R$ 4 bilhões",
+  "slides": [
+    {"tipo": "texto", "foto": "farm-rio-logo-recepcao.jpg", "titulo": "O que aconteceu", "texto": "Fundos e grupos de moda fizeram **15 ofertas** pela Farm, de **R$ 3,5 bi a R$ 4 bi**.\n\nSó que os donos queriam mais.", "fonte": "Valor Econômico, via InfoMoney"},
+    {"tipo": "comparacao", "titulo": "A briga pelo preço", "esquerda": {"rotulo": "Ofertas", "valor": "R$ 4 bi", "detalhe": "no máximo"}, "direita": {"rotulo": "Os donos querem", "valor": "R$ 5,5 bi", "detalhe": "no máximo"}, "texto": "Por enquanto, nenhuma oferta obriga ninguém a fechar negócio.", "fonte": "Valor Econômico, via Seu Dinheiro"},
+    {"tipo": "foto_texto", "foto": "farm-rio-historia-estande-feira.jpg", "titulo": "Começou num estande de feira", "texto": "A Farm nasceu em 1997, numa feira no Rio. Em 2025, faturou **R$ 3,4 bilhões**, e 40% veio de fora do Brasil.", "fonte": "Exame"},
+    {"tipo": "texto", "foto": "bolsa-de-valores-operadores-b3.jpg", "titulo": "E na bolsa?", "texto": "As ações da Azzas, dona da Farm, subiram **7%** num dia só.\n\nE tem mais: o grupo está se dividindo em dois, e a Farm ficou no meio.", "fonte": "InfoMoney e Seu Dinheiro"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "As ofertas para valer chegam ao longo de outubro. Se a venda sair, uma das marcas brasileiras mais conhecidas lá fora troca de dono."},
+    {"tipo": "final"}
+  ],
+  "legenda": "A Farm Rio recebeu 15 propostas de compra, segundo o jornal Valor Econômico.\n\nFundos de investimento e grupos internacionais de moda ofereceram de R$ 3,5 bilhões a R$ 4 bilhões pela marca. Os acionistas esperavam de R$ 4,5 bilhões a R$ 5,5 bilhões. As propostas ainda não obrigam ninguém a fechar negócio, e as ofertas firmes devem chegar ao longo de outubro.\n\nCom a notícia, as ações da Azzas 2154, dona da Farm, fecharam a quarta-feira em alta de 7,02%, segundo o InfoMoney. O grupo, nascido da fusão de Arezzo e Soma, anunciou em setembro que vai se dividir em duas empresas, e a Farm ficou dividida entre as duas.\n\nA marca nasceu em 1997 num estande de feira no Rio e faturou R$ 3,4 bilhões em 2025, com 40% vindo do exterior, segundo a Exame.\n\nVocê já comprou alguma peça da Farm?\n\n(Fotos: marciookabe/Flickr, CC BY 2.0; Rafael Matsunaga, CC BY 2.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

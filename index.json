@@ -330,6 +330,16 @@
    "data": "2026-10-01 21:00"
   },
   {
+   "slug": "venda-da-farm-rio",
+   "pasta": "artigos/2026-10-02/venda-da-farm-rio",
+   "arquivos": [
+    "venda-da-farm-rio.md",
+    "carrossel.json"
+   ],
+   "titulo": "Venda da Farm Rio atrai 15 propostas e ações da Azzas disparam",
+   "data": "2026-10-02 08:00"
+  },
+  {
    "slug": "quanto-ganha-cada-politico",
    "pasta": "artigos/2026-10-02/quanto-ganha-cada-politico",
    "arquivos": [
@@ -338,6 +348,16 @@
    ],
    "titulo": "O que faz e quanto ganha cada político que você vai eleger",
    "data": "2026-10-02 09:00"
+  },
+  {
+   "slug": "filmes-sobre-golpes-reais",
+   "pasta": "artigos/2026-10-02/filmes-sobre-golpes-reais",
+   "arquivos": [
+    "filmes-sobre-golpes-reais.md",
+    "carrossel.json"
+   ],
+   "titulo": "Filmes sobre golpes reais e o que aconteceu de verdade depois",
+   "data": "2026-10-02 11:00"
   },
   {
    "slug": "ordem-dos-votos-na-urna",
@@ -371,7 +391,7 @@
    "data": "2026-10-02 18:00"
   }
  ],
- "atualizado": "2026-10-02 02:39",
+ "atualizado": "2026-10-02 10:34",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

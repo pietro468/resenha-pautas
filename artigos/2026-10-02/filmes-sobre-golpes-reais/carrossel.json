@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "dupla",
+  "capa": "leonardo-dicaprio-golpistas-reais.jpg",
+  "capa_extra": "frank-abagnale-prenda-me-se-for-capaz.jpg",
+  "rotulos": ["O ator", "O golpista"],
+  "chamada": "Deslize para ver",
+  "gancho": "DiCaprio viveu ==dois golpistas reais==. Um deles pode ter inventado a própria história",
+  "slides": [
+    {"tipo": "foto_texto", "foto": "frank-abagnale-2007.jpg", "titulo": "O primeiro: Frank Abagnale", "texto": "Em Prenda-me Se For Capaz (2002), ele finge ser piloto, médico e advogado. O filme faturou **mais de US$ 350 milhões**.\n\nSó que tem um detalhe.", "fonte": "The Numbers"},
+    {"tipo": "numero", "numero": "1965 a 1968", "texto": "Registros públicos mostram Abagnale **preso** em Nova York justamente quando ele dizia fugir do FBI. Os cheques com logo da Pan Am somavam menos de **US$ 1.500**.", "fonte": "Livro de Alan C. Logan, via WHYY"},
+    {"tipo": "foto_texto", "foto": "jordan-belfort-lobo-de-wall-street.png", "titulo": "O segundo: Jordan Belfort", "texto": "O verdadeiro Lobo de Wall Street tirou **mais de US$ 200 milhões** de 1.513 investidores. Pegou 4 anos de prisão e cumpriu 22 meses.\n\nE o dinheiro das vítimas?", "fonte": "Fortune"},
+    {"tipo": "comparacao", "titulo": "Quanto ele tinha que devolver", "esquerda": {"rotulo": "Ordenado", "valor": "US$ 110 mi", "detalhe": "na sentença de 2003"}, "direita": {"rotulo": "Ainda devia", "valor": "US$ 97 mi", "detalhe": "em 2018"}, "texto": "Em 2026, ele disse que acabou de pagar. Mas o prazo de cobrança, de 20 anos, é que venceu.", "fonte": "Fortune e Celebrity Net Worth"},
+    {"tipo": "texto", "foto": "bernie-madoff-golpe-real.jpg", "titulo": "E os outros golpistas do cinema?", "texto": "==Madoff== (O Mago das Mentiras): **150 anos** de prisão. Morreu preso em 2021.\n\n==Elizabeth Holmes== (The Dropout): **11 anos e 3 meses**. Saída prevista para 2030.", "fonte": "FBI, Departamento de Justiça dos EUA e ABC News"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O cinema transforma o golpista em astro, e a bilheteria vai longe. Fora da tela, as vítimas esperam anos por um dinheiro que nem sempre volta."},
+    {"tipo": "final"}
+  ],
+  "legenda": "Leonardo DiCaprio interpretou dois golpistas reais. E a história de um deles pode ser, ela mesma, um golpe.\n\nEm Prenda-me Se For Capaz (2002), Frank Abagnale finge ser piloto, médico e advogado. O filme faturou mais de US$ 350 milhões, segundo o The Numbers. Mas o livro \"The Greatest Hoax on Earth\", de Alan C. Logan, mostra registros de que ele estava preso em Nova York de 1965 a 1968, quando dizia fugir do FBI.\n\nJá Jordan Belfort, o Lobo de Wall Street, tirou mais de US$ 200 milhões de 1.513 investidores, segundo a Fortune. Foi condenado a 4 anos e cumpriu 22 meses. Devia devolver US$ 110 milhões e, em 2018, ainda devia US$ 97 milhões.\n\nNa matéria, tem também Madoff, Theranos, Inventando Anna, O Golpista do Tinder, o Fyre Festival e o filme brasileiro VIPs, com o que aconteceu de verdade com cada um.\n\nQual desses filmes ou séries você já viu?\n\n(Fotos: Siebbi, CC BY 3.0; Abagnale & Associates, CC BY-SA 4.0; Marcus JB, CC BY 2.0; Tai Lopez, CC BY 3.0; Departamento de Justiça dos EUA, domínio público)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

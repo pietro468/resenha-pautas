@@ -1,0 +1,22 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "capa_extra": "deposite-aqui-seu-celular-secao-eleitoral.jpg",
+  "gancho": "Domingo você digita ==6 votos== na urna. Sabe a ordem certa?",
+  "subgancho": "E repetir o senador anula o segundo voto.",
+  "chamada": "Passo a passo",
+  "capa": "capa",
+  "capa_foco": "70,40",
+  "slides": [
+    {"tipo": "texto_claro", "titulo": "A ordem da urna", "texto": "==1.== Deputado federal: **4 números**\n==2.== Deputado estadual: **5 números**\n==3.== Senador: **3 números**\n==4.== Senador de novo: **3 números**\n==5.== Governador: **2 números**\n==6.== Presidente: **2 números**", "fonte": "TSE, Manual do Eleitor"},
+    {"tipo": "foto_texto", "foto": "urna-eletronica-ordem-dos-votos.jpg", "titulo": "Passos 1 e 2: deputados", "texto": "Federal tem 4 números. Estadual tem 5 (no DF é distrital).\n\nSó nesses dois dá para votar apenas no partido.", "fonte": "TSE"},
+    {"tipo": "numero", "numero": "2 senadores", "texto": "Cada um com **3 números**, e tem que ser **gente diferente**.\n\nRepetiu o nome? O segundo voto vira nulo. E só o número do partido a urna não aceita.", "fonte": "TRE-SP e CNN Brasil"},
+    {"tipo": "foto_texto", "foto": "tecla-confirma-urna-eletronica.jpg", "titulo": "Passos 5 e 6", "texto": "Governador e presidente: 2 números cada.\n\nConfira a foto na tela e aperte ==Confirma==. Errou antes disso? Aperte ==Corrige== e digite de novo.", "fonte": "TSE"},
+    {"tipo": "texto", "foto": "cabine-de-votacao-eleitora.jpg", "titulo": "Branco ou nulo?", "texto": "==Branco:== tecla Branco e depois Confirma.\n==Nulo:== um número que não existe, como 00.\n\nNenhum dos dois conta como voto válido. E não anulam a eleição.", "fonte": "TSE, glossário eleitoral"},
+    {"tipo": "texto", "titulo": "Colinha pode. Celular, não", "texto": "A colinha entra na cabine se for **de papel**.\n\nCelular, câmera e qualquer aparelho eletrônico ficam de fora. O celular só aparece na mesa, para mostrar o e-Título com foto.", "fonte": "TSE e TRE-SP"},
+    {"tipo": "texto_claro", "titulo": "Antes de sair de casa", "texto": "Anote os seus números nesta ordem: **4, 5, 3, 3, 2 e 2**.\n\nAssim você não trava na fila nem perde o voto do Senado. A votação vai das **8h às 17h**, horário de Brasília.", "fonte": "TSE"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Domingo, 4 de outubro, você digita 6 votos na urna. A ordem é sempre a mesma: deputado federal, deputado estadual (distrital no DF), senador, senador de novo, governador e presidente.\n\nCada cargo tem um tamanho de número: 4 dígitos para deputado federal, 5 para estadual, 3 para cada senador e 2 para governador e presidente, segundo o Manual do Eleitor do TSE.\n\nO cuidado maior é com o Senado. Os dois votos precisam ser em candidatos diferentes: se repetir o nome, o segundo voto é nulo. E, para senador, a urna não aceita só o número do partido (TRE-SP).\n\nVoto em branco: tecla Branco e Confirma. Voto nulo: um número que não existe, como 00. Nenhum dos dois entra na conta dos votos válidos.\n\nA colinha de papel pode entrar na cabine. O celular, não. A votação vai das 8h às 17h, horário de Brasília.\n\nJá montou a sua colinha?\n\n(Fotos: Alejandro Zambrana/TSE, TSE, Vinicius Depizzol, Marcos Oliveira/Agência Senado e Senado Federal, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

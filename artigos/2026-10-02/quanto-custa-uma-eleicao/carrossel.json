@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "Só as campanhas desta eleição levam ==R$ 4,96 bilhões== de dinheiro público",
+  "subgancho": "Fora as 563 mil urnas e os 2 milhões de mesários.",
+  "chamada": "Veja os números",
+  "capa": "capa",
+  "capa_foco": "55,35",
+  "slides": [
+    {"tipo": "numero", "numero": "R$ 4,96 bi", "texto": "é o **fundo eleitoral** de 2026, o famoso fundão. Sai do Orçamento da União e é dividido entre **30 partidos**.\n\nMas quanto isso dá para cada eleitor?", "foto": "notas-de-real-fundo-eleitoral.jpg", "fonte": "TSE"},
+    {"tipo": "texto_claro", "titulo": "Quanto dá por eleitor?", "texto": "R$ 4,96 bilhões divididos por 158,7 milhões de eleitores: cerca de **R$ 31 por pessoa**.\n\nO governo tinha proposto R$ 1 bilhão. O Congresso subiu para R$ 4,9 bilhões.", "fonte": "TSE e Agência Câmara"},
+    {"tipo": "texto", "foto": "sede-do-tse-brasilia.jpg", "titulo": "Quem fica com mais?", "texto": "A regra dá mais a quem tem mais deputados e senadores.\n\n==Maiores fatias:== PL, PT e União Brasil, quase 40% do total.\n==Menores:== 10 partidos com R$ 3,3 milhões cada.", "fonte": "Agência Senado"},
+    {"tipo": "foto_texto", "foto": "urna-eletronica-transporte-secao.jpg", "titulo": "563.910 urnas", "texto": "É o que vai funcionar no domingo. Em 2022, foram cerca de 471 mil.\n\nA compra de até 176 mil urnas novas custou até **R$ 1,18 bilhão**.", "fonte": "TSE"},
+    {"tipo": "numero", "numero": "1,97 milhão", "texto": "de **mesários** convocados. Cada um recebe **R$ 60 por turno** de auxílio-alimentação.\n\nSó isso dá cerca de R$ 118 milhões por turno.", "foto": "mesarios-secao-eleitoral-custo.jpg", "fonte": "TSE, via Correio Braziliense"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O fundão é só a parte das campanhas. Urnas, transporte e sistemas saem do orçamento da Justiça Eleitoral.\n\nTudo pago com imposto. Por isso, os gastos de cada candidato ficam abertos no site DivulgaCandContas.", "fonte": "TSE e TRE-SC"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Só as campanhas desta eleição levam R$ 4,96 bilhões de dinheiro público. É o Fundo Especial de Financiamento de Campanha, o fundão, dividido entre 30 partidos (TSE).\n\nDá cerca de R$ 31 por eleitor. O governo tinha proposto R$ 1 bilhão para 2026, e o Congresso elevou para R$ 4,9 bilhões.\n\nA divisão segue uma regra fixa: quem tem mais deputados e senadores recebe mais. PL, PT e União Brasil ficam com quase 40% do total; dez partidos recebem R$ 3,3 milhões cada (Agência Senado).\n\nAlém das campanhas, a votação em si usa 563.910 urnas e 1.969.060 mesários, que recebem R$ 60 de auxílio-alimentação por turno. Esse custo sai do orçamento da Justiça Eleitoral.\n\nVocê sabia quanto dinheiro público vai para as campanhas?\n\n(Fotos: Abdias Pinheiro/TSE, Luiz Roberto/TSE, Oleg Yunakov e Senado Federal, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

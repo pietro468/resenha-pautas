@@ -340,6 +340,17 @@
    "data": "2026-10-02 09:00"
   },
   {
+   "slug": "ordem-dos-votos-na-urna",
+   "pasta": "artigos/2026-10-02/ordem-dos-votos-na-urna",
+   "arquivos": [
+    "ordem-dos-votos-na-urna.md",
+    "ordem-dos-votos-na-urna-passos.png",
+    "carrossel.json"
+   ],
+   "titulo": "Qual a ordem dos votos na urna? Veja os 6 passos de domingo",
+   "data": "2026-10-02 13:00"
+  },
+  {
    "slug": "propostas-dos-candidatos-a-presidente",
    "pasta": "artigos/2026-10-02/propostas-dos-candidatos-a-presidente",
    "arquivos": [
@@ -348,9 +359,19 @@
    ],
    "titulo": "Quais são as propostas dos candidatos a presidente em 2026",
    "data": "2026-10-02 15:00"
+  },
+  {
+   "slug": "quanto-custa-uma-eleicao",
+   "pasta": "artigos/2026-10-02/quanto-custa-uma-eleicao",
+   "arquivos": [
+    "quanto-custa-uma-eleicao.md",
+    "carrossel.json"
+   ],
+   "titulo": "Quanto custa uma eleição no Brasil e quem paga a conta",
+   "data": "2026-10-02 18:00"
   }
  ],
- "atualizado": "2026-10-02 00:06",
+ "atualizado": "2026-10-02 02:39",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "São ==13 candidatos== a presidente na urna. O que cada um promete?",
+  "chamada": "Deslize para ver",
+  "capa": "eleitor-votando-urna-eletronica.jpg",
+  "capa_foco": "50,40",
+  "slides": [
+    {"tipo": "texto", "titulo": "Como fizemos", "texto": "Lemos os 13 planos de governo registrados no **TSE**.\n\nAqui vão 2 propostas de cada candidato, em **ordem alfabética**, com as palavras do próprio plano. Sem opinião.", "foto": "secao-eleitoral-cabine-de-votacao.jpg", "fonte": "Planos de governo no TSE"},
+    {"tipo": "texto", "titulo": "De C a E", "texto": "==Clariana Barao (DC, 27):== rede nacional contra a violência e fila da saúde com regulação inteligente.\n\n==Edmilson Costa (PCB, 21):== jornada de 30 horas e estatização do sistema financeiro.\n\n==Escritor Augusto Cury (Avante, 70):== déficit perto de zero e crédito de até R$ 20 mil para microempresas.", "fonte": "Planos de governo no TSE"},
+    {"tipo": "texto", "titulo": "De F a L", "texto": "==Flávio Bolsonaro (PL, 22):== 5 presídios de segurança máxima e contrato de primeiro emprego para jovens.\n\n==Hertz Dias (PSTU, 16):== jornada de 36 horas e salário mínimo dobrado.\n\n==Leonardo Avalanche (PRTB, 28):== imposto único de 3,5% e fila do SUS zerada.", "fonte": "Planos de governo no TSE"},
+    {"tipo": "texto", "titulo": "De L a R", "texto": "==Lula (PT, 13):== fim da escala 6x1 com 40 horas e exames no Farmácia Popular.\n\n==Renan Santos (Missão, 14):== benefícios corrigidos só pela inflação e frentes de trabalho no lugar do Bolsa Família.\n\n==Ronaldo Caiado (PSD, 55):== facções tratadas como terrorismo e fim da reeleição.", "fonte": "Planos de governo no TSE"},
+    {"tipo": "texto", "titulo": "De R a S", "texto": "==Rui Costa Pimenta (PCO, 29):== salário mínimo de pelo menos R$ 7.500 e fim das privatizações já feitas.\n\n==Samara (UP, 80):== salário mínimo dobrado e 10% do PIB para a educação pública.", "fonte": "Planos de governo no TSE"},
+    {"tipo": "texto", "titulo": "De V a Z", "texto": "==Veterinário Wilson Grassi (Democrata, 35):== imposto único sobre movimentação bancária e fila única nacional na saúde.\n\n==Zema (Novo, 30):== privatizar todas as estatais e prêmio de R$ 5 mil a quem sair do Bolsa Família.", "fonte": "Planos de governo no TSE"},
+    {"tipo": "texto_claro", "titulo": "Antes de domingo", "texto": "Duas propostas não contam o plano inteiro. Todos estão no site **DivulgaCandContas**, do TSE.\n\nLeonardo Avalanche anunciou em 30/9 que desistiu. O nome segue na urna; se a renúncia for homologada, os votos nele serão nulos.", "fonte": "TSE, Metrópoles e Mais Goiás"},
+    {"tipo": "final"}
+  ],
+  "legenda": "São 13 candidatos a presidente na urna deste domingo, 4 de outubro. E cada um registrou no TSE um plano de governo.\n\nLemos os 13 planos e separamos propostas de cada um, em ordem alfabética do nome de urna e com as palavras do próprio documento, sem avaliar se são boas ou ruins.\n\nOs temas que mais se repetem: redução da jornada de trabalho (Edmilson Costa, Hertz Dias, Lula, Rui Costa Pimenta e Samara), facções tratadas como terrorismo (Flávio Bolsonaro, Ronaldo Caiado e Zema), imposto único (Leonardo Avalanche e Wilson Grassi) e fila do SUS.\n\nLeonardo Avalanche (PRTB) anunciou em 30 de setembro que desistiu da candidatura. Sem substituto, o nome continua na urna, e os votos dados a ele serão nulos se a renúncia for homologada (Metrópoles e Mais Goiás).\n\nOs planos completos estão no DivulgaCandContas, o site do TSE. No resenharentavel.com, a matéria traz três propostas de cada candidato.\n\nVocê já leu o plano de governo do seu candidato?\n\n(Fotos: Marri Nogueira/Agência Senado e Senado Federal/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,0 +1,21 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "Presidente, senador e deputado federal ganham ==o mesmo salário==",
+  "subgancho": "E o governador? Veja quanto ganha cada cargo da urna.",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_foco": "50,45",
+  "slides": [
+    {"tipo": "numero", "numero": "R$ 46.366,19", "texto": "é o salário bruto por mês de **presidente**, **senador** e **deputado federal**. O valor vale desde fevereiro de 2025.\n\nMas nem todo cargo da urna ganha isso.", "fonte": "Decreto Legislativo 172/2022 e Agência Senado"},
+    {"tipo": "foto_texto", "foto": "palacio-do-planalto-presidente.jpg", "titulo": "Presidente", "texto": "Chefia o governo, comanda as Forças Armadas, sanciona ou veta leis e nomeia ministros.\n\n==Mandato:== 4 anos\n==Salário:== R$ 46.366,19", "fonte": "TSE e Agência Senado"},
+    {"tipo": "foto_texto", "foto": "palacio-dos-bandeirantes-governador.jpg", "titulo": "Governador", "texto": "Cuida da saúde, da segurança e da educação do estado e manda o orçamento à Assembleia.\n\n==Salário:== cada estado decide. Em São Paulo, **R$ 36.301,53**, menos que um deputado federal.", "fonte": "TSE e Lei estadual 18.152/2025 (SP)"},
+    {"tipo": "foto_texto", "foto": "plenario-do-senado-salario-senador.jpg", "titulo": "Senador", "texto": "Faz leis, aprova ministros do STF e julga o presidente em caso de impeachment.\n\n==Mandato:== 8 anos, o maior de todos\n==Salário:== R$ 46.366,19", "fonte": "Agência Brasil"},
+    {"tipo": "foto_texto", "foto": "congresso-nacional-camara-dos-deputados.jpg", "titulo": "Deputado federal", "texto": "Vota as leis do país e o orçamento federal e fiscaliza o governo. São 513 na Câmara.\n\n==Mandato:== 4 anos\n==Salário:== R$ 46.366,19", "fonte": "Agência Brasil"},
+    {"tipo": "foto_texto", "foto": "assembleia-legislativa-deputado-estadual.jpg", "titulo": "Deputado estadual", "texto": "Faz as leis do estado e fiscaliza o governador.\n\n==Mandato:== 4 anos\n==Salário:== até 75% do federal, ou seja, no máximo **R$ 34.774,64**", "fonte": "Agência Brasil e Assembleia de Minas Gerais"},
+    {"tipo": "texto_claro", "titulo": "Antes de votar", "texto": "São 6 votos para 5 cargos. Saber o que cada um faz ajuda a cobrar a pessoa certa: hospital estadual é com o governador; lei federal é com o Congresso.\n\nTodos são pagos com o dinheiro dos seus impostos.", "fonte": "TRE-SP"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Presidente, senador e deputado federal ganham o mesmo salário: R$ 46.366,19 brutos por mês, desde fevereiro de 2025 (Decreto Legislativo 172/2022).\n\nO deputado estadual pode receber no máximo 75% disso, ou seja, R$ 34.774,64. Já o governador tem o salário fixado por lei de cada estado. Em São Paulo, é de R$ 36.301,53.\n\nNo domingo, 4 de outubro, você digita 6 votos: deputado federal, deputado estadual, dois senadores, governador e presidente. O senador fica 8 anos no cargo; todos os outros, 4.\n\nO presidente comanda o governo e as Forças Armadas. O governador cuida de saúde, segurança e educação no estado. Senadores e deputados fazem as leis e fiscalizam quem governa.\n\nVocê sabia que o presidente ganha o mesmo que um deputado federal?\n\n(Fotos: Agência Senado, Senado Federal, Mike Peel e Adrianoflorianopolis/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

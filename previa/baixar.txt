@@ -1,4 +1,12 @@
-ov1.json https://api.openverse.org/v1/images/?q=%22farm%20rio%22&page_size=20
-ov2.json https://api.openverse.org/v1/images/?q=farm%20rio%20store&page_size=20&source=flickr
-ov3.json https://api.openverse.org/v1/images/?q=farm%20rio%20dress&page_size=20
-b3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=B3+bolsa+de+valores+S%C3%A3o+Paulo
+ov-7a8c4d50-888d-42e8-94d0-59bb58cdc6ff.jpg https://api.openverse.org/v1/images/7a8c4d50-888d-42e8-94d0-59bb58cdc6ff/thumb/
+ov-73e9aa84-7c90-4911-9787-03bb5bbcc5c2.jpg https://api.openverse.org/v1/images/73e9aa84-7c90-4911-9787-03bb5bbcc5c2/thumb/
+ov-b679dd35-9cae-418d-b15a-05ad99a914ea.jpg https://api.openverse.org/v1/images/b679dd35-9cae-418d-b15a-05ad99a914ea/thumb/
+ov-c951da51-6858-4776-a525-772b7051fda5.jpg https://api.openverse.org/v1/images/c951da51-6858-4776-a525-772b7051fda5/thumb/
+ov-d274615b-2299-4ec5-90cb-4a258d913bd1.jpg https://api.openverse.org/v1/images/d274615b-2299-4ec5-90cb-4a258d913bd1/thumb/
+ov-93f4db47-94b3-45b2-95f8-078633b4998b.jpg https://api.openverse.org/v1/images/93f4db47-94b3-45b2-95f8-078633b4998b/thumb/
+ov-28b2ff68-4842-41c5-8071-bd8b8452d680.jpg https://api.openverse.org/v1/images/28b2ff68-4842-41c5-8071-bd8b8452d680/thumb/
+ov-e0936969-1797-4ee2-a415-2f2028165e06.jpg https://api.openverse.org/v1/images/e0936969-1797-4ee2-a415-2f2028165e06/thumb/
+b3-1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sao_Paulo_Stock_Exchange.jpg/960px-Sao_Paulo_Stock_Exchange.jpg
+b3-2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bovespa%2C_S%C3%A3o_Paulo_city_downtown.jpg/960px-Bovespa%2C_S%C3%A3o_Paulo_city_downtown.jpg
+b3-3.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Casa-da-moeda-bovespa-01.jpg/960px-Casa-da-moeda-bovespa-01.jpg
+flk.jpg https://live.staticflickr.com/7455/11154456144_e807e117d7_b.jpg

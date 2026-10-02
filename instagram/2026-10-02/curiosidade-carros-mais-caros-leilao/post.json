@@ -1,0 +1,29 @@
+{
+  "titulo": "Curiosidades: os carros mais caros já vendidos em leilão",
+  "data": "2026-10-02 12:30",
+  "fotos": [
+    {"arquivo": "curiosidade-carro-300-slr-uhlenhaut.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mercedes-Benz_300_SLR_Uhlenhaut-Coupe_IMG_0874.jpg/1920px-Mercedes-Benz_300_SLR_Uhlenhaut-Coupe_IMG_0874.jpg", "credito": "Alexander Migl/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-carro-w196-stromlinie.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1955_Mercedes-Benz_W196_R_Stromlinie_Goodwood%2C_2009_%2801%29.jpg/1920px-1955_Mercedes-Benz_W196_R_Stromlinie_Goodwood%2C_2009_%2801%29.jpg", "credito": "Bahnfrend/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-carro-ferrari-250-gto-museu.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ferrari_250_GTO_-_Museo_Enzo_Ferrari_%2822994503742%29.jpg/1920px-Ferrari_250_GTO_-_Museo_Enzo_Ferrari_%2822994503742%29.jpg", "credito": "Rob Oo/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-carro-ferrari-250-gto-3413gt.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/1962-07-08_Trento-Bondone_Ferrari_250_GTO_3413GT_Lualdi.jpg", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"},
+    {"arquivo": "curiosidade-carro-shelby-daytona-coupe.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1964_Shelby_Daytona_Coupe.jpg/1920px-1964_Shelby_Daytona_Coupe.jpg", "credito": "Coolsteve11/Wikimedia Commons (CC0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-carro-300-slr-uhlenhaut.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": ["curiosidade-carro-w196-stromlinie.jpg", "curiosidade-carro-ferrari-250-gto-museu.jpg"],
+    "chamada": "Curiosidades",
+    "gancho": "Quais são os ==carros mais caros== já vendidos em leilão?",
+    "slides": [
+      {"tipo": "item", "foto": "curiosidade-carro-shelby-daytona-coupe.jpg", "posicao": "5º lugar", "detalhe": "Gooding Christie's, agosto de 2026", "nome": "Shelby Cobra Daytona Coupe (1964)", "valor": "US$ 42,9 milhões", "fonte": "Motor1"},
+      {"tipo": "item", "foto": "curiosidade-carro-ferrari-250-gto-3413gt.jpg", "posicao": "4º lugar", "detalhe": "RM Sotheby's, agosto de 2018", "nome": "Ferrari 250 GTO (1962)", "valor": "US$ 48,4 milhões", "fonte": "RM Sotheby's"},
+      {"tipo": "item", "foto": "curiosidade-carro-ferrari-250-gto-museu.jpg", "posicao": "3º lugar", "detalhe": "RM Sotheby's, novembro de 2023", "nome": "Ferrari 330 LM / 250 GTO (1962)", "valor": "US$ 51,7 milhões", "fonte": "RM Sotheby's, via Axios"},
+      {"tipo": "item", "foto": "curiosidade-carro-w196-stromlinie.jpg", "posicao": "2º lugar", "detalhe": "RM Sotheby's, fevereiro de 2025", "nome": "Mercedes-Benz W 196 R (1954)", "valor": "€ 51,2 milhões", "fonte": "RM Sotheby's"},
+      {"tipo": "item", "foto": "curiosidade-carro-300-slr-uhlenhaut.jpg", "posicao": "1º lugar", "detalhe": "RM Sotheby's, maio de 2022", "nome": "Mercedes-Benz 300 SLR Uhlenhaut Coupé (1955)", "valor": "€ 135 milhões", "fonte": "Guinness World Records"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Quais são os carros mais caros já vendidos em leilão?\n\n1. Mercedes-Benz 300 SLR Uhlenhaut Coupé (1955): € 135 milhões, RM Sotheby's, 2022\n2. Mercedes-Benz W 196 R Stromlinienwagen (1954): € 51,155 milhões, RM Sotheby's, 2025\n3. Ferrari 330 LM / 250 GTO (1962): US$ 51,7 milhões, RM Sotheby's, 2023\n4. Ferrari 250 GTO (1962): US$ 48,4 milhões, RM Sotheby's, 2018\n5. Shelby Cobra Daytona Coupe (1964): US$ 42,9 milhões, Gooding Christie's, 2026\n\nOs valores incluem a comissão do leilão, segundo as casas de leilão, o Guinness e o Motor1. O primeiro lugar custou mais que o dobro do segundo: foi vendido num leilão fechado, só para convidados, no Museu Mercedes-Benz, em Stuttgart. O Shelby, vendido em agosto de 2026, virou o carro americano mais caro da história dos leilões.\n\nAs fotos da W 196 R, da 330 LM e do Shelby mostram carros do mesmo modelo (imagens ilustrativas).\n\nQual desses você colocaria na garagem?\n\n(Fotos: Alexander Migl e Bahnfrend, CC BY-SA 4.0; Rob Oo, CC BY 2.0; autor desconhecido, domínio público; Coolsteve11, CC0; todas via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

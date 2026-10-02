@@ -1,0 +1,32 @@
+{
+  "titulo": "Hoje na história: 2 de outubro de 1951, nasce Sting",
+  "data": "2026-10-02 10:00",
+  "fotos": [
+    {"arquivo": "hoje-sting-2009-retrato.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sting_2009_portrait.jpg", "credito": "David Shankbone/Wikimedia Commons (CC BY 3.0)"},
+    {"arquivo": "hoje-sting-1979-atlanta-pb.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sting_Atlanta_6.jpg/1920px-Sting_Atlanta_6.jpg", "credito": "Acroterion/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "hoje-sting-1979-atlanta-palco.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sting_Atlanta_3.jpg/1920px-Sting_Atlanta_3.jpg", "credito": "Acroterion/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "hoje-sting-1979-atlanta-baixo.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sting_Atlanta_1.jpg/1920px-Sting_Atlanta_1.jpg", "credito": "Acroterion/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "hoje-sting-2018.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sting_in_April_2018.jpg", "credito": "Raph_PH/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-sting-montreux-2026.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sting_at_2026_Montreux_Jazz_Festival-05-CA.jpg/1920px-Sting_at_2026_Montreux_Jazz_Festival-05-CA.jpg", "credito": "CamilaAlves.raf/Wikimedia Commons (CC BY-SA 4.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-sting-2009-retrato.jpg",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "2 out",
+    "ano": "1951",
+    "ha": "Há 75 anos",
+    "gancho": "Nascia ==Sting==, o professor que vendeu suas músicas por cerca de US$ 300 milhões",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-sting-1979-atlanta-pb.jpg"},
+      {"tipo": "foto", "foto": "hoje-sting-1979-atlanta-palco.jpg"},
+      {"tipo": "foto", "foto": "hoje-sting-1979-atlanta-baixo.jpg"},
+      {"tipo": "foto", "foto": "hoje-sting-2018.jpg"},
+      {"tipo": "foto", "foto": "hoje-sting-montreux-2026.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 75 ANOS, NASCIA STING\n\nGordon Matthew Thomas Sumner nasceu em 2 de outubro de 1951, em Wallsend, cidade de estaleiros no norte da Inglaterra. Antes da fama, foi cobrador de ônibus, operário e professor primário por dois anos, segundo a Wikipédia.\n\nEm 1977, ajudou a formar o The Police. Em 1983, a banda lançou \"Every Breath You Take\". Em 2019, a BMI, entidade americana que cuida de direitos autorais, apontou a música como a mais tocada de todo o seu catálogo, com quase 15 milhões de execuções em rádio.\n\nO detalhe que pouca gente sabe: quando Puff Daddy usou a melodia em \"I'll Be Missing You\", sem autorização prévia, Sting ficou com os direitos de composição da nova música, segundo o site Ultimate Classic Rock. Em 2018, perguntado na rádio se ganhava US$ 2 mil por dia com isso, respondeu: \"Sim, pelo resto da vida dele\", segundo a Fox 5 de Nova York.\n\nEm fevereiro de 2022, Sting vendeu todo o catálogo de composições, solo e do The Police, para a Universal Music. O valor não foi divulgado, mas a NBC News e o Music Business Worldwide estimaram cerca de US$ 300 milhões. Hoje, ele soma 17 Grammys, contando a carreira solo e a banda, segundo a Wikipédia.\n\nQual é a sua música preferida dele?\n\n(Fotos: David Shankbone, CC BY 3.0; Acroterion, CC BY-SA 4.0; Raph_PH, CC BY 2.0; CamilaAlves.raf, CC BY-SA 4.0; todas via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

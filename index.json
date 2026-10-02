@@ -371,6 +371,16 @@
    "data": "2026-10-02 13:00"
   },
   {
+   "slug": "embraer-entregas-recorde",
+   "pasta": "artigos/2026-10-02/embraer-entregas-recorde",
+   "arquivos": [
+    "embraer-entregas-recorde.md",
+    "carrossel.json"
+   ],
+   "titulo": "Embraer entrega 66 aviões e tem o melhor 3º trimestre da história",
+   "data": "2026-10-02 14:00"
+  },
+  {
    "slug": "propostas-dos-candidatos-a-presidente",
    "pasta": "artigos/2026-10-02/propostas-dos-candidatos-a-presidente",
    "arquivos": [
@@ -379,6 +389,17 @@
    ],
    "titulo": "Quais são as propostas dos candidatos a presidente em 2026",
    "data": "2026-10-02 15:00"
+  },
+  {
+   "slug": "divida-publica-mundial",
+   "pasta": "artigos/2026-10-02/divida-publica-mundial",
+   "arquivos": [
+    "divida-publica-mundial.md",
+    "divida-publica-mundial-ranking.png",
+    "carrossel.json"
+   ],
+   "titulo": "Por que a dívida pública mundial passou de US$ 100 trilhões",
+   "data": "2026-10-02 16:00"
   },
   {
    "slug": "quanto-custa-uma-eleicao",
@@ -391,7 +412,7 @@
    "data": "2026-10-02 18:00"
   }
  ],
- "atualizado": "2026-10-02 10:36",
+ "atualizado": "2026-10-02 16:14",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -452,6 +473,11 @@
    "slug": "frase-jobs-tempo-limitado",
    "pasta": "instagram/2026-10-02/frase-jobs-tempo-limitado",
    "data": "2026-10-02 07:00"
+  },
+  {
+   "slug": "historia-stallone-rocky",
+   "pasta": "instagram/2026-10-02/historia-stallone-rocky",
+   "data": "2026-10-02 20:00"
   },
   {
    "slug": "hoje-nascimento-sting",

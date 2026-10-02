@@ -1,0 +1,21 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "chamada": "Deslize para ver",
+  "capa": "divida-publica-mundial-capitolio-eua.jpg",
+  "capa_estilo": "circulo",
+  "capa_extra": "capa",
+  "capa_foco": "50,30",
+  "gancho": "Os governos do mundo devem ==US$ 102 trilhões==. Quem empresta esse dinheiro?",
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 102 tri", "texto": "é quanto os governos de todos os países deviam em 2024. **Recorde histórico.**\n\nE a conta não parou de crescer.", "foto": "divida-publica-mundial-sede-do-fmi.jpg", "fonte": "UNCTAD (ONU), relatório de 2025"},
+    {"tipo": "foto_texto", "foto": "divida-publica-mundial-banco-do-japao.jpg", "titulo": "O campeão é o Japão", "texto": "A dívida japonesa vale ==204%== de tudo que o país produz em um ano.\n\nOs EUA estão em **125,8%**. E devem mais de **US$ 40 trilhões**.\n\nMas quem empresta tanto dinheiro?", "fonte": "FMI (abr/2026) e Tesouro dos EUA"},
+    {"tipo": "texto", "titulo": "Quem empresta", "texto": "Bancos, fundos de aposentadoria, seguradoras e gente comum que compra títulos do governo.\n\nOs bancos centrais também compram.\n\nE até ==outros países==.", "fonte": "Al Jazeera"},
+    {"tipo": "comparacao", "titulo": "Quem banca os EUA de fora", "esquerda": {"rotulo": "Japão", "valor": "US$ 1,2 tri", "detalhe": "em títulos dos EUA"}, "direita": {"rotulo": "China", "valor": "US$ 683 bi", "detalhe": "em títulos dos EUA"}, "texto": "Quem empresta a um governo ganha poder sobre ele.", "fonte": "Dados de 2025, via Al Jazeera"},
+    {"tipo": "numero", "numero": "3,4 bilhões", "texto": "de pessoas vivem em países que gastam **mais com juros da dívida** do que com saúde ou com educação.\n\nE o Brasil?", "fonte": "UNCTAD (ONU)"},
+    {"tipo": "foto_texto", "foto": "divida-publica-mundial-ministerio-da-fazenda.jpg", "titulo": "O caso do Brasil", "texto": "O Brasil deve ==82,9% do PIB==, menos que Japão e EUA.\n\nMas paga juros altos: **R$ 1,18 trilhão** em 12 meses. Mais de R$ 3 bilhões por dia.", "fonte": "Banco Central, agosto de 2026"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Quase todo governo gasta mais do que arrecada e rola a conta com novos empréstimos. Com juros altos, quem deve muito e paga caro sobra com menos dinheiro para todo o resto.", "fonte": "FMI e UNCTAD"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Os governos do mundo devem US$ 102 trilhões. E alguém está emprestando esse dinheiro.\n\nO número é de 2024, o maior já registrado, segundo a UNCTAD, órgão da ONU. O FMI calcula que a dívida dos governos chegou a quase 94% do PIB mundial em 2025 e deve bater 100% em 2029.\n\nO Japão lidera em relação ao tamanho da economia, com 204% do PIB. Em valor, ninguém deve mais que os EUA: mais de US$ 40 trilhões desde agosto.\n\nQuem empresta são bancos, fundos, seguradoras, bancos centrais e até outros países. O Japão tinha US$ 1,2 trilhão em títulos americanos em 2025, e a China, US$ 683 bilhões.\n\nO preço disso são os juros: 3,4 bilhões de pessoas vivem em países que gastam mais com juros do que com saúde ou educação. No Brasil, a conta de juros chegou a R$ 1,18 trilhão em 12 meses, segundo o Banco Central.\n\nVocê sabia que, ao investir no Tesouro Direto, você também empresta dinheiro ao governo?\n\n(Fotos: Architect of the Capitol, domínio público; Valugi, CC BY-SA 3.0; APK, CC BY 4.0; yt_siden, CC BY-SA 2.0; via Wikimedia Commons. Pillar Pedreira/Agência Senado, CC BY 2.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,0 +1,32 @@
+{
+  "titulo": "História real: Sylvester Stallone e o roteiro de Rocky",
+  "data": "2026-10-02 20:00",
+  "fotos": [
+    {"arquivo": "historia-stallone-1977.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sylvester_Stallone_-_1977.jpg", "credito": "NBC/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-stallone-anuncio-rocky-1976.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Rocky-Ad-Santa-Ana-Register-Dec%2C18-1976-p-31.jpg", "credito": "Anúncio de jornal de 1976/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-stallone-rocky-anuncio-1977.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rocky-Ad-Santa-Ana-Orange-County-Register-Apr%2C01-1977-p-102_%28cropped%29.jpg", "credito": "Anúncio de jornal de 1977/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-stallone-1978.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sylvester_Stallone_1978.jpg", "credito": "Alan Light/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "historia-stallone-1984.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Sylvester_Stallone_%281984%29.jpg", "credito": "Alan Light/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "historia-stallone-estatua-rocky.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Philadelphia_Museum_of_Art_%26_Rocky_Balboa_statue_%2855259378366%29.jpg/1920px-Philadelphia_Museum_of_Art_%26_Rocky_Balboa_statue_%2855259378366%29.jpg", "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "historia-stallone-2010.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sylvester_Stallone_by_Gage_Skidmore.jpg", "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 3.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "historia-stallone-1977.jpg",
+    "capa_estilo": "historia",
+    "capa_foco": "45,32",
+    "chamada": "História real",
+    "gancho": "==Stallone== tinha US$ 106 no banco e recusou US$ 360 mil pelo próprio roteiro",
+    "slides": [
+      {"tipo": "foto_texto", "foto": "historia-stallone-1978.jpg", "titulo": "Ninguém queria ele", "texto": "No começo dos anos 1970, Sylvester Stallone era um ator sem papel e sem dinheiro.\n\nChegou a dormir numa rodoviária de Nova York.\n\nAté que viu uma luta de boxe.", "fonte": "No Film School e Forbes"},
+      {"tipo": "foto_texto", "foto": "historia-stallone-anuncio-rocky-1976.jpg", "titulo": "A luta que virou filme", "texto": "Em março de 1975, ele assistiu a ==Muhammad Ali== contra Chuck Wepner, um azarão que aguentou até o 15º assalto.\n\nEm cerca de três dias e meio, escreveu ==Rocky==.\n\nOs estúdios gostaram. Dele, não.", "fonte": "Wikipedia"},
+      {"tipo": "numero", "numero": "US$ 360 mil", "texto": "foi a oferta pelo roteiro, com uma condição: **outro ator** faria o papel.\n\nStallone tinha ==US$ 106== no banco.\n\nE disse não.", "foto": "historia-stallone-rocky-anuncio-1977.jpg", "fonte": "Forbes"},
+      {"tipo": "foto_texto", "foto": "historia-stallone-1984.jpg", "titulo": "O filme barato", "texto": "O estúdio aceitou, mas com orçamento de cerca de ==US$ 1 milhão==, muito pouco até para os anos 1970.\n\nO cachorro dele, Butkus, entrou no filme.\n\nO resultado ninguém esperava.", "fonte": "Forbes e Wikipedia"},
+      {"tipo": "foto_texto", "foto": "historia-stallone-estatua-rocky.jpg", "titulo": "A virada", "texto": "Rocky faturou **mais de US$ 200 milhões** no mundo.\n\nE ganhou ==3 Oscars==, incluindo o de melhor filme.\n\nHoje a estátua do personagem é ponto turístico na Filadélfia.", "fonte": "Forbes e Wikipedia"},
+      {"tipo": "foto_texto", "foto": "historia-stallone-2010.jpg", "titulo": "O que fica", "texto": "Vender o roteiro resolveria a vida dele naquele mês.\n\nRecusar deu a ele a carreira inteira. A franquia passou de ==US$ 1,4 bilhão== em bilheteria.", "fonte": "Forbes"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Sylvester Stallone tinha US$ 106 no banco quando recusou US$ 360 mil pelo roteiro de Rocky.\n\nNo começo dos anos 1970, ele era um ator sem papel e chegou a dormir na rodoviária Port Authority, em Nova York. Em março de 1975, assistiu à luta entre Muhammad Ali e Chuck Wepner, um azarão que resistiu até o 15º e último assalto. Dias depois, tinha o roteiro de Rocky pronto.\n\nOs produtores gostaram tanto que ofereceram até US$ 360 mil pelo texto, segundo a Forbes. A condição era que um astro conhecido fizesse o papel principal. Stallone disse não: só venderia se ele fosse o Rocky.\n\nO estúdio topou, mas deu cerca de US$ 1 milhão de orçamento. O filme saiu em 1976, faturou mais de US$ 200 milhões e ganhou 3 Oscars, incluindo o de melhor filme. A franquia passou de US$ 1,4 bilhão em bilheteria.\n\nVocê teria recusado o dinheiro?\n\n(Fotos: NBC, 1977, e anúncios de jornal de 1976 e 1977, domínio público; Alan Light, CC BY 2.0; Gage Skidmore, CC BY-SA 3.0 e 4.0; via Wikimedia Commons)\n(Fontes: Forbes, No Film School e Wikipedia)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

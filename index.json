@@ -496,9 +496,30 @@
    ],
    "titulo": "Quais são as cidades mais caras do mundo para viver em 2026",
    "data": "2026-10-03 16:00"
+  },
+  {
+   "slug": "fraude-americanas",
+   "pasta": "artigos/2026-10-03/fraude-americanas",
+   "arquivos": [
+    "fraude-americanas.md",
+    "carrossel.json"
+   ],
+   "titulo": "Como a fraude da Americanas escondeu um rombo de R$ 25 bilhões",
+   "data": "2026-10-03 20:00"
+  },
+  {
+   "slug": "mrbeast-como-ganha-dinheiro",
+   "pasta": "artigos/2026-10-03/mrbeast-como-ganha-dinheiro",
+   "arquivos": [
+    "mrbeast-como-ganha-dinheiro.md",
+    "mrbeast-como-ganha-dinheiro-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Como o MrBeast ganha dinheiro mesmo com vídeos que dão prejuízo",
+   "data": "2026-10-03 21:00"
   }
  ],
- "atualizado": "2026-10-03 15:09",
+ "atualizado": "2026-10-03 21:41",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -589,6 +610,11 @@
    "slug": "hoje-reunificacao-alemanha",
    "pasta": "instagram/2026-10-03/hoje-reunificacao-alemanha",
    "data": "2026-10-03 10:00"
+  },
+  {
+   "slug": "frase-lyndon-johnson-voto",
+   "pasta": "instagram/2026-10-04/frase-lyndon-johnson-voto",
+   "data": "2026-10-04 07:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

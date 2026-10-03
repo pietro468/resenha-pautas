@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "A Americanas escondeu um rombo de ==R$ 25 bilhões==. E ninguém foi condenado",
+  "chamada": "Entenda o caso",
+  "capa": "lojas-americanas-laranjeiras.jpg",
+  "capa_estilo": "circulo",
+  "capa_extra": "cpi-das-americanas-votacao-relatorio.jpg",
+  "slides": [
+    {"tipo": "numero", "numero": "77%", "texto": "foi quanto a ação da Americanas caiu **em um dia**, em janeiro de 2023. Ela valia R$ 12 e fechou a R$ 2,72.\n\nO motivo apareceu na noite anterior.", "foto": "capa", "fonte": "Poder360"},
+    {"tipo": "texto", "titulo": "O primeiro truque", "texto": "A empresa pegava empréstimo no banco para pagar fornecedores. Mas anotava como **conta comum de fornecedor**.\n\n==Dívida escondida:== cerca de **R$ 18,4 bilhões**.\n\nE não parava aí.", "foto": "lojas-americanas-barrashopping.jpg", "fonte": "Agência Brasil"},
+    {"tipo": "texto", "titulo": "O segundo truque", "texto": "Fabricantes pagam às lojas para divulgar produtos. A Americanas registrava **contratos desse tipo que não existiam**.\n\n==Receita de mentira:== **R$ 21,7 bilhões**.\n\nResultado: lucro inflado em R$ 25,3 bilhões.", "foto": "fraude-americanas-loja-paratinga-2023.jpg", "fonte": "Agência Brasil"},
+    {"tipo": "texto", "titulo": "Quem é acusado", "texto": "Em 2025, o MPF denunciou **13 ex-executivos**. Em 2026, a CVM acusou o ex-presidente Miguel Gutierrez e **mais 29**.\n\nA defesa dele diz que não há prova. Investigado não é culpado.", "fonte": "CNN Brasil, Jornal do Comércio, Itatiaia"},
+    {"tipo": "texto", "titulo": "A PF voltou em 2026", "texto": "Em junho, a Justiça autorizou bloquear **até R$ 54 bilhões**. Os alvos: Beto Sicupira, Paulo Alberto Lemann e executivos de três bancos.\n\nOs acionistas dizem que foram **enganados pela antiga diretoria**.", "foto": "americanas-express-nova-friburgo.jpg", "fonte": "Bloomberg Línea, Forbes Brasil"},
+    {"tipo": "comparacao", "titulo": "E quem tinha ações?", "esquerda": {"rotulo": "Antes do caso", "valor": "R$ 1.200", "detalhe": "valor de 2023, ajustado ao grupamento"}, "direita": {"rotulo": "Junho de 2026", "valor": "R$ 4,24", "detalhe": "fechamento da AMER3"}, "texto": "Quem segurou o papel perdeu mais de 99%.", "fonte": "Poder360, InfoMoney, BB Investalk"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "A empresa admitiu a fraude, a CPI acabou sem indiciar ninguém e ainda não há condenados.\n\nA palavra final está com a Justiça Federal e a CVM.", "fonte": "Suno, CVM"},
+    {"tipo": "final"}
+  ],
+  "legenda": "A Americanas escondeu um rombo de R$ 25,3 bilhões no balanço. Três anos depois, ninguém foi condenado.\n\nEm 11 de janeiro de 2023, a varejista anunciou \"inconsistências contábeis\" de R$ 20 bilhões. No dia seguinte, a ação caiu 77%, de R$ 12 para R$ 2,72 (Poder360). Uma semana depois, veio o pedido de recuperação judicial, com R$ 43 bilhões em dívidas.\n\nSegundo a própria empresa, o esquema usava dois truques: dívida com bancos registrada como conta de fornecedor (cerca de R$ 18,4 bilhões) e contratos de propaganda que não existiam (R$ 21,7 bilhões).\n\nO MPF denunciou 13 ex-executivos em 2025, e a CVM acusou 30 em janeiro de 2026. Em junho, a PF fez nova operação, e a Justiça autorizou bloquear até R$ 54 bilhões. As defesas negam, e investigado não é culpado: até agora, não há condenação.\n\n(Fotos: Eduardo P/Wikimedia Commons, CC BY-SA 3.0; Renato Araújo/Câmara dos Deputados, CC BY 3.0; Fronteira/Wikimedia Commons, CC BY-SA 4.0; Vitorperrut555/Wikimedia Commons, CC BY 4.0)\n\nVocê tinha ações da Americanas ou conhece alguém que tinha?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

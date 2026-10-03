@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "==MrBeast== perde dinheiro com os vídeos e lucra vendendo chocolate",
+  "chamada": "Deslize para ver",
+  "capa": "mrbeast-retrato-2023.jpg",
+  "capa_estilo": "classico",
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 4 mi", "texto": "é quanto pode custar **um único vídeo** do maior canal do YouTube. A média fica entre US$ 3 milhões e US$ 4 milhões.\n\nE a conta não fecha.", "foto": "mrbeast-gravacao-video-desafio.jpg", "fonte": "Bloomberg, via Fortune"},
+    {"tipo": "texto", "titulo": "A mídia dá prejuízo", "texto": "Em 2024, a parte de vídeos faturou cerca de **US$ 250 milhões**. Mesmo assim, perdeu quase **US$ 80 milhões**.\n\nEntão de onde vem o dinheiro?", "foto": "mrbeast-youtube-2022.jpg", "fonte": "Bloomberg, via Fortune"},
+    {"tipo": "foto_texto", "titulo": "O chocolate salva a conta", "texto": "A Feastables vendeu cerca de **US$ 250 milhões** em 2024 e lucrou **mais de US$ 20 milhões**. Está no Walmart, na Target e em vários países.", "foto": "feastables-chocolate-mrbeast-loja.jpg", "fonte": "Bloomberg, via Fortune"},
+    {"tipo": "texto", "titulo": "O vídeo é a propaganda", "texto": "O chefe da empresa diz que o conteúdo é **um investimento em marketing** para todo o resto.\n\nCada vídeo vira um comercial de graça para a barra na prateleira.", "foto": "feastables-barra-de-chocolate.jpg", "fonte": "Fortune"},
+    {"tipo": "foto_texto", "titulo": "Como tudo começou", "texto": "Jimmy Donaldson abriu o canal em 2012, aos 13 anos. Viralizou em 2017 contando até 100 mil.\n\nEm junho de 2026, passou de **500 milhões de inscritos**.", "foto": "mrbeast-kids-choice-awards-2022.jpg", "fonte": "Wikipédia, blog do YouTube"},
+    {"tipo": "numero", "numero": "US$ 5 bi", "texto": "é o valor da Beast Industries, a empresa dele, na rodada de 2025. Ele tem **mais da metade**.\n\nMas diz ter pouco dinheiro no bolso, porque **reinveste tudo**.", "fonte": "Fortune"},
+    {"tipo": "texto_claro", "titulo": "A lição", "texto": "Para o MrBeast, a audiência é o ativo. O vídeo pode dar prejuízo, desde que venda o produto.\n\nÉ por isso que o maior youtuber do mundo também é dono de uma fábrica de chocolate.", "fonte": "Bloomberg, Forbes"},
+    {"tipo": "final"}
+  ],
+  "legenda": "MrBeast perde dinheiro com os vídeos e lucra vendendo chocolate.\n\nCada vídeo do canal principal custa, em média, de US$ 3 milhões a US$ 4 milhões, segundo documentos de investidores revelados pela Bloomberg. Em 2024, a parte de mídia faturou cerca de US$ 250 milhões e ainda perdeu quase US$ 80 milhões.\n\nO lucro veio da Feastables, a marca de chocolate: cerca de US$ 250 milhões em vendas e mais de US$ 20 milhões de lucro no mesmo ano. O canal funciona como propaganda.\n\nA Beast Industries foi avaliada em cerca de US$ 5 bilhões em 2025, e Jimmy Donaldson tem mais da metade (Fortune). Segundo a Forbes, ele ganhou US$ 300 milhões entre março de 2025 e março de 2026.\n\n(Fotos: Steven Khan, Fidias, NickRewind, Fastily e Yuet Man Lee/Wikimedia Commons, licenças CC BY e CC BY-SA)\n\nVocê compraria um produto só porque o seu youtuber favorito vende?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

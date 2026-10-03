@@ -1,0 +1,22 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "Amanhã, pedir voto na porta da seção é ==crime eleitoral==",
+  "subgancho": "Veja o que pode e o que não pode no domingo.",
+  "chamada": "O que é proibido",
+  "capa": "santinhos-no-chao-dia-da-eleicao.jpg",
+  "capa_foco": "50,45",
+  "slides": [
+    {"tipo": "numero", "numero": "Até 1 ano", "texto": "de detenção para quem faz **boca de urna**: tentar convencer alguém a votar ou não votar em um candidato no domingo.\n\nE ainda tem multa de até **R$ 15,9 mil**.", "foto": "capa", "fonte": "TRE-SP, Lei das Eleições (art. 39)"},
+    {"tipo": "texto", "titulo": "Também dá processo", "texto": "==Carro de som, comício e carreata.==\n\n==Santinho jogado na rua.==\n\n==Post novo de campanha ou post pago na internet.==\n\nMas o eleitor sozinho pode, sim, mostrar em quem vai votar. Só tem um jeito.", "fonte": "TRE-SP e TRE-MG"},
+    {"tipo": "texto_claro", "titulo": "Camiseta pode. Distribuir, não", "texto": "Você pode votar de **camiseta, broche, adesivo ou bandeira** do seu candidato, em silêncio e sem abordar ninguém.\n\nO que não pode: grupo com roupa igual e distribuir camisetas.", "fonte": "TSE"},
+    {"tipo": "foto_texto", "foto": "proibido-celular-na-cabine-dia-da-eleicao.jpg", "titulo": "Celular fica de fora", "texto": "Nem desligado ele entra na cabine. Você deixa com os mesários.\n\nNa mesa, pode mostrar o e-Título com foto. E a colinha de papel entra.", "fonte": "TSE"},
+    {"tipo": "texto", "foto": "mesarios-secao-eleitoral.jpg", "titulo": "Eleitor não pode ser preso", "texto": "Das 17h de 29/9 até as 17h de **6/10**.\n\n==Exceções:== flagrante, condenação por crime inafiançável e desrespeito a salvo-conduto.\n\nOu seja: fez boca de urna, pode sair preso.", "fonte": "TRE-SP, Código Eleitoral (art. 236)"},
+    {"tipo": "texto", "foto": "fila-de-votacao-corredor-escola.jpg", "titulo": "Trabalha no domingo?", "texto": "Você tem direito de sair pelo tempo necessário para votar, **sem desconto no salário**.\n\nAs seções fecham às **17h de Brasília**. Quem estiver na fila nesse horário vota.", "fonte": "TSE e Agência Brasil"},
+    {"tipo": "texto", "titulo": "E a cerveja?", "texto": "Depende do estado. Não existe lei seca nacional.\n\nNo ==Maranhão==, a venda está proibida da 0h às 22h. No ==Pará==, até as 18h.\n\nConfira a regra do seu estado no TRE.", "fonte": "Agência Brasil, com os órgãos de cada estado"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "A regra é uma só: o voto é **secreto e livre**.\n\nVocê pode mostrar a sua escolha em silêncio. Ninguém pode pressionar, fotografar o voto ou impedir alguém de votar.", "fonte": "TSE"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Amanhã, domingo (4), pedir voto na porta da seção eleitoral é crime. A boca de urna dá de 6 meses a 1 ano de detenção, que pode virar serviço à comunidade, e multa de R$ 5.320,50 a R$ 15.961,50 (TRE-SP).\n\nTambém são proibidos no dia carro de som, comício, carreata, santinho jogado na rua e post novo ou pago de campanha na internet.\n\nO eleitor pode ir votar de camiseta, broche, adesivo ou bandeira do candidato, desde que em silêncio e sem abordar ninguém. Grupo com roupa padronizada e distribuição de camisetas não podem (TSE).\n\nO celular não entra na cabine, nem desligado. A colinha de papel pode.\n\nDas 17h de 29/9 às 17h de 6/10, nenhum eleitor pode ser preso, salvo em flagrante, por condenação por crime inafiançável ou desrespeito a salvo-conduto (Código Eleitoral, art. 236).\n\nQuem trabalha no domingo pode sair pelo tempo necessário para votar, sem desconto no salário. A votação vai das 8h às 17h, horário de Brasília.\n\nLei seca depende de cada estado: no Maranhão, a venda de bebida está proibida da 0h às 22h; no Pará, até as 18h (Agência Brasil).\n\nVocê sabia que camiseta do candidato pode?\n\n(Fotos: Edilson Rodrigues e Geraldo Magela/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

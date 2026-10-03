@@ -431,9 +431,19 @@
    ],
    "titulo": "Como Rockefeller ficou rico e virou o primeiro bilionário dos EUA",
    "data": "2026-10-02 21:00"
+  },
+  {
+   "slug": "o-que-e-proibido-no-dia-da-eleicao",
+   "pasta": "artigos/2026-10-03/o-que-e-proibido-no-dia-da-eleicao",
+   "arquivos": [
+    "o-que-e-proibido-no-dia-da-eleicao.md",
+    "carrossel.json"
+   ],
+   "titulo": "O que é proibido no dia da eleição, da boca de urna ao celular",
+   "data": "2026-10-03 09:00"
   }
  ],
- "atualizado": "2026-10-02 21:07",
+ "atualizado": "2026-10-03 00:58",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -504,6 +514,11 @@
    "slug": "hoje-nascimento-sting",
    "pasta": "instagram/2026-10-02/hoje-nascimento-sting",
    "data": "2026-10-02 10:00"
+  },
+  {
+   "slug": "checklist-amanha-e-dia-de-votar",
+   "pasta": "instagram/2026-10-03/checklist-amanha-e-dia-de-votar",
+   "data": "2026-10-03 18:00"
   },
   {
    "slug": "frase-jordan-falhei",

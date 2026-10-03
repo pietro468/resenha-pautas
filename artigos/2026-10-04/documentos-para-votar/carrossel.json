@@ -1,0 +1,55 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "capa": "e-titulo-com-foto-documentos-para-votar.jpg",
+  "capa_foco": "58,38",
+  "gancho": "Certidão de nascimento ==não vale== para votar hoje. Veja o que vale",
+  "subgancho": "Urnas abertas das 8h às 17h de Brasília.",
+  "chamada": "Antes de sair",
+  "slides": [
+    {
+      "tipo": "texto",
+      "foto": "mesario-confere-documento-eleitor.jpg",
+      "titulo": "O que vale",
+      "texto": "Documento oficial **com foto**:\n\n==RG, CIN, CNH (até a digital), passaporte, carteira de trabalho física, reservista e carteira de conselho profissional.==\n\nE pode estar **vencido**, se der para reconhecer você.",
+      "fonte": "TSE e TRE-SP"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que não vale",
+      "texto": "**Certidão de nascimento.**\n\n**Certidão de casamento.**\n\n**Carteira de trabalho digital.**\n\nE o título de papel? Não é obrigatório. Mas e o celular?",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "biometria-na-secao-eleitoral.jpg",
+      "titulo": "E-Título só com foto",
+      "texto": "O app vale como documento **se a sua foto aparecer**. Ela aparece para quem fez a biometria.\n\nSem foto? Leve também um documento oficial.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Que horas no seu estado?",
+      "texto": "Horário local:\n\n==8h às 17h:== Brasília e mesmo fuso.\n\n==7h às 16h:== RO, MT, MS, RR e maior parte do AM.\n\n==6h às 15h:== Acre e oeste do AM.\n\n==9h às 18h:== Fernando de Noronha.",
+      "fonte": "TSE e CNN Brasil"
+    },
+    {
+      "tipo": "texto",
+      "foto": "fila-de-eleitores-horario-de-votacao.jpg",
+      "titulo": "Chegou às 17h?",
+      "texto": "Quem **já está na fila** às 17h de Brasília **vota**.\n\nQuem chegar depois, não entra.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "Antes de sair de casa",
+      "texto": "**Documento com foto** ou e-Título com foto.\n\n**Colinha de papel** com os números.\n\nOlho no **relógio de Brasília**. O celular não entra na cabine.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Certidão de nascimento não vale para votar hoje. Veja o que vale e o horário do seu estado.\n\nValem documentos oficiais com foto: carteira de identidade, CIN, identidade social, passaporte, CNH (também a digital), carteira de trabalho física, certificado de reservista e carteira de conselho profissional. Documento vencido serve, se permitir reconhecer o eleitor (TSE e TRE-SP).\n\nNão valem certidão de nascimento, certidão de casamento e carteira de trabalho digital. O título de papel não é obrigatório.\n\nO e-Título vale como documento só se mostrar a sua foto, o que acontece para quem fez a biometria. Sem foto no app, leve também um documento oficial.\n\nHorário: das 8h às 17h de Brasília. Em RO, MT, MS, RR e na maior parte do AM, das 7h às 16h locais. No Acre e no oeste do AM, das 6h às 15h. Em Fernando de Noronha, das 9h às 18h. Quem estiver na fila às 17h de Brasília vota (TSE).\n\nO celular não entra na cabine. A colinha de papel pode.\n\nJá conferiu se o seu e-Título tem foto?\n\n(Fotos: Edilson Rodrigues e Pedro França/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

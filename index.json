@@ -517,9 +517,39 @@
    ],
    "titulo": "Como o MrBeast ganha dinheiro mesmo com vídeos que dão prejuízo",
    "data": "2026-10-03 21:00"
+  },
+  {
+   "slug": "como-justificar-o-voto",
+   "pasta": "artigos/2026-10-04/como-justificar-o-voto",
+   "arquivos": [
+    "como-justificar-o-voto.md",
+    "carrossel.json"
+   ],
+   "titulo": "Como justificar o voto hoje ou até 3 de dezembro",
+   "data": "2026-10-04 05:30"
+  },
+  {
+   "slug": "o-que-e-voto-util",
+   "pasta": "artigos/2026-10-04/o-que-e-voto-util",
+   "arquivos": [
+    "o-que-e-voto-util.md",
+    "carrossel.json"
+   ],
+   "titulo": "O que é voto útil e por que ele aparece no 1º turno",
+   "data": "2026-10-04 06:00"
+  },
+  {
+   "slug": "documentos-para-votar",
+   "pasta": "artigos/2026-10-04/documentos-para-votar",
+   "arquivos": [
+    "documentos-para-votar.md",
+    "carrossel.json"
+   ],
+   "titulo": "Documentos para votar hoje e o horário da eleição em cada estado",
+   "data": "2026-10-04 06:30"
   }
  ],
- "atualizado": "2026-10-03 21:42",
+ "atualizado": "2026-10-03 23:57",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

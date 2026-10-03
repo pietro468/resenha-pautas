@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "Não vai votar hoje? Você tem até ==3 de dezembro== para justificar",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_foco": "32,40",
+  "slides": [
+    {"tipo": "texto", "foto": "como-justificar-o-voto-aviso-justificativa.jpg", "titulo": "Longe da sua cidade hoje?", "texto": "==Pelo celular:== no app **e-Título**, que confere onde você está.\n\n==No papel:== formulário entregue em **qualquer seção**, com documento com foto.\n\nDas 8h às 17h de Brasília. Mas tem uma pegadinha.", "fonte": "TSE e TRE-SP"},
+    {"tipo": "texto_claro", "titulo": "Na sua cidade não vale", "texto": "Justificativa feita na cidade onde você vota **não é aceita**.\n\nOu seja: se você está na sua cidade, o caminho é ir votar.\n\nE quem não conseguiu nada hoje?", "fonte": "TRE-SP"},
+    {"tipo": "foto_texto", "foto": "voluntario-justica-eleitoral-orienta-eleitor.jpg", "titulo": "Perdeu o dia?", "texto": "Você tem **60 dias**: até **3 de dezembro**.\n\nPelo e-Título, no site da Justiça Eleitoral ou no cartório. Agora com documento que prove o motivo, como atestado ou passagem.", "fonte": "TSE"},
+    {"tipo": "numero", "foto": "comprovante-de-votacao.jpg", "numero": "R$ 3,51", "texto": "é a multa **por turno** para quem não vota nem justifica.\n\nO valor é pequeno. O problema é o que vem junto.", "fonte": "TRE-SP"},
+    {"tipo": "texto", "titulo": "A dívida trava sua vida", "texto": "Sem pagar, você fica sem a certidão de quitação e não consegue:\n\n==Tirar passaporte==\n\n==Fazer matrícula escolar==\n\n==Tomar posse em concurso==\n\nE **3 faltas seguidas** podem cancelar o título.", "fonte": "TRE-SP e TSE"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "Na sua cidade: **vá votar**.\n\nLonge dela: justifique **hoje**, sem precisar provar nada.\n\nNão deu? O prazo vai até **3/12**. Se houver 2º turno, ele conta como outra eleição.", "fonte": "TSE"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Não vai conseguir votar hoje? Dá para justificar a ausência agora ou até 3 de dezembro.\n\nHoje, das 8h às 17h de Brasília, quem está fora da cidade onde vota pode justificar pelo app e-Título, que usa a localização do celular, ou num formulário entregue em qualquer seção eleitoral, com documento oficial com foto. No dia, não precisa provar o motivo (TSE).\n\nAtenção: justificativa feita na cidade onde você vota não é aceita. Quem está na própria cidade precisa ir votar (TRE-SP).\n\nPerdeu o dia? O prazo é de 60 dias: até 3 de dezembro para o 1º turno. Aí vale o e-Título, o site da Justiça Eleitoral ou o cartório, com documento que comprove o motivo. Se houver 2º turno, ele tem prazo próprio, até 8 de janeiro de 2027.\n\nQuem não vota nem justifica paga multa de R$ 3,51 por turno. Sem quitar, fica sem certidão de quitação eleitoral e não consegue tirar passaporte, fazer matrícula em instituição de ensino ou tomar posse em concurso. Três faltas seguidas podem levar ao cancelamento do título (TRE-SP e TSE).\n\nQuem tem 16 ou 17 anos, mais de 70 ou é analfabeto não é obrigado a votar e não precisa justificar.\n\nVocê já precisou justificar o voto alguma vez?\n\n(Fotos: Edilson Rodrigues e Leonardo Sá/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

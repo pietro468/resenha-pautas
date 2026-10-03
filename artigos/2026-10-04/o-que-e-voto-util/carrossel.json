@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "dupla",
+  "capa": "capa",
+  "capa_extra": "voto-util-cabina-de-votacao.jpg",
+  "rotulos": ["1º turno", "2º turno"],
+  "gancho": "Votar em quem você prefere ou em quem tem chance? O que é o ==voto útil==",
+  "chamada": "Entenda a regra",
+  "slides": [
+    {"tipo": "texto_claro", "titulo": "Voto útil é isso", "texto": "O eleitor **deixa o candidato que prefere** e vota em outro, com mais chance, para tentar **barrar um nome que rejeita**.\n\nE ele aparece justamente no 1º turno. Por quê?"},
+    {"tipo": "numero", "numero": "+ de 50%", "texto": "dos **votos válidos** elegem o presidente já no 1º turno.\n\nSe ninguém chegar lá, os **dois mais votados** voltam às urnas em **25 de outubro**.", "fonte": "Lei 9.504/1997, art. 2º, e TSE"},
+    {"tipo": "texto", "foto": "urna-eletronica-secao-eleitoral.jpg", "titulo": "E o branco e o nulo?", "texto": "Não vão para ninguém e **não anulam** a eleição.\n\nEles ficam fora da conta. Só os votos dados a candidatos contam para os 50%.", "fonte": "TRE-SP e Constituição, art. 77"},
+    {"tipo": "texto", "titulo": "Isso é antigo", "texto": "Cientistas políticos já viam o voto útil no Brasil em **1982 e 1986**.\n\nEleitores trocavam o preferido por uma segunda opção com mais chance de ganhar.\n\nMas tem quem defenda e quem critique.", "fonte": "Nicolau e Schmitt, Lua Nova (1995)"},
+    {"tipo": "comparacao", "titulo": "Os dois lados", "esquerda": {"rotulo": "A favor", "valor": "Chance", "detalhe": "não desperdiçar o voto e influenciar a final"}, "direita": {"rotulo": "Contra", "valor": "Variedade", "detalhe": "propostas novas não crescem e a escolha vira só rejeição"}, "fonte": "Nicolau e Schmitt, CNN Brasil e Politize"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O 1º turno escolhe os finalistas. Votar no preferido ou votar de forma estratégica são **escolhas do eleitor**, e as duas valem.\n\nO voto é **secreto e livre**.", "fonte": "Lei das Eleições"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Voto útil é quando o eleitor deixa de votar no candidato que prefere e escolhe outro, com mais chance de vencer, para tentar barrar um nome que rejeita.\n\nA regra explica por que ele aparece no 1º turno. Pela Lei das Eleições, o candidato a presidente ou governador que tiver mais da metade dos votos válidos vence já no 1º turno. Se ninguém chegar lá, os dois mais votados disputam o 2º turno, marcado para 25 de outubro (TSE).\n\nBrancos e nulos não entram na conta dos votos válidos. Eles não vão para o mais votado e não anulam a eleição (TRE-SP).\n\nO fenômeno é antigo: os cientistas políticos Jairo Nicolau e Rogério Schmitt registraram o voto útil no Brasil nas eleições de 1982 e 1986.\n\nQuem defende fala em não desperdiçar o voto e no peso que um grupo pequeno pode ter no resultado. Quem critica diz que ele tira força de propostas novas e transforma a escolha em rejeição (Politize).\n\nNo fim, votar no preferido ou de forma estratégica é decisão de cada eleitor. O voto é secreto e livre.\n\nVocê já tinha ouvido falar em voto útil?\n\n(Fotos: Edilson Rodrigues e Pedro França/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

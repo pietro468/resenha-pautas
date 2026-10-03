@@ -1,3 +1,5 @@
-commons.json https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Dale%20Carnegie&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=1280&format=json
-openverse.json https://api.openverse.org/v1/images/?q=dale%20carnegie&page_size=40
-loc.json https://www.loc.gov/photos/?q=dale+carnegie&fo=json&c=50
+coverbook.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Coverbook.jpg/1280px-Coverbook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+c1937.jpg https://upload.wikimedia.org/wikipedia/commons/a/a8/Dale_Carnegie_%281937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+htswasl.jpg https://upload.wikimedia.org/wikipedia/commons/2/20/HTSWASL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+leitora.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Young_African_Woman_Reads_Dale_Carnegie_-_How_to_Win_Friends_and_Influence_People_-_En_route_from_Bagamoyo_to_Mwenge_-_Tanzania_%288804130591%29.jpg/1280px-Young_African_Woman_Reads_Dale_Carnegie_-_How_to_Win_Friends_and_Influence_People_-_En_route_from_Bagamoyo_to_Mwenge_-_Tanzania_%288804130591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+bewiser.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%E2%80%9CBe_wiser_than_other_people_if_you_can%3B_but_do_not_tell_them_so.%E2%80%9D_%E2%80%95Dale_Carnegie_%2827691939287%29.jpg/1280px-%E2%80%9CBe_wiser_than_other_people_if_you_can%3B_but_do_not_tell_them_so.%E2%80%9D_%E2%80%95Dale_Carnegie_%2827691939287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail

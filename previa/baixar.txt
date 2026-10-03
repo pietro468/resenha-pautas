@@ -1,6 +1,1 @@
-f_capa.jpg https://upload.wikimedia.org/wikipedia/commons/1/19/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_30230089817.jpg
-f_img1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_45119479962.jpg/1280px-Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_45119479962.jpg
-f_img2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_44257111865.jpg/1920px-Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_44257111865.jpg
-f_img3.jpg https://upload.wikimedia.org/wikipedia/commons/b/ba/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_44446217954.jpg
-f_img4.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_44446205044.jpg/1920px-Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_44446205044.jpg
-f_ig.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_43354260120.jpg/1920px-Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_43354260120.jpg
+g_ig.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_30230075597.jpg/1920px-Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_30230075597.jpg

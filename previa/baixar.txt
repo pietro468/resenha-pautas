@@ -1,0 +1,3 @@
+commons.json https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Dale%20Carnegie&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=1280&format=json
+openverse.json https://api.openverse.org/v1/images/?q=dale%20carnegie&page_size=40
+loc.json https://www.loc.gov/photos/?q=dale+carnegie&fo=json&c=50

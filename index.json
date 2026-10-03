@@ -433,6 +433,16 @@
    "data": "2026-10-02 21:00"
   },
   {
+   "slug": "petroleo-na-foz-do-amazonas",
+   "pasta": "artigos/2026-10-03/petroleo-na-foz-do-amazonas",
+   "arquivos": [
+    "petroleo-na-foz-do-amazonas.md",
+    "carrossel.json"
+   ],
+   "titulo": "Petrobras acha petróleo na Foz do Amazonas pela segunda vez",
+   "data": "2026-10-03 08:00"
+  },
+  {
    "slug": "o-que-e-proibido-no-dia-da-eleicao",
    "pasta": "artigos/2026-10-03/o-que-e-proibido-no-dia-da-eleicao",
    "arquivos": [
@@ -443,7 +453,7 @@
    "data": "2026-10-03 09:00"
   }
  ],
- "atualizado": "2026-10-03 00:58",
+ "atualizado": "2026-10-03 10:08",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

@@ -1,6 +1,0 @@
-b-koblenz.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wiedervereinigung_Deutsches_Eck_Koblenz_1990.jpg/960px-Wiedervereinigung_Deutsches_Eck_Koblenz_1990.jpg
-b-messi.jpg https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg
-b-cr.jpg https://upload.wikimedia.org/wikipedia/commons/6/64/Cristiano_Ronaldo_2018_%28cropped%29.jpg
-b-cr2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Rui_Patr%C3%ADcio_%26_Cristiano_Ronaldo.jpg/960px-Rui_Patr%C3%ADcio_%26_Cristiano_Ronaldo.jpg
-b-curry.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Stephen_Curry_Shooting_%28cropped%29.jpg/960px-Stephen_Curry_Shooting_%28cropped%29.jpg
-b-curry2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Golden_State_Warriors_Point_Guard_Stephen_Curry_01.jpg/960px-Golden_State_Warriors_Point_Guard_Stephen_Curry_01.jpg

@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "capa": "capa",
+  "capa_extra": "foz-do-amazonas-imagem-de-satelite.jpg",
+  "chamada": "Entenda",
+  "gancho": "Petrobras acha petróleo pela 2ª vez na ==Foz do Amazonas==",
+  "subgancho": "O poço fica a 175 km da costa do Amapá.",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que aconteceu", "texto": "O poço **Morpho** achou um segundo reservatório de petróleo, mais fundo que o de agosto.\n\nEle fica em alto-mar, com quase **3 km de água** até o fundo.\n\nMas achar petróleo ainda não é produzir.", "fonte": "Agência Brasil e Money Times"},
+    {"tipo": "numero", "numero": "10 bilhões", "texto": "de barris de petróleo e gás é o que a região **inteira** pode ter, segundo a ==EPE==.\n\nÉ uma estimativa. O tamanho real do poço ainda é segredo.", "fonte": "EPE, via Agência Brasil"},
+    {"tipo": "foto_texto", "foto": "magda-chambriard-presidente-da-petrobras.jpg", "titulo": "\"Tudo indica\"", "texto": "A presidente da Petrobras, Magda Chambriard, disse que ainda não dá para garantir, mas que tudo indica uma **nova fronteira** de petróleo.", "fonte": "Agência Brasil"},
+    {"tipo": "texto", "titulo": "Por que isso importa?", "texto": "Hoje, **8 em cada 10 barris** do petróleo brasileiro saem do pré-sal.\n\nSó que esses campos vão perder força. A Petrobras procura o próximo grande poço.", "fonte": "Times Brasil"},
+    {"tipo": "texto", "titulo": "A briga na Justiça", "texto": "Em janeiro, cerca de **18 mil litros** de fluido de perfuração vazaram no mar.\n\nO Ministério Público Federal pede para suspender a licença. A Petrobras diz que cumpre todas as regras. O tribunal ainda não decidiu.", "fonte": "MPF e Portal Amazônia"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "Os testes vão até o fim de outubro. Em 2027, a Petrobras quer perfurar **mais 3 poços** para medir o tamanho da descoberta.\n\nSó então vai saber se o petróleo do Amapá vale a pena.", "fonte": "Agência Brasil"},
+    {"tipo": "final"}
+  ],
+  "legenda": "A Petrobras encontrou petróleo pela segunda vez no poço Morpho, na Foz do Amazonas, a 175 km da costa do Amapá.\n\nO anúncio foi feito na sexta-feira (2) pela presidente da empresa, Magda Chambriard. O novo reservatório fica abaixo do primeiro, descoberto em agosto, segundo a Agência Brasil.\n\nA Empresa de Pesquisa Energética estima que a bacia inteira pode ter até 10 bilhões de barris de óleo equivalente. O volume do Morpho ainda não foi divulgado, e a Petrobras diz que só vai saber se a produção vale a pena depois de perfurar mais três poços, a partir de 2027.\n\nO projeto também está na Justiça. O Ministério Público Federal pede a suspensão da licença, citando o vazamento de cerca de 18 mil litros de fluido de perfuração em janeiro e a falta de consulta a indígenas e pescadores. A Petrobras afirma que cumpre todas as exigências do licenciamento. O tribunal ainda não decidiu.\n\nVocê sabia que a Petrobras procurava petróleo no mar do Amapá?\n\n(Fotos: Divulgação Petrobras/Agência Brasil, CC BY 3.0 BR; INPE, CC BY-SA 2.0; Fernando Frazão/Agência Brasil, CC BY 3.0 BR)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

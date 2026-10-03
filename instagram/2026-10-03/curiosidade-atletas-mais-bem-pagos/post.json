@@ -1,0 +1,32 @@
+{
+  "titulo": "Curiosidades: os atletas mais bem pagos do mundo em 2026",
+  "data": "2026-10-03 12:30",
+  "fotos": [
+    {"arquivo": "curiosidade-atleta-cristiano-ronaldo-rosto.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cristiano_Ronaldo_2018_%28cropped%29.jpg", "credito": "Анна Нэсси/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "curiosidade-atleta-messi.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg", "credito": "Кирилл Венедиктов/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "curiosidade-atleta-lebron-james.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/LeBron_James%2C_Paris_2024.jpg/1920px-LeBron_James%2C_Paris_2024.jpg", "credito": "Clément Bardot/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-atleta-stephen-curry.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Stephen_Curry_Shooting_%28cropped%29.jpg", "credito": "Cyrus Saatsaz/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-atleta-shohei-ohtani.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2853836294794%29.jpg/1920px-Shohei_Ohtani_%2853836294794%29.jpg", "credito": "David from Washington, DC/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-atleta-canelo-alvarez.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sa%C3%BAl_%C3%81lvarez_2013b.jpg", "credito": "Presidência da República do México/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-atleta-cristiano-ronaldo-portugal.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Rui_Patr%C3%ADcio_%26_Cristiano_Ronaldo.jpg", "credito": "Анна Нэсси/Wikimedia Commons (CC BY-SA 3.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-atleta-cristiano-ronaldo-rosto.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": ["curiosidade-atleta-messi.jpg", "curiosidade-atleta-lebron-james.jpg"],
+    "chamada": "Curiosidades",
+    "gancho": "Quais são os ==atletas mais bem pagos== do mundo?",
+    "slides": [
+      {"tipo": "item", "foto": "curiosidade-atleta-stephen-curry.jpg", "posicao": "6º lugar", "detalhe": "Basquete, Estados Unidos", "nome": "Stephen Curry", "valor": "US$ 124,7 milhões", "fonte": "Forbes, maio de 2026"},
+      {"tipo": "item", "foto": "curiosidade-atleta-shohei-ohtani.jpg", "posicao": "5º lugar", "detalhe": "Beisebol, Japão", "nome": "Shohei Ohtani", "valor": "US$ 127,6 milhões", "fonte": "Forbes, maio de 2026"},
+      {"tipo": "item", "foto": "curiosidade-atleta-lebron-james.jpg", "posicao": "4º lugar", "detalhe": "Basquete, Estados Unidos", "nome": "LeBron James", "valor": "US$ 137,8 milhões", "fonte": "Forbes, maio de 2026"},
+      {"tipo": "item", "foto": "curiosidade-atleta-messi.jpg", "posicao": "3º lugar", "detalhe": "Futebol, Argentina", "nome": "Lionel Messi", "valor": "US$ 140 milhões", "fonte": "Forbes, maio de 2026"},
+      {"tipo": "item", "foto": "curiosidade-atleta-canelo-alvarez.jpg", "posicao": "2º lugar", "detalhe": "Boxe, México", "nome": "Canelo Álvarez", "valor": "US$ 170 milhões", "fonte": "Forbes, maio de 2026"},
+      {"tipo": "item", "foto": "curiosidade-atleta-cristiano-ronaldo-portugal.jpg", "foco": "72,40", "posicao": "1º lugar", "detalhe": "Futebol, Portugal", "nome": "Cristiano Ronaldo", "valor": "US$ 300 milhões", "fonte": "Forbes, maio de 2026"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Os atletas mais bem pagos do mundo em 2026, segundo a lista anual da Forbes, publicada em maio. Os valores somam salários, prêmios, patrocínios e negócios.\n\n1º Cristiano Ronaldo (futebol): US$ 300 milhões\n2º Canelo Álvarez (boxe): US$ 170 milhões\n3º Lionel Messi (futebol): US$ 140 milhões\n4º LeBron James (basquete): US$ 137,8 milhões\n5º Shohei Ohtani (beisebol): US$ 127,6 milhões\n6º Stephen Curry (basquete): US$ 124,7 milhões\n\nRonaldo lidera pelo quarto ano seguido: foram US$ 235 milhões em campo, com o contrato no Al-Nassr, da Arábia Saudita, e US$ 65 milhões em patrocínios. O caso mais curioso é o de Ohtani: ele recebeu só US$ 2,6 milhões de salário em campo, porque adiou quase todo o pagamento do contrato com os Dodgers, e ganhou US$ 125 milhões com patrocínios.\n\nCompletam o top 10 Jon Rahm (golfe), Karim Benzema (futebol), Kevin Durant (basquete) e Lewis Hamilton (Fórmula 1), que fecha a lista com US$ 100 milhões.\n\nQual desses te surpreendeu mais?\n\n(Fotos: Анна Нэсси, CC BY-SA 3.0; Кирилл Венедиктов, CC BY-SA 3.0; Clément Bardot, CC BY-SA 4.0; Cyrus Saatsaz, CC BY-SA 4.0; David from Washington, DC, CC BY 2.0; Presidência da República do México, CC BY 2.0; via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

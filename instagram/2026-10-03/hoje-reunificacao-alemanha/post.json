@@ -1,0 +1,32 @@
+{
+  "titulo": "Hoje na história: 3 de outubro de 1990, a reunificação da Alemanha",
+  "data": "2026-10-03 10:00",
+  "fotos": [
+    {"arquivo": "hoje-reunificacao-kohl-reichstag-1990.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bundesarchiv_Bild_183-1990-1003-010%2C_Berlin%2C_Reichstag%2C_Hannelore_und_Helmut_Kohl.jpg", "credito": "Peer Grimm/Bundesarchiv (CC BY-SA 3.0 DE)"},
+    {"arquivo": "hoje-reunificacao-muro-brandemburgo-1989.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Berlin_Wall_Collapse_%28cropped%29.jpg", "credito": "Sue Ream/Wikimedia Commons (CC BY 3.0)"},
+    {"arquivo": "hoje-reunificacao-pedaco-do-muro-1989.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Chipping_off_a_piece_of_the_Berlin_Wall.jpg/1920px-Chipping_off_a_piece_of_the_Berlin_Wall.jpg", "credito": "SSgt. F. Lee Corkran/Departamento de Defesa dos EUA (domínio público)"},
+    {"arquivo": "hoje-reunificacao-portao-noite-1989.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berlin_1989%2C_Fall_der_Mauer%2C_Chute_du_mur_20.jpg/1920px-Berlin_1989%2C_Fall_der_Mauer%2C_Chute_du_mur_20.jpg", "credito": "Raphaël Thiémard/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "hoje-reunificacao-festa-schauspielhaus-1990.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bundesarchiv_Bild_183-1990-1002-032%2C_Berlin%2C_Festakt_DDR-Regierung_zum_Tag_der_Deutschen_Einheit.jpg", "credito": "Bernd Settnik/Bundesarchiv (CC BY-SA 3.0 DE)"},
+    {"arquivo": "hoje-reunificacao-de-maiziere-kohl-1990.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bundesarchiv_Bild_183-1990-1003-007%2C_Berlin%2C_Lothar_de_Maizi%C3%A8re_und_Helmut_Kohl.jpg", "credito": "Peer Grimm/Bundesarchiv (CC BY-SA 3.0 DE)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-reunificacao-kohl-reichstag-1990.jpg",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "3 out",
+    "ano": "1990",
+    "ha": "Há 36 anos",
+    "gancho": "A ==Alemanha== voltava a ser um só país",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-reunificacao-muro-brandemburgo-1989.jpg"},
+      {"tipo": "foto", "foto": "hoje-reunificacao-pedaco-do-muro-1989.jpg"},
+      {"tipo": "foto", "foto": "hoje-reunificacao-portao-noite-1989.jpg"},
+      {"tipo": "foto", "foto": "hoje-reunificacao-festa-schauspielhaus-1990.jpg"},
+      {"tipo": "foto", "foto": "hoje-reunificacao-de-maiziere-kohl-1990.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 36 ANOS, A ALEMANHA VOLTAVA A SER UM SÓ PAÍS\n\nEm 3 de outubro de 1990, a Alemanha Oriental deixou de existir e passou a fazer parte da Alemanha Ocidental. Berlim também voltou a ser uma cidade só. Desde então, a data é o feriado nacional mais importante do país, o Dia da Unidade Alemã, segundo o portal oficial deutschland.de.\n\nTudo andou muito rápido. O Muro de Berlim caiu em 9 de novembro de 1989. Em 1º de julho de 1990, os dois lados passaram a usar a mesma moeda, com o marco oriental trocado pelo ocidental na taxa de 1 para 1. Em 12 de setembro, o Tratado Dois Mais Quatro, assinado com EUA, União Soviética, Reino Unido e França, abriu caminho para a união, segundo a Rede Europeia Memória e Solidariedade (ENRS).\n\nA conta foi gigante. Entre 1990 e 1995, o governo gastou o equivalente a duas vezes o orçamento federal para reconstruir o lado oriental, e o custo total da reunificação chegou a 1,5 trilhão a 1,6 trilhão de euros até 2005, segundo a ENRS.\n\nNa noite de 3 de outubro, o chanceler Helmut Kohl e a mulher, Hannelore, saíram várias vezes do Reichstag para acenar à multidão, como mostra a foto da capa, do arquivo federal alemão. Hoje, o leste do país recebe fábricas de gigantes como a Tesla, em Brandemburgo, e a TSMC, em Dresden, segundo o deutschland.de.\n\nVocê sabia que a reunificação custou tanto?\n\n(Fotos: Peer Grimm e Bernd Settnik/Bundesarchiv, CC BY-SA 3.0 DE; Sue Ream, CC BY 3.0; F. Lee Corkran/Departamento de Defesa dos EUA, domínio público; Raphaël Thiémard, CC BY-SA 2.0; via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

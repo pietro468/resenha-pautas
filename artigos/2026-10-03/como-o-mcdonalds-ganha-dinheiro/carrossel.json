@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "capa": "capa",
+  "chamada": "Deslize para ver",
+  "gancho": "O McDonald's fatura mais com ==aluguel== do que vendendo hambúrguer",
+  "subgancho": "Foram US$ 10,4 bilhões só em 2025.",
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 10,4 bi", "texto": "foi quanto os donos de franquias pagaram de **aluguel** ao McDonald's em 2025.\n\nQuase 40% de tudo que a empresa faturou no ano.", "foto": "mcdonalds-esquina-nova-york.jpg", "fonte": "Balanço anual do McDonald's (SEC)"},
+    {"tipo": "comparacao", "titulo": "Aluguel x vendas", "esquerda": {"rotulo": "Aluguel", "valor": "US$ 10,4 bi", "detalhe": "pago pelos franqueados"}, "direita": {"rotulo": "Lojas próprias", "valor": "US$ 9,7 bi", "detalhe": "em lanches vendidos"}, "texto": "Os royalties sobre as vendas renderam mais US$ 6 bi. Mas por que o franqueado paga aluguel?", "fonte": "Balanço anual do McDonald's (SEC)"},
+    {"tipo": "texto", "titulo": "O dono do ponto", "texto": "Cerca de **95%** das 45 mil lojas são de franqueados.\n\nSó que o McDonald's é dono de **56% dos terrenos** e **80% dos prédios** onde elas funcionam. O franqueado paga para usar o ponto.", "foto": "mcdonalds-des-plaines-ray-kroc.jpg", "fonte": "Balanço anual do McDonald's (SEC)"},
+    {"tipo": "foto_texto", "foto": "primeiro-mcdonalds-san-bernardino.jpg", "titulo": "Começou numa lanchonete", "texto": "Os irmãos Richard e Maurice McDonald abriram a primeira loja em 1940, na Califórnia.\n\nAí apareceu um vendedor de máquinas de milk-shake.", "fonte": "Wikipédia"},
+    {"tipo": "foto_texto", "foto": "ray-kroc-mcdonalds-1976.jpg", "titulo": "A ideia de 1956", "texto": "Ray Kroc virou o vendedor das franquias, mas ganhava pouco.\n\nEm 1956, o executivo **Harry Sonneborn** sugeriu: comprar os terrenos e alugar para os franqueados.", "fonte": "Wikipédia, citando o livro de John F. Love"},
+    {"tipo": "texto", "titulo": "Virou filme", "texto": "Essa virada está em **Fome de Poder** (2016), com Michael Keaton como Kroc.\n\nNa cena-chave, Sonneborn diz que Kroc não está no ramo do hambúrguer. Está no ramo **imobiliário**.", "fonte": "Wikipédia"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Quem é dono do ponto manda no negócio.\n\nSetenta anos depois, o lanche paga a conta do franqueado. E o aluguel paga a conta do McDonald's.", "fonte": "Balanço anual do McDonald's (SEC)"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O McDonald's fatura mais com aluguel do que vendendo hambúrguer nas próprias lojas.\n\nEm 2025, os franqueados pagaram US$ 10,4 bilhões de aluguel à rede, segundo o balanço anual entregue à SEC. As vendas das lojas próprias somaram US$ 9,7 bilhões, e os royalties sobre as vendas dos franqueados, US$ 6 bilhões.\n\nIsso acontece porque a empresa é dona de cerca de 56% dos terrenos e 80% dos prédios dos restaurantes nos mercados em que opera diretamente. O franqueado entra com a operação e paga para usar o ponto.\n\nA ideia surgiu em 1956, quando Ray Kroc contratou Harry Sonneborn, que criou a Franchise Realty Corporation para comprar terrenos e alugar aos franqueados. A história virou o filme Fome de Poder (The Founder), de 2016, com Michael Keaton.\n\nVocê já tinha visto Fome de Poder?\n\n(Fotos: Anthony92931, CC BY-SA 3.0; CGP Grey, CC BY 2.0; Michel Curi, CC BY 2.0; Jeremy Thompson, CC BY 2.0; Ray Kroc em 1976, domínio público. Todas via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

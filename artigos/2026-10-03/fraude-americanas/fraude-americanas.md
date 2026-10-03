@@ -1,7 +1,7 @@
 ---
 titulo: "Como a fraude da Americanas escondeu um rombo de R$ 25 bilhões"
 subtitulo: "Do anúncio que derrubou a ação em 77% num dia à operação da PF que bloqueou até R$ 54 bilhões: a linha do tempo do caso e o que ainda falta a Justiça decidir."
-data: "2026-10-03 20:00"
+data: "2026-10-03 19:00"
 categoria: "Investigação"
 assina: "Redação"
 frase_chave: "fraude americanas"

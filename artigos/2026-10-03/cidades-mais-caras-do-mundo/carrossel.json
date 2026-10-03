@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "dupla",
+  "capa": "zurique-limmat-noite.jpg",
+  "capa_extra": "genebra-jet-d-eau.jpg",
+  "rotulos": ["Zurique", "Genebra"],
+  "chamada": "Veja o ranking",
+  "gancho": "As ==6 cidades mais caras== do mundo ficam no mesmo país",
+  "slides": [
+    {"tipo": "texto", "titulo": "Que país é esse?", "texto": "A **Suíça**.\n\nNo ranking do Numbeo de 2026, o top 6 é todo suíço: ==Zurique==, Genebra, Basileia, Lausanne, Lugano e Berna.\n\nNova York só aparece em 7º.", "foto": "capa", "fonte": "Numbeo, via Time Out"},
+    {"tipo": "numero", "numero": "18%", "texto": "é quanto o dia a dia em **Zurique** sai mais caro que em **Nova York**.\n\nMercado, restaurante, transporte e contas. Sem contar o aluguel.", "fonte": "Numbeo 2026, via Time Out"},
+    {"tipo": "foto_texto", "foto": "franco-suico-cidades-mais-caras-do-mundo.jpg", "titulo": "Por que tão caro?", "texto": "O **franco suíço** é uma das moedas mais fortes do mundo.\n\nSó que o salário lá também é alto: quem ganha em franco paga a conta com folga. Quem chega com real, não.", "fonte": "Numbeo, via Time Out"},
+    {"tipo": "foto_texto", "foto": "singapura-marina-bay-cidade-mais-cara.jpg", "titulo": "No luxo, outra campeã", "texto": "Para quem vive como rico, a mais cara é **Singapura**, pelo 4º ano seguido.\n\nSó a licença para ter um carro pequeno passou de **133 mil dólares de Singapura**.", "fonte": "Julius Baer e The Straits Times"},
+    {"tipo": "texto", "titulo": "E o Brasil?", "texto": "No ranking de luxo do banco Julius Baer, ==São Paulo== subiu para o **12º lugar**.\n\nFicou à frente de **Dubai**, que caiu para 14º.", "fonte": "Julius Baer, 2026"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "Não existe uma só cidade mais cara do mundo. Depende do que você compra.\n\nMas em todos os rankings, quem manda na conta é o **câmbio**.", "fonte": "Numbeo e Julius Baer"},
+    {"tipo": "final"}
+  ],
+  "legenda": "As seis cidades mais caras do mundo para o dia a dia ficam na Suíça, segundo o ranking de 2026 do Numbeo, divulgado pela Time Out.\n\nZurique lidera, seguida de Genebra, Basileia, Lausanne, Lugano e Berna. Com Nova York valendo 100 pontos, Zurique marca 118,5. O índice soma mercado, restaurantes, transporte e contas, sem o aluguel.\n\nNo padrão de luxo, a conta muda. O relatório de 2026 do banco Julius Baer, que compara 20 itens de alto padrão em 25 cidades, coloca Singapura em 1º pelo quarto ano, Zurique em 2º e Mônaco em 3º. São Paulo subiu para 12º, à frente de Dubai.\n\nO peso da moeda explica boa parte dos rankings: quando o franco suíço ou o euro ficam fortes, essas cidades sobem na lista.\n\nQual dessas cidades você teria coragem de visitar?\n\n(Fotos: Barbara Steinemann/Wikimedia Commons, CC BY-SA 4.0; Luisfpizarro/Wikimedia Commons, CC0; sdh_zh/Wikimedia Commons, CC BY 2.0; Tony Webster/Wikimedia Commons, CC BY 2.0; Bijay Chaurasia/Wikimedia Commons, CC BY-SA 4.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

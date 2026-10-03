@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "capa": "javier-milei-presidente-da-argentina-2026.jpg",
+  "capa_extra": "passaporte-argentino-cidadania-por-investimento.png",
+  "chamada": "Deslize para ver",
+  "gancho": "A Argentina de Milei vai vender cidadania por ==US$ 350 mil==",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que foi anunciado", "texto": "Estrangeiros vão poder virar **cidadãos argentinos** sem morar no país.\n\nBasta pagar ==US$ 350 mil== ao governo, cerca de **R$ 1,8 milhão**. O dinheiro não volta.\n\nE tem um segundo jeito.", "foto": "capa", "fonte": "Poder360 e EFE"},
+    {"tipo": "comparacao", "titulo": "Os dois caminhos", "esquerda": {"rotulo": "Pagar", "valor": "US$ 350 mil", "detalhe": "doação ao Tesouro"}, "direita": {"rotulo": "Emprestar", "valor": "US$ 800 mil", "detalhe": "título que não paga juros"}, "texto": "A família paga à parte. Quanto custa levar todo mundo?", "fonte": "Diario de Cuyo"},
+    {"tipo": "numero", "numero": "US$ 500 mil", "texto": "é o preço para uma família com **pai, mãe e duas crianças**, na opção mais barata.\n\nCada filho pequeno custa US$ 25 mil a mais.", "fonte": "Diario de Cuyo e Poder360"},
+    {"tipo": "foto_texto", "foto": "luis-caputo-ministro-da-economia-argentina.png", "titulo": "Por que vender?", "texto": "O ministro **Luis Caputo** quer dólares para o caixa do governo.\n\nA meta é juntar **US$ 2,5 bilhões** em cinco anos, segundo o NeoFeed. Mas tem um problema.", "fonte": "Bloomberg Línea e NeoFeed"},
+    {"tipo": "texto", "titulo": "A briga na Justiça", "texto": "Em junho, um tribunal argentino anulou o decreto que mudou as regras da cidadania.\n\nPara os juízes, o governo não podia decidir sobre cidadania por decreto. O programa ainda pode ser questionado.", "fonte": "Perfil"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "O programa deve abrir até **dezembro de 2026**, com checagem de antecedentes e da origem do dinheiro.\n\nResta saber se os ricos vão comprar e se a Justiça vai deixar.", "fonte": "EFE, via Infobae"},
+    {"tipo": "final"}
+  ],
+  "legenda": "A Argentina vai vender cidadania a estrangeiros por US$ 350 mil, cerca de R$ 1,8 milhão.\n\nO anúncio foi feito na sexta-feira (2), em Paris, pelo ministro da Economia, Luis Caputo, e pelo chefe de Gabinete, Diego Santilli, segundo o Poder360 e a agência EFE. Quem pagar ao Tesouro, sem devolução, ou comprar um título público de US$ 800 mil pode pedir o passaporte sem ter morado no país.\n\nA família entra no mesmo pedido: US$ 100 mil pelo cônjuge e US$ 25 mil por filho menor de idade. Os candidatos passam por checagem de antecedentes e da origem do dinheiro, e a decisão final é da Direção de Migrações. O início está previsto para o último trimestre de 2026.\n\nO governo de Javier Milei quer reforçar o caixa: a meta é arrecadar US$ 2,5 bilhões em cinco anos, segundo o NeoFeed. Só que, em junho, a Câmara Nacional Eleitoral anulou o decreto de 2025 que mudou as regras da cidadania, segundo o jornal Perfil, e o tema pode voltar à Justiça.\n\nVocê pagaria por um segundo passaporte?\n\n(Fotos: Elekes Andor/Wikimedia Commons, CC BY 4.0; Barcex/Wikimedia Commons, CC BY-SA 3.0; Governo da Argentina/InfoLeg, CC BY 2.5 AR; Governo da Argentina, CC BY 4.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

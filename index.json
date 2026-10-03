@@ -461,9 +461,30 @@
    ],
    "titulo": "Como o McDonald's ganha dinheiro com aluguel, não com lanche",
    "data": "2026-10-03 11:00"
+  },
+  {
+   "slug": "cidadania-argentina-por-investimento",
+   "pasta": "artigos/2026-10-03/cidadania-argentina-por-investimento",
+   "arquivos": [
+    "cidadania-argentina-por-investimento.md",
+    "carrossel.json"
+   ],
+   "titulo": "Cidadania argentina por investimento vai custar US$ 350 mil",
+   "data": "2026-10-03 14:00"
+  },
+  {
+   "slug": "cidades-mais-caras-do-mundo",
+   "pasta": "artigos/2026-10-03/cidades-mais-caras-do-mundo",
+   "arquivos": [
+    "cidades-mais-caras-do-mundo.md",
+    "cidades-mais-caras-do-mundo-rankings.png",
+    "carrossel.json"
+   ],
+   "titulo": "Quais são as cidades mais caras do mundo para viver em 2026",
+   "data": "2026-10-03 16:00"
   }
  ],
- "atualizado": "2026-10-03 10:15",
+ "atualizado": "2026-10-03 16:06",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

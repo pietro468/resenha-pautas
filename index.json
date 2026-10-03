@@ -473,6 +473,20 @@
    "data": "2026-10-03 14:00"
   },
   {
+   "slug": "dale-carnegie",
+   "pasta": "artigos/2026-10-03/dale-carnegie",
+   "arquivos": [
+    "dale-carnegie.md",
+    "dale-carnegie-capa.jpg",
+    "dale-carnegie-como-evitar-preocupacoes.jpg",
+    "dale-carnegie-como-fazer-amigos-livro.jpg",
+    "dale-carnegie-livro-leitora.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Dale Carnegie: do vendedor de bacon ao livro de 30 milhões",
+   "data": "2026-10-03 15:20"
+  },
+  {
    "slug": "cidades-mais-caras-do-mundo",
    "pasta": "artigos/2026-10-03/cidades-mais-caras-do-mundo",
    "arquivos": [
@@ -484,7 +498,7 @@
    "data": "2026-10-03 16:00"
   }
  ],
- "atualizado": "2026-10-03 16:06",
+ "atualizado": "2026-10-03 15:09",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

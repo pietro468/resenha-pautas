@@ -1,0 +1,57 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "chamada": "Veja a história",
+  "capa": "capa",
+  "gancho": "==Dale Carnegie== vendia bacon antes de escrever um livro de 30 milhões de cópias",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "Filho da fazenda",
+      "texto": "Dale Carnegie nasceu em **1888**, numa fazenda pobre do Missouri, nos Estados Unidos.\n\nNa juventude, vendeu cursos por correspondência e depois **bacon, sabão e banha** para a Armour & Company.",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Campeão de vendas",
+      "texto": "Ele fez da região de South Omaha a **líder nacional** de vendas da empresa.\n\nMesmo assim, largou tudo em 1911 para tentar ser ator. Não deu certo.",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "numero",
+      "numero": "80%",
+      "texto": "do lucro das aulas de oratória que ele começou a dar numa ACM de Nova York, em **1912**. Não tinha salário fixo: só ganhava se os alunos aparecessem.",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "numero",
+      "numero": "US$ 500",
+      "texto": "por semana era quanto ele já ganhava em **1914**, só dois anos depois. Em valores de hoje, cerca de **US$ 16 mil** por semana.",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "dale-carnegie-como-fazer-amigos-livro.jpg",
+      "titulo": "O livro",
+      "texto": "Em 1934, um editor da Simon & Schuster fez o curso e mandou anotar as aulas.\n\nO resultado saiu em **1936**: Como Fazer Amigos e Influenciar Pessoas.",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "numero",
+      "numero": "30 milhões",
+      "texto": "de cópias vendidas no mundo. Foram **250 mil** só nos três primeiros meses, e o livro ainda vende mais de 250 mil por ano.",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Aluno famoso",
+      "texto": "**Warren Buffett** fez o curso de Carnegie aos 20 anos e guardou o diploma no escritório.",
+      "fonte": "Wikipédia"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Antes de escrever um dos livros mais vendidos da história, Dale Carnegie vendia bacon.\n\nFilho de fazendeiros pobres do Missouri, ele vendeu cursos por correspondência e depois bacon, sabão e banha para a Armour & Company, onde fez da sua região a líder nacional de vendas. Em 1911, largou tudo para tentar ser ator. Não deu certo.\n\nA virada veio em 1912: ele convenceu uma ACM de Nova York a deixá-lo dar aulas de oratória para adultos. Sem salário fixo, ficava com 80% do lucro. Dois anos depois, já ganhava 500 dólares por semana.\n\nEm 1934, um editor da Simon & Schuster fez o curso e mandou anotar as aulas. Em 1936, nasceu Como Fazer Amigos e Influenciar Pessoas, que passou de 30 milhões de cópias vendidas. Warren Buffett foi um dos alunos do curso.\n\n(Foto da capa: autor desconhecido, domínio público. Livro: Iphone thirteen, CC0, via Wikimedia Commons)\n(Fonte: Wikipédia)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

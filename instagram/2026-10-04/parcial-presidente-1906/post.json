@@ -1,0 +1,22 @@
+{
+  "titulo": "Apuração ao vivo: parcial de presidente com 64,8% das urnas apuradas",
+  "data": "2026-10-04 19:38",
+  "fotos": [],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa": "capa",
+    "capa_estilo": "placar",
+    "chamada": "APURAÇÃO AO VIVO:",
+    "gancho": "Com ==64,8% das urnas apuradas==, veja como está a votação para presidente",
+    "fonte": "TSE, às 19:06 (horário de Brasília)",
+    "linhas": [
+      {"rotulo": "Flávio Bolsonaro (PL)", "valor": "49,58%", "num": 49.58, "destaque": 1},
+      {"rotulo": "Lula (PT)", "valor": "42,25%", "num": 42.25},
+      {"rotulo": "Augusto Cury (Avante)", "valor": "2,97%", "num": 2.97},
+      {"rotulo": "Ronaldo Caiado (PSD)", "valor": "2,34%", "num": 2.34},
+      {"rotulo": "Renan Santos (Missão)", "valor": "2,34%", "num": 2.34}
+    ],
+    "legenda": "Com 64,8% das urnas apuradas, Flávio Bolsonaro (PL) lidera a apuração para presidente, segundo o TSE às 19h06 (horário de Brasília).\n\nNessa parcial, Flávio Bolsonaro tem 49,58% dos votos válidos (37.566.895 votos) e Lula (PT) tem 42,25% (32.007.853 votos). Augusto Cury (Avante) aparece com 2,97% (2.247.926 votos).\n\nRonaldo Caiado (PSD) e Renan Santos (Missão) estão empatados em 2,34% dos válidos: Caiado tem 1.774.893 votos e Renan Santos, 1.772.742. Os outros 7 candidatos, juntos, somam 0,52% dos válidos.\n\nÉ uma parcial: os números mudam até o fim da totalização. Para vencer no 1º turno, um candidato precisa de mais da metade dos votos válidos (brancos e nulos não entram na conta). Se ninguém chegar lá, os dois mais votados disputam o 2º turno em 25 de outubro. Quem foi eleito ou quem vai para o 2º turno só é confirmado pelo TSE.\n\nAcompanhe a apuração completa, com todos os cargos, em resenharentavel.com/apuracao\n\n(Fonte: TSE, resultados.tse.jus.br)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

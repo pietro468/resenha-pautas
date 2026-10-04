@@ -10,6 +10,7 @@ on:
     - cron: "50 7 4,25 10 *"
     - cron: "40 13 4,25 10 *"
     - cron: "30 19 4,25 10 *"
+    - cron: "30 0 5,26 10 *"
 jobs:
   vigia:
     runs-on: ubuntu-latest

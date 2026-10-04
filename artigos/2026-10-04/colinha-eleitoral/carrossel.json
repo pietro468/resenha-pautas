@@ -1,0 +1,53 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "capa": "capa",
+  "gancho": "Votar duas vezes no mesmo senador ==anula o segundo voto==. Monte sua colinha",
+  "chamada": "Deslize para ver",
+  "slides": [
+    {
+      "tipo": "texto_claro",
+      "titulo": "A ordem da urna",
+      "texto": "==1.== Deputado federal: **4 números**\n\n==2.== Deputado estadual: **5**\n\n==3 e 4.== Senador e senador: **3 cada**\n\n==5.== Governador: **2**\n\n==6.== Presidente: **2**",
+      "fonte": "TRE-SP"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "colinha-eleitoral-titulo-na-fila.jpg",
+      "titulo": "Como preencher",
+      "texto": "Seis linhas, na ordem da urna. Ao lado de cada cargo, o **número** do seu candidato.\n\nMas atenção às duas linhas do Senado.",
+      "fonte": "TRE-SP"
+    },
+    {
+      "tipo": "numero",
+      "foto": "eleitora-a-caminho-da-cabine.jpg",
+      "numero": "2 nomes",
+      "texto": "**diferentes** para senador. Repetiu o mesmo número? O segundo voto é **anulado** pela urna.",
+      "fonte": "Presidente do TRE-SP, 24/9"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Só o partido não vale",
+      "texto": "Para senador, digitar só os **2 números do partido** não deixa a urna seguir.\n\nVale o número completo do candidato, com **3 dígitos**.\n\nE se a ideia for votar em branco?",
+      "fonte": "TRE-SP"
+    },
+    {
+      "tipo": "texto",
+      "foto": "cabine-de-votacao-mesarios.jpg",
+      "titulo": "Branco ou nulo",
+      "texto": "==Branco:== tecla Branco e depois Confirma.\n\n==Nulo:== um número que não existe, como 00, e Confirma.\n\nOs dois ficam **fora dos votos válidos**.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "Por que no papel?",
+      "texto": "O **celular não entra** na cabine.\n\nA colinha de papel entra. Anote tudo antes de sair: **4, 5, 3, 3, 2 e 2**.\n\nUrnas das **8h às 17h** de Brasília.",
+      "fonte": "TRE-SP e TSE"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Votar duas vezes no mesmo senador anula o segundo voto. Por isso, monte a sua colinha antes de sair.\n\nA ordem da urna é a mesma no país todo: deputado federal (4 números), deputado estadual ou distrital (5), senador (3), senador de novo (3), governador (2) e presidente (2) (TRE-SP).\n\nSão duas vagas no Senado, então os dois votos precisam ir para candidatos diferentes. Se o número se repetir, \"o segundo voto será automaticamente anulado pela urna eletrônica\", disse o presidente do TRE-SP em 24 de setembro. E, para senador, não vale votar só no número do partido.\n\nBranco: tecla Branco e Confirma. Nulo: um número que não existe, como 00, e Confirma. Os dois ficam fora dos votos válidos e não anulam a eleição (TSE).\n\nA colinha precisa ser de papel, porque o celular não entra na cabine. O TRE-SP tem um modelo em PDF para imprimir.\n\nJá anotou os seus seis números?\n\n(Fotos: Geraldo Magela, Leonardo Sá e Edilson Rodrigues/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

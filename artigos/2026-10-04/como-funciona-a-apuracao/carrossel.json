@@ -1,0 +1,60 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "capa": "capa",
+  "capa_foco": "62,45",
+  "gancho": "A urna não tem internet. Então como o ==seu voto== chega ao TSE?",
+  "chamada": "Urnas fechadas",
+  "slides": [
+    {
+      "tipo": "texto_claro",
+      "titulo": "17h: a urna conta",
+      "texto": "Quem já estava na fila **ganha senha e vota**.\n\nDepois, cada urna **soma os próprios votos** ali mesmo, na seção.\n\nE imprime o resultado.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "numero",
+      "numero": "5 vias",
+      "texto": "do **boletim de urna** saem impressas em cada seção. Uma fica **colada na porta** da sala, para qualquer um ler.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto",
+      "foto": "interior-da-urna-eletronica.jpg",
+      "titulo": "Sem internet",
+      "texto": "Os votos saem num **dispositivo removível**, parecido com um pendrive: a mídia de resultado.\n\nEle vai para a junta eleitoral, que envia tudo por uma **rede só da Justiça Eleitoral**.\n\nMas como saber que é verdadeiro?",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O selo da urna",
+      "texto": "Cada arquivo tem uma **assinatura digital**.\n\nEla confirma que o resultado saiu da **urna certa** daquela seção. Só então ele entra na conta.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "exposicao-o-caminho-do-voto.jpg",
+      "titulo": "É uma soma",
+      "texto": "\"A totalização nada mais é do que um processo de **somatória**\", diz Júlio Valente, secretário de TI do TSE.\n\nO TSE soma os boletins do país inteiro.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto",
+      "foto": "sede-do-tse-dia-de-eleicao.jpg",
+      "titulo": "Onde acompanhar",
+      "texto": "No app **Resultados** e no portal do TSE, a partir das **17h** de Brasília.\n\nDá para ver por estado, cidade e candidato.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "E quando sai o vencedor?",
+      "texto": "Presidente e governador precisam de **mais da metade dos votos válidos**.\n\nSe ninguém chegar lá, os dois primeiros voltam às urnas em **25 de outubro**.\n\nQuem confirma é o TSE.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "As urnas fecharam às 17h de Brasília. Veja o caminho do seu voto até o resultado.\n\nNa seção, quem estava na fila recebe senha e vota. Depois, a urna soma os próprios votos e imprime cinco vias do boletim de urna. Uma delas fica na porta da sala, e os QR Codes do boletim podem ser conferidos no e-Título (TSE).\n\nA urna não tem internet. Os dados saem na mídia de resultado e seguem por uma rede usada só pela Justiça Eleitoral. Em áreas remotas, como 66 locais de votação no Maranhão, o envio é feito por satélite (TSE).\n\nAntes de entrar na conta, cada arquivo passa pela conferência da assinatura digital, que confirma que ele saiu da urna cadastrada para aquela seção. Depois, o TSE soma os boletins do país inteiro.\n\nA divulgação começa às 17h, no app Resultados e no portal do TSE. Para presidente e governador, vence no 1º turno quem tiver mais da metade dos votos válidos. Se ninguém chegar lá, o 2º turno é em 25 de outubro.\n\nVocê vai acompanhar a apuração hoje?\n\n(Fotos: Roque de Sá e Ton Molina/Agência Senado; Alejandro Zambrana/Secom/TSE; Collab3, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

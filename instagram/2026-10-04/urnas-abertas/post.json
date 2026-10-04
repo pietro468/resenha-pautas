@@ -1,0 +1,20 @@
+{
+  "titulo": "Urnas abertas em todo o Brasil",
+  "data": "2026-10-04 08:00",
+  "fotos": [
+    {
+      "arquivo": "secao-eleitoral-urna-aberta.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_30230099457.jpg/1920px-Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_30230099457.jpg",
+      "credito": "Edilson Rodrigues/Agência Senado (CC BY 2.0)"
+    }
+  ],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa_estilo": "urgente",
+    "chamada": "AGORA:",
+    "capa": "secao-eleitoral-urna-aberta.jpg",
+    "gancho": "Urnas abertas em todo o Brasil até as 17h (horário de Brasília)",
+    "legenda": "Começou a votação do 1º turno das Eleições 2026. As urnas ficam abertas das 8h às 17h, no horário de Brasília, em todo o país (TSE).\n\nNo relógio local, o horário muda em alguns lugares. Em Rondônia, Mato Grosso, Mato Grosso do Sul, Roraima e na maior parte do Amazonas, a votação vai das 7h às 16h. No Acre e no oeste do Amazonas, das 6h às 15h. Em Fernando de Noronha, das 9h às 18h.\n\nHoje são seis votos, nesta ordem: deputado federal, deputado estadual ou distrital, senador, senador de novo, governador e presidente.\n\nLeve um documento oficial com foto ou o e-Título com a sua foto, e a colinha de papel com os números. O celular não entra na cabine.\n\nNão sabe onde vota? No e-Título, toque em Onde votar. Quem estiver na fila às 17h de Brasília ainda vota.\n\nVocê vota de manhã ou deixa para a tarde?\n\n(Foto: Edilson Rodrigues/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

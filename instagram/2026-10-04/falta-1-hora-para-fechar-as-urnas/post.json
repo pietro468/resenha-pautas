@@ -1,0 +1,20 @@
+{
+  "titulo": "Falta 1 hora para fechar as urnas",
+  "data": "2026-10-04 16:00",
+  "fotos": [
+    {
+      "arquivo": "fila-de-eleitores-fim-da-votacao.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_43350690550.jpg/1920px-Elei%C3%A7%C3%B5es_2018_-_Primeiro_turno_-_43350690550.jpg",
+      "credito": "Pedro França/Agência Senado (CC BY 2.0)"
+    }
+  ],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa_estilo": "urgente",
+    "chamada": "ATENÇÃO",
+    "capa": "fila-de-eleitores-fim-da-votacao.jpg",
+    "gancho": "Falta 1 hora para fechar as urnas. Quem estiver na fila às 17h ==ainda vota==",
+    "legenda": "Falta 1 hora para o fim da votação. As urnas fecham às 17h, no horário de Brasília, em todo o país.\n\nQuem já estiver na fila nesse horário vota. Segundo o TSE, os mesários identificam todos os eleitores que ainda aguardam e distribuem senhas, e só eles votam depois das 17h. Quem chegar depois disso não entra.\n\nAtenção ao fuso: em Rondônia, Mato Grosso, Mato Grosso do Sul, Roraima e na maior parte do Amazonas, as urnas fecham às 16h locais. No Acre e no oeste do Amazonas, às 15h locais.\n\nLeve documento oficial com foto ou o e-Título com foto, e a colinha de papel. Está longe da cidade onde vota? Dá para justificar pelo e-Título até as 17h de Brasília. Quem não votar nem justificar hoje tem até 3 de dezembro para justificar.\n\nJá votou?\n\n(Foto: Pedro França/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

@@ -547,9 +547,39 @@
    ],
    "titulo": "Documentos para votar hoje e o horário da eleição em cada estado",
    "data": "2026-10-04 06:30"
+  },
+  {
+   "slug": "onde-eu-voto",
+   "pasta": "artigos/2026-10-04/onde-eu-voto",
+   "arquivos": [
+    "onde-eu-voto.md",
+    "carrossel.json"
+   ],
+   "titulo": "Onde eu voto? Como achar sua seção no e-Título ou pelo CPF",
+   "data": "2026-10-04 07:15"
+  },
+  {
+   "slug": "colinha-eleitoral",
+   "pasta": "artigos/2026-10-04/colinha-eleitoral",
+   "arquivos": [
+    "colinha-eleitoral.md",
+    "carrossel.json"
+   ],
+   "titulo": "Monte a colinha eleitoral com os 6 votos na ordem da urna",
+   "data": "2026-10-04 07:30"
+  },
+  {
+   "slug": "como-funciona-a-apuracao",
+   "pasta": "artigos/2026-10-04/como-funciona-a-apuracao",
+   "arquivos": [
+    "como-funciona-a-apuracao.md",
+    "carrossel.json"
+   ],
+   "titulo": "Urnas fechadas: como funciona a apuração dos votos",
+   "data": "2026-10-04 17:05"
   }
  ],
- "atualizado": "2026-10-03 23:57",
+ "atualizado": "2026-10-04 02:23",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -642,9 +672,24 @@
    "data": "2026-10-03 10:00"
   },
   {
+   "slug": "falta-1-hora-para-fechar-as-urnas",
+   "pasta": "instagram/2026-10-04/falta-1-hora-para-fechar-as-urnas",
+   "data": "2026-10-04 16:00"
+  },
+  {
+   "slug": "frase-lincoln-voto",
+   "pasta": "instagram/2026-10-04/frase-lincoln-voto",
+   "data": "2026-10-04 12:30"
+  },
+  {
    "slug": "frase-lyndon-johnson-voto",
    "pasta": "instagram/2026-10-04/frase-lyndon-johnson-voto",
    "data": "2026-10-04 07:00"
+  },
+  {
+   "slug": "urnas-abertas",
+   "pasta": "instagram/2026-10-04/urnas-abertas",
+   "data": "2026-10-04 08:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

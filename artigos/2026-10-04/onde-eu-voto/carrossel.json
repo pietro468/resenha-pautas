@@ -1,0 +1,54 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "capa": "onde-eu-voto-secoes-transferidas.jpg",
+  "capa_extra": "e-titulo-onde-votar-celular.jpg",
+  "capa_foco": "35,45",
+  "gancho": "Seu local de votação ==pode ter mudado==. Veja como conferir em 1 minuto",
+  "chamada": "Veja como",
+  "slides": [
+    {
+      "tipo": "texto_claro",
+      "titulo": "Onde eu voto?",
+      "texto": "A resposta está no **e-Título** ou no **site do TSE**.\n\nOs dois mostram a escola, o endereço, a **zona** e a **seção**.\n\nComeça pelo aplicativo.",
+      "fonte": "TSE e SBT News"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "No e-Título",
+      "texto": "Entre no app e toque em **Onde votar**, na barra de baixo.\n\nO app ainda mostra a **rota** até a escola. E sem o app?",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "No site do TSE",
+      "texto": "Autoatendimento Eleitoral, opção **Onde votar**.\n\n==Você informa:== CPF ou título, data de nascimento e nome da mãe.\n\nO site do TRE do seu estado também consulta.",
+      "fonte": "SBT News e TSE"
+    },
+    {
+      "tipo": "numero",
+      "foto": "zona-e-secao-na-porta.jpg",
+      "numero": "188 mil",
+      "texto": "eleitores do Rio tiveram o local de votação trocado em 2026. O TRE-RJ mudou **66 locais** por segurança.",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "tipo": "texto",
+      "foto": "placa-de-secao-eleitoral.jpg",
+      "titulo": "Chegou na escola?",
+      "texto": "Um prédio tem várias seções, cada uma numa sala.\n\nO que importa é o **número da seção**. Anote antes de sair.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "Antes de sair",
+      "texto": "**Seção conferida** no app ou no site.\n\n**Documento com foto** ou e-Título com foto.\n\n**Colinha de papel**. Urnas das **8h às 17h** de Brasília.",
+      "fonte": "TSE"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Seu local de votação pode ter mudado. Confira antes de sair de casa: leva menos de um minuto.\n\nNo aplicativo e-Título, toque em Onde votar, na barra de baixo. Aparecem a escola, o endereço, a zona e a seção, e o app mostra a rota até lá (TSE).\n\nSem o app, use o site do TSE: Autoatendimento Eleitoral, opção Onde votar. Informe o CPF ou o número do título, a data de nascimento e o nome da mãe (SBT News). Os sites dos TREs também fazem a consulta.\n\nO TSE lembrou que o endereço da seção pode ter mudado desde a última eleição. No Rio de Janeiro, o TRE-RJ trocou 66 locais de votação por segurança, o que atingiu cerca de 188 mil eleitores (Agência Brasil).\n\nLonge da sua cidade? Dá para justificar hoje pelo e-Título ou num formulário em qualquer seção, das 8h às 17h de Brasília.\n\nVocê já conferiu o número da sua seção?\n\n(Fotos: Leonardo Sá e Edilson Rodrigues/Agência Senado, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,56 +1,56 @@
 {
- "gerado": "2026-10-04T21:48Z",
+ "gerado": "2026-10-04T22:01Z",
  "fonte": "TSE, resultados.tse.jus.br",
  "pres": {
-  "pst": 41.569119956,
+  "pst": 47.257274942,
   "final": false,
-  "hora": "04/10/2026 18:38:05",
+  "hora": "04/10/2026 18:44:02",
   "cands": [
    {
     "nome": "Flavio Bolsonaro",
     "partido": "PL",
     "n": "22",
-    "votos": 24212947,
-    "pct": 50.41,
+    "votos": 27484298,
+    "pct": 50.2,
     "st": ""
    },
    {
     "nome": "Lula",
     "partido": "PT",
     "n": "13",
-    "votos": 19903245,
-    "pct": 41.44,
+    "votos": 22791778,
+    "pct": 41.63,
     "st": ""
    },
    {
     "nome": "Escritor Augusto Cury",
     "partido": "AVANTE",
     "n": "70",
-    "votos": 1416111,
-    "pct": 2.95,
+    "votos": 1618252,
+    "pct": 2.96,
     "st": ""
    },
    {
     "nome": "Ronaldo Caiado",
     "partido": "PSD",
     "n": "55",
-    "votos": 1147127,
-    "pct": 2.39,
+    "votos": 1302519,
+    "pct": 2.38,
     "st": ""
    },
    {
     "nome": "Renan Santos",
     "partido": "MISSÃO",
     "n": "14",
-    "votos": 1107591,
-    "pct": 2.31,
+    "votos": 1269583,
+    "pct": 2.32,
     "st": ""
    },
    {
     "nome": "Zema",
     "partido": "NOVO",
     "n": "30",
-    "votos": 137066,
+    "votos": 157128,
     "pct": 0.29,
     "st": ""
    },
@@ -58,7 +58,7 @@
     "nome": "Samara",
     "partido": "UP",
     "n": "80",
-    "votos": 49996,
+    "votos": 57248,
     "pct": 0.1,
     "st": ""
    },
@@ -66,7 +66,7 @@
     "nome": "Hertz Dias",
     "partido": "PSTU",
     "n": "16",
-    "votos": 17603,
+    "votos": 20149,
     "pct": 0.04,
     "st": ""
    },
@@ -74,7 +74,7 @@
     "nome": "Clariana Barao",
     "partido": "DC",
     "n": "27",
-    "votos": 17336,
+    "votos": 19681,
     "pct": 0.04,
     "st": ""
    },
@@ -82,7 +82,7 @@
     "nome": "Edmilson Costa",
     "partido": "PCB",
     "n": "21",
-    "votos": 8978,
+    "votos": 10259,
     "pct": 0.02,
     "st": ""
    },
@@ -90,7 +90,7 @@
     "nome": "Veterinário Wilson Grassi",
     "partido": "DEMOCRATA",
     "n": "35",
-    "votos": 7124,
+    "votos": 8076,
     "pct": 0.01,
     "st": ""
    },
@@ -98,7 +98,7 @@
     "nome": "Rui Costa Pimenta",
     "partido": "PCO",
     "n": "29",
-    "votos": 6617,
+    "votos": 7531,
     "pct": 0.01,
     "st": ""
    }
@@ -106,93 +106,93 @@
  },
  "gov": {
   "ac": {
-   "pst": 84.317180617,
+   "pst": 89.911894273,
    "final": false,
-   "hora": "04/10/2026 16:46:03",
+   "hora": "04/10/2026 16:59:42",
    "cands": [
     {
      "nome": "Mailza Assis",
      "partido": "PP",
      "n": "11",
-     "votos": 181046,
-     "pct": 49.32,
+     "votos": 194491,
+     "pct": 49.54,
      "st": ""
     },
     {
      "nome": "Alan Rick",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 116852,
-     "pct": 31.83,
+     "votos": 125598,
+     "pct": 31.99,
      "st": ""
     },
     {
      "nome": "Tião Bocalom",
      "partido": "PSDB",
      "n": "45",
-     "votos": 39320,
-     "pct": 10.71,
+     "votos": 41350,
+     "pct": 10.53,
      "st": ""
     },
     {
      "nome": "Thor Dantas",
      "partido": "PSB",
      "n": "40",
-     "votos": 28874,
-     "pct": 7.87,
+     "votos": 30104,
+     "pct": 7.67,
      "st": ""
     }
    ]
   },
   "al": {
-   "pst": 21.081537812,
+   "pst": 27.475003521,
    "final": false,
-   "hora": "04/10/2026 18:47:02",
+   "hora": "04/10/2026 19:00:12",
    "cands": [
     {
      "nome": "Renan Filho",
      "partido": "MDB",
      "n": "15",
-     "votos": 165639,
-     "pct": 52.14,
+     "votos": 218378,
+     "pct": 52.4,
      "st": ""
     },
     {
      "nome": "Jhc",
      "partido": "PSDB",
      "n": "45",
-     "votos": 150939,
-     "pct": 47.51,
+     "votos": 196939,
+     "pct": 47.26,
      "st": ""
     },
     {
      "nome": "Lenilda Luna",
      "partido": "UP",
      "n": "80",
-     "votos": 987,
-     "pct": 0.31,
+     "votos": 1262,
+     "pct": 0.3,
      "st": ""
     },
     {
      "nome": "Márcio Jambo",
      "partido": "DEMOCRATA",
      "n": "35",
-     "votos": 134,
+     "votos": 170,
      "pct": 0.04,
      "st": ""
     }
    ]
   },
   "ap": {
-   "pst": 50.626959248,
+   "pst": 56.530825496,
    "final": false,
-   "hora": "04/10/2026 18:47:08",
+   "hora": "04/10/2026 18:59:26",
    "cands": [
     {
      "nome": "Dr. Furlan",
      "partido": "PSD",
      "n": "55",
-     "votos": 118536,
+     "votos": 135316,
      "pct": 60.07,
      "st": ""
     },
@@ -200,15 +200,15 @@
      "nome": "Clécio",
      "partido": "UNIÃO",
      "n": "44",
-     "votos": 78282,
-     "pct": 39.67,
+     "votos": 89372,
+     "pct": 39.68,
      "st": ""
     },
     {
      "nome": "Carlos Cley",
      "partido": "PSTU",
      "n": "16",
-     "votos": 219,
+     "votos": 250,
      "pct": 0.11,
      "st": ""
     },
@@ -216,490 +216,490 @@
      "nome": "Delegado Marcos",
      "partido": "DC",
      "n": "27",
-     "votos": 150,
+     "votos": 177,
      "pct": 0.08,
      "st": ""
     }
    ]
   },
   "am": {
-   "pst": 58.587716072,
+   "pst": 63.896040211,
    "final": false,
-   "hora": "04/10/2026 17:46:53",
+   "hora": "04/10/2026 17:59:09",
    "cands": [
     {
      "nome": "Omar Aziz",
      "partido": "PSD",
      "n": "55",
-     "votos": 446186,
-     "pct": 36.56,
+     "votos": 492528,
+     "pct": 36.96,
      "st": ""
     },
     {
      "nome": "Professora Maria do Carmo",
      "partido": "PL",
      "n": "22",
-     "votos": 348314,
-     "pct": 28.54,
+     "votos": 374403,
+     "pct": 28.09,
      "st": ""
     },
     {
      "nome": "Roberto Cidade",
      "partido": "UNIÃO",
      "n": "44",
-     "votos": 239711,
-     "pct": 19.64,
+     "votos": 265816,
+     "pct": 19.95,
      "st": ""
     },
     {
      "nome": "David Almeida",
      "partido": "AVANTE",
      "n": "70",
-     "votos": 147563,
-     "pct": 12.09,
+     "votos": 158813,
+     "pct": 11.92,
      "st": ""
     }
    ]
   },
   "ba": {
-   "pst": 31.610102605,
+   "pst": 38.239936859,
    "final": false,
-   "hora": "04/10/2026 18:48:00",
+   "hora": "04/10/2026 18:59:49",
    "cands": [
     {
      "nome": "Jerônimo Rodrigues",
      "partido": "PT",
      "n": "13",
-     "votos": 1306205,
-     "pct": 52.97,
+     "votos": 1586116,
+     "pct": 52.88,
      "st": ""
     },
     {
      "nome": "Acm Neto",
      "partido": "UNIÃO",
      "n": "44",
-     "votos": 1144118,
-     "pct": 46.4,
+     "votos": 1395216,
+     "pct": 46.51,
      "st": ""
     },
     {
      "nome": "Ronaldo Mansur",
      "partido": "PSOL",
      "n": "50",
-     "votos": 11221,
-     "pct": 0.46,
+     "votos": 13223,
+     "pct": 0.44,
      "st": ""
     },
     {
      "nome": "Aroldo Felix",
      "partido": "UP",
      "n": "80",
-     "votos": 1924,
+     "votos": 2294,
      "pct": 0.08,
      "st": ""
     }
    ]
   },
   "ce": {
-   "pst": 28.828108563,
+   "pst": 36.675783716,
    "final": false,
-   "hora": "04/10/2026 18:47:23",
+   "hora": "04/10/2026 19:00:47",
    "cands": [
     {
      "nome": "Elmano de Freitas",
      "partido": "PT",
      "n": "13",
-     "votos": 768426,
-     "pct": 51.25,
+     "votos": 987757,
+     "pct": 51.37,
      "st": ""
     },
     {
      "nome": "Ciro Gomes",
      "partido": "PSDB",
      "n": "45",
-     "votos": 721104,
-     "pct": 48.09,
+     "votos": 922555,
+     "pct": 47.97,
      "st": ""
     },
     {
      "nome": "Delegado Huggo",
      "partido": "MISSÃO",
      "n": "14",
-     "votos": 4991,
-     "pct": 0.33,
+     "votos": 6448,
+     "pct": 0.34,
      "st": ""
     },
     {
      "nome": "Vera Lúcia",
      "partido": "NOVO",
      "n": "30",
-     "votos": 2061,
-     "pct": 0.14,
+     "votos": 2546,
+     "pct": 0.13,
      "st": ""
     }
    ]
   },
   "df": {
-   "pst": 95.680872435,
+   "pst": 97.574974889,
    "final": false,
-   "hora": "04/10/2026 18:46:01",
+   "hora": "04/10/2026 19:00:45",
    "cands": [
     {
      "nome": "Celina Leão",
      "partido": "PP",
      "n": "11",
-     "votos": 784986,
-     "pct": 49.83,
+     "votos": 801785,
+     "pct": 49.84,
      "st": ""
     },
     {
      "nome": "Leandro Grass",
      "partido": "PT",
      "n": "13",
-     "votos": 544378,
-     "pct": 34.56,
+     "votos": 555778,
+     "pct": 34.55,
      "st": ""
     },
     {
      "nome": "Paula Belmonte",
      "partido": "PSDB",
      "n": "45",
-     "votos": 133635,
-     "pct": 8.48,
+     "votos": 136724,
+     "pct": 8.5,
      "st": ""
     },
     {
      "nome": "Kiko Caputo",
      "partido": "NOVO",
      "n": "30",
-     "votos": 69574,
-     "pct": 4.42,
+     "votos": 70794,
+     "pct": 4.4,
      "st": ""
     }
    ]
   },
   "es": {
-   "pst": 85.290532304,
+   "pst": 89.089800894,
    "final": false,
-   "hora": "04/10/2026 18:47:31",
+   "hora": "04/10/2026 19:00:01",
    "cands": [
     {
      "nome": "Lorenzo Pazolini",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 887011,
-     "pct": 50.05,
+     "votos": 930153,
+     "pct": 50.07,
      "st": ""
     },
     {
      "nome": "Ricardo Ferraço",
      "partido": "MDB",
      "n": "15",
-     "votos": 605676,
-     "pct": 34.18,
+     "votos": 633978,
+     "pct": 34.13,
      "st": ""
     },
     {
      "nome": "Helder Salomão",
      "partido": "PT",
      "n": "13",
-     "votos": 262311,
-     "pct": 14.8,
+     "votos": 275508,
+     "pct": 14.83,
      "st": ""
     },
     {
      "nome": "Breno Barcelos",
      "partido": "MISSÃO",
      "n": "14",
-     "votos": 14952,
-     "pct": 0.84,
+     "votos": 15781,
+     "pct": 0.85,
      "st": ""
     }
    ]
   },
   "go": {
-   "pst": 59.384164223,
+   "pst": 68.105316843,
    "final": false,
-   "hora": "04/10/2026 18:47:31",
+   "hora": "04/10/2026 19:00:43",
    "cands": [
     {
      "nome": "Daniel Vilela",
      "partido": "MDB",
      "n": "15",
-     "votos": 1231237,
-     "pct": 58.06,
+     "votos": 1423595,
+     "pct": 58.28,
      "st": ""
     },
     {
      "nome": "Wilder Morais",
      "partido": "PL",
      "n": "22",
-     "votos": 488068,
-     "pct": 23.02,
+     "votos": 557983,
+     "pct": 22.84,
      "st": ""
     },
     {
      "nome": "Luis Cesar Bueno",
      "partido": "PT",
      "n": "13",
-     "votos": 202450,
-     "pct": 9.55,
+     "votos": 234579,
+     "pct": 9.6,
      "st": ""
     },
     {
      "nome": "Marconi Perillo",
      "partido": "PSDB",
      "n": "45",
-     "votos": 190659,
-     "pct": 8.99,
+     "votos": 217267,
+     "pct": 8.89,
      "st": ""
     }
    ]
   },
   "ma": {
-   "pst": 41.397225446,
+   "pst": 47.670369756,
    "final": false,
-   "hora": "04/10/2026 18:47:34",
+   "hora": "04/10/2026 19:00:14",
    "cands": [
     {
      "nome": "Eduardo Braide",
      "partido": "PSD",
      "n": "55",
-     "votos": 853236,
-     "pct": 55.87,
+     "votos": 976709,
+     "pct": 55.28,
      "st": ""
     },
     {
      "nome": "Orleans Brandão",
      "partido": "MDB",
      "n": "15",
-     "votos": 506306,
-     "pct": 33.15,
+     "votos": 595660,
+     "pct": 33.71,
      "st": ""
     },
     {
      "nome": "Felipe Camarão",
      "partido": "PT",
      "n": "13",
-     "votos": 140743,
-     "pct": 9.22,
+     "votos": 163755,
+     "pct": 9.27,
      "st": ""
     },
     {
      "nome": "Roberto Rocha",
      "partido": "PRTB",
      "n": "28",
-     "votos": 20828,
-     "pct": 1.36,
+     "votos": 23823,
+     "pct": 1.35,
      "st": ""
     }
    ]
   },
   "mt": {
-   "pst": 72.836973573,
+   "pst": 81.042596838,
    "final": false,
-   "hora": "04/10/2026 17:47:08",
+   "hora": "04/10/2026 18:00:16",
    "cands": [
     {
      "nome": "Otaviano Pivetta",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 820506,
-     "pct": 61.02,
+     "votos": 917707,
+     "pct": 61.15,
      "st": ""
     },
     {
      "nome": "Wellington Fagundes",
      "partido": "PL",
      "n": "22",
-     "votos": 306032,
-     "pct": 22.76,
+     "votos": 342342,
+     "pct": 22.81,
      "st": ""
     },
     {
      "nome": "Doutora Natasha",
      "partido": "PSD",
      "n": "55",
-     "votos": 205800,
-     "pct": 15.3,
+     "votos": 227145,
+     "pct": 15.13,
      "st": ""
     },
     {
      "nome": "Rafaell Milas",
      "partido": "MISSÃO",
      "n": "14",
-     "votos": 7781,
-     "pct": 0.58,
+     "votos": 8622,
+     "pct": 0.57,
      "st": ""
     }
    ]
   },
   "ms": {
-   "pst": 91.049817056,
+   "pst": 94.328736279,
    "final": false,
-   "hora": "04/10/2026 17:47:05",
+   "hora": "04/10/2026 17:59:45",
    "cands": [
     {
      "nome": "Eduardo Riedel",
      "partido": "PP",
      "n": "11",
-     "votos": 836834,
-     "pct": 67.43,
+     "votos": 866645,
+     "pct": 67.5,
      "st": ""
     },
     {
      "nome": "Fábio Trad",
      "partido": "PT",
      "n": "13",
-     "votos": 287798,
-     "pct": 23.19,
+     "votos": 298426,
+     "pct": 23.24,
      "st": ""
     },
     {
      "nome": "João Henrique Catan",
      "partido": "NOVO",
      "n": "30",
-     "votos": 90854,
-     "pct": 7.32,
+     "votos": 92708,
+     "pct": 7.22,
      "st": ""
     },
     {
      "nome": "Delcidio Amaral",
      "partido": "PRD",
      "n": "25",
-     "votos": 13430,
+     "votos": 13808,
      "pct": 1.08,
      "st": ""
     }
    ]
   },
   "mg": {
-   "pst": 41.535092774,
+   "pst": 51.261956898,
    "final": false,
-   "hora": "04/10/2026 18:46:31",
+   "hora": "04/10/2026 19:00:49",
    "cands": [
     {
      "nome": "Cleitinho Azevedo",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 2548543,
-     "pct": 53.18,
+     "votos": 3155353,
+     "pct": 53.69,
      "st": ""
     },
     {
      "nome": "Patrus Ananias",
      "partido": "PT",
      "n": "13",
-     "votos": 1272867,
-     "pct": 26.56,
+     "votos": 1553854,
+     "pct": 26.44,
      "st": ""
     },
     {
      "nome": "Flávio Roscoe",
      "partido": "PL",
      "n": "22",
-     "votos": 358181,
-     "pct": 7.47,
+     "votos": 436283,
+     "pct": 7.42,
      "st": ""
     },
     {
      "nome": "Mateus Simões",
      "partido": "PSD",
      "n": "55",
-     "votos": 216862,
-     "pct": 4.53,
+     "votos": 267487,
+     "pct": 4.55,
      "st": ""
     }
    ]
   },
   "pa": {
-   "pst": 53.10414366,
+   "pst": 60.656839679,
    "final": false,
-   "hora": "04/10/2026 18:47:02",
+   "hora": "04/10/2026 19:00:43",
    "cands": [
     {
      "nome": "Dr. Daniel",
      "partido": "PODE",
      "n": "20",
-     "votos": 1262852,
-     "pct": 52.46,
+     "votos": 1441462,
+     "pct": 52.49,
      "st": ""
     },
     {
      "nome": "Hana Ghassan",
      "partido": "MDB",
      "n": "15",
-     "votos": 1074707,
-     "pct": 44.65,
+     "votos": 1229920,
+     "pct": 44.79,
      "st": ""
     },
     {
      "nome": "Araceli",
      "partido": "PSOL",
      "n": "50",
-     "votos": 62329,
-     "pct": 2.59,
+     "votos": 66968,
+     "pct": 2.44,
      "st": ""
     },
     {
      "nome": "Gal Leite",
      "partido": "UP",
      "n": "80",
-     "votos": 3978,
-     "pct": 0.17,
+     "votos": 4253,
+     "pct": 0.15,
      "st": ""
     }
    ]
   },
   "pb": {
-   "pst": 81.03995519,
+   "pst": 86.594473488,
    "final": false,
-   "hora": "04/10/2026 18:47:07",
+   "hora": "04/10/2026 19:00:41",
    "cands": [
     {
      "nome": "Lucas Ribeiro",
      "partido": "PP",
      "n": "11",
-     "votos": 1180948,
-     "pct": 64.53,
+     "votos": 1263464,
+     "pct": 64.34,
      "st": ""
     },
     {
      "nome": "Efraim Filho",
      "partido": "PL",
      "n": "22",
-     "votos": 444528,
-     "pct": 24.29,
+     "votos": 479877,
+     "pct": 24.44,
      "st": ""
     },
     {
      "nome": "Cícero Lucena",
      "partido": "MDB",
      "n": "15",
-     "votos": 195586,
-     "pct": 10.69,
+     "votos": 210790,
+     "pct": 10.73,
      "st": ""
     },
     {
      "nome": "Yuri Ezequiel",
      "partido": "UP",
      "n": "80",
-     "votos": 7139,
-     "pct": 0.39,
+     "votos": 7541,
+     "pct": 0.38,
      "st": ""
     }
    ]
   },
   "pr": {
-   "pst": 87.104855943,
+   "pst": 92.174489721,
    "final": false,
-   "hora": "04/10/2026 18:45:49",
+   "hora": "04/10/2026 18:59:45",
    "cands": [
     {
      "nome": "Sergio Moro",
      "partido": "PL",
      "n": "22",
-     "votos": 2733278,
+     "votos": 2893801,
      "pct": 50.34,
      "st": ""
     },
@@ -707,452 +707,452 @@
      "nome": "Sandro Alex",
      "partido": "PSD",
      "n": "55",
-     "votos": 1363032,
-     "pct": 25.1,
+     "votos": 1447495,
+     "pct": 25.18,
      "st": ""
     },
     {
      "nome": "Requião Filho",
      "partido": "PDT",
      "n": "12",
-     "votos": 1274873,
-     "pct": 23.48,
+     "votos": 1345347,
+     "pct": 23.4,
      "st": ""
     },
     {
      "nome": "Luiz França",
      "partido": "MISSÃO",
      "n": "14",
-     "votos": 39206,
+     "votos": 41320,
      "pct": 0.72,
      "st": ""
     }
    ]
   },
   "pe": {
-   "pst": 35.726958633,
+   "pst": 43.561490335,
    "final": false,
-   "hora": "04/10/2026 19:45:48",
+   "hora": "04/10/2026 19:59:31",
    "cands": [
     {
      "nome": "Raquel Lyra",
      "partido": "PSD",
      "n": "55",
-     "votos": 924577,
-     "pct": 53.12,
+     "votos": 1144467,
+     "pct": 53.15,
      "st": ""
     },
     {
      "nome": "João Campos",
      "partido": "PSB",
      "n": "40",
-     "votos": 772088,
-     "pct": 44.36,
+     "votos": 956534,
+     "pct": 44.42,
      "st": ""
     },
     {
      "nome": "Ivan Moraes",
      "partido": "PSOL",
      "n": "50",
-     "votos": 35794,
-     "pct": 2.06,
+     "votos": 42074,
+     "pct": 1.95,
      "st": ""
     },
     {
      "nome": "Renan",
      "partido": "MISSÃO",
      "n": "14",
-     "votos": 6329,
+     "votos": 7810,
      "pct": 0.36,
      "st": ""
     }
    ]
   },
   "pi": {
-   "pst": 55.325183374,
+   "pst": 63.276283619,
    "final": false,
-   "hora": "04/10/2026 18:46:59",
+   "hora": "04/10/2026 19:00:59",
    "cands": [
     {
      "nome": "Rafael Fonteles",
      "partido": "PT",
      "n": "13",
-     "votos": 763899,
-     "pct": 69.19,
+     "votos": 879013,
+     "pct": 69.38,
      "st": ""
     },
     {
      "nome": "Joel Rodrigues",
      "partido": "PP",
      "n": "11",
-     "votos": 320180,
-     "pct": 29.0,
+     "votos": 365475,
+     "pct": 28.85,
      "st": ""
     },
     {
      "nome": "Professor Gisvaldo",
      "partido": "PSOL",
      "n": "50",
-     "votos": 6497,
-     "pct": 0.59,
+     "votos": 7280,
+     "pct": 0.57,
      "st": ""
     },
     {
      "nome": "Dra. Lúcia Santos",
      "partido": "PSDB",
      "n": "45",
-     "votos": 6012,
-     "pct": 0.54,
+     "votos": 6740,
+     "pct": 0.53,
      "st": ""
     }
    ]
   },
   "rj": {
-   "pst": 27.806237558,
+   "pst": 37.921698739,
    "final": false,
-   "hora": "04/10/2026 18:46:36",
+   "hora": "04/10/2026 19:00:46",
    "cands": [
     {
      "nome": "Douglas Ruas",
      "partido": "PL",
      "n": "22",
-     "votos": 1111851,
-     "pct": 50.44,
+     "votos": 1534445,
+     "pct": 50.77,
      "st": ""
     },
     {
      "nome": "Eduardo Paes",
      "partido": "PSD",
      "n": "55",
-     "votos": 909118,
-     "pct": 41.24,
+     "votos": 1236033,
+     "pct": 40.9,
      "st": ""
     },
     {
      "nome": "Garotinho",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 76639,
-     "pct": 3.48,
+     "votos": 105568,
+     "pct": 3.49,
      "st": ""
     },
     {
      "nome": "William Siri",
      "partido": "PSOL",
      "n": "50",
-     "votos": 60179,
-     "pct": 2.73,
+     "votos": 82173,
+     "pct": 2.72,
      "st": ""
     }
    ]
   },
   "rn": {
-   "pst": 44.645717807,
+   "pst": 54.873690696,
    "final": false,
-   "hora": "04/10/2026 18:45:51",
+   "hora": "04/10/2026 19:00:44",
    "cands": [
     {
      "nome": "Cadu de Lula",
      "partido": "PT",
      "n": "13",
-     "votos": 306399,
-     "pct": 37.02,
+     "votos": 379855,
+     "pct": 36.83,
      "st": ""
     },
     {
      "nome": "Allyson",
      "partido": "UNIÃO",
      "n": "44",
-     "votos": 290198,
-     "pct": 35.06,
+     "votos": 367753,
+     "pct": 35.66,
      "st": ""
     },
     {
      "nome": "Álvaro Dias",
      "partido": "PL",
      "n": "22",
-     "votos": 229544,
-     "pct": 27.73,
+     "votos": 281783,
+     "pct": 27.32,
      "st": ""
     },
     {
      "nome": "Arinalda do Mlb",
      "partido": "UP",
      "n": "80",
-     "votos": 588,
+     "votos": 758,
      "pct": 0.07,
      "st": ""
     }
    ]
   },
   "rs": {
-   "pst": 69.383235924,
+   "pst": 79.191926526,
    "final": false,
-   "hora": "04/10/2026 18:45:50",
+   "hora": "04/10/2026 19:00:24",
    "cands": [
     {
      "nome": "Zucco",
      "partido": "PL",
      "n": "22",
-     "votos": 2451557,
-     "pct": 58.3,
+     "votos": 2796871,
+     "pct": 58.12,
      "st": ""
     },
     {
      "nome": "Juliana Brizola",
      "partido": "PDT",
      "n": "12",
-     "votos": 1330744,
-     "pct": 31.64,
+     "votos": 1525753,
+     "pct": 31.71,
      "st": ""
     },
     {
      "nome": "Gabriel Souza",
      "partido": "MDB",
      "n": "15",
-     "votos": 347753,
-     "pct": 8.27,
+     "votos": 401775,
+     "pct": 8.35,
      "st": ""
     },
     {
      "nome": "Marcelo Maranata",
      "partido": "PSDB",
      "n": "45",
-     "votos": 67490,
-     "pct": 1.6,
+     "votos": 78594,
+     "pct": 1.63,
      "st": ""
     }
    ]
   },
   "ro": {
-   "pst": 75.266070668,
+   "pst": 83.269476373,
    "final": false,
-   "hora": "04/10/2026 17:45:40",
+   "hora": "04/10/2026 18:00:05",
    "cands": [
     {
      "nome": "Marcos Rogério",
      "partido": "PL",
      "n": "22",
-     "votos": 401580,
-     "pct": 56.6,
+     "votos": 445130,
+     "pct": 56.59,
      "st": ""
     },
     {
      "nome": "Adailton Furia",
      "partido": "PSD",
      "n": "55",
-     "votos": 122726,
-     "pct": 17.3,
+     "votos": 144340,
+     "pct": 18.35,
      "st": ""
     },
     {
      "nome": "Hildon Chaves",
      "partido": "UNIÃO",
      "n": "44",
-     "votos": 118565,
-     "pct": 16.71,
+     "votos": 124485,
+     "pct": 15.83,
      "st": ""
     },
     {
      "nome": "Expedito Netto",
      "partido": "PT",
      "n": "13",
-     "votos": 56780,
-     "pct": 8.0,
+     "votos": 62436,
+     "pct": 7.94,
      "st": ""
     }
    ]
   },
   "rr": {
-   "pst": 54.707044108,
+   "pst": 71.823568137,
    "final": false,
-   "hora": "04/10/2026 17:45:03",
+   "hora": "04/10/2026 17:59:12",
    "cands": [
     {
      "nome": "Arthur Henrique",
      "partido": "PL",
      "n": "22",
-     "votos": 112755,
-     "pct": 67.45,
+     "votos": 152453,
+     "pct": 68.43,
      "st": ""
     },
     {
      "nome": "Soldado Sampaio",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 52002,
-     "pct": 31.11,
+     "votos": 66937,
+     "pct": 30.05,
      "st": ""
     },
     {
      "nome": "Rosi Aires",
      "partido": "PSOL",
      "n": "50",
-     "votos": 2283,
-     "pct": 1.37,
+     "votos": 3221,
+     "pct": 1.45,
      "st": ""
     },
     {
      "nome": "Farah Mesquita",
      "partido": "SOLIDARIEDADE",
      "n": "77",
-     "votos": 93,
+     "votos": 131,
      "pct": 0.06,
      "st": ""
     }
    ]
   },
   "sc": {
-   "pst": 50.819577514,
+   "pst": 64.10596791,
    "final": false,
-   "hora": "04/10/2026 18:46:36",
+   "hora": "04/10/2026 19:00:21",
    "cands": [
     {
      "nome": "Jorginho Mello",
      "partido": "PL",
      "n": "22",
-     "votos": 1425863,
-     "pct": 66.61,
+     "votos": 1828433,
+     "pct": 67.4,
      "st": ""
     },
     {
      "nome": "Gelson Merísio",
      "partido": "PSB",
      "n": "40",
-     "votos": 360969,
-     "pct": 16.86,
+     "votos": 441879,
+     "pct": 16.29,
      "st": ""
     },
     {
      "nome": "João Rodrigues",
      "partido": "PSD",
      "n": "55",
-     "votos": 308945,
-     "pct": 14.43,
+     "votos": 386710,
+     "pct": 14.26,
      "st": ""
     },
     {
      "nome": "Marcelo Brigadeiro",
      "partido": "MISSÃO",
      "n": "14",
-     "votos": 22970,
-     "pct": 1.07,
+     "votos": 29167,
+     "pct": 1.08,
      "st": ""
     }
    ]
   },
   "sp": {
-   "pst": 43.520876746,
+   "pst": 54.18017288,
    "final": false,
-   "hora": "04/10/2026 18:46:30",
+   "hora": "04/10/2026 18:58:54",
    "cands": [
     {
      "nome": "Tarcísio",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 6342234,
-     "pct": 64.5,
+     "votos": 7870036,
+     "pct": 63.86,
      "st": ""
     },
     {
      "nome": "Fernando Haddad",
      "partido": "PT",
      "n": "13",
-     "votos": 3403076,
-     "pct": 34.61,
+     "votos": 4342123,
+     "pct": 35.23,
      "st": ""
     },
     {
      "nome": "Vivian Mendes",
      "partido": "UP",
      "n": "80",
-     "votos": 32494,
-     "pct": 0.33,
+     "votos": 41644,
+     "pct": 0.34,
      "st": ""
     },
     {
      "nome": "Vera Lúcia",
      "partido": "PSTU",
      "n": "16",
-     "votos": 30537,
-     "pct": 0.31,
+     "votos": 38914,
+     "pct": 0.32,
      "st": ""
     }
    ]
   },
   "se": {
-   "pst": 53.216275536,
+   "pst": 62.907310485,
    "final": false,
-   "hora": "04/10/2026 18:47:24",
+   "hora": "04/10/2026 19:00:17",
    "cands": [
     {
      "nome": "Fábio",
      "partido": "PSD",
      "n": "55",
-     "votos": 369995,
-     "pct": 59.13,
+     "votos": 439855,
+     "pct": 59.1,
      "st": ""
     },
     {
      "nome": "Valmir de Francisquinho",
      "partido": "REPUBLICANOS",
      "n": "10",
-     "votos": 230962,
-     "pct": 36.91,
+     "votos": 276495,
+     "pct": 37.15,
      "st": ""
     },
     {
      "nome": "Dr. Helton",
      "partido": "PSOL",
      "n": "50",
-     "votos": 23314,
-     "pct": 3.73,
+     "votos": 26210,
+     "pct": 3.52,
      "st": ""
     },
     {
      "nome": "Taty Cristina de Jesus",
      "partido": "DC",
      "n": "27",
-     "votos": 1505,
-     "pct": 0.24,
+     "votos": 1711,
+     "pct": 0.23,
      "st": ""
     }
    ]
   },
   "to": {
-   "pst": 90.282846715,
+   "pst": 92.381386861,
    "final": false,
-   "hora": "04/10/2026 18:46:53",
+   "hora": "04/10/2026 19:00:25",
    "cands": [
     {
      "nome": "Professora Dorinha",
      "partido": "UNIÃO",
      "n": "44",
-     "votos": 350808,
-     "pct": 45.93,
+     "votos": 358822,
+     "pct": 45.82,
      "st": ""
     },
     {
      "nome": "Vicentinho Júnior",
      "partido": "PSDB",
      "n": "45",
-     "votos": 332330,
-     "pct": 43.51,
+     "votos": 341654,
+     "pct": 43.63,
      "st": ""
     },
     {
      "nome": "Laurez Moreira",
      "partido": "PSD",
      "n": "55",
-     "votos": 62913,
-     "pct": 8.24,
+     "votos": 64403,
+     "pct": 8.22,
      "st": ""
     },
     {
      "nome": "Ataides de Oliveira",
      "partido": "NOVO",
      "n": "30",
-     "votos": 11921,
+     "votos": 12207,
      "pct": 1.56,
      "st": ""
     }
@@ -1161,78 +1161,78 @@
  },
  "sen": {
   "ac": {
-   "pst": 84.317180617,
+   "pst": 89.911894273,
    "final": false,
-   "hora": "04/10/2026 16:46:03",
+   "hora": "04/10/2026 16:59:42",
    "cands": [
     {
      "nome": "Marcio Bittar",
      "partido": "PL",
      "n": "222",
-     "votos": 185468,
-     "pct": 25.41,
+     "votos": 199564,
+     "pct": 25.55,
      "st": ""
     },
     {
      "nome": "Mara Rocha",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 133428,
-     "pct": 18.28,
+     "votos": 141826,
+     "pct": 18.16,
      "st": ""
     },
     {
      "nome": "Gladson Camelí",
      "partido": "PP",
      "n": "111",
-     "votos": 119975,
-     "pct": 16.44,
+     "votos": 129825,
+     "pct": 16.62,
      "st": ""
     },
     {
      "nome": "Jorge Viana",
      "partido": "PT",
      "n": "131",
-     "votos": 102526,
-     "pct": 14.05,
+     "votos": 109232,
+     "pct": 13.99,
      "st": ""
     },
     {
      "nome": "Eduardo Velloso",
      "partido": "SOLIDARIEDADE",
      "n": "777",
-     "votos": 79923,
-     "pct": 10.95,
+     "votos": 85368,
+     "pct": 10.93,
      "st": ""
     },
     {
      "nome": "Petecão",
      "partido": "PSD",
      "n": "555",
-     "votos": 77074,
-     "pct": 10.56,
+     "votos": 82391,
+     "pct": 10.55,
      "st": ""
     }
    ]
   },
   "al": {
-   "pst": 21.081537812,
+   "pst": 27.475003521,
    "final": false,
-   "hora": "04/10/2026 18:47:02",
+   "hora": "04/10/2026 19:00:12",
    "cands": [
     {
      "nome": "Arthur Lira",
      "partido": "PP",
      "n": "111",
-     "votos": 194454,
-     "pct": 31.68,
+     "votos": 251533,
+     "pct": 31.24,
      "st": ""
     },
     {
      "nome": "Marina Jhc",
      "partido": "PSDB",
      "n": "456",
-     "votos": 157335,
+     "votos": 206440,
      "pct": 25.64,
      "st": ""
     },
@@ -1240,117 +1240,117 @@
      "nome": "Renan",
      "partido": "MDB",
      "n": "151",
-     "votos": 152041,
-     "pct": 24.77,
+     "votos": 199600,
+     "pct": 24.79,
      "st": ""
     },
     {
      "nome": "Dr. Wanderley",
      "partido": "MDB",
      "n": "156",
-     "votos": 64260,
-     "pct": 10.47,
+     "votos": 87858,
+     "pct": 10.91,
      "st": ""
     },
     {
      "nome": "Davi Davino Filho",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 41305,
-     "pct": 6.73,
+     "votos": 54061,
+     "pct": 6.71,
      "st": ""
     },
     {
      "nome": "Alexandre Fleming",
      "partido": "UP",
      "n": "800",
-     "votos": 3975,
+     "votos": 5236,
      "pct": 0.65,
      "st": ""
     }
    ]
   },
   "ap": {
-   "pst": 50.626959248,
+   "pst": 56.530825496,
    "final": false,
-   "hora": "04/10/2026 18:47:08",
+   "hora": "04/10/2026 18:59:26",
    "cands": [
     {
      "nome": "Rayssa Furlan",
      "partido": "PODE",
      "n": "200",
-     "votos": 110405,
-     "pct": 28.39,
+     "votos": 126207,
+     "pct": 28.44,
      "st": ""
     },
     {
      "nome": "Lucas Barreto",
      "partido": "PSD",
      "n": "555",
-     "votos": 89514,
-     "pct": 23.02,
+     "votos": 102383,
+     "pct": 23.07,
      "st": ""
     },
     {
      "nome": "Randolfe",
      "partido": "PT",
      "n": "130",
-     "votos": 78614,
-     "pct": 20.22,
+     "votos": 89137,
+     "pct": 20.09,
      "st": ""
     },
     {
      "nome": "Acácio Favacho",
      "partido": "MDB",
      "n": "151",
-     "votos": 58602,
-     "pct": 15.07,
+     "votos": 67137,
+     "pct": 15.13,
      "st": ""
     },
     {
      "nome": "Alliny Serrão",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 40970,
-     "pct": 10.54,
+     "votos": 46397,
+     "pct": 10.46,
      "st": ""
     },
     {
      "nome": "Capi",
      "partido": "PSB",
      "n": "401",
-     "votos": 8884,
-     "pct": 2.28,
+     "votos": 10259,
+     "pct": 2.31,
      "st": ""
     }
    ]
   },
   "am": {
-   "pst": 58.587716072,
+   "pst": 63.896040211,
    "final": false,
-   "hora": "04/10/2026 17:46:53",
+   "hora": "04/10/2026 17:59:09",
    "cands": [
     {
      "nome": "Eduardo Braga",
      "partido": "MDB",
      "n": "155",
-     "votos": 663425,
-     "pct": 29.74,
+     "votos": 733957,
+     "pct": 30.09,
      "st": ""
     },
     {
      "nome": "Capitão Alberto Neto",
      "partido": "PL",
      "n": "222",
-     "votos": 579275,
-     "pct": 25.97,
+     "votos": 628304,
+     "pct": 25.76,
      "st": ""
     },
     {
      "nome": "Plinio Valério",
      "partido": "PSDB",
      "n": "455",
-     "votos": 550524,
+     "votos": 601991,
      "pct": 24.68,
      "st": ""
     },
@@ -1358,156 +1358,156 @@
      "nome": "Wilson Lima",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 229193,
-     "pct": 10.28,
+     "votos": 253149,
+     "pct": 10.38,
      "st": ""
     },
     {
      "nome": "Professora Evany",
      "partido": "PSOL",
      "n": "500",
-     "votos": 158583,
-     "pct": 7.11,
+     "votos": 169026,
+     "pct": 6.93,
      "st": ""
     },
     {
      "nome": "Xuxa do Amazonas",
      "partido": "MOBILIZA",
      "n": "333",
-     "votos": 35874,
-     "pct": 1.61,
+     "votos": 38178,
+     "pct": 1.57,
      "st": ""
     }
    ]
   },
   "ba": {
-   "pst": 31.610102605,
+   "pst": 38.239936859,
    "final": false,
-   "hora": "04/10/2026 18:48:00",
+   "hora": "04/10/2026 18:59:49",
    "cands": [
     {
      "nome": "Rui Costa",
      "partido": "PT",
      "n": "133",
-     "votos": 1239059,
-     "pct": 28.88,
+     "votos": 1506056,
+     "pct": 28.87,
      "st": ""
     },
     {
      "nome": "Jaques Wagner",
      "partido": "PT",
      "n": "130",
-     "votos": 1131428,
-     "pct": 26.37,
+     "votos": 1375332,
+     "pct": 26.36,
      "st": ""
     },
     {
      "nome": "João Roma",
      "partido": "PL",
      "n": "222",
-     "votos": 897123,
-     "pct": 20.91,
+     "votos": 1094630,
+     "pct": 20.98,
      "st": ""
     },
     {
      "nome": "Angelo Coronel",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 895603,
-     "pct": 20.88,
+     "votos": 1090431,
+     "pct": 20.9,
      "st": ""
     },
     {
      "nome": "Professora Delliana",
      "partido": "PSOL",
      "n": "500",
-     "votos": 87830,
-     "pct": 2.05,
+     "votos": 104146,
+     "pct": 2.0,
      "st": ""
     },
     {
      "nome": "Marcelo Carvalho",
      "partido": "REDE",
      "n": "180",
-     "votos": 20452,
-     "pct": 0.48,
+     "votos": 24314,
+     "pct": 0.47,
      "st": ""
     }
    ]
   },
   "ce": {
-   "pst": 28.828108563,
+   "pst": 36.675783716,
    "final": false,
-   "hora": "04/10/2026 18:47:23",
+   "hora": "04/10/2026 19:00:47",
    "cands": [
     {
      "nome": "Cid Gomes",
      "partido": "PSB",
      "n": "400",
-     "votos": 818274,
-     "pct": 30.16,
+     "votos": 1051426,
+     "pct": 30.24,
      "st": ""
     },
     {
      "nome": "Luizianne",
      "partido": "REDE",
      "n": "180",
-     "votos": 765360,
-     "pct": 28.21,
+     "votos": 981355,
+     "pct": 28.22,
      "st": ""
     },
     {
      "nome": "Capitão Wagner",
      "partido": "UNIÃO",
      "n": "445",
-     "votos": 582336,
-     "pct": 21.46,
+     "votos": 745473,
+     "pct": 21.44,
      "st": ""
     },
     {
      "nome": "Alcides Fernandes",
      "partido": "PL",
      "n": "222",
-     "votos": 519359,
-     "pct": 19.14,
+     "votos": 664660,
+     "pct": 19.12,
      "st": ""
     },
     {
      "nome": "Catarina Matos",
      "partido": "UP",
      "n": "800",
-     "votos": 14170,
-     "pct": 0.52,
+     "votos": 17482,
+     "pct": 0.5,
      "st": ""
     },
     {
      "nome": "Guilherme Theophilo",
      "partido": "NOVO",
      "n": "300",
-     "votos": 10440,
-     "pct": 0.38,
+     "votos": 12620,
+     "pct": 0.36,
      "st": ""
     }
    ]
   },
   "df": {
-   "pst": 95.680872435,
+   "pst": 97.574974889,
    "final": false,
-   "hora": "04/10/2026 18:46:01",
+   "hora": "04/10/2026 19:00:45",
    "cands": [
     {
      "nome": "Michelle Bolsonaro",
      "partido": "PL",
      "n": "222",
-     "votos": 892173,
-     "pct": 28.97,
+     "votos": 911545,
+     "pct": 28.99,
      "st": ""
     },
     {
      "nome": "Bia Kicis",
      "partido": "PL",
      "n": "223",
-     "votos": 843719,
+     "votos": 861760,
      "pct": 27.4,
      "st": ""
     },
@@ -1515,164 +1515,164 @@
      "nome": "Leila do Vôlei",
      "partido": "PDT",
      "n": "123",
-     "votos": 655858,
-     "pct": 21.3,
+     "votos": 669433,
+     "pct": 21.29,
      "st": ""
     },
     {
      "nome": "Erika Kokay",
      "partido": "PT",
      "n": "131",
-     "votos": 583981,
-     "pct": 18.96,
+     "votos": 596051,
+     "pct": 18.95,
      "st": ""
     },
     {
      "nome": "Sebastião Coelho",
      "partido": "NOVO",
      "n": "300",
-     "votos": 64988,
-     "pct": 2.11,
+     "votos": 66075,
+     "pct": 2.1,
      "st": ""
     },
     {
      "nome": "Professor Guilherme Amorim",
      "partido": "UP",
      "n": "800",
-     "votos": 14130,
+     "votos": 14431,
      "pct": 0.46,
      "st": ""
     }
    ]
   },
   "es": {
-   "pst": 85.290532304,
+   "pst": 89.089800894,
    "final": false,
-   "hora": "04/10/2026 18:47:31",
+   "hora": "04/10/2026 19:00:01",
    "cands": [
     {
      "nome": "Evair de Melo",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 841592,
-     "pct": 24.84,
+     "votos": 881889,
+     "pct": 24.83,
      "st": ""
     },
     {
      "nome": "Renato Casagrande",
      "partido": "PSB",
      "n": "400",
-     "votos": 827068,
-     "pct": 24.41,
+     "votos": 866693,
+     "pct": 24.4,
      "st": ""
     },
     {
      "nome": "Maguinha Malta",
      "partido": "PL",
      "n": "222",
-     "votos": 642463,
-     "pct": 18.96,
+     "votos": 675313,
+     "pct": 19.02,
      "st": ""
     },
     {
      "nome": "Fabiano Contarato",
      "partido": "PT",
      "n": "133",
-     "votos": 433169,
-     "pct": 12.78,
+     "votos": 453523,
+     "pct": 12.77,
      "st": ""
     },
     {
      "nome": "Sergio Meneguelli",
      "partido": "PSD",
      "n": "556",
-     "votos": 250563,
-     "pct": 7.39,
+     "votos": 262718,
+     "pct": 7.4,
      "st": ""
     },
     {
      "nome": "Marcos do Val",
      "partido": "AVANTE",
      "n": "700",
-     "votos": 144198,
-     "pct": 4.26,
+     "votos": 150711,
+     "pct": 4.24,
      "st": ""
     }
    ]
   },
   "go": {
-   "pst": 59.384164223,
+   "pst": 68.105316843,
    "final": false,
-   "hora": "04/10/2026 18:47:31",
+   "hora": "04/10/2026 19:00:43",
    "cands": [
     {
      "nome": "Gustavo Gayer",
      "partido": "PL",
      "n": "222",
-     "votos": 1001939,
-     "pct": 25.63,
+     "votos": 1145196,
+     "pct": 25.43,
      "st": ""
     },
     {
      "nome": "Gracinha Caiado",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 823576,
-     "pct": 21.07,
+     "votos": 951743,
+     "pct": 21.14,
      "st": ""
     },
     {
      "nome": "Dr. Zacharias Calil",
      "partido": "MDB",
      "n": "155",
-     "votos": 596277,
-     "pct": 15.25,
+     "votos": 686107,
+     "pct": 15.24,
      "st": ""
     },
     {
      "nome": "Oséias Varão",
      "partido": "PL",
      "n": "227",
-     "votos": 422166,
-     "pct": 10.8,
+     "votos": 481259,
+     "pct": 10.69,
      "st": ""
     },
     {
      "nome": "Vanderlan Cardoso",
      "partido": "PSD",
      "n": "555",
-     "votos": 343033,
-     "pct": 8.78,
+     "votos": 396913,
+     "pct": 8.82,
      "st": ""
     },
     {
      "nome": "Gustavo Mendanha",
      "partido": "PRD",
      "n": "251",
-     "votos": 316518,
-     "pct": 8.1,
+     "votos": 374534,
+     "pct": 8.32,
      "st": ""
     }
    ]
   },
   "ma": {
-   "pst": 41.397225446,
+   "pst": 47.769855745,
    "final": false,
-   "hora": "04/10/2026 18:47:34",
+   "hora": "04/10/2026 19:00:16",
    "cands": [
-    {
-     "nome": "Lahesio Bonfim",
-     "partido": "NOVO",
-     "n": "300",
-     "votos": 612675,
-     "pct": 21.84,
-     "st": ""
-    },
     {
      "nome": "Fufuca",
      "partido": "PP",
      "n": "111",
-     "votos": 604464,
+     "votos": 706165,
+     "pct": 21.68,
+     "st": ""
+    },
+    {
+     "nome": "Lahesio Bonfim",
+     "partido": "NOVO",
+     "n": "300",
+     "votos": 701646,
      "pct": 21.54,
      "st": ""
     },
@@ -1680,321 +1680,321 @@
      "nome": "Roseana Sarney",
      "partido": "MDB",
      "n": "151",
-     "votos": 437057,
-     "pct": 15.58,
+     "votos": 512899,
+     "pct": 15.74,
      "st": ""
     },
     {
      "nome": "Weverton Rocha",
      "partido": "PDT",
      "n": "123",
-     "votos": 393966,
-     "pct": 14.04,
+     "votos": 466807,
+     "pct": 14.33,
      "st": ""
     },
     {
      "nome": "Eliziane Gama",
      "partido": "PT",
      "n": "133",
-     "votos": 271487,
-     "pct": 9.68,
+     "votos": 311622,
+     "pct": 9.57,
      "st": ""
     },
     {
      "nome": "Cidônio Gonçalves",
      "partido": "PL",
      "n": "222",
-     "votos": 257077,
-     "pct": 9.16,
+     "votos": 295068,
+     "pct": 9.06,
      "st": ""
     }
    ]
   },
   "mt": {
-   "pst": 72.836973573,
+   "pst": 81.042596838,
    "final": false,
-   "hora": "04/10/2026 17:47:08",
+   "hora": "04/10/2026 18:00:16",
    "cands": [
     {
      "nome": "Mauro Mendes",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 862157,
-     "pct": 33.3,
+     "votos": 964153,
+     "pct": 33.37,
      "st": ""
     },
     {
      "nome": "Zé Medeiros",
      "partido": "PL",
      "n": "222",
-     "votos": 715312,
-     "pct": 27.63,
+     "votos": 798492,
+     "pct": 27.64,
      "st": ""
     },
     {
      "nome": "Janaina Riva",
      "partido": "MDB",
      "n": "150",
-     "votos": 365127,
-     "pct": 14.1,
+     "votos": 410063,
+     "pct": 14.19,
      "st": ""
     },
     {
      "nome": "Fávaro",
      "partido": "PSD",
      "n": "555",
-     "votos": 291431,
-     "pct": 11.26,
+     "votos": 323609,
+     "pct": 11.2,
      "st": ""
     },
     {
      "nome": "Pedro Taques",
      "partido": "PSB",
      "n": "400",
-     "votos": 164352,
-     "pct": 6.35,
+     "votos": 181511,
+     "pct": 6.28,
      "st": ""
     },
     {
      "nome": "Galvan",
      "partido": "AVANTE",
      "n": "700",
-     "votos": 123517,
-     "pct": 4.77,
+     "votos": 137582,
+     "pct": 4.76,
      "st": ""
     }
    ]
   },
   "ms": {
-   "pst": 91.049817056,
+   "pst": 94.328736279,
    "final": false,
-   "hora": "04/10/2026 17:47:05",
+   "hora": "04/10/2026 17:59:45",
    "cands": [
     {
      "nome": "Reinaldo Azambuja",
      "partido": "PL",
      "n": "222",
-     "votos": 824781,
-     "pct": 34.72,
+     "votos": 854437,
+     "pct": 34.77,
      "st": ""
     },
     {
      "nome": "Capitão Contar",
      "partido": "PL",
      "n": "221",
-     "votos": 790797,
-     "pct": 33.29,
+     "votos": 816489,
+     "pct": 33.22,
      "st": ""
     },
     {
      "nome": "Vander Loubet",
      "partido": "PT",
      "n": "133",
-     "votos": 318343,
-     "pct": 13.4,
+     "votos": 331495,
+     "pct": 13.49,
      "st": ""
     },
     {
      "nome": "Soraya",
      "partido": "PSB",
      "n": "400",
-     "votos": 305182,
-     "pct": 12.85,
+     "votos": 315986,
+     "pct": 12.86,
      "st": ""
     },
     {
      "nome": "Roberto Oshiro",
      "partido": "NOVO",
      "n": "300",
-     "votos": 97094,
-     "pct": 4.09,
+     "votos": 98885,
+     "pct": 4.02,
      "st": ""
     },
     {
      "nome": "Beto do Movimento",
      "partido": "PSOL",
      "n": "500",
-     "votos": 16908,
-     "pct": 0.71,
+     "votos": 17183,
+     "pct": 0.7,
      "st": ""
     }
    ]
   },
   "mg": {
-   "pst": 41.535092774,
+   "pst": 51.261956898,
    "final": false,
-   "hora": "04/10/2026 18:46:31",
+   "hora": "04/10/2026 19:00:49",
    "cands": [
     {
      "nome": "Domingos Sávio",
      "partido": "PL",
      "n": "222",
-     "votos": 2146939,
-     "pct": 24.7,
+     "votos": 2631140,
+     "pct": 24.73,
      "st": ""
     },
     {
      "nome": "Marília Campos",
      "partido": "PT",
      "n": "131",
-     "votos": 1703685,
-     "pct": 19.6,
+     "votos": 2076084,
+     "pct": 19.51,
      "st": ""
     },
     {
      "nome": "Carlos Viana",
      "partido": "PSD",
      "n": "555",
-     "votos": 1507421,
-     "pct": 17.34,
+     "votos": 1850518,
+     "pct": 17.39,
      "st": ""
     },
     {
      "nome": "Áurea Carolina",
      "partido": "PSOL",
      "n": "500",
-     "votos": 1169801,
-     "pct": 13.46,
+     "votos": 1423062,
+     "pct": 13.37,
      "st": ""
     },
     {
      "nome": "Marcelo Aro",
      "partido": "PP",
      "n": "111",
-     "votos": 926097,
-     "pct": 10.65,
+     "votos": 1142925,
+     "pct": 10.74,
      "st": ""
     },
     {
      "nome": "Marco Antônio Superman",
      "partido": "NOVO",
      "n": "300",
-     "votos": 843628,
-     "pct": 9.7,
+     "votos": 1029392,
+     "pct": 9.67,
      "st": ""
     }
    ]
   },
   "pa": {
-   "pst": 53.10414366,
+   "pst": 60.656839679,
    "final": false,
-   "hora": "04/10/2026 18:47:02",
+   "hora": "04/10/2026 19:00:43",
    "cands": [
     {
      "nome": "Helder",
      "partido": "MDB",
      "n": "151",
-     "votos": 1172828,
-     "pct": 25.02,
+     "votos": 1345591,
+     "pct": 25.12,
      "st": ""
     },
     {
      "nome": "Delegado Éder Mauro",
      "partido": "PL",
      "n": "222",
-     "votos": 1086287,
-     "pct": 23.18,
+     "votos": 1238612,
+     "pct": 23.12,
      "st": ""
     },
     {
      "nome": "Zequinha Marinho",
      "partido": "PODE",
      "n": "200",
-     "votos": 1000470,
-     "pct": 21.35,
+     "votos": 1146597,
+     "pct": 21.4,
      "st": ""
     },
     {
      "nome": "Chicão",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 990645,
-     "pct": 21.14,
+     "votos": 1140121,
+     "pct": 21.28,
      "st": ""
     },
     {
      "nome": "Celso Sabino",
      "partido": "PDT",
      "n": "123",
-     "votos": 299978,
-     "pct": 6.4,
+     "votos": 337292,
+     "pct": 6.3,
      "st": ""
     },
     {
      "nome": "Gizelle Freitas",
      "partido": "PSOL",
      "n": "505",
-     "votos": 59301,
-     "pct": 1.27,
+     "votos": 64171,
+     "pct": 1.2,
      "st": ""
     }
    ]
   },
   "pb": {
-   "pst": 81.03995519,
+   "pst": 86.594473488,
    "final": false,
-   "hora": "04/10/2026 18:47:07",
+   "hora": "04/10/2026 19:00:41",
    "cands": [
     {
      "nome": "Joao Azevêdo",
      "partido": "PSB",
      "n": "400",
-     "votos": 1124990,
-     "pct": 32.82,
+     "votos": 1203064,
+     "pct": 32.72,
      "st": ""
     },
     {
      "nome": "Veneziano",
      "partido": "MDB",
      "n": "155",
-     "votos": 773305,
-     "pct": 22.56,
+     "votos": 831907,
+     "pct": 22.63,
      "st": ""
     },
     {
      "nome": "Nabor",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 703689,
-     "pct": 20.53,
+     "votos": 753185,
+     "pct": 20.49,
      "st": ""
     },
     {
      "nome": "Dr. Marcelo Queiroga",
      "partido": "PL",
      "n": "222",
-     "votos": 435630,
-     "pct": 12.71,
+     "votos": 467527,
+     "pct": 12.72,
      "st": ""
     },
     {
      "nome": "Major Fábio",
      "partido": "NOVO",
      "n": "300",
-     "votos": 267690,
-     "pct": 7.81,
+     "votos": 288444,
+     "pct": 7.85,
      "st": ""
     },
     {
      "nome": "André Gadelha",
      "partido": "MDB",
      "n": "151",
-     "votos": 92406,
-     "pct": 2.7,
+     "votos": 100473,
+     "pct": 2.73,
      "st": ""
     }
    ]
   },
   "pr": {
-   "pst": 88.353842753,
+   "pst": 92.174489721,
    "final": false,
-   "hora": "04/10/2026 18:47:33",
+   "hora": "04/10/2026 18:59:45",
    "cands": [
     {
      "nome": "Filipe Barros",
      "partido": "PL",
      "n": "222",
-     "votos": 2792798,
+     "votos": 2915081,
      "pct": 27.4,
      "st": ""
     },
@@ -2002,117 +2002,117 @@
      "nome": "Deltan Dallagnol",
      "partido": "NOVO",
      "n": "300",
-     "votos": 2586466,
-     "pct": 25.38,
+     "votos": 2694856,
+     "pct": 25.33,
      "st": ""
     },
     {
      "nome": "Alexandre Curi",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 1689958,
-     "pct": 16.58,
+     "votos": 1770718,
+     "pct": 16.65,
      "st": ""
     },
     {
      "nome": "Gleisi",
      "partido": "PT",
      "n": "131",
-     "votos": 1351679,
-     "pct": 13.26,
+     "votos": 1409156,
+     "pct": 13.25,
      "st": ""
     },
     {
      "nome": "Dr Rosinha",
      "partido": "PT",
      "n": "132",
-     "votos": 1020777,
-     "pct": 10.02,
+     "votos": 1062499,
+     "pct": 9.99,
      "st": ""
     },
     {
      "nome": "Cristina Graeml",
      "partido": "PSD",
      "n": "555",
-     "votos": 644328,
-     "pct": 6.32,
+     "votos": 675283,
+     "pct": 6.35,
      "st": ""
     }
    ]
   },
   "pe": {
-   "pst": 35.759641423,
+   "pst": 43.561490335,
    "final": false,
-   "hora": "04/10/2026 19:45:48",
+   "hora": "04/10/2026 19:59:31",
    "cands": [
     {
      "nome": "Humberto Costa",
      "partido": "PT",
      "n": "130",
-     "votos": 818340,
-     "pct": 26.43,
+     "votos": 1016099,
+     "pct": 26.57,
      "st": ""
     },
     {
      "nome": "Marília Arraes",
      "partido": "PDT",
      "n": "123",
-     "votos": 767729,
-     "pct": 24.8,
+     "votos": 950236,
+     "pct": 24.84,
      "st": ""
     },
     {
      "nome": "Mendonça Filho",
      "partido": "PL",
      "n": "222",
-     "votos": 606417,
-     "pct": 19.59,
+     "votos": 742699,
+     "pct": 19.42,
      "st": ""
     },
     {
      "nome": "Eduardo da Fonte",
      "partido": "PP",
      "n": "111",
-     "votos": 404717,
-     "pct": 13.07,
+     "votos": 506102,
+     "pct": 13.23,
      "st": ""
     },
     {
      "nome": "Carlos Sant'anna",
      "partido": "NOVO",
      "n": "300",
-     "votos": 264193,
-     "pct": 8.53,
+     "votos": 319080,
+     "pct": 8.34,
      "st": ""
     },
     {
      "nome": "Túlio Gadêlha",
      "partido": "PSD",
      "n": "555",
-     "votos": 207552,
-     "pct": 6.7,
+     "votos": 257765,
+     "pct": 6.74,
      "st": ""
     }
    ]
   },
   "pi": {
-   "pst": 55.325183374,
+   "pst": 62.699266504,
    "final": false,
-   "hora": "04/10/2026 18:46:59",
+   "hora": "04/10/2026 19:00:18",
    "cands": [
     {
      "nome": "Marcelo Castro",
      "partido": "MDB",
      "n": "151",
-     "votos": 695498,
-     "pct": 34.82,
+     "votos": 793798,
+     "pct": 34.97,
      "st": ""
     },
     {
      "nome": "Júlio César O Julim do Lula",
      "partido": "PSD",
      "n": "555",
-     "votos": 534421,
+     "votos": 607200,
      "pct": 26.75,
      "st": ""
     },
@@ -2120,527 +2120,527 @@
      "nome": "Ciro Nogueira",
      "partido": "PP",
      "n": "111",
-     "votos": 484541,
-     "pct": 24.25,
+     "votos": 552076,
+     "pct": 24.32,
      "st": ""
     },
     {
      "nome": "Tiago Junqueira",
      "partido": "PL",
      "n": "222",
-     "votos": 195472,
-     "pct": 9.78,
+     "votos": 219121,
+     "pct": 9.65,
      "st": ""
     },
     {
      "nome": "Antônio Barros",
      "partido": "NOVO",
      "n": "300",
-     "votos": 25046,
-     "pct": 1.25,
+     "votos": 27672,
+     "pct": 1.22,
      "st": ""
     },
     {
      "nome": "Maria Madalena Nunes",
      "partido": "PSOL",
      "n": "505",
-     "votos": 17141,
-     "pct": 0.86,
+     "votos": 19175,
+     "pct": 0.84,
      "st": ""
     }
    ]
   },
   "rj": {
-   "pst": 27.806237558,
+   "pst": 37.921698739,
    "final": false,
-   "hora": "04/10/2026 18:46:36",
+   "hora": "04/10/2026 19:00:46",
    "cands": [
     {
      "nome": "Carlos Portinho",
      "partido": "PL",
      "n": "222",
-     "votos": 1119444,
-     "pct": 27.26,
+     "votos": 1539588,
+     "pct": 27.4,
      "st": ""
     },
     {
      "nome": "Carlos Jordy",
      "partido": "PL",
      "n": "221",
-     "votos": 1031685,
-     "pct": 25.12,
+     "votos": 1417059,
+     "pct": 25.22,
      "st": ""
     },
     {
      "nome": "Benedita da Silva",
      "partido": "PT",
      "n": "131",
-     "votos": 825097,
-     "pct": 20.09,
+     "votos": 1120965,
+     "pct": 19.95,
      "st": ""
     },
     {
      "nome": "Pedro Paulo",
      "partido": "PSD",
      "n": "555",
-     "votos": 469839,
-     "pct": 11.44,
+     "votos": 640792,
+     "pct": 11.4,
      "st": ""
     },
     {
      "nome": "Monica Benicio",
      "partido": "PSOL",
      "n": "500",
-     "votos": 397953,
-     "pct": 9.69,
+     "votos": 537301,
+     "pct": 9.56,
      "st": ""
     },
     {
      "nome": "Marcelo Crivella",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 125426,
-     "pct": 3.05,
+     "votos": 177120,
+     "pct": 3.15,
      "st": ""
     }
    ]
   },
   "rn": {
-   "pst": 45.705483672,
+   "pst": 54.873690696,
    "final": false,
-   "hora": "04/10/2026 18:47:27",
+   "hora": "04/10/2026 19:00:44",
    "cands": [
     {
      "nome": "Styvenson Valentim",
      "partido": "PODE",
      "n": "200",
-     "votos": 459372,
-     "pct": 29.63,
-     "st": ""
-    },
-    {
-     "nome": "Zenaide Maia",
-     "partido": "PSD",
-     "n": "555",
-     "votos": 276034,
-     "pct": 17.81,
+     "votos": 554290,
+     "pct": 29.44,
      "st": ""
     },
     {
      "nome": "Samanda de Lula",
      "partido": "PT",
      "n": "131",
-     "votos": 273961,
-     "pct": 17.67,
+     "votos": 333397,
+     "pct": 17.71,
+     "st": ""
+    },
+    {
+     "nome": "Zenaide Maia",
+     "partido": "PSD",
+     "n": "555",
+     "votos": 333175,
+     "pct": 17.7,
      "st": ""
     },
     {
      "nome": "Coronel Hélio",
      "partido": "PL",
      "n": "222",
-     "votos": 257815,
-     "pct": 16.63,
+     "votos": 315518,
+     "pct": 16.76,
      "st": ""
     },
     {
      "nome": "Rafael Motta",
      "partido": "PDT",
      "n": "123",
-     "votos": 219873,
-     "pct": 14.18,
+     "votos": 268392,
+     "pct": 14.26,
      "st": ""
     },
     {
      "nome": "Tércio Tinôco",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 41712,
-     "pct": 2.69,
+     "votos": 51665,
+     "pct": 2.74,
      "st": ""
     }
    ]
   },
   "rs": {
-   "pst": 69.390496243,
+   "pst": 79.191926526,
    "final": false,
-   "hora": "04/10/2026 18:45:52",
+   "hora": "04/10/2026 19:00:24",
    "cands": [
     {
      "nome": "Sanderson",
      "partido": "PL",
      "n": "222",
-     "votos": 2406861,
-     "pct": 30.22,
+     "votos": 2747460,
+     "pct": 30.15,
      "st": ""
     },
     {
      "nome": "Marcel Van Hattem",
      "partido": "NOVO",
      "n": "300",
-     "votos": 2405291,
-     "pct": 30.2,
+     "votos": 2744882,
+     "pct": 30.12,
      "st": ""
     },
     {
      "nome": "Manuela D'ávila",
      "partido": "PSOL",
      "n": "500",
-     "votos": 1355656,
-     "pct": 17.02,
+     "votos": 1554912,
+     "pct": 17.06,
      "st": ""
     },
     {
      "nome": "Pimenta",
      "partido": "PT",
      "n": "131",
-     "votos": 1291066,
-     "pct": 16.21,
+     "votos": 1482385,
+     "pct": 16.27,
      "st": ""
     },
     {
      "nome": "Rigotto",
      "partido": "MDB",
      "n": "151",
-     "votos": 290204,
-     "pct": 3.64,
+     "votos": 332544,
+     "pct": 3.65,
      "st": ""
     },
     {
      "nome": "Frederico Antunes",
      "partido": "PSD",
      "n": "555",
-     "votos": 150530,
-     "pct": 1.89,
+     "votos": 175975,
+     "pct": 1.93,
      "st": ""
     }
    ]
   },
   "ro": {
-   "pst": 75.266070668,
+   "pst": 83.269476373,
    "final": false,
-   "hora": "04/10/2026 17:45:40",
+   "hora": "04/10/2026 18:00:05",
    "cands": [
     {
      "nome": "Dr. Fernando Máximo",
      "partido": "PL",
      "n": "221",
-     "votos": 423925,
-     "pct": 31.65,
+     "votos": 470178,
+     "pct": 31.64,
      "st": ""
     },
     {
      "nome": "Bruno Scheid",
      "partido": "PL",
      "n": "222",
-     "votos": 347910,
-     "pct": 25.98,
+     "votos": 387678,
+     "pct": 26.09,
      "st": ""
     },
     {
      "nome": "Sílvia Cristina",
      "partido": "PP",
      "n": "111",
-     "votos": 226170,
-     "pct": 16.89,
+     "votos": 253808,
+     "pct": 17.08,
      "st": ""
     },
     {
      "nome": "Mariana Carvalho",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 164202,
-     "pct": 12.26,
+     "votos": 177639,
+     "pct": 11.96,
      "st": ""
     },
     {
      "nome": "Luciana Oliveira",
      "partido": "PT",
      "n": "133",
-     "votos": 76154,
-     "pct": 5.69,
+     "votos": 83153,
+     "pct": 5.6,
      "st": ""
     },
     {
      "nome": "Acir Gurgacz",
      "partido": "PDT",
      "n": "123",
-     "votos": 52595,
-     "pct": 3.93,
+     "votos": 60696,
+     "pct": 4.08,
      "st": ""
     }
    ]
   },
   "rr": {
-   "pst": 56.616194865,
+   "pst": 71.823568137,
    "final": false,
-   "hora": "04/10/2026 17:47:16",
+   "hora": "04/10/2026 17:59:12",
    "cands": [
     {
      "nome": "Nicoletti",
      "partido": "PL",
      "n": "227",
-     "votos": 74469,
-     "pct": 22.4,
+     "votos": 95950,
+     "pct": 22.51,
      "st": ""
     },
     {
      "nome": "Teresa Surita",
      "partido": "MDB",
      "n": "155",
-     "votos": 61231,
-     "pct": 18.42,
+     "votos": 79829,
+     "pct": 18.73,
      "st": ""
     },
     {
      "nome": "Helena da Asatur",
      "partido": "PSD",
      "n": "555",
-     "votos": 60229,
-     "pct": 18.12,
+     "votos": 75847,
+     "pct": 17.79,
      "st": ""
     },
     {
      "nome": "Chico Rodrigues",
      "partido": "PSB",
      "n": "400",
-     "votos": 50203,
-     "pct": 15.1,
+     "votos": 61335,
+     "pct": 14.39,
      "st": ""
     },
     {
      "nome": "Helio Fernando Barbosa Lopes",
      "partido": "PL",
      "n": "222",
-     "votos": 39317,
-     "pct": 11.83,
+     "votos": 52528,
+     "pct": 12.32,
      "st": ""
     },
     {
      "nome": "Regina Tio Ivo",
      "partido": "NOVO",
      "n": "300",
-     "votos": 24679,
-     "pct": 7.42,
+     "votos": 32279,
+     "pct": 7.57,
      "st": ""
     }
    ]
   },
   "sc": {
-   "pst": 50.819577514,
+   "pst": 64.10596791,
    "final": false,
-   "hora": "04/10/2026 18:46:36",
+   "hora": "04/10/2026 19:00:21",
    "cands": [
     {
      "nome": "Carol de Toni",
      "partido": "PL",
      "n": "221",
-     "votos": 1330690,
-     "pct": 32.89,
+     "votos": 1697913,
+     "pct": 33.12,
      "st": ""
     },
     {
      "nome": "Carlos Bolsonaro",
      "partido": "PL",
      "n": "222",
-     "votos": 980039,
-     "pct": 24.22,
+     "votos": 1258549,
+     "pct": 24.55,
      "st": ""
     },
     {
      "nome": "Esperidião Amin",
      "partido": "PP",
      "n": "111",
-     "votos": 628248,
-     "pct": 15.53,
+     "votos": 794219,
+     "pct": 15.49,
      "st": ""
     },
     {
      "nome": "Décio Lima",
      "partido": "PT",
      "n": "133",
-     "votos": 440859,
-     "pct": 10.9,
+     "votos": 542157,
+     "pct": 10.58,
      "st": ""
     },
     {
      "nome": "Afrânio Boppré",
      "partido": "PSOL",
      "n": "500",
-     "votos": 357935,
-     "pct": 8.85,
+     "votos": 436765,
+     "pct": 8.52,
      "st": ""
     },
     {
      "nome": "Lunelli",
      "partido": "MDB",
      "n": "155",
-     "votos": 247005,
-     "pct": 6.1,
+     "votos": 319114,
+     "pct": 6.23,
      "st": ""
     }
    ]
   },
   "sp": {
-   "pst": 43.520876746,
+   "pst": 54.18017288,
    "final": false,
-   "hora": "04/10/2026 18:46:30",
+   "hora": "04/10/2026 18:58:54",
    "cands": [
     {
      "nome": "Guilherme Derrite",
      "partido": "PP",
      "n": "111",
-     "votos": 5829976,
-     "pct": 31.56,
+     "votos": 7225378,
+     "pct": 31.22,
      "st": ""
     },
     {
      "nome": "André do Prado",
      "partido": "PL",
      "n": "222",
-     "votos": 5578805,
-     "pct": 30.2,
+     "votos": 6912190,
+     "pct": 29.87,
      "st": ""
     },
     {
      "nome": "Simone Tebet",
      "partido": "PSB",
      "n": "400",
-     "votos": 3380976,
-     "pct": 18.3,
+     "votos": 4311427,
+     "pct": 18.63,
      "st": ""
     },
     {
      "nome": "Marina Silva",
      "partido": "REDE",
      "n": "180",
-     "votos": 3178192,
-     "pct": 17.21,
+     "votos": 4056185,
+     "pct": 17.53,
      "st": ""
     },
     {
      "nome": "Guto Schiavetto",
      "partido": "MISSÃO",
      "n": "144",
-     "votos": 164997,
-     "pct": 0.89,
+     "votos": 208478,
+     "pct": 0.9,
      "st": ""
     },
     {
      "nome": "Geraldo Rufino",
      "partido": "PODE",
      "n": "200",
-     "votos": 164025,
+     "votos": 205498,
      "pct": 0.89,
      "st": ""
     }
    ]
   },
   "se": {
-   "pst": 53.216275536,
+   "pst": 62.907310485,
    "final": false,
-   "hora": "04/10/2026 18:47:24",
+   "hora": "04/10/2026 19:00:17",
    "cands": [
     {
      "nome": "Rogerio Carvalho",
      "partido": "PT",
      "n": "131",
-     "votos": 252599,
-     "pct": 21.28,
+     "votos": 301644,
+     "pct": 21.35,
      "st": ""
     },
     {
      "nome": "Delegado Alessandro",
      "partido": "MDB",
      "n": "155",
-     "votos": 209480,
-     "pct": 17.64,
+     "votos": 245765,
+     "pct": 17.4,
      "st": ""
     },
     {
      "nome": "Delegado André David",
      "partido": "REPUBLICANOS",
      "n": "101",
-     "votos": 204132,
-     "pct": 17.19,
+     "votos": 241809,
+     "pct": 17.12,
      "st": ""
     },
     {
      "nome": "André Moura",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 168919,
-     "pct": 14.23,
+     "votos": 210285,
+     "pct": 14.89,
      "st": ""
     },
     {
      "nome": "Eduardo Amorim",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 104883,
-     "pct": 8.83,
+     "votos": 127118,
+     "pct": 9.0,
      "st": ""
     },
     {
      "nome": "Edvaldo",
      "partido": "PDT",
      "n": "123",
-     "votos": 101911,
-     "pct": 8.58,
+     "votos": 118342,
+     "pct": 8.38,
      "st": ""
     }
    ]
   },
   "to": {
-   "pst": 90.282846715,
+   "pst": 92.381386861,
    "final": false,
-   "hora": "04/10/2026 18:46:53",
+   "hora": "04/10/2026 19:00:25",
    "cands": [
     {
      "nome": "Eduardo Gomes",
      "partido": "PL",
      "n": "222",
-     "votos": 407175,
-     "pct": 27.37,
+     "votos": 416531,
+     "pct": 27.32,
      "st": ""
     },
     {
      "nome": "Alexandre Guimarães",
      "partido": "MDB",
      "n": "153",
-     "votos": 283638,
-     "pct": 19.07,
+     "votos": 291432,
+     "pct": 19.11,
      "st": ""
     },
     {
      "nome": "Eli Borges",
      "partido": "REPUBLICANOS",
      "n": "100",
-     "votos": 247262,
-     "pct": 16.62,
+     "votos": 253012,
+     "pct": 16.59,
      "st": ""
     },
     {
      "nome": "Gaguim",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 232557,
-     "pct": 15.64,
+     "votos": 237874,
+     "pct": 15.6,
      "st": ""
     },
     {
      "nome": "Paulo Mourão",
      "partido": "PT",
      "n": "133",
-     "votos": 116340,
-     "pct": 7.82,
+     "votos": 119909,
+     "pct": 7.86,
      "st": ""
     },
     {
      "nome": "Ronaldo Dimas",
      "partido": "PODE",
      "n": "202",
-     "votos": 77198,
-     "pct": 5.19,
+     "votos": 79703,
+     "pct": 5.23,
      "st": ""
     }
    ]
@@ -2651,8 +2651,8 @@
    "nome": "Nikolas Ferreira",
    "partido": "PL",
    "n": "2222",
-   "votos": 1354989,
-   "pct": 29.6,
+   "votos": 1669500,
+   "pct": 29.13,
    "st": "",
    "uf": "MG"
   },
@@ -2660,8 +2660,8 @@
    "nome": "Lucas Pavanato",
    "partido": "PL",
    "n": "2211",
-   "votos": 1211434,
-   "pct": 13.28,
+   "votos": 1584789,
+   "pct": 13.23,
    "st": "",
    "uf": "SP"
   },
@@ -2669,8 +2669,8 @@
    "nome": "Erika Hilton",
    "partido": "PSOL",
    "n": "5070",
-   "votos": 582730,
-   "pct": 6.39,
+   "votos": 777951,
+   "pct": 6.5,
    "st": "",
    "uf": "SP"
   },
@@ -2678,8 +2678,8 @@
    "nome": "Jeffrey Chiquini",
    "partido": "NOVO",
    "n": "3000",
-   "votos": 382812,
-   "pct": 6.95,
+   "votos": 396483,
+   "pct": 6.93,
    "st": "",
    "uf": "PR"
   },
@@ -2687,143 +2687,134 @@
    "nome": "Lucas Polese",
    "partido": "PL",
    "n": "2212",
-   "votos": 361452,
-   "pct": 20.18,
+   "votos": 378258,
+   "pct": 20.14,
    "st": "",
    "uf": "ES"
-  },
-  {
-   "nome": "Maurício Marcon",
-   "partido": "PL",
-   "n": "2277",
-   "votos": 294551,
-   "pct": 6.77,
-   "st": "",
-   "uf": "RS"
   },
   {
    "nome": "Julia Zanatta",
    "partido": "PL",
    "n": "2233",
-   "votos": 269284,
-   "pct": 12.62,
+   "votos": 337904,
+   "pct": 12.78,
    "st": "",
    "uf": "SC"
   },
   {
-   "nome": "Guilherme Kilter",
-   "partido": "NOVO",
-   "n": "3030",
-   "votos": 244644,
-   "pct": 4.44,
+   "nome": "Maurício Marcon",
+   "partido": "PL",
+   "n": "2277",
+   "votos": 316054,
+   "pct": 6.58,
    "st": "",
-   "uf": "PR"
+   "uf": "RS"
   },
   {
    "nome": "Ana Elisa",
    "partido": "PT",
    "n": "1331",
-   "votos": 239339,
-   "pct": 5.23,
+   "votos": 291951,
+   "pct": 5.09,
    "st": "",
    "uf": "MG"
-  },
-  {
-   "nome": "Delegado Caveira",
-   "partido": "PL",
-   "n": "2200",
-   "votos": 222092,
-   "pct": 8.83,
-   "st": "",
-   "uf": "PA"
-  },
-  {
-   "nome": "Cabo Gilberto Silva",
-   "partido": "PL",
-   "n": "2222",
-   "votos": 220783,
-   "pct": 11.51,
-   "st": "",
-   "uf": "PB"
-  },
-  {
-   "nome": "Sargento Fahur",
-   "partido": "PL",
-   "n": "2290",
-   "votos": 219496,
-   "pct": 3.99,
-   "st": "",
-   "uf": "PR"
   },
   {
    "nome": "Sâmia Bomfim",
    "partido": "PSOL",
    "n": "5000",
-   "votos": 215969,
-   "pct": 2.37,
+   "votos": 287602,
+   "pct": 2.4,
    "st": "",
    "uf": "SP"
-  },
-  {
-   "nome": "Fábio Felix",
-   "partido": "PSOL",
-   "n": "5050",
-   "votos": 215139,
-   "pct": 13.51,
-   "st": "",
-   "uf": "DF"
   },
   {
    "nome": "André Fernandes",
    "partido": "PL",
    "n": "2222",
-   "votos": 206978,
-   "pct": 13.63,
+   "votos": 264241,
+   "pct": 13.73,
    "st": "",
    "uf": "CE"
-  },
-  {
-   "nome": "Fernanda Melchionna",
-   "partido": "PSOL",
-   "n": "5050",
-   "votos": 199487,
-   "pct": 4.59,
-   "st": "",
-   "uf": "RS"
   },
   {
    "nome": "Kim Kataguiri",
    "partido": "MISSÃO",
    "n": "1414",
-   "votos": 195596,
-   "pct": 2.14,
+   "votos": 259212,
+   "pct": 2.16,
    "st": "",
    "uf": "SP"
   },
   {
-   "nome": "Dra. Alessandra Haber",
-   "partido": "PODE",
-   "n": "2020",
-   "votos": 173218,
-   "pct": 6.89,
+   "nome": "Delegado Caveira",
+   "partido": "PL",
+   "n": "2200",
+   "votos": 254290,
+   "pct": 8.9,
    "st": "",
    "uf": "PA"
   },
   {
-   "nome": "Giovani Cherini",
+   "nome": "Guilherme Kilter",
+   "partido": "NOVO",
+   "n": "3030",
+   "votos": 253040,
+   "pct": 4.42,
+   "st": "",
+   "uf": "PR"
+  },
+  {
+   "nome": "Cabo Gilberto Silva",
    "partido": "PL",
    "n": "2222",
-   "votos": 170665,
-   "pct": 3.92,
+   "votos": 235888,
+   "pct": 11.45,
    "st": "",
-   "uf": "RS"
+   "uf": "PB"
   },
   {
    "nome": "Tabata Amaral",
    "partido": "PSB",
    "n": "4040",
-   "votos": 169269,
-   "pct": 1.86,
+   "votos": 228525,
+   "pct": 1.91,
+   "st": "",
+   "uf": "SP"
+  },
+  {
+   "nome": "Sargento Fahur",
+   "partido": "PL",
+   "n": "2290",
+   "votos": 226935,
+   "pct": 3.97,
+   "st": "",
+   "uf": "PR"
+  },
+  {
+   "nome": "Fernanda Melchionna",
+   "partido": "PSOL",
+   "n": "5050",
+   "votos": 222975,
+   "pct": 4.64,
+   "st": "",
+   "uf": "RS"
+  },
+  {
+   "nome": "Fábio Felix",
+   "partido": "PSOL",
+   "n": "5050",
+   "votos": 219203,
+   "pct": 13.47,
+   "st": "",
+   "uf": "DF"
+  },
+  {
+   "nome": "Renato Bolsonaro",
+   "partido": "PL",
+   "n": "2222",
+   "votos": 198385,
+   "pct": 1.66,
    "st": "",
    "uf": "SP"
   },
@@ -2831,61 +2822,52 @@
    "nome": "Jader Filho",
    "partido": "MDB",
    "n": "1515",
-   "votos": 168367,
+   "votos": 191524,
    "pct": 6.7,
    "st": "",
    "uf": "PA"
   },
   {
-   "nome": "Ana Júlia",
-   "partido": "PT",
-   "n": "1313",
-   "votos": 165119,
-   "pct": 3.0,
+   "nome": "Dra. Alessandra Haber",
+   "partido": "PODE",
+   "n": "2020",
+   "votos": 188724,
+   "pct": 6.6,
    "st": "",
-   "uf": "PR"
+   "uf": "PA"
+  },
+  {
+   "nome": "Giovani Cherini",
+   "partido": "PL",
+   "n": "2222",
+   "votos": 186083,
+   "pct": 3.87,
+   "st": "",
+   "uf": "RS"
   },
   {
    "nome": "Rony Gabriel",
    "partido": "PODE",
    "n": "2022",
-   "votos": 162812,
-   "pct": 3.74,
+   "votos": 182165,
+   "pct": 3.79,
    "st": "",
    "uf": "RS"
   },
   {
-   "nome": "Sargento Salazar",
-   "partido": "PL",
-   "n": "2211",
-   "votos": 156346,
-   "pct": 12.65,
-   "st": "",
-   "uf": "AM"
-  },
-  {
-   "nome": "Beto Preto",
-   "partido": "PSD",
-   "n": "5501",
-   "votos": 155669,
-   "pct": 2.83,
+   "nome": "Ana Júlia",
+   "partido": "PT",
+   "n": "1313",
+   "votos": 171731,
+   "pct": 3.0,
    "st": "",
    "uf": "PR"
-  },
-  {
-   "nome": "Renato Bolsonaro",
-   "partido": "PL",
-   "n": "2222",
-   "votos": 154226,
-   "pct": 1.69,
-   "st": "",
-   "uf": "SP"
   },
   {
    "nome": "Alceu Moreira",
    "partido": "MDB",
    "n": "1500",
-   "votos": 154058,
+   "votos": 170069,
    "pct": 3.54,
    "st": "",
    "uf": "RS"
@@ -2894,28 +2876,46 @@
    "nome": "Coronel Fernanda",
    "partido": "PL",
    "n": "2222",
-   "votos": 153438,
-   "pct": 11.07,
+   "votos": 169647,
+   "pct": 11.06,
    "st": "",
    "uf": "MT"
   },
   {
-   "nome": "Aguinaldo Ribeiro",
-   "partido": "PP",
-   "n": "1111",
-   "votos": 141812,
-   "pct": 7.39,
+   "nome": "Sargento Salazar",
+   "partido": "PL",
+   "n": "2211",
+   "votos": 167423,
+   "pct": 12.39,
    "st": "",
-   "uf": "PB"
+   "uf": "AM"
   },
   {
-   "nome": "Camila Jara",
-   "partido": "PT",
-   "n": "1367",
-   "votos": 140385,
-   "pct": 10.86,
+   "nome": "Beto Preto",
+   "partido": "PSD",
+   "n": "5501",
+   "votos": 160934,
+   "pct": 2.81,
    "st": "",
-   "uf": "MS"
+   "uf": "PR"
+  },
+  {
+   "nome": "Sargento Nantes",
+   "partido": "PP",
+   "n": "1110",
+   "votos": 160653,
+   "pct": 1.34,
+   "st": "",
+   "uf": "SP"
+  },
+  {
+   "nome": "Duda Salabert",
+   "partido": "PSOL",
+   "n": "5050",
+   "votos": 158552,
+   "pct": 2.77,
+   "st": "",
+   "uf": "MG"
   }
  ],
  "gov_t2": {}

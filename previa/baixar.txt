@@ -7,3 +7,4 @@ c-tarifa.json https://commons.wikimedia.org/w/api.php?action=query&format=json&g
 c-lulatrump.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Lula%20Trump%20meeting
 c-cafe.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=coffee%20beans%20export%20Brazil%20sacks
 
+

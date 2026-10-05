@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "Seu estado já elegeu o governador? Veja quem venceu e onde tem ==2º turno==",
+  "chamada": "Veja estado por estado",
+  "capa": "capa",
+  "capa_foco": "45,45",
+  "slides": [
+    {"tipo": "numero", "numero": "20", "texto": "estados já elegeram o governador no **1º turno**. Outros 6 voltam às urnas em ==25 de outubro==. E um estado ainda espera o resultado oficial.", "fonte": "TSE, dados das 4h23 de 5/10"},
+    {"tipo": "texto", "titulo": "Os eleitos no Nordeste", "texto": "==AL:== JHC (PSDB)\n==BA:== Jerônimo Rodrigues (PT)\n==CE:== Elmano de Freitas (PT)\n==MA:== Eduardo Braide (PSD)\n==PB:== Lucas Ribeiro (PP)\n==PE:== Raquel Lyra (PSD)\n==PI:== Rafael Fonteles (PT)\n==SE:== Fábio Mitidieri (PSD)", "foto": "fila-secao-eleitoral-governadores-eleitos.jpg", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "Norte e Centro-Oeste", "texto": "==AP:== Dr. Furlan (PSD)\n==PA:== Dr. Daniel (Podemos)\n==RO:== Marcos Rogério (PL)\n==RR:== Arthur Henrique (PL)\n==GO:== Daniel Vilela (MDB)\n==MT:== Otaviano Pivetta (Republicanos)\n==MS:== Eduardo Riedel (PP)", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "Sudeste e Sul", "texto": "==MG:== Cleitinho Azevedo (Republicanos)\n==SP:== Tarcísio de Freitas (Republicanos)\n==PR:== Sergio Moro (PL)\n==RS:== Luciano Zucco (PL)\n==SC:== Jorginho Mello (PL)\n\nMas em 6 lugares a disputa continua.", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "Onde tem 2º turno", "texto": "==AC:== Mailza Assis x Alan Rick\n==DF:== Celina Leão x Leandro Grass\n==ES:== Lorenzo Pazolini x Ricardo Ferraço\n==RJ:== Douglas Ruas x Eduardo Paes\n==RN:== Allyson x Cadu de Lula\n==TO:== Professora Dorinha x Vicentinho Júnior", "foto": "mesarios-secao-eleitoral-segundo-turno.jpg", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "E o Amazonas?", "texto": "Todas as urnas foram apuradas, mas o TSE ainda não tinha fechado o resultado oficial.\n\nOmar Aziz (PSD) está à frente, com **40,63%**. Ninguém passou de 50%.", "fonte": "TSE, às 4h23 de 5/10"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "O 2º turno é em **25 de outubro**, das 8h às 17h (horário de Brasília), junto com o de presidente.\n\nOs governadores eleitos tomam posse em **6 de janeiro de 2027**, para 4 anos de mandato.", "fonte": "TSE e Poder360"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Seu estado já elegeu o governador? Vinte estados decidiram a eleição no 1º turno, segundo os resultados oficiais do TSE.\n\nNo Nordeste, foram eleitos JHC (AL), Jerônimo Rodrigues (BA), Elmano de Freitas (CE), Eduardo Braide (MA), Lucas Ribeiro (PB), Raquel Lyra (PE), Rafael Fonteles (PI) e Fábio Mitidieri (SE).\n\nNo Norte e no Centro-Oeste, venceram Dr. Furlan (AP), Dr. Daniel (PA), Marcos Rogério (RO), Arthur Henrique (RR), Daniel Vilela (GO), Otaviano Pivetta (MT) e Eduardo Riedel (MS). No Sudeste e no Sul, Cleitinho Azevedo (MG), Tarcísio de Freitas (SP), Sergio Moro (PR), Luciano Zucco (RS) e Jorginho Mello (SC).\n\nAcre, Distrito Federal, Espírito Santo, Rio de Janeiro, Rio Grande do Norte e Tocantins terão 2º turno em 25 de outubro. No Amazonas, o TSE ainda não tinha fechado o resultado oficial na madrugada desta segunda; Omar Aziz (PSD) estava à frente, com 40,63%.\n\nOs governadores eleitos tomam posse em 6 de janeiro de 2027.\n\nE no seu estado, a eleição para governador já acabou?\n\n(Fotos: Edilson Rodrigues e Leonardo Sá/Agência Senado, CC BY 2.0. Dados: TSE)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "O tarifaço de Trump caiu na Justiça. E voltou com ==37,5%== para o Brasil",
+  "chamada": "Entenda",
+  "capa": "tarifaco-de-trump-tabela-tarifas-2025.jpg",
+  "capa_estilo": "circulo",
+  "capa_extra": "conteineres-porto-de-salvador.jpg",
+  "slides": [
+    {"tipo": "numero", "numero": "37,5%", "texto": "é quanto pagam hoje **calçados, móveis, máquinas e roupas** do Brasil para entrar nos EUA.\n\nSão US$ 6,6 bilhões em vendas. Mas como chegamos aqui?", "foto": "navio-conteineres-porto-de-santos.jpg", "fonte": "MDIC, via Agência Brasil"},
+    {"tipo": "texto", "titulo": "Tudo começou em 2025", "texto": "Em agosto de 2025, Trump colocou **50% de tarifa** em produtos do Brasil.\n\nEm novembro, tirou a taxa extra de **café, carne e frutas**. Só que a briga ainda estava longe do fim.", "foto": "capa", "fonte": "Mercado & Consumo, Poder360"},
+    {"tipo": "texto_claro", "titulo": "A virada na Justiça", "texto": "Em fevereiro de 2026, a **Suprema Corte dos EUA** derrubou o tarifaço por 6 votos a 3.\n\nNo lugar, veio uma tarifa de **10% para quase todo o mundo**, com prazo de 150 dias. E o prazo acabou em julho.", "fonte": "Poder360"},
+    {"tipo": "texto", "titulo": "As duas novas tarifas", "texto": "==25%:== resultado de uma investigação sobre Pix, etanol, desmatamento e outros temas. Vale desde 22 de julho.\n\n==12,5%:== acusação de falhas contra trabalho forçado. Vale desde 24 de julho.\n\nJuntas, chegam a **37,5%**.", "fonte": "Band, O Tempo"},
+    {"tipo": "comparacao", "titulo": "Quem paga e quem escapou", "esquerda": {"rotulo": "Paga 37,5%", "valor": "16,5%", "detalhe": "das vendas aos EUA"}, "direita": {"rotulo": "Sem nova taxa", "valor": "52,7%", "detalhe": "das vendas aos EUA"}, "texto": "Café, carne, suco de laranja e aviões ficaram de fora da tarifa de 25%.", "fonte": "MDIC, via Agência Brasil; Band"},
+    {"tipo": "texto", "titulo": "E o seu bolso?", "texto": "A tarifa é paga na entrada dos EUA, e não nas lojas daqui.\n\nO risco está no **emprego** das fábricas que exportam. As vendas aos EUA caíram **13%** no 1º semestre.", "fonte": "Agência Brasil"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "Em 30 de setembro, ministros do Brasil se reuniram com o negociador dos EUA.\n\nOs americanos ficaram de mandar um documento com os termos da conversa. Ainda não há data para o fim do tarifaço.", "fonte": "SBT News, Metrópoles"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O tarifaço de Trump contra o Brasil caiu na Justiça americana. E voltou com outro nome.\n\nEm agosto de 2025, os EUA passaram a cobrar 50% sobre produtos brasileiros. Em fevereiro de 2026, a Suprema Corte derrubou essa tarifa por 6 votos a 3 (Poder360).\n\nEm julho, vieram duas novas taxas: 25%, por temas como Pix, etanol e desmatamento, e 12,5%, por acusações ligadas a trabalho forçado. Juntas, chegam a 37,5% e atingem US$ 6,6 bilhões em vendas, como calçados, móveis e máquinas (MDIC, via Agência Brasil).\n\nCafé, carne, suco de laranja e aviões ficaram fora da tarifa de 25%. Em 30 de setembro, os dois governos voltaram a negociar, e os EUA ficaram de enviar um documento com os termos da conversa.\n\n(Fotos: Daniel Torok/Casa Branca, domínio público; Wilfredor, Jorge Andrade e Samory Pereira Santos/Wikimedia Commons, licenças CC0, CC BY e CC BY-SA)\n\nVocê acha que o Brasil e os EUA chegam a um acordo ainda este ano?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

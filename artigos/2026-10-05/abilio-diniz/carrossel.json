@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "==Abilio Diniz== perdeu o Pão de Açúcar e virou sócio do maior rival",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "slides": [
+    {"tipo": "foto_texto", "titulo": "Começou numa doceria", "texto": "Em 1948, o pai dele abriu a Doceria Pão de Açúcar, em São Paulo. Em 1959, os dois abriram o **primeiro supermercado**.\n\nNos anos 1970, já era a maior varejista da América Latina.", "foto": "abilio-diniz-e-valentim-diniz-jumbo-1972.jpg", "fonte": "InfoMoney"},
+    {"tipo": "numero", "numero": "US$ 32 mi", "texto": "foi o prejuízo do grupo em 1990, quando Abilio assumiu o comando.\n\nOs funcionários caíram de **47 mil para 17 mil**. E as lojas, de 626 para 262.", "foto": "abilio-diniz-roda-viva-1987.jpg", "fonte": "InfoMoney, Brazil Journal"},
+    {"tipo": "texto", "titulo": "A volta por cima", "texto": "Com a empresa enxuta, o Pão de Açúcar foi para a bolsa e voltou a comprar rivais.\n\nEm 2009, levou **Ponto Frio e Casas Bahia**. Só que um contrato antigo já estava contando os dias.", "foto": "supermercado-pao-de-acucar-frutas.jpg", "fonte": "InfoMoney, Brasil Agro"},
+    {"tipo": "texto_claro", "titulo": "O contrato com os franceses", "texto": "Em 1999, o grupo francês **Casino** comprou 24,5% da empresa.\n\nO acordo dizia que, em 2012, o Casino ficaria com o **controle**. Abilio depois chamou o contrato de o maior erro da vida empresarial dele.", "fonte": "Brazil Journal, Brasil Agro"},
+    {"tipo": "texto", "titulo": "A briga de US$ 1 bilhão", "texto": "Abilio tentou uma fusão com o **Carrefour**, rival do Casino. Os franceses se sentiram traídos.\n\nA disputa custou cerca de US$ 1 bilhão em assessores. Em 2013, depois de 54 anos, ele saiu do grupo.", "fonte": "Brazil Journal, Diário do Nordeste"},
+    {"tipo": "numero", "numero": "3º", "texto": "maior acionista do **Carrefour** no mundo. Foi onde Abilio chegou depois de sair do Pão de Açúcar, aos 76 anos.\n\nQuando morreu, em 2024, a Forbes calculava cerca de **US$ 2 bilhões**.", "fonte": "Brazil Journal, Forbes"},
+    {"tipo": "texto_claro", "titulo": "A lição", "texto": "Abilio construiu, quase perdeu, salvou e perdeu de novo.\n\nE, em vez de parar, recomeçou como sócio do concorrente. A carreira dele mostra que um contrato mal pensado pode custar uma empresa inteira.", "fonte": "Brazil Journal"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Abilio Diniz perdeu o Pão de Açúcar e virou sócio do maior rival.\n\nTudo começou com uma doceria aberta pelo pai, Valentim, em 1948. Em 1959, os dois abriram o primeiro supermercado Pão de Açúcar, em São Paulo (InfoMoney).\n\nEm 1990, com prejuízo de US$ 32 milhões, Abilio assumiu o comando e cortou o grupo pela metade. Depois, a empresa foi para a bolsa e comprou rivais como Ponto Frio e Casas Bahia.\n\nO problema estava num contrato: em 1999, o francês Casino entrou como sócio, com a regra de assumir o controle em 2012. Abilio tentou uma fusão com o Carrefour, a briga custou cerca de US$ 1 bilhão em assessores, e ele deixou o grupo em 2013 (Brazil Journal).\n\nAos 76 anos, recomeçou como acionista do Carrefour e chegou a ser o terceiro maior do mundo. Morreu em 18 de fevereiro de 2024, aos 87 anos, com fortuna estimada em US$ 2 bilhões pela Forbes.\n\n(Fotos: reprodução/YouTube/Flow Podcast e Roda Viva; Joel D. P. Barreto/Arquivo Público do Estado de São Paulo, domínio público; Groupe Casino/Wikimedia Commons, CC BY-SA 3.0)\n\nVocê assinaria um contrato que tira o controle da sua empresa daqui a 10 anos?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

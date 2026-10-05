@@ -651,9 +651,30 @@
    ],
    "titulo": "O que é o petrodólar e como ele sustenta o poder do dólar",
    "data": "2026-10-05 16:00"
+  },
+  {
+   "slug": "tarifaco-de-trump",
+   "pasta": "artigos/2026-10-05/tarifaco-de-trump",
+   "arquivos": [
+    "tarifaco-de-trump.md",
+    "carrossel.json"
+   ],
+   "titulo": "O que mudou no tarifaço de Trump contra o Brasil em 2026",
+   "data": "2026-10-05 19:00"
+  },
+  {
+   "slug": "abilio-diniz",
+   "pasta": "artigos/2026-10-05/abilio-diniz",
+   "arquivos": [
+    "abilio-diniz.md",
+    "abilio-diniz-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Como Abilio Diniz transformou a doceria do pai no Pão de Açúcar",
+   "data": "2026-10-05 21:00"
   }
  ],
- "atualizado": "2026-10-05 16:04",
+ "atualizado": "2026-10-05 21:44",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -789,6 +810,11 @@
    "slug": "hoje-morte-steve-jobs",
    "pasta": "instagram/2026-10-05/hoje-morte-steve-jobs",
    "data": "2026-10-05 11:30"
+  },
+  {
+   "slug": "frase-bezos-mal-compreendido",
+   "pasta": "instagram/2026-10-06/frase-bezos-mal-compreendido",
+   "data": "2026-10-06 07:00"
   }
  ]
 }

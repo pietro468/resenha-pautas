@@ -55,7 +55,9 @@ Madrugada e manhã: escritas na rodada extra de sábado à noite. Pasta `artigos
 | 16:00 | IG (imagem única) | **Falta 1 hora para fechar as urnas.** Quem estiver na fila às 17h vota. |
 | 17:05 | Site + IG | **Urnas fechadas: o que acontece agora.** Boletim de urna, transmissão, assinatura digital, totalização e onde acompanhar (link da apuração do site). Pode ser escrita no sábado. |
 
-Noite: rodadas extras às 18h, 19h30, 21h e 22h45. Cada uma lê `eleicao/apuracao.json` (faça `git pull` antes; confira o campo `gerado`).
+Noite: rodadas extras às 18h, 19h30, 21h e 22h45.
+
+**JÁ PUBLICADO (manual, 21:05):** `artigos/2026-10-04/flavio-bolsonaro-e-lula-segundo-turno/` (Flávio Bolsonaro e Lula no 2º turno, com 93,59% das urnas). Ele cobre as pautas "Resultado para presidente" e "Quem vai para o 2º turno". Não escreva outra matéria nem outro post sobre o 2º turno de presidente hoje; as rodadas seguem só com parciais de governador e senado, se houver. Cada uma lê `eleicao/apuracao.json` (faça `git pull` antes; confira o campo `gerado`).
 
 | Quando | Onde | Pauta |
 |---|---|---|

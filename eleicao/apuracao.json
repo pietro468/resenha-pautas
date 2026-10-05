@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-05T03:50Z",
+ "gerado": "2026-10-05T04:21Z",
  "fonte": "TSE, resultados.tse.jus.br",
  "pres": {
   "pst": 99.998597891,
@@ -263,8 +263,8 @@
   },
   "ba": {
    "pst": 100.0,
-   "final": false,
-   "hora": "05/10/2026 00:39:21",
+   "final": true,
+   "hora": "05/10/2026 00:50:30",
    "cands": [
     {
      "nome": "Jerônimo Rodrigues",
@@ -272,7 +272,7 @@
      "n": "13",
      "votos": 4626509,
      "pct": 55.8,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Acm Neto",
@@ -280,7 +280,7 @@
      "n": "44",
      "votos": 3625227,
      "pct": 43.72,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Ronaldo Mansur",
@@ -288,7 +288,7 @@
      "n": "50",
      "votos": 27243,
      "pct": 0.33,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Aroldo Felix",
@@ -296,7 +296,7 @@
      "n": "80",
      "votos": 5238,
      "pct": 0.06,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },
@@ -575,8 +575,8 @@
   },
   "mg": {
    "pst": 100.0,
-   "final": false,
-   "hora": "05/10/2026 00:45:39",
+   "final": true,
+   "hora": "05/10/2026 00:50:04",
    "cands": [
     {
      "nome": "Cleitinho Azevedo",
@@ -584,7 +584,7 @@
      "n": "10",
      "votos": 6321590,
      "pct": 55.4,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Patrus Ananias",
@@ -592,7 +592,7 @@
      "n": "13",
      "votos": 3006088,
      "pct": 26.34,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Flávio Roscoe",
@@ -600,7 +600,7 @@
      "n": "22",
      "votos": 795193,
      "pct": 6.97,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Mateus Simões",
@@ -608,7 +608,7 @@
      "n": "55",
      "votos": 530292,
      "pct": 4.65,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },
@@ -1382,8 +1382,8 @@
   },
   "ba": {
    "pst": 100.0,
-   "final": false,
-   "hora": "05/10/2026 00:39:21",
+   "final": true,
+   "hora": "05/10/2026 00:50:30",
    "cands": [
     {
      "nome": "Rui Costa",
@@ -1391,7 +1391,7 @@
      "n": "133",
      "votos": 4335196,
      "pct": 30.07,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Jaques Wagner",
@@ -1399,7 +1399,7 @@
      "n": "130",
      "votos": 3986690,
      "pct": 27.65,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Angelo Coronel",
@@ -1407,7 +1407,7 @@
      "n": "100",
      "votos": 2898885,
      "pct": 20.11,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "João Roma",
@@ -1415,7 +1415,7 @@
      "n": "222",
      "votos": 2879443,
      "pct": 19.97,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Professora Delliana",
@@ -1423,7 +1423,7 @@
      "n": "500",
      "votos": 215190,
      "pct": 1.49,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Marcelo Carvalho",
@@ -1431,7 +1431,7 @@
      "n": "180",
      "votos": 50929,
      "pct": 0.35,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },
@@ -1822,8 +1822,8 @@
   },
   "mg": {
    "pst": 100.0,
-   "final": false,
-   "hora": "05/10/2026 00:45:39",
+   "final": true,
+   "hora": "05/10/2026 00:50:04",
    "cands": [
     {
      "nome": "Domingos Sávio",
@@ -1831,7 +1831,7 @@
      "n": "222",
      "votos": 4968829,
      "pct": 24.21,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Marília Campos",
@@ -1839,7 +1839,7 @@
      "n": "131",
      "votos": 3990864,
      "pct": 19.44,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Carlos Viana",
@@ -1847,7 +1847,7 @@
      "n": "555",
      "votos": 3583487,
      "pct": 17.46,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Áurea Carolina",
@@ -1855,7 +1855,7 @@
      "n": "500",
      "votos": 2664763,
      "pct": 12.98,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Marcelo Aro",
@@ -1863,7 +1863,7 @@
      "n": "111",
      "votos": 2387973,
      "pct": 11.63,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Marco Antônio Superman",
@@ -1871,7 +1871,7 @@
      "n": "300",
      "votos": 1895603,
      "pct": 9.24,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },
@@ -2651,8 +2651,8 @@
    "nome": "Nikolas Ferreira",
    "partido": "PL",
    "n": "2222",
-   "votos": 3119314,
-   "pct": 27.2,
+   "votos": 3119318,
+   "pct": 27.19,
    "st": "",
    "uf": "MG"
   },
@@ -2914,7 +2914,7 @@
    "n": "7000",
    "votos": 248147,
    "pct": 3.0,
-   "st": "",
+   "st": "Eleito por QP",
    "uf": "BA"
   }
  ],

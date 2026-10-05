@@ -1,0 +1,72 @@
+{
+ "formato": "carrossel",
+ "estilo": "frase",
+ "capa": "capa",
+ "capa_estilo": "dupla",
+ "capa_extra": "el-nino-enchente-porto-alegre-2024.jpg",
+ "rotulos": [
+  "Seca no Norte",
+  "Chuva no Sul"
+ ],
+ "chamada": "Entenda",
+ "gancho": "O ==El Niño== mais forte já medido pode encarecer sua comida em 2027",
+ "slides": [
+  {
+   "tipo": "numero",
+   "numero": "3,11 °C",
+   "texto": "acima do normal: foi o quanto o Pacífico esquentou em **21 de setembro**. É o ==maior valor já registrado== nesse índice.\n\nE o pico ainda não chegou.",
+   "fonte": "Carbon Brief, com dados da NOAA"
+  },
+  {
+   "tipo": "foto_texto",
+   "foto": "el-nino-seca-lago-tefe-botos.jpg",
+   "titulo": "O aviso de 2023",
+   "texto": "No último El Niño, bem mais fraco, a água do Lago Tefé passou de **40 °C** e cerca de **200 botos** morreram. O Rio Negro teve a menor marca desde 1902.\n\nAgora a força é maior.",
+   "fonte": "Instituto Mamirauá e Portal Amazônia"
+  },
+  {
+   "tipo": "texto",
+   "foto": "el-nino-colheita-de-soja.jpg",
+   "titulo": "Como chega ao seu prato",
+   "texto": "Seca de um lado, chuva demais do outro. ==Milho, arroz e algodão== são as lavouras que mais sofrem, segundo o Banco Central.\n\nSafra menor, preço maior. E não para aí.",
+   "fonte": "Banco Central, set/2026"
+  },
+  {
+   "tipo": "texto_claro",
+   "titulo": "E a carne?",
+   "texto": "Milho e soja viram ração de boi, porco e frango. Quando a ração sobe, a carne sobe meses depois.\n\nEm 2024, depois do último El Niño, a comida subiu **7,69%**. A inflação geral foi de 4,83%.",
+   "fonte": "IBGE"
+  },
+  {
+   "tipo": "comparacao",
+   "titulo": "A inflação de 2027 já mudou",
+   "esquerda": {
+    "rotulo": "Antes",
+    "valor": "3,6%",
+    "detalhe": "previsão da Fazenda"
+   },
+   "direita": {
+    "rotulo": "Agora",
+    "valor": "3,8%",
+    "detalhe": "com o El Niño"
+   },
+   "texto": "Economistas ouvidos pelo Banco Central calculam que o fenômeno some meio ponto à inflação de 2027.",
+   "fonte": "Ministério da Fazenda e Banco Central, set/2026"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "E a conta de luz?",
+   "texto": "Rio seco, hidrelétrica parada. Em 2023, a usina de **Santo Antônio**, em Rondônia, parou de gerar.\n\nAí entram as térmicas, mais caras. E quem paga é a ==bandeira== na sua conta.",
+   "fonte": "Mercado & Consumo e Aneel"
+  },
+  {
+   "tipo": "texto_claro",
+   "titulo": "No fim das contas",
+   "texto": "O pico no oceano deve vir no fim de 2026. Mas o efeito no prato e na conta de luz chega depois: ao longo de 2027, o primeiro ano do próximo governo."
+  },
+  {
+   "tipo": "final"
+  }
+ ],
+ "legenda": "O El Niño mais forte já medido pode deixar a comida e a conta de luz mais caras em 2027.\n\nEm 21 de setembro, a água do Pacífico chegou a 3,11 °C acima do normal, o maior valor já registrado, segundo análise do Carbon Brief. A NOAA, agência americana do clima, vê mais de 90% de chance de um evento muito forte no fim de 2026.\n\nNo Brasil, o fenômeno costuma trazer chuva demais ao Sul e seca ao Norte e ao Nordeste. Em 2023, com um El Niño mais fraco, o Rio Negro teve a menor marca desde 1902 e cerca de 200 botos morreram no Lago Tefé.\n\nO Ministério da Fazenda já subiu a previsão de inflação de 2027 de 3,6% para 3,8% por causa do efeito na safra. Milho, arroz e algodão são as lavouras que mais sofrem, segundo o Banco Central, e a carne sobe junto com a ração.\n\nA reportagem completa está no site do Resenha Rentável.\n\nVocê já sentiu a comida mais cara no mercado este ano?\n\n(Fotos: Tiago da Mota e Silva/Wikimedia Commons, CC BY-SA 4.0; Ricardo André Frantz/Wikimedia Commons, CC BY 4.0; Gpgeo/Wikimedia Commons, CC BY-SA 4.0; Roosevelt Pinheiro/Agência Brasil, CC BY 3.0 BR)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

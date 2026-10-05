@@ -1,0 +1,118 @@
+{
+ "titulo": "Curiosidades: os quadros mais caros já vendidos em leilão",
+ "data": "2026-10-05 12:30",
+ "fotos": [
+  {
+   "arquivo": "curiosidade-quadro-salvator-mundi-rosto.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_detail_of_face.jpg/1920px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_detail_of_face.jpg",
+   "credito": "Leonardo da Vinci/Wikimedia Commons (domínio público)"
+  },
+  {
+   "arquivo": "curiosidade-quadro-klimt-elisabeth-lederer.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gustav_Klimt_-_Bildnis_der_Elisabeth_Lederer_%281914-1916%29.jpg/1280px-Gustav_Klimt_-_Bildnis_der_Elisabeth_Lederer_%281914-1916%29.jpg",
+   "credito": "Gustav Klimt/Wikimedia Commons (domínio público)"
+  },
+  {
+   "arquivo": "curiosidade-quadro-andy-warhol-1968.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Andy-Warhol-Stockholm-1968.jpg",
+   "credito": "Lasse Olsson/Pressens bild/Wikimedia Commons (domínio público)"
+  },
+  {
+   "arquivo": "curiosidade-quadro-salvator-mundi.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg/1280px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
+   "credito": "Leonardo da Vinci/Wikimedia Commons (domínio público)"
+  },
+  {
+   "arquivo": "curiosidade-quadro-pablo-picasso.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg",
+   "credito": "Revista Vea y Lea/Wikimedia Commons (domínio público)"
+  },
+  {
+   "arquivo": "curiosidade-quadro-amedeo-modigliani.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Amedeo_Modigliani_1919.jpg",
+   "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"
+  },
+  {
+   "arquivo": "curiosidade-quadro-sothebys-nova-york.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sotheby_York_Av_jeh.JPG",
+   "credito": "Jim.henderson/Wikimedia Commons (domínio público)"
+  },
+  {
+   "arquivo": "curiosidade-quadro-warhol-1977.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Andy_Warhol_1977.jpg",
+   "credito": "Jack Kightlinger/Casa Branca (domínio público)"
+  }
+ ],
+ "carrossel": {
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa": "curiosidade-quadro-salvator-mundi-rosto.jpg",
+  "capa_estilo": "trio",
+  "capa_extras": [
+   "curiosidade-quadro-klimt-elisabeth-lederer.jpg",
+   "curiosidade-quadro-andy-warhol-1968.jpg"
+  ],
+  "chamada": "Curiosidades",
+  "gancho": "Quais são os ==quadros mais caros== já vendidos em leilão?",
+  "slides": [
+   {
+    "tipo": "item",
+    "foto": "curiosidade-quadro-sothebys-nova-york.jpg",
+    "posicao": "6º lugar",
+    "detalhe": "Nu couché (sur le côté gauche), Sotheby's, 2018",
+    "nome": "Amedeo Modigliani",
+    "valor": "US$ 157,2 milhões",
+    "fonte": "Artprice"
+   },
+   {
+    "tipo": "item",
+    "foto": "curiosidade-quadro-amedeo-modigliani.jpg",
+    "posicao": "5º lugar",
+    "detalhe": "Nu couché, Christie's, 2015",
+    "nome": "Amedeo Modigliani",
+    "valor": "US$ 170,4 milhões",
+    "fonte": "Artprice"
+   },
+   {
+    "tipo": "item",
+    "foto": "curiosidade-quadro-pablo-picasso.jpg",
+    "posicao": "4º lugar",
+    "detalhe": "Les Femmes d'Alger, Christie's, 2015",
+    "nome": "Pablo Picasso",
+    "valor": "US$ 179,4 milhões",
+    "fonte": "Artprice e Masterworks"
+   },
+   {
+    "tipo": "item",
+    "foto": "curiosidade-quadro-warhol-1977.jpg",
+    "posicao": "3º lugar",
+    "detalhe": "Shot Sage Blue Marilyn, Christie's, 2022",
+    "nome": "Andy Warhol",
+    "valor": "US$ 195 milhões",
+    "fonte": "Artprice e Masterworks"
+   },
+   {
+    "tipo": "item",
+    "foto": "curiosidade-quadro-klimt-elisabeth-lederer.jpg",
+    "posicao": "2º lugar",
+    "detalhe": "Retrato de Elisabeth Lederer, Sotheby's, 2025",
+    "nome": "Gustav Klimt",
+    "valor": "US$ 236,4 milhões",
+    "fonte": "Hyperallergic e Masterworks"
+   },
+   {
+    "tipo": "item",
+    "foto": "curiosidade-quadro-salvator-mundi.jpg",
+    "posicao": "1º lugar",
+    "detalhe": "Salvator Mundi, Christie's, 2017",
+    "nome": "Leonardo da Vinci",
+    "valor": "US$ 450,3 milhões",
+    "fonte": "PBS e Artprice"
+   },
+   {
+    "tipo": "final"
+   }
+  ],
+  "legenda": "Os quadros mais caros já vendidos em leilão, com as taxas incluídas. Todos foram arrematados em Nova York.\n\n1º Salvator Mundi, de Leonardo da Vinci: US$ 450,3 milhões (Christie's, 2017)\n2º Retrato de Elisabeth Lederer, de Gustav Klimt: US$ 236,4 milhões (Sotheby's, 2025)\n3º Shot Sage Blue Marilyn, de Andy Warhol: US$ 195 milhões (Christie's, 2022)\n4º Les Femmes d'Alger, de Pablo Picasso: US$ 179,4 milhões (Christie's, 2015)\n5º Nu couché, de Amedeo Modigliani: US$ 170,4 milhões (Christie's, 2015)\n6º Nu couché (sur le côté gauche), de Modigliani: US$ 157,2 milhões (Sotheby's, 2018)\n\nO recordista tem a história mais curiosa. Em 1958, o Salvator Mundi foi vendido por apenas 45 libras. Em 2005, três marchands de Nova York pagaram US$ 10 mil por ele num leilão de espólio nos Estados Unidos. Em 2017, o lance final saiu depois de 18 minutos de disputa, segundo a PBS.\n\nO Klimt é o mais recente da lista: foi vendido em novembro de 2025, da coleção de Leonard A. Lauder, e virou a obra mais cara já vendida pela Sotheby's. Fontes: Artprice, Masterworks (lista atualizada em julho de 2026), PBS e Hyperallergic.\n\nQual desses você penduraria na sua parede?\n\n(Fotos: obras e fotografias em domínio público via Wikimedia Commons; Lasse Olsson/Pressens bild; Jack Kightlinger/Casa Branca; Jim.henderson)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+ }
+}

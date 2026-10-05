@@ -77,3 +77,11 @@ Regras: tudo precisa ser confirmado em fonte aberta (a transcrição é só pont
 - **Ângulo:** Motoristas de aplicativo, táxi, caminhão e entrega somam dezenas de milhões de empregos; o que os estudos dizem sobre o impacto dos carros autônomos, com os dois lados do debate.
 - **Vídeo:** https://youtu.be/5TEufslbE8M
 - **Links internos:** o-que-e-waymo (se já publicado), carro-autonomo-vai-substituir-motoristas (se já publicado)
+
+### 12. O que são precatórios e por que eles voltam à conta do governo em 2027
+- **Slug:** o-que-sao-precatorios
+- **Categoria:** Economia · **Assina:** Redação
+- **Ângulo:** Explicar em linguagem simples o que é um precatório (dívida do governo reconhecida pela Justiça), por que os pagamentos foram adiados nos últimos anos e o que muda a partir de 2027 no orçamento federal. Neutro, sem atribuir culpa a governo.
+- **Ponto de partida:** Tesouro Nacional, STF (decisão sobre o limite de precatórios), Lei de Diretrizes Orçamentárias e Projeto de Lei Orçamentária de 2027 (confirmar valores na hora).
+- **Vídeo:** https://youtu.be/N5oAv6MdWVg
+- **Links internos:** divida-publica-mundial, el-nino-inflacao

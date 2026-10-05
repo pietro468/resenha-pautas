@@ -621,9 +621,19 @@
    ],
    "titulo": "Deputados federais mais votados têm dois nomes acima de 3 milhões",
    "data": "2026-10-05 10:00"
+  },
+  {
+   "slug": "el-nino-inflacao",
+   "pasta": "artigos/2026-10-05/el-nino-inflacao",
+   "arquivos": [
+    "el-nino-inflacao.md",
+    "carrossel.json"
+   ],
+   "titulo": "El Niño pode deixar comida e conta de luz mais caras em 2027",
+   "data": "2026-10-05 11:00"
   }
  ],
- "atualizado": "2026-10-05 07:48",
+ "atualizado": "2026-10-05 10:11",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -741,6 +751,11 @@
    "data": "2026-10-04 08:00"
   },
   {
+   "slug": "curiosidade-quadros-mais-caros",
+   "pasta": "instagram/2026-10-05/curiosidade-quadros-mais-caros",
+   "data": "2026-10-05 12:30"
+  },
+  {
    "slug": "frase-munger-incentivos",
    "pasta": "instagram/2026-10-05/frase-munger-incentivos",
    "data": "2026-10-05 07:00"
@@ -748,7 +763,7 @@
   {
    "slug": "hoje-morte-steve-jobs",
    "pasta": "instagram/2026-10-05/hoje-morte-steve-jobs",
-   "data": "2026-10-05 10:00"
+   "data": "2026-10-05 11:30"
   }
  ]
 }

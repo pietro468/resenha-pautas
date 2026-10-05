@@ -9,3 +9,4 @@ Se o Pietro enviar a transcrição ou o roteiro de um vídeo, ela fica em `trans
 
 ## Lista
 - 2026-09-29 · todos os 15 vídeos até https://youtu.be/zRIcmLPRWwc · transcrições guardadas em transcricoes/ e pautas anotadas em pautas-dos-videos.md (os demais assuntos já estavam na lista dos 117 ou nas pendentes)
+- 2026-10-05 · https://youtu.be/N5oAv6MdWVg · el-nino-inflacao (e pauta 12, o-que-sao-precatorios, anotada em pautas-dos-videos.md)

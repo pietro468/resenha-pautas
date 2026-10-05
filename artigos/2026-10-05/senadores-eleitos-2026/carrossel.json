@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "gancho": "Quem vai representar o seu estado no ==Senado== até 2034?",
+  "chamada": "Veja os eleitos",
+  "capa": "plenario-do-senado-posse-senadores-eleitos.jpg",
+  "capa_extra": "congresso-nacional-brasilia-senado.jpg",
+  "slides": [
+    {"tipo": "numero", "numero": "54", "texto": "das 81 cadeiras do Senado foram escolhidas no domingo, **2 por estado**. Quem ganhou fica ==8 anos== no cargo.", "foto": "capa", "fonte": "TSE e Agência Brasil"},
+    {"tipo": "texto", "titulo": "Os eleitos no Norte", "texto": "==AC:== Marcio Bittar e Mara Rocha\n==AP:== Rayssa Furlan e Lucas Barreto\n==PA:== Helder Barbalho e Chicão\n==RO:== Fernando Máximo e Bruno Scheid\n==RR:== Nicoletti e Teresa Surita\n==TO:== Eduardo Gomes e Alexandre Guimarães", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "Os eleitos no Nordeste", "texto": "==AL:== Arthur Lira e Marina JHC\n==BA:== Rui Costa e Jaques Wagner\n==CE:== Cid Gomes e Luizianne Lins\n==MA:== André Fufuca e Lahesio Bonfim\n==PB:== João Azevêdo e Veneziano\n==PE:== Humberto Costa e Marília Arraes\n==PI:== Marcelo Castro e Júlio César\n==RN:== Styvenson Valentim e Samanda de Lula\n==SE:== Rogério Carvalho e Delegado Alessandro", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "Sudeste e Centro-Oeste", "texto": "==SP:== Guilherme Derrite e André do Prado\n==MG:== Domingos Sávio e Marília Campos\n==RJ:== Carlos Portinho e Carlos Jordy\n==ES:== Renato Casagrande e Evair de Melo\n==DF:== Michelle Bolsonaro e Bia Kicis\n==GO:== Gustavo Gayer e Gracinha Caiado\n==MT:== Mauro Mendes e Zé Medeiros\n==MS:== Reinaldo Azambuja e Capitão Contar", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "Sul e o caso do Amazonas", "texto": "==PR:== Filipe Barros e Deltan Dallagnol\n==RS:== Sanderson e Marcel Van Hattem\n==SC:== Carol de Toni e Carlos Bolsonaro\n\n==AM:== o TSE ainda não tinha fechado o resultado. Eduardo Braga lidera.", "fonte": "TSE, às 4h23 de 5/10"},
+    {"tipo": "texto_claro", "titulo": "Como fica o Senado", "texto": "Dos 52 eleitos já confirmados, o **PL** levou 19 vagas. **PT** e **MDB** ficaram com 6 cada.\n\nSomando quem continua no mandato, o PL terá 28 das 81 cadeiras. A posse é em ==1º de fevereiro de 2027==.", "fonte": "TSE e Seu Dinheiro"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Quem vai representar o seu estado no Senado até 2034? O Brasil escolheu 54 senadores no domingo, dois por estado e dois pelo Distrito Federal.\n\nAté a madrugada desta segunda, o TSE tinha confirmado 52 nomes. No Amazonas, a totalização ainda não estava concluída; Eduardo Braga (MDB) estava à frente.\n\nEntre os confirmados, o PL elegeu 19 senadores; PT e MDB, 6 cada; PP, PSB, União e Novo, 3 cada; Republicanos, Podemos e PSD, 2 cada; PSDB, Rede e PDT, 1 cada.\n\nA maior votação foi a de Guilherme Derrite (PP), em São Paulo, com 13,27 milhões de votos. A disputa mais apertada pela segunda vaga foi no Rio Grande do Norte, decidida por 5.765 votos.\n\nOs eleitos tomam posse em 1º de fevereiro de 2027, para um mandato de oito anos.\n\nVocê lembra em quem votou para o Senado?\n\n(Fotos: Waldemir Barreto, Pedro França e Jonas Pereira/Agência Senado, CC BY 2.0. Dados: TSE)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

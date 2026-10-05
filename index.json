@@ -599,9 +599,20 @@
    ],
    "titulo": "Quem são os governadores eleitos e onde haverá 2º turno",
    "data": "2026-10-05 07:00"
+  },
+  {
+   "slug": "senadores-eleitos-2026",
+   "pasta": "artigos/2026-10-05/senadores-eleitos-2026",
+   "arquivos": [
+    "senadores-eleitos-2026.md",
+    "senadores-eleitos-2026-tabela.png",
+    "carrossel.json"
+   ],
+   "titulo": "Os senadores eleitos em cada estado e como fica o Senado",
+   "data": "2026-10-05 08:30"
   }
  ],
- "atualizado": "2026-10-05 07:44",
+ "atualizado": "2026-10-05 07:46",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

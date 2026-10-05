@@ -1,0 +1,32 @@
+{
+  "formato": "unico",
+  "estilo": "frase",
+  "capa_estilo": "placar",
+  "capa": "capa",
+  "chamada": "URGENTE",
+  "gancho": "==Flávio Bolsonaro e Lula== vão ao 2º turno para presidente",
+  "linhas": [
+    {
+      "rotulo": "Flávio Bolsonaro (PL)",
+      "valor": "47,76%",
+      "num": 47.76
+    },
+    {
+      "rotulo": "Lula (PT)",
+      "valor": "44,30%",
+      "num": 44.3
+    },
+    {
+      "rotulo": "Augusto Cury (Avante)",
+      "valor": "2,92%",
+      "num": 2.92
+    },
+    {
+      "rotulo": "Renan Santos (Missão)",
+      "valor": "2,28%",
+      "num": 2.28
+    }
+  ],
+  "fonte": "TSE, 93,59% das urnas apuradas, às 20h48",
+  "legenda": "Flávio Bolsonaro (PL) e Lula (PT) vão disputar o segundo turno para presidente, no domingo, 25 de outubro.\n\nCom 93,59% das urnas apuradas, às 20h48, Flávio tinha 47,76% dos votos válidos e Lula, 44,30%, segundo o TSE. Como ninguém chegou a mais da metade dos votos válidos, os dois mais votados voltam às urnas.\n\nFlávio, número 22, tem Alfredo Gaspar como vice. Lula, número 13, concorre à reeleição com Geraldo Alckmin como vice.\n\nNo segundo turno, a votação é das 8h às 17h (horário de Brasília), e a urna mostra só presidente e, onde houver, governador. A propaganda no rádio e na TV volta em 9 de outubro.\n\n(Fonte: TSE, resultados oficiais)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

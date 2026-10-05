@@ -1,16 +1,16 @@
 {
- "gerado": "2026-10-05T04:21Z",
+ "gerado": "2026-10-05T05:25Z",
  "fonte": "TSE, resultados.tse.jus.br",
  "pres": {
-  "pst": 99.998597891,
+  "pst": 99.999799699,
   "final": false,
-  "hora": "05/10/2026 00:45:49",
+  "hora": "05/10/2026 01:56:22",
   "cands": [
    {
     "nome": "Flavio Bolsonaro",
     "partido": "PL",
     "n": "22",
-    "votos": 56104422,
+    "votos": 56104500,
     "pct": 47.03,
     "st": ""
    },
@@ -18,7 +18,7 @@
     "nome": "Lula",
     "partido": "PT",
     "n": "13",
-    "votos": 53878385,
+    "votos": 53879187,
     "pct": 45.16,
     "st": ""
    },
@@ -26,7 +26,7 @@
     "nome": "Escritor Augusto Cury",
     "partido": "AVANTE",
     "n": "70",
-    "votos": 3448565,
+    "votos": 3448569,
     "pct": 2.89,
     "st": ""
    },
@@ -34,7 +34,7 @@
     "nome": "Renan Santos",
     "partido": "MISSÃO",
     "n": "14",
-    "votos": 2675883,
+    "votos": 2675886,
     "pct": 2.24,
     "st": ""
    },
@@ -42,7 +42,7 @@
     "nome": "Ronaldo Caiado",
     "partido": "PSD",
     "n": "55",
-    "votos": 2605142,
+    "votos": 2605145,
     "pct": 2.18,
     "st": ""
    },
@@ -50,7 +50,7 @@
     "nome": "Zema",
     "partido": "NOVO",
     "n": "30",
-    "votos": 326486,
+    "votos": 326488,
     "pct": 0.27,
     "st": ""
    },
@@ -457,41 +457,41 @@
    ]
   },
   "ma": {
-   "pst": 99.966838004,
-   "final": false,
-   "hora": "04/10/2026 23:21:07",
+   "pst": 100.0,
+   "final": true,
+   "hora": "05/10/2026 02:00:33",
    "cands": [
     {
      "nome": "Eduardo Braide",
      "partido": "PSD",
      "n": "55",
-     "votos": 2103882,
-     "pct": 54.03,
-     "st": ""
+     "votos": 2104122,
+     "pct": 54.02,
+     "st": "Eleito"
     },
     {
      "nome": "Orleans Brandão",
      "partido": "MDB",
      "n": "15",
-     "votos": 1353515,
+     "votos": 1354044,
      "pct": 34.76,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Felipe Camarão",
      "partido": "PT",
      "n": "13",
-     "votos": 373928,
+     "votos": 374039,
      "pct": 9.6,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Roberto Rocha",
      "partido": "PRTB",
      "n": "28",
-     "votos": 48920,
+     "votos": 48924,
      "pct": 1.26,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },
@@ -1656,57 +1656,57 @@
    ]
   },
   "ma": {
-   "pst": 99.966838004,
-   "final": false,
-   "hora": "04/10/2026 23:21:07",
+   "pst": 100.0,
+   "final": true,
+   "hora": "05/10/2026 02:00:33",
    "cands": [
     {
      "nome": "Fufuca",
      "partido": "PP",
      "n": "111",
-     "votos": 1529812,
+     "votos": 1530187,
      "pct": 21.43,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Lahesio Bonfim",
      "partido": "NOVO",
      "n": "300",
-     "votos": 1471761,
+     "votos": 1471859,
      "pct": 20.61,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Roseana Sarney",
      "partido": "MDB",
      "n": "151",
-     "votos": 1171252,
-     "pct": 16.4,
-     "st": ""
+     "votos": 1171634,
+     "pct": 16.41,
+     "st": "Não eleito"
     },
     {
      "nome": "Weverton Rocha",
      "partido": "PDT",
      "n": "123",
-     "votos": 1085972,
+     "votos": 1086318,
      "pct": 15.21,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Eliziane Gama",
      "partido": "PT",
      "n": "133",
-     "votos": 696150,
+     "votos": 696298,
      "pct": 9.75,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Cidônio Gonçalves",
      "partido": "PL",
      "n": "222",
-     "votos": 602958,
+     "votos": 602997,
      "pct": 8.44,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },

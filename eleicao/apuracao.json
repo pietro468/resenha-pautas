@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-05T08:22Z",
+ "gerado": "2026-10-05T09:23Z",
  "fonte": "TSE, resultados.tse.jus.br",
  "pres": {
   "pst": 100.0,
@@ -224,8 +224,8 @@
   },
   "am": {
    "pst": 100.0,
-   "final": false,
-   "hora": "05/10/2026 00:58:39",
+   "final": true,
+   "hora": "05/10/2026 04:59:33",
    "cands": [
     {
      "nome": "Omar Aziz",
@@ -233,7 +233,7 @@
      "n": "55",
      "votos": 841846,
      "pct": 40.63,
-     "st": ""
+     "st": "2º turno"
     },
     {
      "nome": "Professora Maria do Carmo",
@@ -241,7 +241,7 @@
      "n": "22",
      "votos": 507335,
      "pct": 24.49,
-     "st": ""
+     "st": "2º turno"
     },
     {
      "nome": "Roberto Cidade",
@@ -249,7 +249,7 @@
      "n": "44",
      "votos": 453896,
      "pct": 21.91,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "David Almeida",
@@ -257,7 +257,7 @@
      "n": "70",
      "votos": 218490,
      "pct": 10.54,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },
@@ -1327,8 +1327,8 @@
   },
   "am": {
    "pst": 100.0,
-   "final": false,
-   "hora": "05/10/2026 00:58:39",
+   "final": true,
+   "hora": "05/10/2026 04:59:33",
    "cands": [
     {
      "nome": "Eduardo Braga",
@@ -1336,7 +1336,7 @@
      "n": "155",
      "votos": 1240471,
      "pct": 32.29,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Plinio Valério",
@@ -1344,7 +1344,7 @@
      "n": "455",
      "votos": 948793,
      "pct": 24.7,
-     "st": ""
+     "st": "Eleito"
     },
     {
      "nome": "Capitão Alberto Neto",
@@ -1352,7 +1352,7 @@
      "n": "222",
      "votos": 909155,
      "pct": 23.66,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Wilson Lima",
@@ -1360,7 +1360,7 @@
      "n": "444",
      "votos": 456854,
      "pct": 11.89,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Professora Evany",
@@ -1368,7 +1368,7 @@
      "n": "500",
      "votos": 220880,
      "pct": 5.75,
-     "st": ""
+     "st": "Não eleito"
     },
     {
      "nome": "Xuxa do Amazonas",
@@ -1376,7 +1376,7 @@
      "n": "333",
      "votos": 46757,
      "pct": 1.22,
-     "st": ""
+     "st": "Não eleito"
     }
    ]
   },

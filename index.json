@@ -610,9 +610,20 @@
    ],
    "titulo": "Os senadores eleitos em cada estado e como fica o Senado",
    "data": "2026-10-05 08:30"
+  },
+  {
+   "slug": "deputados-federais-mais-votados",
+   "pasta": "artigos/2026-10-05/deputados-federais-mais-votados",
+   "arquivos": [
+    "deputados-federais-mais-votados.md",
+    "deputados-federais-mais-votados-ranking.png",
+    "carrossel.json"
+   ],
+   "titulo": "Deputados federais mais votados têm dois nomes acima de 3 milhões",
+   "data": "2026-10-05 10:00"
   }
  ],
- "atualizado": "2026-10-05 07:46",
+ "atualizado": "2026-10-05 07:48",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",

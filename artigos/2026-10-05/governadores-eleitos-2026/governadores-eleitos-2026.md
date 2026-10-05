@@ -65,7 +65,7 @@ Como nenhum candidato passou de 50%, a tendência é de nova votação no estado
 
 ## Quando é o segundo turno e quando os governadores eleitos tomam posse?
 
-O segundo turno será no domingo, 25 de outubro, das 8h às 17h pelo horário de Brasília. Nessas seis unidades da Federação, o eleitor vai votar para governador e também para presidente, já que Flávio Bolsonaro (PL) e Lula (PT) disputam a [segunda rodada da eleição presidencial](https://resenharentavel.com/flavio-bolsonaro-e-lula-segundo-turno/). Nos outros estados, a urna mostra só o cargo de presidente.
+O segundo turno será no domingo, 25 de outubro, das 8h às 17h pelo horário de Brasília. No segundo turno, a urna mostra no máximo dois cargos: presidente e, onde houver nova disputa, governador. Para ver como ficou a votação para presidente no domingo, leia a [matéria sobre o primeiro turno presidencial](https://resenharentavel.com/flavio-bolsonaro-e-lula-segundo-turno/).
 
 Os governadores eleitos tomam posse em 6 de janeiro de 2027, e não mais em 1º de janeiro. A mudança veio da Emenda Constitucional 111, aprovada pelo Congresso em 2021, segundo o [Poder360](https://www.poder360.com.br/congresso/lula-tera-mandato-de-4-anos-e-5-dias-e-vai-ate-2027/). O mandato é de quatro anos. Para saber o que faz e quanto recebe um governador, veja [quanto ganha cada político](https://resenharentavel.com/quanto-ganha-cada-politico/).
 

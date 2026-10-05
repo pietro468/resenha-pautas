@@ -1,0 +1,18 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "Dois deputados passaram de ==3 milhões de votos==. Isso nunca tinha acontecido",
+  "chamada": "Veja o ranking",
+  "capa": "capa",
+  "slides": [
+    {"tipo": "numero", "numero": "3,1 mi", "texto": "de votos para **Nikolas Ferreira** (PL-MG), o deputado federal mais votado do país. Logo atrás veio **Lucas Pavanato** (PL-SP), com ==3,04 milhões==.", "fonte": "TSE, às 4h23 de 5/10"},
+    {"tipo": "comparacao", "titulo": "O recorde ficou pequeno", "esquerda": {"rotulo": "Recorde antigo", "valor": "1,84 mi", "detalhe": "Eduardo Bolsonaro, 2018"}, "direita": {"rotulo": "2026", "valor": "3,12 mi", "detalhe": "Nikolas Ferreira"}, "texto": "Os dois primeiros de 2026 quase dobraram a marca anterior.", "fonte": "TSE e O Tempo"},
+    {"tipo": "texto", "titulo": "Do 3º ao 10º lugar", "texto": "==3º== Erika Hilton (PSOL-SP): 1,6 mi\n==4º== André Fernandes (PL-CE): 684 mil\n==5º== Sâmia Bomfim (PSOL-SP): 583 mil\n==6º== Julia Zanatta (PL-SC): 560 mil\n==7º== Ana Elisa (PT-MG): 524 mil\n==8º== Kim Kataguiri (Missão-SP): 520 mil\n==9º== Tabata Amaral (PSB-SP): 476 mil\n==10º== Jeffrey Chiquini (Novo-PR): 425 mil", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "Mais voto garante vaga?", "texto": "Não. Para deputado, as vagas vão **primeiro para os partidos**.\n\nO voto no candidato também conta para o partido. E é a soma do partido que define quantas cadeiras ele leva.", "foto": "plenario-camara-dos-deputados-sessao.jpg", "fonte": "TSE"},
+    {"tipo": "texto", "titulo": "O efeito puxador", "texto": "Em São Paulo, cada vaga custou cerca de **338 mil votos**.\n\nOs votos de Pavanato valem quase ==9 vagas==. Só uma é dele. O resto ajuda a eleger colegas do mesmo partido.", "foto": "plenario-ulysses-guimaraes-deputados-federais.jpg", "fonte": "TSE e Gazeta de S.Paulo"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "Em SP e MG, o TSE ainda não tinha confirmado quem foi eleito na madrugada desta segunda.\n\nOs 513 deputados tomam posse em **1º de fevereiro de 2027**, para 4 anos de mandato.", "fonte": "TSE e O Povo"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Pela primeira vez, dois candidatos a deputado federal passaram de 3 milhões de votos na mesma eleição.\n\nNikolas Ferreira (PL-MG) teve 3.119.318 votos, e Lucas Pavanato (PL-SP), 3.038.438, segundo o TSE. O recorde anterior era de Eduardo Bolsonaro, com 1,84 milhão em 2018.\n\nCompletam os dez primeiros Erika Hilton (PSOL-SP), André Fernandes (PL-CE), Sâmia Bomfim (PSOL-SP), Julia Zanatta (PL-SC), Ana Elisa (PT-MG), Kim Kataguiri (Missão-SP), Tabata Amaral (PSB-SP) e Jeffrey Chiquini (Novo-PR).\n\nMais voto não garante vaga: na eleição para deputado, as cadeiras vão primeiro para os partidos, pelo quociente eleitoral, e depois para os candidatos mais votados de cada um. Em São Paulo e Minas Gerais, o TSE ainda não tinha confirmado os eleitos na madrugada desta segunda.\n\nVocê sabia que o seu voto para deputado também conta para o partido?\n\n(Fotos: José Cruz e Wilson Dias/Agência Brasil, CC BY 3.0 BR; Jefferson Rudy/Agência Senado, CC BY 2.0. Dados: TSE)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

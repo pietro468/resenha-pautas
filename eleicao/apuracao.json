@@ -1,16 +1,16 @@
 {
- "gerado": "2026-10-05T05:25Z",
+ "gerado": "2026-10-05T06:29Z",
  "fonte": "TSE, resultados.tse.jus.br",
  "pres": {
-  "pst": 99.999799699,
+  "pst": 100.0,
   "final": false,
-  "hora": "05/10/2026 01:56:22",
+  "hora": "05/10/2026 02:58:39",
   "cands": [
    {
     "nome": "Flavio Bolsonaro",
     "partido": "PL",
     "n": "22",
-    "votos": 56104500,
+    "votos": 56104503,
     "pct": 47.03,
     "st": ""
    },
@@ -18,7 +18,7 @@
     "nome": "Lula",
     "partido": "PT",
     "n": "13",
-    "votos": 53879187,
+    "votos": 53879538,
     "pct": 45.16,
     "st": ""
    },
@@ -34,7 +34,7 @@
     "nome": "Renan Santos",
     "partido": "MISSÃO",
     "n": "14",
-    "votos": 2675886,
+    "votos": 2675887,
     "pct": 2.24,
     "st": ""
    },
@@ -42,7 +42,7 @@
     "nome": "Ronaldo Caiado",
     "partido": "PSD",
     "n": "55",
-    "votos": 2605145,
+    "votos": 2605148,
     "pct": 2.18,
     "st": ""
    },
@@ -223,23 +223,23 @@
    ]
   },
   "am": {
-   "pst": 99.987740591,
+   "pst": 100.0,
    "final": false,
-   "hora": "04/10/2026 23:45:49",
+   "hora": "05/10/2026 00:58:39",
    "cands": [
     {
      "nome": "Omar Aziz",
      "partido": "PSD",
      "n": "55",
-     "votos": 841567,
-     "pct": 40.62,
+     "votos": 841846,
+     "pct": 40.63,
      "st": ""
     },
     {
      "nome": "Professora Maria do Carmo",
      "partido": "PL",
      "n": "22",
-     "votos": 507334,
+     "votos": 507335,
      "pct": 24.49,
      "st": ""
     },
@@ -247,7 +247,7 @@
      "nome": "Roberto Cidade",
      "partido": "UNIÃO",
      "n": "44",
-     "votos": 453869,
+     "votos": 453896,
      "pct": 21.91,
      "st": ""
     },
@@ -255,8 +255,8 @@
      "nome": "David Almeida",
      "partido": "AVANTE",
      "n": "70",
-     "votos": 218467,
-     "pct": 10.55,
+     "votos": 218490,
+     "pct": 10.54,
      "st": ""
     }
    ]
@@ -1326,15 +1326,15 @@
    ]
   },
   "am": {
-   "pst": 99.987740591,
+   "pst": 100.0,
    "final": false,
-   "hora": "04/10/2026 23:45:49",
+   "hora": "05/10/2026 00:58:39",
    "cands": [
     {
      "nome": "Eduardo Braga",
      "partido": "MDB",
      "n": "155",
-     "votos": 1240155,
+     "votos": 1240471,
      "pct": 32.29,
      "st": ""
     },
@@ -1342,7 +1342,7 @@
      "nome": "Plinio Valério",
      "partido": "PSDB",
      "n": "455",
-     "votos": 948699,
+     "votos": 948793,
      "pct": 24.7,
      "st": ""
     },
@@ -1350,7 +1350,7 @@
      "nome": "Capitão Alberto Neto",
      "partido": "PL",
      "n": "222",
-     "votos": 908992,
+     "votos": 909155,
      "pct": 23.66,
      "st": ""
     },
@@ -1358,7 +1358,7 @@
      "nome": "Wilson Lima",
      "partido": "UNIÃO",
      "n": "444",
-     "votos": 456757,
+     "votos": 456854,
      "pct": 11.89,
      "st": ""
     },
@@ -1366,7 +1366,7 @@
      "nome": "Professora Evany",
      "partido": "PSOL",
      "n": "500",
-     "votos": 220878,
+     "votos": 220880,
      "pct": 5.75,
      "st": ""
     },

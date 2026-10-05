@@ -34,3 +34,4 @@ Cada arquivo `ID.txt` é a transcrição automática do vídeo `https://youtu.be
 | uyxFYSUCzA8 | A Copa do Mundo É Muito Pior do Que Parece (custo de sediar, elefantes brancos) |
 | tt_ilfypEO8 | A Faria Lima Está Obcecada Por Cartas de Pokémon. Mas Por Quê? |
 | RtpWeRLW_Bw | Daniel Fraga: Descobrimos onde ele estava escondido |
+| N5oAv6MdWVg | O que espera o próximo presidente em 2027 (El Niño recorde, inflação de alimentos, dívida pública, precatórios) |

@@ -1,10 +1,18 @@
-c-abilio.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Abilio%20Diniz
-c-abilio2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Abilio%20dos%20Santos%20Diniz
-o-abilio.json https://api.openverse.org/v1/images/?q=abilio%20diniz&license_type=commercial,modification&page_size=20
-c-paodeacucar.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=P%C3%A3o%20de%20A%C3%A7%C3%BAcar%20supermercado
-c-santos.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Porto%20de%20Santos%20containers
-c-tarifa.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Trump%20tariffs%20Rose%20Garden
-c-lulatrump.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Lula%20Trump%20meeting
-c-cafe.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=coffee%20beans%20export%20Brazil%20sacks
-
-
+c-abilio3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription|DateTimeOriginal&iiurlwidth=640&gsrsearch=%22Ab%C3%ADlio%20Diniz%22
+c-abilio4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription|DateTimeOriginal&iiurlwidth=640&gsrsearch=intitle:Abilio_Diniz
+c-carrefour.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription|DateTimeOriginal&iiurlwidth=640&gsrsearch=Carrefour%20Brasil%20hipermercado
+t-abilio.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Abilio_Diniz.jpg/640px-Abilio_Diniz.jpg
+t-natel.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Laudo_Natel_-_Valentim_Diniz_-_Abilio_Diniz_%281972%29.jpg/960px-Laudo_Natel_-_Valentim_Diniz_-_Abilio_Diniz_%281972%29.jpg
+t-sen1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Plen%C3%A1rio_do_Senado_%2826615829544%29.jpg/960px-Plen%C3%A1rio_do_Senado_%2826615829544%29.jpg
+t-sen2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Plen%C3%A1rio_do_Senado_%2827153600111%29.jpg/960px-Plen%C3%A1rio_do_Senado_%2827153600111%29.jpg
+t-sen3.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Plen%C3%A1rio_do_Senado_%2827153600341%29.jpg/960px-Plen%C3%A1rio_do_Senado_%2827153600341%29.jpg
+t-sen4.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Plen%C3%A1rio_do_Senado_%2826613869734%29.jpg/960px-Plen%C3%A1rio_do_Senado_%2826613869734%29.jpg
+t-pda1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Supermercado_P%C3%A3o_de_A%C3%A7%C3%BAcar_%2814177017734%29.jpg/960px-Supermercado_P%C3%A3o_de_A%C3%A7%C3%BAcar_%2814177017734%29.jpg
+t-pda2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Supermercado_P%C3%A3o_de_A%C3%A7%C3%BAcar_%2813990323069%29.jpg/960px-Supermercado_P%C3%A3o_de_A%C3%A7%C3%BAcar_%2813990323069%29.jpg
+t-santos.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Porto_de_Santos.jpg/960px-Porto_de_Santos.jpg
+t-salvador.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Containers_no_Porto_de_Salvador%2C_BA.jpg/960px-Containers_no_Porto_de_Salvador%2C_BA.jpg
+t-kota.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/KOTA_SANTOS%2C_IMO_9293765%2C_Rio_de_Janeiro.jpg/960px-KOTA_SANTOS%2C_IMO_9293765%2C_Rio_de_Janeiro.jpg
+t-lulatrump.jpg https://upload.wikimedia.org/wikipedia/commons/4/43/President_Lula_da_Silva_meeting_with_U.S._President_Donald_J._Trump_%2810-26-2025%29.jpg
+t-chart.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Trump_showing_a_chart_with_reciprocal_tariffs.jpg/960px-Trump_showing_a_chart_with_reciprocal_tariffs.jpg
+t-casino.jpg https://upload.wikimedia.org/wikipedia/commons/8/8e/Bresil_pao_de_acucar.JPG
+t-pullaside.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/President_Trump_Participates_in_a_Pull-Aside_with_the_President_of_Brazil_-_October_27%2C_2025.webm/960px--President_Trump_Participates_in_a_Pull-Aside_with_the_President_of_Brazil_-_October_27%2C_2025.webm.jpg

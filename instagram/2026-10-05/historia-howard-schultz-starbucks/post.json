@@ -1,0 +1,98 @@
+{
+  "titulo": "História real: Howard Schultz e os 217 nãos antes da Starbucks",
+  "data": "2026-10-05 20:00",
+  "fotos": [
+    {
+      "arquivo": "historia-schultz-retrato.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Howard_Schultz_by_Gage_Skidmore.jpg/1920px-Howard_Schultz_by_Gage_Skidmore.jpg",
+      "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 3.0)"
+    },
+    {
+      "arquivo": "historia-schultz-bay-view-houses.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bayview1.jpg/1920px-Bayview1.jpg",
+      "credito": "Meelar/Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "arquivo": "historia-schultz-starbucks-pike-place.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Starbucks_Seattle_PikePlace_1912.jpg/1920px-Starbucks_Seattle_PikePlace_1912.jpg",
+      "credito": "SilentDeath/Wikimedia Commons (CC BY-SA 4.0)"
+    },
+    {
+      "arquivo": "historia-schultz-balcao-expresso-milao.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mumac_-_Ricostruzione_di_un_bancone.jpg/1920px-Mumac_-_Ricostruzione_di_un_bancone.jpg",
+      "credito": "Jong Hoon Lee/Wikimedia Commons (CC BY-SA 2.0)"
+    },
+    {
+      "arquivo": "historia-schultz-starbucks-imprensa.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Howard-Schultz-Starbucks.jpg/1920px-Howard-Schultz-Starbucks.jpg",
+      "credito": "Sillygwailo/Wikimedia Commons (CC BY 2.5)"
+    },
+    {
+      "arquivo": "historia-schultz-2019.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Howard_Schultz_%2833059433328%29.jpg/1920px-Howard_Schultz_%2833059433328%29.jpg",
+      "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 2.0)"
+    }
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "historia-schultz-retrato.jpg",
+    "capa_estilo": "historia",
+    "capa_foco": "50,30",
+    "chamada": "História real",
+    "gancho": "==Howard Schultz== ouviu 217 nãos antes de comprar a Starbucks",
+    "slides": [
+      {
+        "tipo": "foto_texto",
+        "foto": "historia-schultz-bay-view-houses.jpg",
+        "titulo": "Começou num conjunto popular",
+        "texto": "Schultz cresceu nas Bay View Houses, um conjunto habitacional do Brooklyn, em Nova York.\n\nO pai, entregador, quebrou o tornozelo no gelo, e a família ficou sem plano de saúde.\n\nO filho queria outro destino.",
+        "fonte": "Bill George e Wikipedia"
+      },
+      {
+        "tipo": "foto_texto",
+        "foto": "historia-schultz-starbucks-pike-place.jpg",
+        "titulo": "Uma lojinha em Seattle",
+        "texto": "Em 1982, aos 29 anos, ele entrou numa pequena empresa de café de Seattle como diretor de varejo e marketing.\n\nO nome dela era ==Starbucks==.\n\nMas a ideia grande veio de outro país.",
+        "fonte": "Wikipedia"
+      },
+      {
+        "tipo": "foto_texto",
+        "foto": "historia-schultz-balcao-expresso-milao.jpg",
+        "titulo": "A viagem a Milão",
+        "texto": "Em 1983, numa viagem à Itália, ele viu os bares de ==café expresso== cheios de gente que se encontrava ali todo dia.\n\nQuis levar isso para os EUA. Para isso, deixou a Starbucks e foi abrir a própria cafeteria.",
+        "fonte": "Bill George e Wikipedia"
+      },
+      {
+        "tipo": "numero",
+        "numero": "217",
+        "texto": "pessoas disseram ==não== quando ele saiu atrás de dinheiro para abrir a própria cafeteria, a Il Giornale.\n\nEle bateu na porta de **242**.\n\nAlgumas poucas apostaram.",
+        "fonte": "Fortune"
+      },
+      {
+        "tipo": "foto_texto",
+        "foto": "historia-schultz-starbucks-imprensa.jpg",
+        "titulo": "A virada",
+        "texto": "Em 1987, Schultz e seus investidores compraram a própria Starbucks por ==US$ 3,8 milhões==.\n\nO ex-funcionário virou dono da empresa onde tinha trabalhado.\n\nE aí a rede explodiu.",
+        "fonte": "Fortune"
+      },
+      {
+        "tipo": "foto_texto",
+        "foto": "historia-schultz-2019.jpg",
+        "titulo": "Da Bolsa ao mundo",
+        "texto": "Em 1992, a Starbucks abriu capital na Bolsa e levantou **US$ 271 milhões**.\n\nNo fim do ano fiscal de 2025, a rede tinha ==40.990 lojas== no mundo.",
+        "fonte": "Wikipedia e Starbucks"
+      },
+      {
+        "tipo": "texto_claro",
+        "titulo": "O que fica",
+        "texto": "Para cada investidor que disse sim, quase nove disseram não.\n\nO menino do conjunto habitacional virou bilionário com uma ideia que ouviu mais \"não\" do que qualquer outra coisa.",
+        "fonte": "Fortune"
+      },
+      {
+        "tipo": "final"
+      }
+    ],
+    "legenda": "Howard Schultz ouviu 217 \"nãos\" antes de transformar a Starbucks numa rede com mais de 40 mil lojas.\n\nEle cresceu nas Bay View Houses, um conjunto habitacional do Brooklyn. O pai trabalhava como entregador, quebrou o tornozelo numa queda no gelo e a família perdeu o plano de saúde, segundo um perfil publicado no site do escritor Bill George.\n\nEm 1982, aos 29 anos, Schultz entrou na Starbucks, então uma pequena empresa de café de Seattle. No ano seguinte, numa viagem a Milão, se encantou com os bares de café expresso italianos. Ele decidiu sair da Starbucks e abrir a própria cafeteria, a Il Giornale.\n\nFaltava dinheiro. \"No ano em que passei tentando levantar dinheiro, falei com 242 pessoas, e 217 delas disseram não\", contou ele, em trecho citado pela Fortune.\n\nEm 1987, Schultz e seus investidores compraram a Starbucks por US$ 3,8 milhões. A empresa abriu capital em 1992 e, no fim do ano fiscal de 2025, tinha 40.990 lojas, segundo a própria Starbucks. A Fortune estima a fortuna de Schultz em cerca de US$ 6,6 bilhões.\n\nQuantos \"nãos\" você aguentaria antes de desistir de uma ideia?\n\n(Fotos: Gage Skidmore, CC BY-SA; Meelar, CC BY-SA 4.0; SilentDeath, CC BY-SA 4.0; Jong Hoon Lee, CC BY-SA 2.0; Sillygwailo, CC BY 2.5; todas via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

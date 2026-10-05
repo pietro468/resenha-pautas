@@ -631,9 +631,29 @@
    ],
    "titulo": "El Niño pode deixar comida e conta de luz mais caras em 2027",
    "data": "2026-10-05 11:00"
+  },
+  {
+   "slug": "por-que-o-dolar-caiu",
+   "pasta": "artigos/2026-10-05/por-que-o-dolar-caiu",
+   "arquivos": [
+    "por-que-o-dolar-caiu.md",
+    "carrossel.json"
+   ],
+   "titulo": "Por que o dólar caiu abaixo de R$ 5 e a Bolsa disparou hoje",
+   "data": "2026-10-05 14:00"
+  },
+  {
+   "slug": "o-que-e-o-petrodolar",
+   "pasta": "artigos/2026-10-05/o-que-e-o-petrodolar",
+   "arquivos": [
+    "o-que-e-o-petrodolar.md",
+    "carrossel.json"
+   ],
+   "titulo": "O que é o petrodólar e como ele sustenta o poder do dólar",
+   "data": "2026-10-05 16:00"
   }
  ],
- "atualizado": "2026-10-05 10:11",
+ "atualizado": "2026-10-05 16:04",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -759,6 +779,11 @@
    "slug": "frase-munger-incentivos",
    "pasta": "instagram/2026-10-05/frase-munger-incentivos",
    "data": "2026-10-05 07:00"
+  },
+  {
+   "slug": "historia-howard-schultz-starbucks",
+   "pasta": "instagram/2026-10-05/historia-howard-schultz-starbucks",
+   "data": "2026-10-05 20:00"
   },
   {
    "slug": "hoje-morte-steve-jobs",

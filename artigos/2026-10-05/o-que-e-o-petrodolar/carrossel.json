@@ -1,0 +1,69 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "capa": "capa",
+  "capa_foco": "45,40",
+  "chamada": "Deslize para ver",
+  "gancho": "O acordo secreto de 1974 que ajudou a fazer do ==dólar== a moeda do petróleo",
+  "slides": [
+    {
+      "tipo": "foto_texto",
+      "foto": "petrodolar-refinaria-ras-tanura-aramco.jpg",
+      "titulo": "Tudo começou com uma crise",
+      "texto": "Em 1973, países árabes cortaram o petróleo dos EUA. O preço do barril ==quadruplicou==.\n\nEm julho de 1974, o chefe do Tesouro americano, William Simon, embarcou para a Arábia Saudita.",
+      "fonte": "Bloomberg, via Energy Voice"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O trato",
+      "texto": "Os sauditas aplicam os dólares que ganham com petróleo em **títulos da dívida dos EUA**.\n\nEm troca, os EUA dão ajuda militar e segurança ao reino.\n\nCom uma condição: tudo em segredo.",
+      "fonte": "Bloomberg e Fortune"
+    },
+    {
+      "tipo": "numero",
+      "numero": "US$ 117 bi",
+      "texto": "era quanto a Arábia Saudita tinha em títulos americanos quando o segredo foi revelado, ==em 2016==.\n\nO acordo ficou escondido por mais de 40 anos.",
+      "foto": "petrodolar-tanques-de-petroleo-ras-tanura-1954.jpg",
+      "fonte": "Bloomberg"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por que isso dá poder aos EUA?",
+      "texto": "Quem quer comprar petróleo precisa ter dólar.\n\nEntão o mundo inteiro procura a moeda americana, e o governo dos EUA consegue pegar dinheiro emprestado com mais facilidade.\n\nSó que agora apareceu um rival.",
+      "fonte": "Fortune"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O desafio da China",
+      "texto": "Desde 2018, Xangai negocia petróleo em ==yuan==, a moeda chinesa.\n\nA China compra cerca de 90% do petróleo que o Irã exporta.\n\nE na guerra de 2026, navios passaram por Ormuz pagando em yuan.",
+      "fonte": "Fortune"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "Quanto o mundo guarda em dólar",
+      "esquerda": {
+        "rotulo": "1999",
+        "valor": "71%",
+        "detalhe": "das reservas dos bancos centrais"
+      },
+      "direita": {
+        "rotulo": "Junho de 2026",
+        "valor": "56,7%",
+        "detalhe": "das reservas dos bancos centrais"
+      },
+      "texto": "O dólar perde espaço devagar.",
+      "fonte": "FMI, via Central Banking, e Fortune"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "O petrodólar não acabou. O yuan ainda tem só **1,99%** das reservas do mundo.\n\nMas cada barril vendido fora do dólar mostra que o sistema criado em 1974 já não é o único jogo na mesa.",
+      "fonte": "FMI"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Em 1974, os EUA fizeram um acordo secreto com a Arábia Saudita que ajudou a transformar o dólar na moeda do petróleo.\n\nTudo começou com uma crise: em 1973, países árabes fizeram um embargo de petróleo contra os EUA e o preço do barril quadruplicou. Em julho de 1974, o secretário do Tesouro William Simon foi à Arábia Saudita negociar.\n\nPelo trato, os sauditas aplicariam os dólares do petróleo em títulos da dívida americana, em segredo. Em 2016, a Bloomberg revelou que o reino tinha US$ 117 bilhões nesses papéis.\n\nE o tal \"acordo de 50 anos\" que teria acabado em 2024? Segundo uma análise publicada pela Nasdaq, esse pacto com prazo nunca existiu.\n\nHoje a China negocia petróleo em yuan e compra cerca de 90% do petróleo exportado pelo Irã, segundo a Fortune. Mesmo assim, o dólar ainda era 56,7% das reservas dos bancos centrais em junho de 2026, segundo dados do FMI. O yuan tinha 1,99% no começo do ano.\n\nVocê acha que o dólar vai perder o trono algum dia?\n\n(Fotos: Robert L. Knudsen/Casa Branca e Aramco, domínio público, via Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

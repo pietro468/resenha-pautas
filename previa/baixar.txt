@@ -1,8 +1,4 @@
-o-bet5.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=apostas
-o-bet6.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=betting+odds+mobile
-o-bet7.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=bet365
-o-bet8.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=sports+betting
-o-bet9.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=betting+app
-c-bet10.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=casas+de+apostas
-c-bet11.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=aplicativo+banco+celular
-c-bet12.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=%22apostas%22+celular
+c-id.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=30555627292
+o-iphone.jpg https://api.openverse.org/v1/images/42cfcd3b-b54f-4f78-aa73-27169779f827/thumb/
+f-iphone.jpg https://live.staticflickr.com/5445/30555627292_7b4e7a60d8_b.jpg
+o-tschloss.jpg https://api.openverse.org/v1/images/c7f14de7-123f-482e-8fc3-1532c3efd6c0/thumb/

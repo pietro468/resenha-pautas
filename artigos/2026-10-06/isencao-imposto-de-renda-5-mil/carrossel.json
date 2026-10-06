@@ -1,0 +1,18 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Quem ganha R$ 5 mil ficou com ==R$ 312 a mais== por mês sem imposto de renda",
+  "chamada": "Veja as contas",
+  "capa": "meu-imposto-de-renda-celular-vertical.jpg",
+  "capa_estilo": "classico",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que mudou", "texto": "Desde **janeiro de 2026**, quem ganha até **R$ 5 mil** por mês não tem mais imposto de renda descontado no salário.\n\nE quem ganha até **R$ 7.350** paga menos. Mas o desconto vai diminuindo.", "fonte": "Lei 15.270/2025"},
+    {"tipo": "comparacao", "titulo": "Quanto sobra por mês", "esquerda": {"rotulo": "Ganha R$ 4 mil", "valor": "R$ 114", "detalhe": "a mais no salário"}, "direita": {"rotulo": "Ganha R$ 5 mil", "valor": "R$ 312", "detalhe": "a mais no salário"}, "texto": "Conta com desconto simplificado e sem dependentes.", "fonte": "Cálculo da Redação com a tabela da Receita"},
+    {"tipo": "comparacao", "titulo": "E acima de R$ 5 mil?", "esquerda": {"rotulo": "Ganha R$ 6 mil", "valor": "R$ 179", "detalhe": "de desconto"}, "direita": {"rotulo": "Ganha R$ 7 mil", "valor": "R$ 46", "detalhe": "de desconto"}, "texto": "A partir de R$ 7.350, o desconto acaba.", "fonte": "Cálculo da Redação com a tabela da Receita"},
+    {"tipo": "numero", "numero": "15 milhões", "texto": "de brasileiros ficaram **totalmente isentos**, segundo o governo.\n\nSó tem um detalhe: alguém precisa pagar essa conta.", "foto": "isencao-imposto-de-renda-nota-de-20-reais.jpg", "fonte": "Agência Brasil"},
+    {"tipo": "texto", "titulo": "Quem paga a conta", "texto": "Quem ganha mais de **R$ 600 mil por ano** passa a pagar um imposto mínimo, que chega a **10%**.\n\nSão cerca de **141 mil pessoas**, segundo a Agência Brasil.", "fonte": "Lei 15.270/2025, Agência Brasil"},
+    {"tipo": "texto_claro", "titulo": "E a declaração?", "texto": "A declaração de 2026 ainda era sobre a renda de 2025, quando a regra não valia.\n\nO acerto completo com a isenção chega na **declaração de 2027**. Quem tem renda extra precisa ficar de olho na soma do ano.", "fonte": "Agência Brasil"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Quem ganha R$ 5 mil por mês ficou com R$ 312,89 a mais no salário em 2026, porque deixou de pagar imposto de renda.\n\nA Lei 15.270, sancionada em novembro de 2025, zerou o IR de quem ganha até R$ 5 mil e criou um desconto para quem ganha até R$ 7.350, que diminui conforme o salário sobe.\n\nNas contas da Redação (desconto simplificado, sem dependentes), quem ganha R$ 4 mil economiza R$ 114,76 por mês; com R$ 6 mil, o desconto é de R$ 179,75; com R$ 7 mil, de R$ 46,60.\n\nSegundo a Agência Brasil, cerca de 15 milhões de pessoas ficaram totalmente isentas. Para compensar, quem ganha mais de R$ 600 mil por ano passa a pagar um imposto mínimo de até 10%.\n\nO acerto final vem na declaração de 2027, sobre a renda deste ano.\n\n(Fotos: Senado Federal, CC BY 2.0; Oleg Yunakov/Wikimedia Commons, CC BY-SA 4.0)\n\nVocê já percebeu a diferença no seu contracheque?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

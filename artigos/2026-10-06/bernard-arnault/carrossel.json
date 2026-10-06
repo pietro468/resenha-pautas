@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "O dono da Louis Vuitton e da Dior perdeu ==US$ 65 bilhões== em 2026",
+  "chamada": "Deslize para ver",
+  "capa": "bernard-arnault-palestra-polytechnique.jpg",
+  "capa_estilo": "circulo",
+  "capa_foco": "38,30",
+  "capa_extra": "sede-louis-vuitton-champs-elysees-paris.jpg",
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 143 bi", "texto": "é a fortuna de **Bernard Arnault** em setembro de 2026, segundo a Bloomberg.\n\nEle já foi o **homem mais rico do mundo**. Agora, saiu do top 10.", "fonte": "Bloomberg, via InvestNews"},
+    {"tipo": "foto_texto", "titulo": "Começou com uma empresa falida", "texto": "Em 1984, Arnault comprou um grupo têxtil em crise. Só queria uma coisa de lá: a **Dior**.\n\nVendeu quase todo o resto. E foi atrás de um alvo maior.", "foto": "bernard-arnault-estudantes-polytechnique-2017.jpg", "fonte": "InfoMoney"},
+    {"tipo": "texto", "titulo": "A tomada da Louis Vuitton", "texto": "A LVMH nasceu em 1987. Arnault foi comprando ações até ficar com a maior fatia.\n\nEm **1989**, virou presidente do grupo. Está lá até hoje.", "fonte": "InfoMoney"},
+    {"tipo": "foto_texto", "titulo": "Um colecionador de marcas", "texto": "Depois vieram Sephora, Fendi, Bulgari e a **Tiffany**, comprada por **US$ 15,8 bilhões** em 2020.\n\nEm 2024, a Forbes calculava a fortuna dele em **US$ 233 bilhões**.", "foto": "bernard-arnault-oficina-louis-vuitton-texas-2019.jpg", "fonte": "InfoMoney, Forbes"},
+    {"tipo": "texto", "titulo": "Então, o que deu errado?", "texto": "O luxo esfriou na **China**. A guerra no Oriente Médio afastou clientes de **Dubai**.\n\nE, enquanto as ações da LVMH caíam, a bolsa americana subia com as empresas de tecnologia.", "fonte": "Bloomberg, via InvestNews"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Arnault ficou rico comprando marcas, não criando.\n\nAos 77 anos, ainda comanda a LVMH. O desafio agora é provar que o luxo volta a crescer e escolher qual filho fica com o império.", "fonte": "InfoMoney"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O dono da Louis Vuitton e da Dior perdeu US$ 65 bilhões em 2026.\n\nBernard Arnault, de 77 anos, comanda a LVMH desde 1989. Em setembro, a fortuna dele caiu para US$ 143 bilhões e ele saiu do top 10 dos mais ricos do mundo, segundo a Bloomberg.\n\nA história começa em 1984, quando ele comprou um grupo têxtil falido só para ficar com a Dior. Depois, tomou o controle da LVMH e comprou marcas como Sephora, Bulgari e Tiffany (US$ 15,8 bilhões, em 2020).\n\nEm 2024, a Forbes o colocou no topo do mundo, com US$ 233 bilhões. Mas o luxo esfriou na China e no Oriente Médio, e as ações da LVMH caíram enquanto as de tecnologia subiam.\n\nEm 2025, a LVMH faturou 80,8 bilhões de euros, menos que no ano anterior.\n\n(Fotos: Jérémy Barande/École polytechnique, CC BY-SA 2.0; Ank Kumar/Wikimedia Commons, CC BY-SA 4.0; Shealah Craighead/Casa Branca, domínio público)\n\nVocê pagaria por uma bolsa de luxo ou prefere investir esse dinheiro?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

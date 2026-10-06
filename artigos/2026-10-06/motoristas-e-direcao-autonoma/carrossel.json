@@ -1,0 +1,22 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "O carro sem motorista já faz ==500 mil corridas== por semana nos EUA",
+  "subgancho": "No Brasil, 1,1 milhão vivem de dirigir por app.",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "dupla",
+  "capa_extra": "waymo-carro-sem-motorista-robotaxi.jpg",
+  "rotulos": ["Brasil", "EUA"],
+  "slides": [
+    {"tipo": "numero", "numero": "1,1 milhão", "texto": "de brasileiros dirigem por apps como ==Uber e 99==. Outros **232 mil** vivem só de app de táxi.\n\nSó que, lá fora, o carro já anda sozinho.", "foto": "celular-com-aplicativo-uber.jpg", "fonte": "IBGE, PNAD Contínua 2025, via Agência Brasil"},
+    {"tipo": "foto_texto", "foto": "waymo-robotaxi-los-angeles.jpg", "titulo": "Enquanto isso, nos EUA", "texto": "A ==Waymo==, do grupo do Google, faz **500 mil corridas pagas por semana** sem ninguém ao volante. Em 2024 eram 50 mil.", "fonte": "TechCrunch, março de 2026"},
+    {"tipo": "comparacao", "titulo": "Ainda é pouco?", "esquerda": {"rotulo": "Waymo", "valor": "500 mil", "detalhe": "corridas por semana"}, "direita": {"rotulo": "Uber", "valor": "1 milhão", "detalhe": "viagens por hora, em 2024"}, "texto": "O robotáxi cresce rápido, mas ainda é pequeno perto dos apps.", "fonte": "TechCrunch"},
+    {"tipo": "texto", "titulo": "E os caminhoneiros?", "texto": "O Brasil tem ==627.885== caminhoneiros autônomos ativos. É no caminhão que os estudos veem o maior risco.\n\nMas os economistas não concordam.", "foto": "caminhao-em-rodovia-caminhoneiros-autonomos.jpg", "fonte": "ANTT, junho de 2026"},
+    {"tipo": "texto_claro", "titulo": "Os dois lados", "texto": "==Goldman Sachs, 2017:== os EUA podem perder até **300 mil** vagas de motorista por ano no auge.\n\n==Economistas do governo dos EUA, 2019:== cerca de **456 mil** em risco, porque motorista faz mais que dirigir.", "fonte": "CNBC e FreightWaves"},
+    {"tipo": "texto", "titulo": "E no Brasil?", "texto": "A lei manda o motorista ter controle do carro **o tempo todo**.\n\nSem mudar o Código de Trânsito, não tem robotáxi por aqui. E a mudança ainda está no Congresso.", "foto": "taxi-em-sao-paulo-motoristas.jpg", "fonte": "Código de Trânsito Brasileiro, art. 28"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O carro sem motorista já virou negócio nos EUA. No Brasil, o ritmo depende da tecnologia e do Congresso.\n\nAté lá, o volante sustenta quase 2 milhões de pessoas."},
+    {"tipo": "final"}
+  ],
+  "legenda": "Nos Estados Unidos, o carro sem motorista já faz 500 mil corridas pagas por semana. No Brasil, 1,1 milhão de pessoas dirigem por aplicativos como Uber e 99.\n\nOs números do Brasil são do IBGE, de 2025. Além dos apps de transporte, 232 mil pessoas trabalham só com aplicativos de táxi. E a ANTT registra 627.885 caminhoneiros autônomos ativos.\n\nLá fora, a Waymo, do grupo do Google, passou de 50 mil para 500 mil corridas por semana em menos de dois anos, segundo o TechCrunch, e já opera em 14 cidades americanas.\n\nOs estudos não chegam a um acordo sobre os empregos. O Goldman Sachs projetou, em 2017, até 300 mil vagas perdidas por ano nos EUA no auge da adoção. Já economistas do governo americano calcularam, em 2019, cerca de 456 mil motoristas de fato em risco.\n\nNo Brasil, o Código de Trânsito exige que o motorista tenha controle do carro o tempo todo. As propostas para mudar isso ainda tramitam no Congresso.\n\nVocê entraria num carro sem ninguém ao volante?\n\n(Fotos: Fernando Oda e Pedro Caramuru/Núcleo Editorial, CC BY 2.0; Alexis Doine/Wikimedia Commons, CC0; Moacir Ximenes/Wikimedia Commons, domínio público)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

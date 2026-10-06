@@ -692,9 +692,29 @@
    ],
    "titulo": "A história da Coca-Cola, de 9 copos por dia a 2,2 bilhões",
    "data": "2026-10-06 11:00"
+  },
+  {
+   "slug": "devolucao-do-saldo-das-bets",
+   "pasta": "artigos/2026-10-06/devolucao-do-saldo-das-bets",
+   "arquivos": [
+    "devolucao-do-saldo-das-bets.md",
+    "carrossel.json"
+   ],
+   "titulo": "Devolução do saldo das bets começa dia 9, com sites já fora do ar",
+   "data": "2026-10-06 14:00"
+  },
+  {
+   "slug": "motoristas-e-direcao-autonoma",
+   "pasta": "artigos/2026-10-06/motoristas-e-direcao-autonoma",
+   "arquivos": [
+    "motoristas-e-direcao-autonoma.md",
+    "carrossel.json"
+   ],
+   "titulo": "Quantos motoristas existem no Brasil e o que muda com o robotáxi",
+   "data": "2026-10-06 16:00"
   }
  ],
- "atualizado": "2026-10-06 10:14",
+ "atualizado": "2026-10-06 16:15",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -845,6 +865,11 @@
    "slug": "hoje-lancamento-instagram",
    "pasta": "instagram/2026-10-06/hoje-lancamento-instagram",
    "data": "2026-10-06 10:00"
+  },
+  {
+   "slug": "placar-preco-do-big-mac",
+   "pasta": "instagram/2026-10-06/placar-preco-do-big-mac",
+   "data": "2026-10-06 17:30"
   }
  ]
 }

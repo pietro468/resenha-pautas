@@ -1,0 +1,22 @@
+{
+  "titulo": "Placar: quanto custa um Big Mac em dólar em cada país",
+  "data": "2026-10-06 17:30",
+  "fotos": [],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa": "capa",
+    "capa_estilo": "placar",
+    "chamada": "Em números",
+    "gancho": "Quanto custa um ==Big Mac== em dólar?",
+    "fonte": "The Economist, Índice Big Mac de julho de 2026",
+    "linhas": [
+      {"rotulo": "Suíça", "valor": "US$ 9,04", "num": 9.04},
+      {"rotulo": "EUA", "valor": "US$ 6,22", "num": 6.22},
+      {"rotulo": "Argentina", "valor": "US$ 5,91", "num": 5.91},
+      {"rotulo": "Brasil", "valor": "US$ 4,71", "num": 4.71, "destaque": 1},
+      {"rotulo": "Japão", "valor": "US$ 3,08", "num": 3.08}
+    ],
+    "legenda": "No Brasil, o Big Mac custa R$ 23,90. Convertido em dólar, sai por US$ 4,71, menos que nos EUA (US$ 6,22) e até que na Argentina (US$ 5,91).\n\nOs números são do Índice Big Mac de julho de 2026, da revista The Economist. A ideia é simples: o sanduíche é igual no mundo todo, então a diferença de preço em dólar dá uma pista de quais moedas estão caras ou baratas.\n\nPela conta da revista, o real estava cerca de 24% abaixo do dólar em julho. Na Suíça, o lanche mais caro da lista custa US$ 9,04. No Japão, com o iene fraco, sai por só US$ 3,08.\n\nO índice não é uma previsão de câmbio. Ele não leva em conta salários, aluguel e impostos de cada país, que também mexem no preço.\n\nEm qual desses países o Big Mac te surpreendeu?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo.\n\n#bigmac #dolar #economia"
+  }
+}

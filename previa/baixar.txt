@@ -1,5 +1,8 @@
-pl54903806402.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854903806402%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854903806402%29.jpg
-pl54904929869.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904929869%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904929869%29.jpg
-pl54904984535.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984535%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984535%29.jpg
-pl54904984540.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984540%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984540%29.jpg
-nota20.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg/960px-20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg
+chk1.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bernard_Arnault_%283%29_-_2017.jpg/1920px-Bernard_Arnault_%283%29_-_2017.jpg
+chk2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bernard_Arnault_%281%29_-_2017.jpg/1920px-Bernard_Arnault_%281%29_-_2017.jpg
+chk3.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/LOUIS_VUITTON_headquarters%2C_Paris%2C_France_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg/1920px-LOUIS_VUITTON_headquarters%2C_Paris%2C_France_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg
+chk4.jpg https://upload.wikimedia.org/wikipedia/commons/6/66/President_Trump_Visits_the_the_Louis_Vuitton_Workshop_-_Rochambeau_%2848919119381%29.jpg
+chk5.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bernard_Arnault_%282%29_-_2017.jpg/1920px-Bernard_Arnault_%282%29_-_2017.jpg
+chk6.jpg https://live.staticflickr.com/65535/52307531752_6a614318d9_b.jpg
+chk7.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg/1920px-20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg
+chk8.jpg https://live.staticflickr.com/65535/52308783540_84f6161f00_b.jpg

@@ -1,8 +1,5 @@
-u1.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=52308783540%20OR%2052307531752%20OR%2052308766589
-u2.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=Meu%20Imposto%20de%20Renda%20IRPF&source=flickr
-u3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Senado%20isen%C3%A7%C3%A3o%20imposto%20de%20renda%202025%20plen%C3%A1rio
-u4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Brazilian%20real%20banknotes
-u5.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=declara%C3%A7%C3%A3o%20imposto%20de%20renda%20Receita&source=flickr
-sen1.jpg https://live.staticflickr.com/65535/52308783540_84f6161f00_b.jpg
-sen2.jpg https://live.staticflickr.com/65535/52307531752_6a614318d9_b.jpg
-sen3.jpg https://live.staticflickr.com/65535/52308766589_44a8ab72ba_b.jpg
+pl54903806402.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854903806402%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854903806402%29.jpg
+pl54904929869.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904929869%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904929869%29.jpg
+pl54904984535.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984535%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984535%29.jpg
+pl54904984540.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984540%29.jpg/960px-2025-11-05%2C_Plen%C3%A1rio_do_Senado_%2854904984540%29.jpg
+nota20.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg/960px-20_Brazilian_Real_banknote_featuring_a_Golden_Lion_Tamarin_monkey.jpg

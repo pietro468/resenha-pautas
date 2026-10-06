@@ -1,8 +1,8 @@
-c-bet6.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=apostas+esportivas
-c-bet7.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Neddermeyer+apostas
-c-bet8.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=jogos+de+azar+online+Brasil
-c-bet9.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=betting+odds+phone
-o-bet5.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=30&q=apostas
-o-bet6.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=30&q=betting+odds+mobile
-o-bet7.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=30&q=bet365
-f-inplay.jpg https://live.staticflickr.com/1766/43395864502_cc68d55f57_b.jpg
+o-bet5.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=apostas
+o-bet6.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=betting+odds+mobile
+o-bet7.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=bet365
+o-bet8.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=sports+betting
+o-bet9.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=betting+app
+c-bet10.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=casas+de+apostas
+c-bet11.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=aplicativo+banco+celular
+c-bet12.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=%22apostas%22+celular

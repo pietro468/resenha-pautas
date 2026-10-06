@@ -1,0 +1,17 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Pela primeira vez, um ==carro elétrico== está entre os 3 mais vendidos do Brasil",
+  "chamada": "Veja o ranking",
+  "capa": "byd-dolphin-mini-eletrico-mais-vendido.jpg",
+  "capa_estilo": "classico",
+  "slides": [
+    {"tipo": "numero", "numero": "9.385", "texto": "unidades do ==BYD Dolphin Mini== vendidas em setembro. Ele ficou em **3º lugar** e passou Onix, Argo e HB20.\n\nMas não foi a única surpresa do mês.", "fonte": "JATO Dynamics, via Webmotors"},
+    {"tipo": "texto", "titulo": "Recorde de vendas", "texto": "O Brasil emplacou **509.686 veículos** em setembro, contando carros, caminhões, ônibus e motos.\n\nÉ o melhor setembro da história da Fenabrave. E 8% a mais que um ano antes.", "foto": "capa", "fonte": "Fenabrave, via CNN Brasil"},
+    {"tipo": "texto", "titulo": "Quem lidera", "texto": "==1º== Fiat Strada: **16.002**\n==2º== VW Polo: **11.095**\n==3º== BYD Dolphin Mini: **9.385**\n==4º== VW T-Cross: **9.339**\n==5º== VW Tera: **8.725**", "foto": "fiat-strada-carro-mais-vendido.jpg", "fonte": "JATO Dynamics, via Webmotors"},
+    {"tipo": "texto", "titulo": "Por que tanta gente comprou?", "texto": "Com juros ainda altos, o empurrão veio do governo.\n\n==IPI zero:== carros compactos feitos no Brasil e menos poluentes ficaram sem esse imposto.\n\n==Move Brasil:== crédito do BNDES para caminhões e ônibus.", "foto": "volkswagen-polo-track.jpg", "fonte": "Fenabrave e Agência Brasil"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "O IPI zero vale até dezembro de 2026. A Fenabrave prevê 5,3 milhões de veículos no ano e pode subir a conta em novembro.\n\nE a BYD já é a 4ª marca que mais vende no país.", "fonte": "Agência Brasil e Vrum"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Pela primeira vez, um carro elétrico ficou entre os três mais vendidos do Brasil num mês.\n\nO BYD Dolphin Mini emplacou 9.385 unidades em setembro e ficou em 3º lugar, atrás só da Fiat Strada (16.002) e do VW Polo (11.095), segundo a JATO Dynamics. Segundo a BYD, ele é fabricado em Camaçari, na Bahia.\n\nO mês também foi de recorde: 509.686 veículos emplacados, somando todos os segmentos. É o melhor setembro da série histórica da Fenabrave, 8,32% acima de setembro de 2025.\n\nO setor credita o resultado à concorrência e a programas do governo, como o IPI zero para carros compactos e o Move Brasil, que financia caminhões e ônibus. O IPI zero vale até dezembro de 2026.\n\nVocê compraria um carro elétrico hoje?\n\n(Fotos: Mateusmatsuda, Valenz2006, NaBUru38 e Just a Man/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

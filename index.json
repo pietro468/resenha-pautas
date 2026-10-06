@@ -672,9 +672,29 @@
    ],
    "titulo": "Como Abilio Diniz transformou a doceria do pai no Pão de Açúcar",
    "data": "2026-10-05 21:00"
+  },
+  {
+   "slug": "venda-de-carros-novos",
+   "pasta": "artigos/2026-10-06/venda-de-carros-novos",
+   "arquivos": [
+    "venda-de-carros-novos.md",
+    "carrossel.json"
+   ],
+   "titulo": "Venda de carros novos bate recorde e elétrico entra no pódio",
+   "data": "2026-10-06 08:00"
+  },
+  {
+   "slug": "historia-da-coca-cola",
+   "pasta": "artigos/2026-10-06/historia-da-coca-cola",
+   "arquivos": [
+    "historia-da-coca-cola.md",
+    "carrossel.json"
+   ],
+   "titulo": "A história da Coca-Cola, de 9 copos por dia a 2,2 bilhões",
+   "data": "2026-10-06 11:00"
   }
  ],
- "atualizado": "2026-10-05 21:44",
+ "atualizado": "2026-10-06 10:14",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -812,9 +832,19 @@
    "data": "2026-10-05 11:30"
   },
   {
+   "slug": "curiosidade-mais-ricos-do-mundo",
+   "pasta": "instagram/2026-10-06/curiosidade-mais-ricos-do-mundo",
+   "data": "2026-10-06 12:30"
+  },
+  {
    "slug": "frase-bezos-mal-compreendido",
    "pasta": "instagram/2026-10-06/frase-bezos-mal-compreendido",
    "data": "2026-10-06 07:00"
+  },
+  {
+   "slug": "hoje-lancamento-instagram",
+   "pasta": "instagram/2026-10-06/hoje-lancamento-instagram",
+   "data": "2026-10-06 10:00"
   }
  ]
 }

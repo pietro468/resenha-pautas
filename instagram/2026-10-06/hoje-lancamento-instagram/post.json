@@ -1,0 +1,30 @@
+{
+  "titulo": "Hoje na história: 6 de outubro de 2010, o Instagram chega à App Store",
+  "data": "2026-10-06 10:00",
+  "fotos": [
+    {"arquivo": "hoje-instagram-systrom-2013.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kevin_Systrom_2013.jpg", "credito": "TechCrunch/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-instagram-krieger-2012.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mike_Krieger_%288009759472%29.jpg/1280px-Mike_Krieger_%288009759472%29.jpg", "credito": "JD Lasica/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-instagram-disrupt-2011.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Eric_Ries_TechCrunch_Disrupt.jpg/1280px-Eric_Ries_TechCrunch_Disrupt.jpg", "credito": "kawanet/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-instagram-zuckerberg-2012.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mark_Zuckerberg_TechCrunch_2012.jpg", "credito": "TechCrunch/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-instagram-systrom-2014.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kevin_Systrom_2014_%28cropped%29.jpg", "credito": "TechCrunch/Wikimedia Commons (CC BY 2.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-instagram-systrom-2013.jpg",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "6 out",
+    "ano": "2010",
+    "ha": "Há 16 anos",
+    "gancho": "Nascia o ==Instagram==, vendido 18 meses depois por US$ 1 bilhão",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-instagram-krieger-2012.jpg"},
+      {"tipo": "foto", "foto": "hoje-instagram-disrupt-2011.jpg"},
+      {"tipo": "foto", "foto": "hoje-instagram-zuckerberg-2012.jpg"},
+      {"tipo": "foto", "foto": "hoje-instagram-systrom-2014.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 16 ANOS, O INSTAGRAM CHEGAVA AO CELULAR\n\nEm 6 de outubro de 2010, o Instagram foi lançado na App Store, a loja de aplicativos do iPhone. Os criadores eram o americano Kevin Systrom e o brasileiro Mike Krieger, nascido em São Paulo, que se conheceram na Universidade Stanford.\n\nO aplicativo nasceu de outro projeto, o Burbn, que tinha esse nome por causa do gosto de Systrom por uísque bourbon, segundo a Britannica.\n\nO resultado foi imediato. Foram 25 mil usuários no primeiro dia e 1 milhão em menos de três meses, segundo a Britannica.\n\nO detalhe que pouca gente lembra: em abril de 2012, só 18 meses depois do lançamento, o Facebook comprou o Instagram por US$ 1 bilhão em dinheiro e ações. Na época, a empresa tinha 13 funcionários e nenhum lucro, segundo a Al Jazeera.\n\nHoje, o aplicativo passa de 2 bilhões de usuários por mês, de acordo com a Britannica. E é onde você está lendo este post.\n\nVocê lembra qual foi a sua primeira foto no Instagram?\n\n(Fotos: TechCrunch, JD Lasica e kawanet/Wikimedia Commons, CC BY 2.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

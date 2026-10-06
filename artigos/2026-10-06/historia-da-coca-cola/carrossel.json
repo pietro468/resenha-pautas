@@ -1,0 +1,18 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "O criador da ==Coca-Cola== vendeu tudo antes de a bebida valer bilhões",
+  "chamada": "Deslize para ver",
+  "capa": "garrafa-de-vidro-coca-cola.jpg",
+  "capa_estilo": "circulo",
+  "capa_extra": "john-pemberton-criador-da-coca-cola.jpg",
+  "slides": [
+    {"tipo": "texto", "titulo": "Atlanta, 1886", "texto": "O farmacêutico ==John Pemberton== serviu o primeiro copo numa farmácia. Custava **5 centavos**.\n\nNo primeiro ano, a média foi de **9 copos por dia**. Antes de morrer, em 1888, ele vendeu o que restava.", "foto": "capa", "fonte": "Coca-Cola Company"},
+    {"tipo": "foto_texto", "foto": "asa-candler-coca-cola-1923.jpg", "titulo": "O comprador", "texto": "Asa Candler pagou **US$ 2.300** pelo controle total, em 1891. Distribuiu milhares de cupons de copo grátis.\n\nEm um ano, as vendas do xarope cresceram quase 10 vezes. Mas a grande jogada ainda viria.", "fonte": "Coca-Cola Company"},
+    {"tipo": "numero", "numero": "US$ 1", "texto": "foi o preço do direito de **engarrafar** a bebida em quase todos os EUA, em 1899.\n\nParecia ruim. Virou o modelo que sustenta a empresa até hoje.", "foto": "caminhao-antigo-coca-cola.jpg", "fonte": "Tennessee Encyclopedia"},
+    {"tipo": "foto_texto", "foto": "garrafa-contour-coca-cola-1915.jpg", "titulo": "A garrafa contra as cópias", "texto": "Em 1915, o pedido era uma garrafa reconhecível **no escuro, só pelo tato**.\n\nA inspiração veio de um desenho do fruto do cacau.", "fonte": "Coca-Cola Company"},
+    {"tipo": "texto_claro", "titulo": "O segredo não era a receita", "texto": "Propaganda desde o começo, parceiros que engarrafam e distribuem e uma marca protegida.\n\nHoje são **2,2 bilhões** de doses por dia e receita de **US$ 47,9 bilhões** em 2025.", "fonte": "Relatório anual da Coca-Cola (2025)"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O farmacêutico que criou a Coca-Cola morreu sem ficar rico.\n\nJohn Pemberton serviu o primeiro copo em Atlanta, em 8 de maio de 1886, por 5 centavos. No primeiro ano, vendia em média 9 copos por dia, segundo a própria empresa. Antes de morrer, em 1888, ele vendeu sua parte.\n\nQuem fez a bebida virar negócio foi Asa Candler, que pagou US$ 2.300 pelo controle total. Em 1899, ele vendeu por um dólar o direito de engarrafar a Coca-Cola em quase todo o país. Foi assim que nasceu o sistema de engarrafadores parceiros que existe até hoje.\n\nDepois vieram a garrafa de curvas de 1915, a venda da empresa por US$ 25 milhões em 1919 e a expansão pelo mundo. Hoje, a companhia diz que suas bebidas somam 2,2 bilhões de doses por dia. Em 2025, a receita foi de US$ 47,9 bilhões.\n\nQual dessas decisões você acha que pesou mais: a propaganda, os parceiros ou a garrafa?\n\n(Fotos: Ralf Roletschek e nagualdesign/Wikimedia Commons; Harris & Ewing e Carol M. Highsmith/Library of Congress; Shahroozporia/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

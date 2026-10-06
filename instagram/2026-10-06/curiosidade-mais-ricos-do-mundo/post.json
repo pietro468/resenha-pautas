@@ -1,0 +1,32 @@
+{
+  "titulo": "Curiosidades: as pessoas mais ricas do mundo em outubro de 2026",
+  "data": "2026-10-06 12:30",
+  "fotos": [
+    {"arquivo": "curiosidade-ricos-elon-musk-2022.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg", "credito": "Trevor Cokley/Força Aérea dos EUA (domínio público)"},
+    {"arquivo": "curiosidade-ricos-jeff-bezos.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg", "credito": "Departamento de Guerra dos EUA/Wikimedia Commons (domínio público)"},
+    {"arquivo": "curiosidade-ricos-larry-page.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped_2%29.jpg", "credito": "Stansfield PL/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "curiosidade-ricos-mark-zuckerberg.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mark_Zuckerberg_2019_%28cropped%29.jpg", "credito": "Anthony Quintano/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-ricos-sergey-brin.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sergey_Brin_Ted_2010_%28cropped%29.jpg/1280px-Sergey_Brin_Ted_2010_%28cropped%29.jpg", "credito": "Steve Jurvetson/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-ricos-michael-dell.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Michael_Dell_%2852548152888%29_%28cropped%29.jpg", "credito": "Village Global/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-ricos-elon-musk-2025.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_5%29.jpg", "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 4.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-ricos-elon-musk-2022.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": ["curiosidade-ricos-jeff-bezos.jpg", "curiosidade-ricos-larry-page.jpg"],
+    "chamada": "Curiosidades",
+    "gancho": "Quem são as ==pessoas mais ricas== do mundo hoje?",
+    "slides": [
+      {"tipo": "item", "foto": "curiosidade-ricos-mark-zuckerberg.jpg", "posicao": "6º lugar", "detalhe": "Meta (Facebook, Instagram e WhatsApp)", "nome": "Mark Zuckerberg", "valor": "US$ 251 bilhões", "fonte": "Forbes, 1º/10/2026"},
+      {"tipo": "item", "foto": "curiosidade-ricos-sergey-brin.jpg", "posicao": "5º lugar", "detalhe": "Cofundador do Google", "nome": "Sergey Brin", "valor": "US$ 263 bilhões", "fonte": "Forbes, 1º/10/2026"},
+      {"tipo": "item", "foto": "curiosidade-ricos-michael-dell.jpg", "posicao": "4º lugar", "detalhe": "Dell Technologies", "nome": "Michael Dell", "valor": "US$ 268 bilhões", "fonte": "Forbes, 1º/10/2026"},
+      {"tipo": "item", "foto": "curiosidade-ricos-larry-page.jpg", "posicao": "3º lugar", "detalhe": "Cofundador do Google", "nome": "Larry Page", "valor": "US$ 286 bilhões", "fonte": "Forbes, 1º/10/2026"},
+      {"tipo": "item", "foto": "curiosidade-ricos-jeff-bezos.jpg", "posicao": "2º lugar", "detalhe": "Fundador da Amazon", "nome": "Jeff Bezos", "valor": "US$ 370 bilhões", "fonte": "Forbes, 1º/10/2026"},
+      {"tipo": "item", "foto": "curiosidade-ricos-elon-musk-2025.jpg", "posicao": "1º lugar", "detalhe": "SpaceX e Tesla", "nome": "Elon Musk", "valor": "US$ 936 bilhões", "fonte": "Forbes, 1º/10/2026"},
+      {"tipo": "final"}
+    ],
+    "legenda": "As pessoas mais ricas do mundo, segundo a lista em tempo real da Forbes, com dados de 1º de outubro de 2026.\n\n1º Elon Musk (SpaceX e Tesla): US$ 936 bilhões\n2º Jeff Bezos (Amazon): US$ 370 bilhões\n3º Larry Page (Google): US$ 286 bilhões\n4º Michael Dell (Dell Technologies): US$ 268 bilhões\n5º Sergey Brin (Google): US$ 263 bilhões\n6º Mark Zuckerberg (Meta): US$ 251 bilhões\n\nO que mais chama atenção é a distância no topo. A fortuna de Musk é maior que a de Bezos, Page e Dell somadas, que dá cerca de US$ 924 bilhões.\n\nCompletam o top 10 da Forbes Jensen Huang (Nvidia), Larry Ellison (Oracle), Steve Ballmer (ex-Microsoft) e Warren Buffett (Berkshire Hathaway). Juntos, os dez mais ricos somam cerca de US$ 3,1 trilhões. As fortunas mudam todo dia com o preço das ações. Fonte: Forbes Brasil.\n\nQual desses nomes mais te surpreendeu na lista?\n\n(Fotos: Trevor Cokley/Força Aérea dos EUA; Departamento de Guerra dos EUA; Stansfield PL, Anthony Quintano, Steve Jurvetson, Village Global e Gage Skidmore/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

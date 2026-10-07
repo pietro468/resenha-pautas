@@ -1,10 +1,7 @@
-v1.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=pix%20pagamento
-v2.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=pix%20brasil
-v3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=mobile%20banking%20app%20smartphone
-v4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=pagamento%20celular%20Brasil
-v5.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=mobile%20payment%20smartphone%20hand
-ec.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2012_EikeBatista.jpg/1920px-2012_EikeBatista.jpg
-ecpi.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/CPIBNDES_-_CPI_do_BNDES_%2823865177607%29.jpg/1920px-CPIBNDES_-_CPI_do_BNDES_%2823865177607%29.jpg
-ecpi2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CPIBNDES_-_CPI_do_BNDES_%2838013450374%29.jpg/1920px-CPIBNDES_-_CPI_do_BNDES_%2838013450374%29.jpg
-nub.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nubank_App_Area_Pix_Dec_2023.jpg/1280px-Nubank_App_Area_Pix_Dec_2023.jpg
-mor.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Vendedor_de_morango.jpg/1920px-Vendedor_de_morango.jpg
+w1.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=400&gsrsearch=scanning%20QR%20code%20smartphone%20payment
+w2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=400&gsrsearch=woman%20using%20smartphone%20Brazil
+w3.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=400&gsrsearch=incategory:Mobile_payment
+porto.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/30.04.2018_-_Porto_do_A%C3%A7u.jpg/1920px-30.04.2018_-_Porto_do_A%C3%A7u.jpg
+eabr.jpg https://upload.wikimedia.org/wikipedia/commons/6/66/Eike_Batista.jpg
+hip.jpg https://upload.wikimedia.org/wikipedia/commons/b/b3/Pix_Hipermercado_Continente.jpg
+arg.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aceptamos_Pix_en_Argentina.jpg/1280px-Aceptamos_Pix_en_Argentina.jpg

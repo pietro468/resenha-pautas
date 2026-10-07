@@ -1,11 +1,5 @@
-parade.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Credit_Suisse_and_UBS_buildings_at_Paradeplatz%2C_Z%C3%BCrich%2C_Switzerland_%28Ank_Kumar%2C_Infosys_Limited%29.jpg/960px-Credit_Suisse_and_UBS_buildings_at_Paradeplatz%2C_Z%C3%BCrich%2C_Switzerland_%28Ank_Kumar%2C_Infosys_Limited%29.jpg
-parade2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Z%C3%BCrich_-_Paradeplatz_-_UBS_2010-08-27_18-29-16_ShiftN.jpg/960px-Z%C3%BCrich_-_Paradeplatz_-_UBS_2010-08-27_18-29-16_ShiftN.jpg
-rwwf1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/WWE_-_Sheffield_020499_%2849%29.jpg/960px-WWE_-_Sheffield_020499_%2849%29.jpg
-rwwf2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Intercontinental_Champion_THE_ROCK.jpg/960px-Intercontinental_Champion_THE_ROCK.jpg
-rwwf3.jpg https://upload.wikimedia.org/wikipedia/commons/3/32/WWF_RAW_2001-10-15_The_Rock_at_ringside.jpg
-rwwf4.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/WWE_Wrestlemania_28_-_The_Rock_pose.jpg/960px-WWE_Wrestlemania_28_-_The_Rock_pose.jpg
-w-presal.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+FPSO+Petrobras+Santos
-w-presal2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+plataforma+P-66+OR+P-67+OR+P-70+OR+P-74+Petrobras
-w-chf.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+Swiss+francs+banknotes+money
-w-ovch.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=swiss%20francs
-w-ovoil.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=petrobras%20fpso
+op1.jpg https://upload.wikimedia.org/wikipedia/commons/5/5e/Oil_platform_%28Brazil%29_1.jpg
+op2.jpg https://upload.wikimedia.org/wikipedia/commons/a/ad/Oil_platform_%28Brazil%29_2.jpg
+x-petro.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+Petrobras+plataforma
+x-wwf.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+WWE+Sheffield+020499
+x-ic.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+Intercontinental+Champion+THE+ROCK

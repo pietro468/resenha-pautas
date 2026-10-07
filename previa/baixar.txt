@@ -4,3 +4,8 @@ rwwf1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/WWE_-_Sheffie
 rwwf2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Intercontinental_Champion_THE_ROCK.jpg/960px-Intercontinental_Champion_THE_ROCK.jpg
 rwwf3.jpg https://upload.wikimedia.org/wikipedia/commons/3/32/WWF_RAW_2001-10-15_The_Rock_at_ringside.jpg
 rwwf4.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/WWE_Wrestlemania_28_-_The_Rock_pose.jpg/960px-WWE_Wrestlemania_28_-_The_Rock_pose.jpg
+w-presal.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+FPSO+Petrobras+Santos
+w-presal2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+plataforma+P-66+OR+P-67+OR+P-70+OR+P-74+Petrobras
+w-chf.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+Swiss+francs+banknotes+money
+w-ovch.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=swiss%20francs
+w-ovoil.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=petrobras%20fpso

@@ -1,0 +1,32 @@
+{
+  "titulo": "Hoje na história: 7 de outubro de 1913, a Ford liga a linha de montagem móvel",
+  "data": "2026-10-07 10:00",
+  "fotos": [
+    {"arquivo": "hoje-ford-linha-1913-1.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ford_assembly_line_-_1913.jpg", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-ford-linha-1913-2.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Assembly_line_at_the_Ford_Motor_Company%27s_Highland_Park_plant_LCCN2011661021.jpg", "credito": "Library of Congress (domínio público)"},
+    {"arquivo": "hoje-ford-linha-1913-3.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AssemblyLine.jpg", "credito": "Autor desconhecido/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-ford-modelo-t-saindo-da-linha.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Model_T%27s_coming_off_the_assembly_line_at_the_Highland_Park_plant_LCCN2011661047.jpg", "credito": "Library of Congress (domínio público)"},
+    {"arquivo": "hoje-ford-troca-de-turno.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ford_Motor_Company_change_of_worker_shift.jpg", "credito": "Detroit Publishing Company/Wikimedia Commons (domínio público)"},
+    {"arquivo": "hoje-henry-ford-1919.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg", "credito": "Fred Hartsook/Wikimedia Commons (domínio público)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-ford-linha-1913-1.jpg",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "7 out",
+    "ano": "1913",
+    "ha": "Há 113 anos",
+    "gancho": "A ==Ford== ligava a primeira linha de montagem móvel",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-ford-linha-1913-2.jpg"},
+      {"tipo": "foto", "foto": "hoje-ford-linha-1913-3.jpg"},
+      {"tipo": "foto", "foto": "hoje-ford-modelo-t-saindo-da-linha.jpg"},
+      {"tipo": "foto", "foto": "hoje-ford-troca-de-turno.jpg"},
+      {"tipo": "foto", "foto": "hoje-henry-ford-1919.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 113 ANOS, A FORD INVENTAVA O JEITO MODERNO DE FABRICAR\n\nEm 7 de outubro de 1913, a fábrica da Ford em Highland Park, no estado americano de Michigan, se tornou a primeira fábrica de carros do mundo a usar a linha de montagem móvel. Em vez de os operários andarem até o carro, era o carro que passava por eles, puxado por um motor e uma corda.\n\nO ganho foi enorme. Montar um Modelo T levava 728 minutos, mais de 12 horas. Com a linha, o tempo caiu para 93 minutos, segundo os registros reunidos pela Wikipédia. Só a montagem do magneto, uma peça do motor, passou de 20 para 5 minutos, de acordo com o History Channel.\n\nO detalhe que pouca gente lembra: a ideia veio de fora da indústria de carros. Segundo o History Channel, a inspiração direta foram os frigoríficos de Chicago e Cincinnati do século 19, onde a carne passava de um trabalhador para outro pendurada em trilhos.\n\nCom o carro mais rápido de fazer, o preço despencou. O Modelo T custava US$ 850 em 1908 e US$ 360 em 1916, segundo o History Channel. Em janeiro de 1914, Henry Ford ainda mais que dobrou o salário diário, de US$ 2,34 para US$ 5. Até 1927, foram mais de 15 milhões de Modelos T.\n\nHoje, quase tudo o que você usa, do celular ao tênis, sai de uma linha de montagem que segue essa mesma lógica.\n\nVocê sabia que o carro já chegou a levar 12 horas para ser montado?\n\n(Fotos: Library of Congress, autor desconhecido, Detroit Publishing Company e Fred Hartsook/Wikimedia Commons, domínio público)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

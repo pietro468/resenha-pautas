@@ -1,0 +1,29 @@
+{
+  "titulo": "Curiosidades: as marcas mais valiosas do mundo em 2026",
+  "data": "2026-10-07 12:30",
+  "fotos": [
+    {"arquivo": "curiosidade-marcas-google.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg", "credito": "Asoundd/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-marcas-apple.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_view_of_Apple_Park_dllu_%28cropped%29.jpg/1920px-Aerial_view_of_Apple_Park_dllu_%28cropped%29.jpg", "credito": "Daniel L. Lu/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-marcas-microsoft.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Building92microsoft.jpg", "credito": "Coolcaesar/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-marcas-amazon.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/2024-12-21%2C_Amazon_Spheres_%28Seattle%29%2C_155737.jpg", "credito": "Steven Pavlov/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "curiosidade-marcas-nvidia.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/NVIDIA_Headquarters.jpg", "credito": "Coolcaesar/Wikimedia Commons (CC BY-SA 4.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-marcas-google.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": ["curiosidade-marcas-apple.jpg", "curiosidade-marcas-microsoft.jpg"],
+    "chamada": "Curiosidades",
+    "gancho": "Quais são as ==marcas mais valiosas== do mundo?",
+    "slides": [
+      {"tipo": "item", "foto": "curiosidade-marcas-nvidia.jpg", "posicao": "5º lugar", "detalhe": "Chips para inteligência artificial", "nome": "NVIDIA", "valor": "US$ 814,9 bilhões", "fonte": "Kantar BrandZ 2026"},
+      {"tipo": "item", "foto": "curiosidade-marcas-amazon.jpg", "posicao": "4º lugar", "detalhe": "Varejo online e nuvem", "nome": "Amazon", "valor": "US$ 1,02 trilhão", "fonte": "Kantar BrandZ 2026"},
+      {"tipo": "item", "foto": "curiosidade-marcas-microsoft.jpg", "posicao": "3º lugar", "detalhe": "Windows, Office e nuvem", "nome": "Microsoft", "valor": "US$ 1,11 trilhão", "fonte": "Kantar BrandZ 2026"},
+      {"tipo": "item", "foto": "curiosidade-marcas-apple.jpg", "posicao": "2º lugar", "detalhe": "iPhone, Mac e serviços", "nome": "Apple", "valor": "US$ 1,38 trilhão", "fonte": "Kantar BrandZ 2026"},
+      {"tipo": "item", "foto": "curiosidade-marcas-google.jpg", "posicao": "1º lugar", "detalhe": "Busca, YouTube e Gemini", "nome": "Google", "valor": "US$ 1,48 trilhão", "fonte": "Kantar BrandZ 2026"},
+      {"tipo": "final"}
+    ],
+    "legenda": "As marcas mais valiosas do mundo, segundo o ranking Kantar BrandZ 2026, que calcula quanto vale só a marca, e não a empresa inteira.\n\n1º Google: US$ 1,48 trilhão (alta de 57%)\n2º Apple: US$ 1,38 trilhão\n3º Microsoft: US$ 1,11 trilhão\n4º Amazon: US$ 1,02 trilhão\n5º NVIDIA: US$ 814,9 bilhões (alta de 60%)\n\nO Google voltou ao topo pela primeira vez desde 2018 e encerrou quatro anos de liderança da Apple. Pela primeira vez, quatro marcas chegaram a US$ 1 trilhão ou mais. Segundo a Kantar, a inteligência artificial foi o que mais puxou os valores para cima.\n\nCompletam o top 10 Facebook, Instagram, Tencent, Oracle e McDonald's. Juntas, as 100 marcas mais valiosas somam US$ 13,1 trilhões, 22% a mais que no ano anterior. Fonte: Kantar BrandZ 2026.\n\nQual dessas marcas você usa todos os dias?\n\n(Fotos: Asoundd, Daniel L. Lu, Coolcaesar e Steven Pavlov/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

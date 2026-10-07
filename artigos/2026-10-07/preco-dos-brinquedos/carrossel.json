@@ -1,0 +1,17 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Brinquedos sobem ==7,1%== e chocolate quase 20% antes do Dia das Crianças",
+  "chamada": "Veja os números",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "slides": [
+    {"tipo": "numero", "numero": "7,1%", "texto": "foi quanto o preço dos **brinquedos** subiu em um ano, segundo a ==CNC==.\n\nA inflação do período foi de 4,22%. E o brinquedo nem foi o que mais subiu.", "foto": "preco-dos-brinquedos-vitrine.jpg", "fonte": "CNC, outubro de 2026"},
+    {"tipo": "foto_texto", "foto": "chocolate-mais-caro-dia-das-criancas.jpg", "titulo": "O vilão é o chocolate", "texto": "==Chocolate:== **+19,3%**\n\n==Videogame:== **+11,2%**\n\n==Lanches:== **+8%**\n\nJá as roupas subiram perto de 4%.", "fonte": "CNC"},
+    {"tipo": "comparacao", "titulo": "O mesmo brinquedo, outro preço", "esquerda": {"rotulo": "Loja mais barata", "valor": "R$ 15", "detalhe": "cubo mágico 3x3"}, "direita": {"rotulo": "Loja mais cara", "valor": "R$ 63", "detalhe": "o mesmo cubo"}, "texto": "O Procon de Campinas comparou 105 brinquedos em 5 lojas online. A diferença chegou a 321%.", "fonte": "Procon Campinas, setembro de 2026"},
+    {"tipo": "texto", "titulo": "E o seu bolso?", "texto": "**82%** das famílias têm dívida, o maior nível desde 2010.\n\nE os juros para o consumidor estão em **61,7% ao ano**. Parcelar o presente pode sair bem mais caro.", "foto": "loja-de-brinquedos-prateleiras.jpg", "fonte": "CNC, agosto de 2026"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O comércio ainda espera vender **R$ 9,27 bilhões**, só 1,8% a mais que em 2025.\n\nCom preço subindo acima da inflação, pesquisar virou a forma mais garantida de economizar.", "fonte": "CNC"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O presente do Dia das Crianças ficou mais caro que a inflação.\n\nSegundo a CNC, os brinquedos subiram 7,1% em um ano, enquanto a inflação do período foi de 4,22%. O chocolate subiu ainda mais: 19,3%. Videogames ficaram 11,2% mais caros e os lanches, 8%.\n\nMesmo assim, o comércio espera vender R$ 9,27 bilhões na data, 1,8% a mais que em 2025. O freio é o bolso: 82% das famílias têm alguma dívida e os juros para o consumidor estão em 61,7% ao ano, segundo a CNC.\n\nPesquisar faz diferença. O Procon de Campinas encontrou o mesmo cubo mágico por R$ 15,09 numa loja online e R$ 63,54 em outra, uma diferença de 321%.\n\nVocê já comprou o presente deste ano ou vai deixar para a última hora?\n\n(Fotos ilustrativas: Izabella Galhardo, Pittigrilli, Maksym Kozlenko e Syced/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

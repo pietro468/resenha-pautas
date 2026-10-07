@@ -1,0 +1,56 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "A Heineken pagou ==US$ 45 milhões== para James Bond beber cerveja",
+  "chamada": "Deslize para ver",
+  "capa": "daniel-craig-james-bond-2012.jpg",
+  "capa_foco": "50,30",
+  "capa_estilo": "circulo",
+  "capa_extra": "product-placement-heineken-james-bond.jpg",
+  "slides": [
+    {
+      "tipo": "foto_texto",
+      "foto": "capa",
+      "titulo": "007: Operação Skyfall, 2012",
+      "texto": "O acordo da Heineken foi um dos maiores já noticiados no cinema: **US$ 45 milhões**.\n\nO nome disso é **product placement**: a marca entra dentro da cena. Mas teve um detalhe.",
+      "fonte": "MediaPost"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Uma cena só",
+      "texto": "Bond bebe a cerveja numa fase ruim do personagem. Quando se recupera, volta ao martíni.\n\nAnunciantes como Coca-Cola, Sony e Omega ajudaram a pagar um filme estimado em **US$ 200 milhões**.",
+      "foto": "aston-martin-db5-skyfall.jpg",
+      "fonte": "MediaPost e NBC News"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "reeses-pieces-et-product-placement.jpg",
+      "titulo": "O doce do E.T.",
+      "texto": "Em 1982, a dona dos M&M's recusou aparecer em E.T. A Hershey topou com o Reese's Pieces.\n\nNão pagou nada ao filme. E as vendas dispararam.",
+      "fonte": "Snopes e Hershey Archives"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "ray-ban-wayfarer.jpg",
+      "titulo": "Os óculos que quase sumiram",
+      "texto": "Em 1981, a Ray-Ban vendeu só **18 mil** Wayfarers.\n\nEm 1983, Tom Cruise usou o modelo em Negócio Arriscado. As vendas foram a **360 mil** pares.",
+      "fonte": "Fortune (1987), via Wikipédia"
+    },
+    {
+      "tipo": "numero",
+      "numero": "US$ 37 bi",
+      "texto": "foi quanto as marcas gastaram em 2025 para aparecer dentro de filmes, séries, músicas e vídeos.\n\nO **Brasil** passou de US$ 1 bilhão.",
+      "foto": "ray-ban-aviator-top-gun.jpg",
+      "fonte": "PQ Media"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "O product placement funciona melhor quando ninguém percebe o anúncio.\n\nO doce do E.T. e os óculos de Tom Cruise viraram parte da história. Por isso venderam tanto."
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "A Heineken pagou US$ 45 milhões para James Bond trocar o martíni por uma cerveja em 007: Operação Skyfall, de 2012.\n\nIsso tem nome: product placement, quando a marca aparece dentro da história do filme. Segundo a NBC News, boa parte do custo do filme, estimado em US$ 200 milhões, foi coberta por anunciantes.\n\nNem sempre a marca paga. Em E.T., de 1982, a Hershey só se comprometeu a gastar cerca de US$ 1 milhão em propaganda do filme. As vendas do Reese's Pieces dispararam. Em Náufrago, a FedEx não pagou nada.\n\nÀs vezes, salva uma marca. A Ray-Ban vendeu só 18 mil Wayfarers em 1981. Depois de Tom Cruise usar o modelo em Negócio Arriscado, foram 360 mil pares em 1983.\n\nHoje, o mercado movimenta US$ 37,16 bilhões por ano no mundo, segundo a PQ Media.\n\nQual marca de filme você comprou sem nem perceber que era propaganda?\n\n(Fotos: Liam Mendes, Uttamstef12, DeFacto, Chris Woodrich, Rich Niewiroski Jr. e Wilfredor/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

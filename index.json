@@ -733,9 +733,29 @@
    ],
    "titulo": "Como Bernard Arnault transformou a LVMH no maior império do luxo",
    "data": "2026-10-06 21:00"
+  },
+  {
+   "slug": "preco-dos-brinquedos",
+   "pasta": "artigos/2026-10-07/preco-dos-brinquedos",
+   "arquivos": [
+    "preco-dos-brinquedos.md",
+    "carrossel.json"
+   ],
+   "titulo": "Preço dos brinquedos sobe 7,1% para o Dia das Crianças, diz CNC",
+   "data": "2026-10-07 08:00"
+  },
+  {
+   "slug": "product-placement",
+   "pasta": "artigos/2026-10-07/product-placement",
+   "arquivos": [
+    "product-placement.md",
+    "carrossel.json"
+   ],
+   "titulo": "Quanto custa um product placement em filme de Hollywood",
+   "data": "2026-10-07 11:00"
   }
  ],
- "atualizado": "2026-10-06 21:07",
+ "atualizado": "2026-10-07 10:21",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -893,9 +913,19 @@
    "data": "2026-10-06 17:30"
   },
   {
+   "slug": "curiosidade-marcas-mais-valiosas",
+   "pasta": "instagram/2026-10-07/curiosidade-marcas-mais-valiosas",
+   "data": "2026-10-07 12:30"
+  },
+  {
    "slug": "frase-dalio-dor-reflexao",
    "pasta": "instagram/2026-10-07/frase-dalio-dor-reflexao",
    "data": "2026-10-07 07:00"
+  },
+  {
+   "slug": "hoje-linha-de-montagem-ford",
+   "pasta": "instagram/2026-10-07/hoje-linha-de-montagem-ford",
+   "data": "2026-10-07 10:00"
   }
  ]
 }

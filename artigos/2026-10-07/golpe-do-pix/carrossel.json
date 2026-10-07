@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Caiu no golpe do Pix? Os ==primeiros minutos== decidem se o dinheiro volta",
+  "chamada": "Veja o que fazer",
+  "capa": "golpe-do-pix-aplicativo-area-pix.jpg",
+  "capa_estilo": "classico",
+  "capa_foco": "50,18",
+  "slides": [
+    {"tipo": "numero", "numero": "42%", "texto": "das vítimas de golpe perderam o dinheiro **em minutos ou horas** depois do primeiro contato.\n\nPor isso, cada minuto conta.", "foto": "capa", "fonte": "GASA, O Estado dos Golpes no Brasil 2026"},
+    {"tipo": "texto", "titulo": "Os 5 golpes mais comuns", "texto": "==Falso parente:== foto conhecida, número novo, pedido urgente.\n\n==Falsa central:== \"Pix de teste\" para uma \"chave segura\".\n\n==Bug do Pix,== ==QR code falso== e ==falso agendamento==.", "fonte": "Correio Braziliense"},
+    {"tipo": "foto_texto", "titulo": "O QR code trocado", "texto": "Em lojas e eventos, o golpista cola o código dele por cima do verdadeiro.\n\nVocê paga, mas o dinheiro cai na conta errada. E aí?", "foto": "pagamento-por-pix-bilheteria-trensurb.jpg", "fonte": "Correio Braziliense"},
+    {"tipo": "texto_claro", "titulo": "O que fazer na hora", "texto": "1. Conteste o Pix **no app do banco**.\n\n2. Seu banco avisa o do golpista em até **30 minutos** e o valor fica bloqueado.\n\n3. Faça o **boletim de ocorrência** e guarde os prints.", "fonte": "Agência Brasil"},
+    {"tipo": "comparacao", "titulo": "O que mudou em 2026", "esquerda": {"rotulo": "Antes", "valor": "1 conta", "detalhe": "o rastreio parava na primeira conta"}, "direita": {"rotulo": "MED 2.0", "valor": "Várias", "detalhe": "segue o dinheiro pelas contas seguintes"}, "texto": "Se a fraude for confirmada, a devolução sai em até 96 horas.", "fonte": "Agência Brasil, PagBank"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O Pix ficou mais rápido, e o golpe também.\n\nO prazo para pedir é de até 80 dias, mas quem avisa o banco na hora tem muito mais chance de achar o dinheiro na conta do golpista.", "fonte": "PagBank, Correio Braziliense"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Caiu no golpe do Pix? Os primeiros minutos decidem se o dinheiro volta.\n\nSegundo a Global Anti-Scam Alliance (GASA), 81% dos brasileiros adultos foram abordados por golpistas em um ano, e 42% das vítimas perderam o dinheiro em minutos ou horas depois do primeiro contato.\n\nOs golpes mais comuns com Pix são o do falso parente, a falsa central do banco, o bug do Pix, o QR code falso e o falso agendamento (Correio Braziliense).\n\nO que fazer: conteste a transferência no aplicativo do banco ou na central oficial. O banco avisa a instituição do golpista em até 30 minutos e o valor fica bloqueado. Depois, faça o boletim de ocorrência.\n\nDesde fevereiro de 2026, o MED 2.0 do Banco Central segue o dinheiro também pelas contas intermediárias (Agência Brasil). Se a fraude for confirmada, a devolução sai em até 96 horas.\n\n(Fotos: Nubank/Wikimedia Commons, domínio público; Mateus S. Figueiredo/Wikimedia Commons, CC BY-SA 4.0; Beatriz Schleiniger/Trensurb, CC BY 2.0, imagem ilustrativa)\n\nVocê ou alguém da sua família já recebeu uma mensagem assim?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

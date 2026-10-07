@@ -773,9 +773,31 @@
    ],
    "titulo": "Por que a Suíça é tão rica sem petróleo e sem saída para o mar",
    "data": "2026-10-07 16:00"
+  },
+  {
+   "slug": "golpe-do-pix",
+   "pasta": "artigos/2026-10-07/golpe-do-pix",
+   "arquivos": [
+    "golpe-do-pix.md",
+    "golpe-do-pix-o-que-fazer.png",
+    "carrossel.json"
+   ],
+   "titulo": "Caiu no golpe do Pix? O que fazer nos primeiros minutos",
+   "data": "2026-10-07 19:00"
+  },
+  {
+   "slug": "eike-batista",
+   "pasta": "artigos/2026-10-07/eike-batista",
+   "arquivos": [
+    "eike-batista.md",
+    "eike-batista-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Como Eike Batista chegou a 7º mais rico do mundo e perdeu tudo",
+   "data": "2026-10-07 21:00"
   }
  ],
- "atualizado": "2026-10-07 16:12",
+ "atualizado": "2026-10-07 21:10",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -951,6 +973,11 @@
    "slug": "hoje-linha-de-montagem-ford",
    "pasta": "instagram/2026-10-07/hoje-linha-de-montagem-ford",
    "data": "2026-10-07 10:00"
+  },
+  {
+   "slug": "frase-graham-pior-inimigo",
+   "pasta": "instagram/2026-10-08/frase-graham-pior-inimigo",
+   "data": "2026-10-08 07:00"
   }
  ]
 }

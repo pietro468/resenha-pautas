@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Em 2012, ==Eike Batista== era o 7º mais rico do mundo. Dois anos depois, estava no vermelho",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "dupla",
+  "capa_extra": "eike-batista-cpi-do-bndes-2017.jpg",
+  "rotulos": ["2012", "2017"],
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 30 bi", "texto": "era a fortuna de **Eike Batista** em março de 2012, segundo a Forbes.\n\nEle dizia que ainda passaria **Carlos Slim**, o mais rico do mundo.", "foto": "eike-batista-agencia-brasil.jpg", "fonte": "Forbes, via Gazeta do Povo; Jornal do Brasil"},
+    {"tipo": "foto_texto", "titulo": "Um império com X no nome", "texto": "OGX no petróleo, MMX na mineração, LLX nos portos, OSX nos navios, MPX na energia.\n\nValiam bilhões na bolsa. Mas quase nada produzia ainda.", "foto": "porto-do-acu-llx-eike-batista.jpg", "fonte": "InfoMoney"},
+    {"tipo": "numero", "numero": "R$ 6,7 bi", "texto": "foi quanto a **OGX** levantou na bolsa em 2008, a maior estreia da Bovespa até então.\n\nSó faltava o petróleo aparecer.", "fonte": "InfoMoney"},
+    {"tipo": "texto", "titulo": "O poço que não encheu", "texto": "Em 2012, a OGX esperava **20 mil barris por dia**. Tirou cerca de **10 mil**.\n\nA ação despencou. Em outubro de 2013, com dívida de **US$ 3,6 bilhões**, a empresa pediu recuperação judicial.", "fonte": "InfoMoney"},
+    {"tipo": "foto_texto", "titulo": "Da Forbes aos tribunais", "texto": "Em 2017, foi preso na Operação Eficiência. Em 2018, foi condenado em primeira instância a 30 anos, e a defesa recorreu.\n\nEm 2014, já declarava patrimônio negativo.", "foto": "eike-batista-senado-2017.jpg", "fonte": "InfoMoney, Exame"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Eike ficou bilionário vendendo um futuro de petróleo, minério e portos.\n\nQuando o petróleo não veio, a confiança sumiu. E fortuna feita de expectativa some junto com ela.", "fonte": "Exame"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Em 2012, Eike Batista era o 7º homem mais rico do mundo. Dois anos depois, declarava patrimônio negativo.\n\nSegundo a Forbes, a fortuna dele chegou a US$ 30 bilhões em março de 2012. Ela vinha do grupo EBX, uma família de empresas com X no nome: OGX, MMX, LLX, OSX e MPX.\n\nA joia era a petroleira OGX, que levantou R$ 6,71 bilhões na bolsa em 2008, a maior abertura de capital da Bovespa até então (InfoMoney). Mas o campo de Tubarão Azul produziu metade do esperado, e em outubro de 2013 a empresa pediu recuperação judicial, com dívida de US$ 3,6 bilhões.\n\nEm 2017, Eike foi preso na Operação Eficiência. Em 2018, foi condenado em primeira instância a 30 anos por corrupção ativa e lavagem de dinheiro, e a defesa disse que recorreria. Em 2020, o STF homologou a delação dele, com multa de R$ 800 milhões (Exame).\n\n(Fotos: Juliana Coutinho/Wikimedia Commons, CC BY 3.0; Senado Federal, CC BY 2.0; Wilson Dias/Agência Brasil, CC BY 3.0 BR; Prumo Logística/MDIC, CC BY-SA 2.0)\n\nVocê investiria numa empresa que ainda não produz nada?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,7 +1,8 @@
-t1.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=incategory:Pix_(payment_system)
-t2.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=30&q=pix%20celular
-t3.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=30&q=smartphone%20scam
-t4.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Pix%20QR%20code
-t5.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=30&q=celular%20banco%20aplicativo
-t6.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Plataforma%20Celular%20Seguro
-t7.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=30&q=phone%20fraud%20call
+u2.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=pix%20celular
+u3.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=smartphone%20scam
+u5.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=phone%20fraud
+u7.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=online%20banking%20smartphone
+u8.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Marcello%20Casal%20celular
+u9.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=celular%20smartphone%20Ag%C3%AAncia%20Brasil
+u10.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=50&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=WhatsApp%20golpe
+pa.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/30.04.2018_-_Porto_do_A%C3%A7u.jpg/960px-30.04.2018_-_Porto_do_A%C3%A7u.jpg

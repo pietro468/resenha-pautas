@@ -10,8 +10,8 @@ slug: "leilao-do-pre-sal"
 tags: ["pré-sal", "ANP", "Petrobras", "Prio", "petróleo", "leilão de petróleo"]
 youtube: ""
 capa: "leilao-do-pre-sal-capa.jpg"
-capa_url: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Oil_platform_P-51_%28Brazil%29-2.jpg"
-capa_credito: "Divulgação Petrobras/Agência Brasil (CC BY 3.0 BR)"
+capa_url: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Oil_platform_%28Brazil%29_1.jpg"
+capa_credito: "Arquivo/Agência Brasil (CC BY 3.0)"
 pessoa: ""
 busca_imagem: "Petrobras offshore oil platform"
 imagens:
@@ -19,10 +19,10 @@ imagens:
     url: "https://upload.wikimedia.org/wikipedia/commons/b/bf/FPSO_at_sunset_%287226939100%29.jpg"
     credito: "Ptérodactyl Ivo/Wikimedia Commons (CC BY 2.0)"
     legenda: "Navios-plataforma (FPSOs) na Bacia de Campos, uma das duas bacias que tiveram blocos no leilão do pré-sal"
-  - arquivo: "anp-primeiro-leilao-do-pre-sal-2013.jpg"
-    url: "https://upload.wikimedia.org/wikipedia/commons/9/98/Magda_Chambriard_Leilao_Pre-Sal.jpg"
-    credito: "Fernando Frazão/Agência Brasil (CC BY 3.0 BR)"
-    legenda: "Abertura da 1ª Rodada de Licitação do Pré-Sal, em 2013, na sede da ANP no Rio de Janeiro"
+  - arquivo: "plataforma-de-petroleo-alto-mar-brasil.jpg"
+    url: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Oil_platform_%28Brazil%29_2.jpg"
+    credito: "Arquivo/Agência Brasil (CC BY 3.0)"
+    legenda: "Convés e heliponto de uma plataforma de petróleo em alto-mar no litoral brasileiro"
 ---
 
 O leilão do pré-sal realizado pela ANP nesta quarta-feira (7) arrecadou R$ 530,47 milhões em bônus de assinatura e vendeu 7 das 13 áreas oferecidas nas bacias de Campos e de Santos. Petrobras, Prio, Equinor e um consórcio das chinesas Cnooc e Sinopec levaram os blocos. As outras 6 áreas não receberam nenhuma proposta.
@@ -61,7 +61,7 @@ Seis blocos não atraíram nenhuma empresa. Na Bacia de Campos, ficaram sem prop
 
 Isso não significa que as áreas saem do mapa. No modelo de oferta permanente, os blocos ficam disponíveis e podem voltar em um novo ciclo, quando alguma empresa manifestar interesse. Na prática, a ANP mantém uma espécie de vitrine aberta, em vez de leilões únicos e isolados.
 
-![Abertura da primeira rodada de licitação do pré-sal na ANP, em 2013](anp-primeiro-leilao-do-pre-sal-2013.jpg)
+![Plataforma de petróleo em alto-mar, como as que podem surgir nas áreas vendidas no leilão do pré-sal](plataforma-de-petroleo-alto-mar-brasil.jpg)
 
 ## O que acontece depois do leilão do pré-sal?
 
@@ -73,4 +73,4 @@ O petróleo também mexe com o câmbio e com a balança comercial do país. Para
 
 Em resumo, o leilão do pré-sal desta quarta vendeu pouco mais da metade das áreas e arrecadou R$ 530 milhões, menos da metade do potencial. Ainda assim, trouxe ágios altos em alguns blocos e manteve Petrobras e Prio na dianteira, ao lado de gigantes estrangeiras como Equinor, Cnooc e Sinopec.
 
-*Foto de capa: Divulgação Petrobras/Agência Brasil (CC BY 3.0 BR)*
+*Foto de capa: Arquivo/Agência Brasil (CC BY 3.0)*

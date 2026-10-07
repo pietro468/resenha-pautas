@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "A Suíça não tem petróleo nem mar. E é ==10 vezes mais rica== que o Brasil",
+  "chamada": "Deslize para entender",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "slides": [
+    {"tipo": "numero", "numero": "US$ 126 mil", "texto": "é quanto cada suíço produz, em média, por ano. No Brasil, são **US$ 12,3 mil**.\n\nSem petróleo, sem mar e cheia de montanhas. Então de onde vem isso?", "foto": "lago-de-zurique-vista-aerea.jpg", "fonte": "FMI, projeção de abril de 2026, via Worldometer"},
+    {"tipo": "foto_texto", "foto": "roche-basileia-farmaceutica-suica.jpg", "titulo": "Remédio vale mais que petróleo", "texto": "Em 2025, a Suíça vendeu ao mundo **287 bilhões de francos**. Mais da metade foi de ==remédios e químicos==, de empresas como Roche e Novartis.\n\nMas tem mais.", "fonte": "Dados oficiais via Le News"},
+    {"tipo": "texto", "titulo": "O cofre do mundo", "texto": "Os bancos suíços cuidam de cerca de ==US$ 2,9 trilhões== de estrangeiros.\n\nDesde 2017, o país troca dados de contas com outros países, e mesmo assim o dinheiro ficou.", "fonte": "BCG, Global Wealth Report 2026, via Blue News"},
+    {"tipo": "foto_texto", "foto": "fabrica-de-relogios-iwc-schaffhausen.jpg", "titulo": "Pequeno e caro", "texto": "Os relógios renderam **25,5 bilhões de francos** em vendas ao exterior em 2025.\n\nSó que o segredo maior não está nas fábricas.", "fonte": "Federação da Indústria Relojoeira Suíça"},
+    {"tipo": "texto_claro", "titulo": "Escola que vira emprego", "texto": "==2 em cada 3== jovens suíços fazem curso técnico que mistura aula e trabalho.\n\nE o país lidera o ranking mundial de inovação há **15 anos seguidos**. O Brasil está em 52º.", "fonte": "Governo suíço e OMPI, 2025"},
+    {"tipo": "numero", "numero": "85%", "texto": "dos eleitores suíços aprovaram, em 2001, uma regra que proíbe o governo de **gastar mais do que arrecada** ao longo do ciclo econômico.", "fonte": "Avenir Suisse"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "A riqueza da Suíça não saiu do chão. Veio de séculos de neutralidade, de empresas que vendem conhecimento e de um governo que evita se endividar."},
+    {"tipo": "final"}
+  ],
+  "legenda": "A Suíça não tem petróleo nem saída para o mar. Mesmo assim, cada suíço produz em média US$ 126 mil por ano, dez vezes o valor do Brasil, segundo projeções do FMI para 2026.\n\nO motor são produtos caros e difíceis de copiar. Em 2025, o país exportou 287 bilhões de francos, e mais da metade veio de remédios e químicos, de gigantes como Roche e Novartis.\n\nOs bancos seguem fortes mesmo depois do fim do sigilo bancário: a Suíça administra cerca de US$ 2,9 trilhões de estrangeiros, segundo o Boston Consulting Group. Os relógios renderam outros 25,5 bilhões de francos.\n\nPor trás disso estão dois terços dos jovens em cursos técnicos, 15 anos seguidos no topo do ranking mundial de inovação e uma regra, aprovada por 85% dos eleitores em 2001, que impede o governo de gastar mais do que arrecada ao longo do tempo.\n\nQual desses números mais te surpreendeu?\n\n(Fotos: Ank Kumar, Mijio, Michielverbeek/Wikimedia Commons, licenças CC BY-SA; Prunk/Wikimedia Commons, domínio público)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

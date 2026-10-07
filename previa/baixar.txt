@@ -1,5 +1,0 @@
-op1.jpg https://upload.wikimedia.org/wikipedia/commons/5/5e/Oil_platform_%28Brazil%29_1.jpg
-op2.jpg https://upload.wikimedia.org/wikipedia/commons/a/ad/Oil_platform_%28Brazil%29_2.jpg
-x-petro.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+Petrobras+plataforma
-x-wwf.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+WWE+Sheffield+020499
-x-ic.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=960&gsrsearch=filetype:bitmap+Intercontinental+Champion+THE+ROCK

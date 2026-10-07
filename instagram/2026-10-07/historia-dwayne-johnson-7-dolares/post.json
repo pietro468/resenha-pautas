@@ -1,0 +1,34 @@
+{
+  "titulo": "História real: Dwayne Johnson e os 7 dólares na carteira",
+  "data": "2026-10-07 20:00",
+  "fotos": [
+    {"arquivo": "historia-rock-tribeca-2009.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dwayne_Johnson_at_the_2009_Tribeca_Film_Festival.jpg", "credito": "David Shankbone/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-rock-2013.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dwayne_Johnson_%288557374952%29.jpg", "credito": "Eva Rinaldi/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "historia-rock-entrevista-2018.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Dwayne_Johnson_2018.png", "credito": "MTV International/Wikimedia Commons (CC BY 3.0)"},
+    {"arquivo": "historia-rock-campeao-intercontinental.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Intercontinental_Champion_THE_ROCK.jpg", "credito": "Mandy Coombes/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "historia-rock-wwf-1999.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/WWE_-_Sheffield_020499_%2849%29.jpg", "credito": "Mandy Coombes/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "historia-rock-2013-premiere.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dwayne_Johnson_2013.jpg", "credito": "Eva Rinaldi/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "historia-rock-veneza-2025.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dwayne_Johnson-1764_%28cropped%29.jpg", "credito": "Harald Krichel/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "historia-rock-pentagono.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Dwayne_%22The_Rock%22_Johnson_Visits_the_Pentagon_%2841%29_%28cropped%29.jpg", "credito": "Henry Villarama/Departamento de Defesa dos EUA (domínio público)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "historia-rock-tribeca-2009.jpg",
+    "capa_estilo": "historia",
+    "capa_foco": "50,30",
+    "chamada": "História real",
+    "gancho": "==Dwayne Johnson== voltou para casa com 7 dólares na carteira",
+    "slides": [
+      {"tipo": "foto_texto", "foto": "historia-rock-2013.jpg", "titulo": "O sonho era o futebol", "texto": "Ele jogou futebol americano na Universidade de Miami.\n\nMas as lesões atrapalharam, e outro jogador, Warren Sapp, brilhou no lugar dele.\n\nRestou uma chance no Canadá.", "fonte": "Grantland"},
+      {"tipo": "foto_texto", "foto": "historia-rock-entrevista-2018.jpg", "titulo": "Dispensado em 1995", "texto": "No Calgary Stampeders, ganhava cerca de **US$ 250 por semana** no time reserva.\n\nDois meses depois, foi cortado. Voltou para Miami com ==7 dólares== na carteira.\n\nE agora?", "fonte": "The Globe and Mail e The Hollywood Reporter"},
+      {"tipo": "foto_texto", "foto": "historia-rock-campeao-intercontinental.jpg", "titulo": "Vaiado na estreia", "texto": "Então ele tentou a luta livre.\n\nEstreou na WWF em 1996 como ==Rocky Maivia==, um mocinho certinho. O público vaiava.\n\nEle precisava mudar.", "fonte": "Grantland"},
+      {"tipo": "foto_texto", "foto": "historia-rock-wwf-1999.jpg", "titulo": "Nasce The Rock", "texto": "Virou vilão, passou a falar de si mesmo na terceira pessoa e criou bordões.\n\nO personagem ==The Rock== virou um dos maiores astros da luta livre.\n\nEntão Hollywood ligou.", "fonte": "Grantland"},
+      {"tipo": "foto_texto", "foto": "historia-rock-2013-premiere.jpg", "titulo": "Um recorde logo de cara", "texto": "Em 2002, recebeu **US$ 5,5 milhões** para protagonizar O Escorpião Rei.\n\nFoi o maior cachê da história para um ator no primeiro papel principal, segundo o ==Guinness==.", "fonte": "Guinness World Records"},
+      {"tipo": "foto_texto", "foto": "historia-rock-veneza-2025.jpg", "titulo": "O ator mais bem pago", "texto": "A Forbes o apontou como o ator mais bem pago do mundo em 2019 e em 2020.\n\nSó em 2020, foram ==US$ 87,5 milhões==.", "fonte": "Forbes, via NY1"},
+      {"tipo": "texto_claro", "titulo": "O que fica", "texto": "Ele nunca esqueceu o dia do corte. A produtora dele se chama **Seven Bucks**, ou \"sete pratas\".\n\nO fracasso no futebol virou o ponto de partida, e não o fim da história.", "fonte": "The Globe and Mail"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Dwayne Johnson voltou para casa com 7 dólares na carteira. Anos depois, virou o ator mais bem pago do mundo.\n\nO sonho dele era o futebol americano. Na Universidade de Miami, porém, as lesões atrapalharam e outro jogador, Warren Sapp, ficou com o destaque.\n\nEm 1995, ele foi para o Calgary Stampeders, no Canadá, onde ganhava cerca de US$ 250 por semana no time reserva. Foi dispensado depois de dois meses e voltou para Miami com 7 dólares.\n\nNa luta livre, estreou na WWF em 1996 como Rocky Maivia e foi vaiado. A virada veio quando ele se reinventou como The Rock.\n\nEm 2002, recebeu US$ 5,5 milhões por O Escorpião Rei, recorde do Guinness para um ator no primeiro papel principal. Em 2019 e 2020, a Forbes o colocou no topo dos atores mais bem pagos; em 2020, foram US$ 87,5 milhões.\n\nA produtora dele se chama Seven Bucks, em referência aos 7 dólares daquele dia. (Fontes: The Globe and Mail, Grantland, Guinness World Records e Forbes)\n\nQual foi o \"não\" que mais te ensinou alguma coisa?\n\n(Fotos: David Shankbone, Eva Rinaldi, MTV International, Mandy Coombes, Harald Krichel e Henry Villarama/Wikimedia Commons, domínio público e licenças CC)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

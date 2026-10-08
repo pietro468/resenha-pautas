@@ -1,6 +1,3 @@
-g-ir1.jpg https://api.openverse.org/v1/images/9b290b30-29ad-4e78-a068-b6e2da566991/thumb/
-g-ir2.jpg https://api.openverse.org/v1/images/da0f6840-e03a-4ece-a8eb-906ebd432b72/thumb/
-g-ir3.jpg https://api.openverse.org/v1/images/20d00aa9-8a78-4812-932f-017be481019a/thumb/
-g-ir2f.jpg https://live.staticflickr.com/65535/52307531752_6a614318d9_b.jpg
-g-predio.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pr%C3%A9dio_da_Receita_Federal.JPG/1280px-Pr%C3%A9dio_da_Receita_Federal.JPG
-g-rf50.jpg https://api.openverse.org/v1/images/59fcfc23-e3a8-4386-8238-289236fbff28/thumb/
+h-predio.json https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File:Pr%C3%A9dio_da_Receita_Federal.JPG&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription|DateTimeOriginal
+h-ir1.jpg https://live.staticflickr.com/65535/52308783540_84f6161f00_b.jpg
+h-ir3.jpg https://live.staticflickr.com/65535/52308766589_44a8ab72ba_b.jpg

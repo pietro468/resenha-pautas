@@ -1,12 +1,4 @@
-e-ir.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%22imposto+de+renda%22+filetype%3Abitmap&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CArtist%7CImageDescription&iiurlwidth=1280
-e-ir2.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=%22imposto+de+renda%22+contribuinte+computador+filetype%3Abitmap&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CArtist%7CImageDescription&iiurlwidth=1280
-e-leao.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Receita+Federal+fachada+filetype%3Abitmap&prop=imageinfo&iiprop=url%7Csize%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CArtist%7CImageDescription&iiurlwidth=1280
-p-cambio02.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Casas_de_cambio_con_d%C3%B3lar_a_30_pesos_02.jpg/1280px-Casas_de_cambio_con_d%C3%B3lar_a_30_pesos_02.jpg
-p-cambio01.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Casas_de_cambio_con_d%C3%B3lar_a_30_pesos_01.jpg/1280px-Casas_de_cambio_con_d%C3%B3lar_a_30_pesos_01.jpg
-p-sarmiento.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Calle_Sarmiento%2C_San_Nicol%C3%A1s%2C_CABA_-_Cotizaci%C3%B3n_del_d%C3%B3lar.jpg/1280px-Calle_Sarmiento%2C_San_Nicol%C3%A1s%2C_CABA_-_Cotizaci%C3%B3n_del_d%C3%B3lar.jpg
-p-corralito02.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Buenos_Aires_-_Manifestaci%C3%B3n_contra_el_Corralito_-_20020227-02.JPG/1280px-Buenos_Aires_-_Manifestaci%C3%B3n_contra_el_Corralito_-_20020227-02.JPG
-p-corralito03.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Buenos_Aires_-_Manifestaci%C3%B3n_contra_el_Corralito_-_20020227-03.JPG/1280px-Buenos_Aires_-_Manifestaci%C3%B3n_contra_el_Corralito_-_20020227-03.JPG
-p-cacerolazo.jpg https://upload.wikimedia.org/wikipedia/commons/2/28/Cacerolazo_Argentina_2001-2002.jpg
-p-crisis20.jpg https://upload.wikimedia.org/wikipedia/commons/8/8d/Crisis_20_diciembre_2001.jpg
-p-casarosada.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Casa_Rosada%2C_Buenos_Aires%2C_Argentina.jpg/1280px-Casa_Rosada%2C_Buenos_Aires%2C_Argentina.jpg
-p-billete1000.jpg https://upload.wikimedia.org/wikipedia/commons/b/b3/1000_pesos_banknote_-_Animales_Aut%C3%B3ctonos_-_Obverse.jpg
+f-meuir.json https://api.openverse.org/v1/images/?q=Meu+Imposto+de+Renda+IRPF&license_type=commercial%2Cmodification&page_size=30
+f-irpf.json https://api.openverse.org/v1/images/?q=IRPF+declara%C3%A7%C3%A3o&license_type=commercial%2Cmodification&page_size=30
+f-leao.json https://api.openverse.org/v1/images/?q=Receita+Federal&license_type=commercial%2Cmodification&page_size=30
+f-malha.json https://api.openverse.org/v1/images/?q=imposto+de+renda+celular&license_type=commercial%2Cmodification&page_size=30

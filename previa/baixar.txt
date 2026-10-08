@@ -1,5 +1,1 @@
-d-info.json https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription|DateTimeOriginal&titles=File:Apag%C3%A3o_em_S%C3%A3o_Paulo_-_Vila_Madalena.jpg|File:Avenida_Cardeal_Santiago_Luiz_Copello_01.jpg
-d-damon07.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Matt_Damon_-_Berlin_Film_Festival_2007.jpg/960px-Matt_Damon_-_Berlin_Film_Festival_2007.jpg
-d-damonstar.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Matt-Damon-Hollywood-Star.jpg/960px-Matt-Damon-Hollywood-Star.jpg
-d-damonhand.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MattDamonGraumanHandFootprintsOct10.jpg/960px-MattDamonGraumanHandFootprintsOct10.jpg
-d-damonbu.jpg https://upload.wikimedia.org/wikipedia/commons/5/56/MattDamonBU.jpg
+orig-jordan97.jpg https://upload.wikimedia.org/wikipedia/commons/4/43/Steve_Lipfosky_--_Michael_Jordan_%281997%29.jpg

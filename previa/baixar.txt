@@ -1,6 +1,8 @@
-a-ov-aneel.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=aneel
-a-ov-enelfl.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=enel&source=flickr
-a-c-postes.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=postes+fia%C3%A7%C3%A3o+S%C3%A3o+Paulo+filetype:bitmap
-a-c-medidor.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=medidor+de+energia+el%C3%A9trica+Brasil+filetype:bitmap
-b-apagao-vm.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Apag%C3%A3o_em_S%C3%A3o_Paulo_-_Vila_Madalena.jpg/960px-Apag%C3%A3o_em_S%C3%A3o_Paulo_-_Vila_Madalena.jpg
-b-copello.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Avenida_Cardeal_Santiago_Luiz_Copello_01.jpg?width=960
+c-enel1.jpg https://live.staticflickr.com/65535/48871058162_3b7c258646_b.jpg
+c-enel2.jpg https://live.staticflickr.com/65535/48871072572_ce3dfc80b3_b.jpg
+c-enel3.jpg https://live.staticflickr.com/65535/48870338393_b368e17872_b.jpg
+c-enel4.jpg https://live.staticflickr.com/65535/48871057792_b21f93b87d_b.jpg
+c-enel5.jpg https://live.staticflickr.com/65535/48870338438_ae9c26e1c7_b.jpg
+c-enel6.jpg https://live.staticflickr.com/65535/48871058112_aa7f2e7e5c_b.jpg
+c-enel7.jpg https://live.staticflickr.com/65535/48870338538_96b5d0c6af_b.jpg
+c-ov-enelsp.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=40&q=evento%20da%20enel

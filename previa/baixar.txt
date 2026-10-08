@@ -1,4 +1,4 @@
-f-meuir.json https://api.openverse.org/v1/images/?q=Meu+Imposto+de+Renda+IRPF&license_type=commercial%2Cmodification&page_size=30
-f-irpf.json https://api.openverse.org/v1/images/?q=IRPF+declara%C3%A7%C3%A3o&license_type=commercial%2Cmodification&page_size=30
-f-leao.json https://api.openverse.org/v1/images/?q=Receita+Federal&license_type=commercial%2Cmodification&page_size=30
-f-malha.json https://api.openverse.org/v1/images/?q=imposto+de+renda+celular&license_type=commercial%2Cmodification&page_size=30
+f-meuir.json https://api.openverse.org/v1/images/?q=Meu+Imposto+de+Renda+IRPF&license_type=commercial%2Cmodification&page_size=20
+f-irpf.json https://api.openverse.org/v1/images/?q=IRPF+declara%C3%A7%C3%A3o&license_type=commercial%2Cmodification&page_size=20
+f-leao.json https://api.openverse.org/v1/images/?q=Receita+Federal&license_type=commercial%2Cmodification&page_size=20
+f-malha.json https://api.openverse.org/v1/images/?q=imposto+de+renda+celular&license_type=commercial%2Cmodification&page_size=20

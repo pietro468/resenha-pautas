@@ -1,8 +1,5 @@
-c-enel1.jpg https://live.staticflickr.com/65535/48871058162_3b7c258646_b.jpg
-c-enel2.jpg https://live.staticflickr.com/65535/48871072572_ce3dfc80b3_b.jpg
-c-enel3.jpg https://live.staticflickr.com/65535/48870338393_b368e17872_b.jpg
-c-enel4.jpg https://live.staticflickr.com/65535/48871057792_b21f93b87d_b.jpg
-c-enel5.jpg https://live.staticflickr.com/65535/48870338438_ae9c26e1c7_b.jpg
-c-enel6.jpg https://live.staticflickr.com/65535/48871058112_aa7f2e7e5c_b.jpg
-c-enel7.jpg https://live.staticflickr.com/65535/48870338538_96b5d0c6af_b.jpg
-c-ov-enelsp.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=40&q=evento%20da%20enel
+d-info.json https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription|DateTimeOriginal&titles=File:Apag%C3%A3o_em_S%C3%A3o_Paulo_-_Vila_Madalena.jpg|File:Avenida_Cardeal_Santiago_Luiz_Copello_01.jpg
+d-damon07.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Matt_Damon_-_Berlin_Film_Festival_2007.jpg/960px-Matt_Damon_-_Berlin_Film_Festival_2007.jpg
+d-damonstar.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Matt-Damon-Hollywood-Star.jpg/960px-Matt-Damon-Hollywood-Star.jpg
+d-damonhand.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MattDamonGraumanHandFootprintsOct10.jpg/960px-MattDamonGraumanHandFootprintsOct10.jpg
+d-damonbu.jpg https://upload.wikimedia.org/wikipedia/commons/5/56/MattDamonBU.jpg

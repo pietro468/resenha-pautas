@@ -1,5 +1,6 @@
-z-ov-apagao.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=apag%C3%A3o%20s%C3%A3o%20paulo
-z-ov-arvore.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=%C3%A1rvore%20ca%C3%ADda%20s%C3%A3o%20paulo
-z-ov-poste.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=poste%20energia%20s%C3%A3o%20paulo
-z-c-enelsp.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=%22Enel%22+S%C3%A3o+Paulo+filetype:bitmap
-z-c-vendaval.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=vendaval+S%C3%A3o+Paulo+filetype:bitmap
+a-ov-aneel.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=aneel
+a-ov-enelfl.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=enel&source=flickr
+a-c-postes.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=postes+fia%C3%A7%C3%A3o+S%C3%A3o+Paulo+filetype:bitmap
+a-c-medidor.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=medidor+de+energia+el%C3%A9trica+Brasil+filetype:bitmap
+b-apagao-vm.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Apag%C3%A3o_em_S%C3%A3o_Paulo_-_Vila_Madalena.jpg/960px-Apag%C3%A3o_em_S%C3%A3o_Paulo_-_Vila_Madalena.jpg
+b-copello.jpg https://commons.wikimedia.org/wiki/Special:FilePath/Avenida_Cardeal_Santiago_Luiz_Copello_01.jpg?width=960

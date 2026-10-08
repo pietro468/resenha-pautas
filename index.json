@@ -837,9 +837,29 @@
    ],
    "titulo": "Por que a Argentina vive em crise mesmo já tendo sido tão rica",
    "data": "2026-10-08 16:00"
+  },
+  {
+   "slug": "taxa-selic-hoje",
+   "pasta": "artigos/2026-10-08/taxa-selic-hoje",
+   "arquivos": [
+    "taxa-selic-hoje.md",
+    "carrossel.json"
+   ],
+   "titulo": "Taxa Selic hoje está em 13,75% e o próximo corte segue em aberto",
+   "data": "2026-10-08 19:00"
+  },
+  {
+   "slug": "jensen-huang",
+   "pasta": "artigos/2026-10-08/jensen-huang",
+   "arquivos": [
+    "jensen-huang.md",
+    "carrossel.json"
+   ],
+   "titulo": "Jensen Huang lavou pratos no Denny's antes de criar a Nvidia",
+   "data": "2026-10-08 21:00"
   }
  ],
- "atualizado": "2026-10-08 16:17",
+ "atualizado": "2026-10-08 21:20",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -1035,6 +1055,11 @@
    "slug": "placar-inflacao-america-do-sul",
    "pasta": "instagram/2026-10-08/placar-inflacao-america-do-sul",
    "data": "2026-10-08 17:30"
+  },
+  {
+   "slug": "frase-bogle-palheiro",
+   "pasta": "instagram/2026-10-09/frase-bogle-palheiro",
+   "data": "2026-10-09 07:00"
   }
  ]
 }

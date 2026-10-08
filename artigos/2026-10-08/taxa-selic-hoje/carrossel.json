@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "A ==Selic== caiu pela 5ª vez seguida. Mas o juro do cartão subiu",
+  "chamada": "Entenda",
+  "capa": "banco-central-sede-brasilia-instagram.jpg",
+  "capa_foco": "50,35",
+  "slides": [
+    {"tipo": "numero", "numero": "13,75%", "texto": "é a **Selic** hoje. O Banco Central cortou os juros pela **5ª vez seguida**, em 16 de setembro.\n\nSó que nem todo juro caiu junto.", "foto": "capa", "fonte": "Banco Central, via InfoMoney"},
+    {"tipo": "comparacao", "titulo": "E o cartão de crédito?", "esquerda": {"rotulo": "Julho", "valor": "436%", "detalhe": "juro do rotativo ao ano"}, "direita": {"rotulo": "Agosto", "valor": "445%", "detalhe": "juro do rotativo ao ano"}, "texto": "O juro do cartão depende mais do risco de calote do que da Selic.", "fonte": "Banco Central, via Jornal do Comércio"},
+    {"tipo": "texto", "titulo": "Por que os juros caíram?", "texto": "==Preços:== caíram 0,32% em agosto.\n\nEm 12 meses, a inflação ficou em **4,22%**. A meta do governo é 3%.\n\nMas o Banco Central ainda está com o pé no freio.", "foto": "nota-de-20-reais-juros.jpg", "fonte": "IBGE e Copom, via InfoMoney"},
+    {"tipo": "texto", "titulo": "Sem promessa", "texto": "O Banco Central disse que o próximo passo depende de **novas informações**.\n\nOu seja: pode cortar de novo, pode parar.", "foto": "taxa-selic-hoje-galipolo-banco-central.jpg", "fonte": "Comunicado e ata do Copom"},
+    {"tipo": "texto_claro", "titulo": "E o seu bolso?", "texto": "Quem investe em renda fixa ainda ganha perto de **9% ao ano acima da inflação**.\n\nQuem deve no cartão segue pagando caro. Trocar por uma dívida mais barata ainda é o melhor caminho.", "fonte": "Cálculo com Selic e IPCA de 12 meses"},
+    {"tipo": "texto_claro", "titulo": "E agora?", "texto": "A próxima decisão sai em **4 de novembro**.\n\nO mercado espera a Selic em **13,50%** no fim do ano: juro caindo, mas devagar.", "fonte": "Boletim Focus de 5/10/2026"},
+    {"tipo": "final"}
+  ],
+  "legenda": "A Selic caiu pela 5ª vez seguida e está em 13,75% ao ano. Mas o juro do cartão de crédito foi na direção contrária.\n\nO Copom cortou os juros em 0,25 ponto no dia 16 de setembro. A Selic estava em 15% desde junho de 2025 e começou a cair em março de 2026.\n\nO motivo foi a inflação mais fraca: os preços caíram 0,32% em agosto e a alta em 12 meses ficou em 4,22%, segundo o IBGE. A meta é 3%.\n\nMesmo assim, o juro médio do rotativo do cartão subiu de 436,2% para 444,9% ao ano em agosto, segundo o Banco Central. Esse juro depende mais do risco de calote do que da Selic.\n\nO Banco Central não prometeu novos cortes. A próxima decisão sai em 4 de novembro, e o Boletim Focus espera a Selic em 13,50% no fim de 2026.\n\nVocê sentiu os juros caírem em alguma conta?\n\n(Fotos: Banco Central do Brasil, Agência Senado e Oleg Yunakov, licenças CC)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

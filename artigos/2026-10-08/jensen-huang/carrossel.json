@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "gancho": "O fundador da ==Nvidia== começou a vida lavando pratos numa lanchonete",
+  "chamada": "Deslize para ver",
+  "capa": "jensen-huang-retrato-2024.jpg",
+  "capa_foco": "50,30",
+  "capa_extra": "nvidia-sede-santa-clara.jpg",
+  "slides": [
+    {"tipo": "texto", "titulo": "Quem é Jensen Huang", "texto": "Nasceu em Taiwan, em 1963. Aos **9 anos**, foi mandado para os EUA e parou num internato rígido no Kentucky.\n\nAos **15**, arrumou o primeiro emprego: lavar pratos numa Denny's.\n\nE foi numa mesa dessa lanchonete que tudo começou.", "foto": "capa", "fonte": "Britannica e Fortune"},
+    {"tipo": "foto_texto", "titulo": "1993: a mesa do Denny's", "texto": "Com dois engenheiros, ele fundou a Nvidia com **US$ 40 mil**. A ideia: chips para gráficos 3D em computador.\n\nSó que quase deu tudo errado.", "foto": "jensen-huang-computex-2010.jpg", "fonte": "Britannica e NBC Bay Area"},
+    {"tipo": "texto", "titulo": "A 30 dias de fechar", "texto": "Uma aposta errada obrigou Huang a demitir **metade da equipe**.\n\nO chip seguinte salvou a empresa: vendeu **1 milhão** de unidades em 4 meses.\n\nMas o grande lance ainda estava por vir.", "foto": "jensen-huang-nvidia-sc18.jpg", "fonte": "Quartr"},
+    {"tipo": "foto_texto", "titulo": "A virada da inteligência artificial", "texto": "Os chips feitos para games também serviam muito bem para treinar IA.\n\nEm 2025, a Nvidia virou a **primeira empresa de US$ 5 trilhões** da história.", "foto": "jensen-huang-stanford-2026.jpg", "fonte": "Entrepreneur"},
+    {"tipo": "numero", "numero": "US$ 204 bi", "texto": "é a fortuna de **Jensen Huang**, a 7ª maior do mundo, segundo a Forbes, em 2 de outubro de 2026.", "foto": "jensen-huang-washington-2025.jpg", "fonte": "Forbes"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "A Nvidia vendeu placas de videogame por mais de 10 anos antes de a IA explodir.\n\nHuang ficou no comando o tempo todo. Às vezes, a grande aposta só paga muito depois.", "fonte": "Forbes e Quartr"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O fundador da Nvidia começou a vida lavando pratos numa lanchonete. Hoje, Jensen Huang tem mais de US$ 200 bilhões.\n\nHuang nasceu em Taiwan, em 1963, e foi mandado aos Estados Unidos aos 9 anos. Aos 15, conseguiu o primeiro emprego: lavar pratos numa Denny's.\n\nEm 1993, numa mesa de uma Denny's em San Jose, ele e dois engenheiros planejaram a Nvidia, fundada com US$ 40 mil (Britannica).\n\nNos anos 90, a empresa quase quebrou e teve de demitir metade da equipe. Depois, os chips de videogame viraram o motor da inteligência artificial, e a Nvidia se tornou a primeira empresa de US$ 5 trilhões, em outubro de 2025.\n\nSegundo a Forbes, a fortuna de Huang era de US$ 204,5 bilhões em 2 de outubro de 2026, a 7ª maior do mundo.\n\nQual foi o seu primeiro emprego?\n\n(Fotos: Peter Dasilva, Will Buckner, Maurizio Pesce, Masaru Kamikura, Raysonho, Anderseidesvik e Casa Branca, licenças CC e domínio público)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

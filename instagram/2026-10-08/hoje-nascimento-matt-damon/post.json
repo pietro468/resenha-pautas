@@ -1,0 +1,35 @@
+{
+  "titulo": "Hoje na história: 8 de outubro de 1970, nasce Matt Damon",
+  "data": "2026-10-08 10:00",
+  "fotos": [
+    {"arquivo": "hoje-matt-damon-2015.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Matt_Damon_TIFF_2015.jpg", "credito": "Bill Ingalls/NASA (domínio público)"},
+    {"arquivo": "hoje-matt-damon-bourne-2007.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/MattDamonBU.jpg", "credito": "Miguel Angel Azua Garcia/Wikimedia Commons (CC BY 3.0)"},
+    {"arquivo": "hoje-matt-damon-berlim-2007.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Matt_Damon_-_Berlin_Film_Festival_2007.jpg/1920px-Matt_Damon_-_Berlin_Film_Festival_2007.jpg", "credito": "Thore Siebrands/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-matt-damon-maos-chinese-theatre.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/MattDamonGraumanHandFootprintsOct10.jpg", "credito": "Nehrams2020/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "hoje-matt-damon-estrela-calcada-da-fama.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Matt-Damon-Hollywood-Star.jpg/1920px-Matt-Damon-Hollywood-Star.jpg", "credito": "Stefan/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "hoje-matt-damon-berlim-2023.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Matt_Damon%2C_Berlinale_2023_%28cropped%29.jpg", "credito": "Elena Ternovaja/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "hoje-matt-damon-ben-affleck-air.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Matt_Damon_and_Ben_Affleck_in_Austin_During_the_Air_Premiere.jpg/1920px-Matt_Damon_and_Ben_Affleck_in_Austin_During_the_Air_Premiere.jpg", "credito": "Nomoretitanic/Wikimedia Commons (CC BY-SA 4.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-matt-damon-2015.jpg",
+    "capa_foco": "50,25",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "8 out",
+    "ano": "1970",
+    "ha": "Há 56 anos",
+    "gancho": "Nascia ==Matt Damon==, que ganhou um Oscar de roteiro aos 27 anos",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-matt-damon-bourne-2007.jpg"},
+      {"tipo": "foto", "foto": "hoje-matt-damon-berlim-2007.jpg"},
+      {"tipo": "foto", "foto": "hoje-matt-damon-maos-chinese-theatre.jpg"},
+      {"tipo": "foto", "foto": "hoje-matt-damon-estrela-calcada-da-fama.jpg"},
+      {"tipo": "foto", "foto": "hoje-matt-damon-berlim-2023.jpg"},
+      {"tipo": "foto", "foto": "hoje-matt-damon-ben-affleck-air.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 56 ANOS, NASCIA O ATOR QUE ESCREVEU O PRÓPRIO SUCESSO\n\nMatt Damon nasceu em 8 de outubro de 1970, em Cambridge, no estado americano de Massachusetts, segundo a Enciclopédia Britânica.\n\nA virada da carreira veio de um roteiro escrito com o amigo Ben Affleck: Gênio Indomável. O filme estreou em dezembro de 1997, recebeu nove indicações ao Oscar e ganhou duas, uma delas a de melhor roteiro original. Damon tinha 27 anos, e Affleck, 25, segundo o History Channel.\n\nDepois disso, ele virou astro de franquias. Estrelou os quatro filmes de Jason Bourne, entre 2002 e 2016, e a trilogia Onze Homens e um Segredo, entre 2001 e 2007.\n\nO detalhe curioso: em 2023, Damon e Affleck voltaram a trabalhar juntos em Air, o filme sobre como a Nike contratou Michael Jordan. Affleck dirigiu e fez o fundador da Nike, Phil Knight. Damon interpretou Sonny Vaccaro, o executivo que apostou no novato.\n\nHoje, o roteiro que dois jovens escreveram sem fama nenhuma é um dos casos mais citados de quem criou a própria oportunidade em Hollywood.\n\nQual é o seu filme favorito do Matt Damon?\n\n(Fotos: Bill Ingalls/NASA, domínio público; Miguel Angel Azua Garcia, CC BY 3.0; Thore Siebrands, CC BY 2.0; Nehrams2020 e Elena Ternovaja, CC BY-SA 3.0; Stefan, CC BY-SA 2.0; Nomoretitanic, CC BY-SA 4.0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

@@ -795,9 +795,30 @@
    ],
    "titulo": "Como Eike Batista chegou a 7º mais rico do mundo e perdeu tudo",
    "data": "2026-10-07 21:00"
+  },
+  {
+   "slug": "concessao-da-enel",
+   "pasta": "artigos/2026-10-08/concessao-da-enel",
+   "arquivos": [
+    "concessao-da-enel.md",
+    "carrossel.json"
+   ],
+   "titulo": "Concessão da Enel em SP fica em suspenso por mais 60 dias",
+   "data": "2026-10-08 08:00"
+  },
+  {
+   "slug": "michael-jordan-e-a-nike",
+   "pasta": "artigos/2026-10-08/michael-jordan-e-a-nike",
+   "arquivos": [
+    "michael-jordan-e-a-nike.md",
+    "michael-jordan-e-a-nike-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Michael Jordan e a Nike transformaram um tênis em US$ 7 bilhões",
+   "data": "2026-10-08 11:00"
   }
  ],
- "atualizado": "2026-10-07 21:10",
+ "atualizado": "2026-10-08 10:26",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -975,9 +996,19 @@
    "data": "2026-10-07 10:00"
   },
   {
+   "slug": "curiosidade-times-mais-valiosos",
+   "pasta": "instagram/2026-10-08/curiosidade-times-mais-valiosos",
+   "data": "2026-10-08 12:30"
+  },
+  {
    "slug": "frase-graham-pior-inimigo",
    "pasta": "instagram/2026-10-08/frase-graham-pior-inimigo",
    "data": "2026-10-08 07:00"
+  },
+  {
+   "slug": "hoje-nascimento-matt-damon",
+   "pasta": "instagram/2026-10-08/hoje-nascimento-matt-damon",
+   "data": "2026-10-08 10:00"
   }
  ]
 }

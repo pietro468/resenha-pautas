@@ -1,0 +1,31 @@
+{
+  "titulo": "Curiosidades: os times mais valiosos do mundo",
+  "data": "2026-10-08 12:30",
+  "fotos": [
+    {"arquivo": "curiosidade-times-knicks-madison-square-garden.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Knicks_no_aquecimento.jpg/1920px-Knicks_no_aquecimento.jpg", "credito": "Daniel Torres Bonatto/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "curiosidade-times-lakers-crypto-arena.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Crypto.com_Arena_interior_2024.jpg/1920px-Crypto.com_Arena_interior_2024.jpg", "credito": "Troutfarm27/Wikimedia Commons (CC BY 4.0)"},
+    {"arquivo": "curiosidade-times-giants-metlife.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Met_Life_Stadium.jpg/1920px-Met_Life_Stadium.jpg", "credito": "All-Pro Reels/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "curiosidade-times-rams-sofi.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/RamsFans2023.jpg/1920px-RamsFans2023.jpg", "credito": "PontiacAurora/Wikimedia Commons (CC0)"},
+    {"arquivo": "curiosidade-times-warriors-chase-center.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Chase_Center_-_East_Side_-_San_Francisco.jpg/1920px-Chase_Center_-_East_Side_-_San_Francisco.jpg", "credito": "Tony Wasserman/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "curiosidade-times-cowboys-att-stadium.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg/1920px-Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg", "credito": "Michael Barera/Wikimedia Commons (CC BY-SA 4.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-times-cowboys-att-stadium.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": ["curiosidade-times-warriors-chase-center.jpg", "curiosidade-times-lakers-crypto-arena.jpg"],
+    "chamada": "Curiosidades",
+    "gancho": "Quais são os ==times mais valiosos== do mundo?",
+    "slides": [
+      {"tipo": "item", "foto": "curiosidade-times-knicks-madison-square-garden.jpg", "posicao": "6º lugar", "detalhe": "Basquete (NBA), Nova York", "nome": "New York Knicks", "valor": "US$ 9,75 bilhões", "fonte": "Forbes, dezembro de 2025"},
+      {"tipo": "item", "foto": "curiosidade-times-lakers-crypto-arena.jpg", "posicao": "5º lugar", "detalhe": "Basquete (NBA), Los Angeles", "nome": "Los Angeles Lakers", "valor": "US$ 10 bilhões", "fonte": "Forbes, dezembro de 2025"},
+      {"tipo": "item", "foto": "curiosidade-times-giants-metlife.jpg", "posicao": "4º lugar", "detalhe": "Futebol americano (NFL), Nova York", "nome": "New York Giants", "valor": "US$ 10,1 bilhões", "fonte": "Forbes, dezembro de 2025"},
+      {"tipo": "item", "foto": "curiosidade-times-rams-sofi.jpg", "posicao": "3º lugar", "detalhe": "Futebol americano (NFL), Los Angeles", "nome": "Los Angeles Rams", "valor": "US$ 10,5 bilhões", "fonte": "Forbes, dezembro de 2025"},
+      {"tipo": "item", "foto": "curiosidade-times-warriors-chase-center.jpg", "posicao": "2º lugar", "detalhe": "Basquete (NBA), São Francisco", "nome": "Golden State Warriors", "valor": "US$ 11 bilhões", "fonte": "Forbes, dezembro de 2025"},
+      {"tipo": "item", "foto": "curiosidade-times-cowboys-att-stadium.jpg", "posicao": "1º lugar", "detalhe": "Futebol americano (NFL), Dallas", "nome": "Dallas Cowboys", "valor": "US$ 13 bilhões", "fonte": "Forbes, dezembro de 2025"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Quais são os times mais valiosos do mundo?\n\n1. Dallas Cowboys (NFL): US$ 13 bilhões\n2. Golden State Warriors (NBA): US$ 11 bilhões\n3. Los Angeles Rams (NFL): US$ 10,5 bilhões\n4. New York Giants (NFL): US$ 10,1 bilhões\n5. Los Angeles Lakers (NBA): US$ 10 bilhões\n6. New York Knicks (NBA): US$ 9,75 bilhões\n\nOs valores são do ranking anual da Forbes, publicado em dezembro de 2025. O primeiro clube de outro esporte aparece logo depois: o New York Yankees, do beisebol, empatado em 10º com o Chicago Bears, com US$ 8,2 bilhões cada.\n\nO futebol americano domina: dos 11 nomes do top 10, 7 são da NFL. Nenhum clube de futebol entrou entre os dez primeiros.\n\nQual desses times você acompanha?\n\n(Fotos: Michael Barera, CC BY-SA 4.0; Tony Wasserman, Daniel Torres Bonatto e All-Pro Reels, CC BY-SA 2.0; Troutfarm27, CC BY 4.0; PontiacAurora, CC0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "==Michael Jordan== nem usava Nike. Hoje a marca dele fatura US$ 7 bilhões por ano",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "circulo",
+  "capa_extra": "air-jordan-1-1985.jpg",
+  "slides": [
+    {
+      "tipo": "foto_texto",
+      "foto": "michael-jordan-camisa-bulls-1984.jpg",
+      "titulo": "1984: o novato do Bulls",
+      "texto": "Jordan tinha 21 anos e calçava Converse. Ele queria assinar com a **Adidas**.\n\n\"Eu nunca usei tênis da Nike até assinar com a Nike\", disse anos depois. Mas a Nike fez uma oferta diferente.",
+      "fonte": "Time"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "A oferta da Nike",
+      "esquerda": {"rotulo": "Contrato", "valor": "US$ 2,5 mi", "detalhe": "por 5 anos"},
+      "direita": {"rotulo": "Adidas", "valor": "Menos da metade", "detalhe": "da oferta da Nike"},
+      "texto": "E veio com uma cláusula nova: Jordan ganharia uma parte de **cada produto vendido** com o nome dele. Quem fez questão disso foi a mãe, Deloris.",
+      "fonte": "Time e Metro World News"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O tênis \"proibido\"",
+      "texto": "Em 1984, a NBA reclamou do **Air Ship** vermelho e preto, que fugia da regra dos tênis brancos.\n\nA lenda fala em multa de US$ 5 mil por jogo. Nunca apareceu prova de que foi paga. Mas a fama ajudou a vender.",
+      "foto": "michael-jordan-e-a-nike-air-ship.jpg",
+      "fonte": "Complex"
+    },
+    {
+      "tipo": "numero",
+      "numero": "US$ 126 mi",
+      "texto": "é a cifra mais citada para as vendas do Air Jordan no **primeiro ano**.\n\nA meta da Nike era fazer US$ 3 milhões em três anos.",
+      "foto": "michael-jordan-novato-1984.jpg",
+      "fonte": "Metro World News e Wikipédia"
+    },
+    {
+      "tipo": "foto_texto",
+      "foto": "michael-jordan-enterrada-1988.jpg",
+      "titulo": "E hoje?",
+      "texto": "A Jordan Brand faturou **US$ 7,03 bilhões** no último ano fiscal, cerca de 15% de toda a Nike.\n\nJordan parou de jogar em 2003. E ainda ganhou perto de US$ 300 milhões num ano, quase tudo da Nike.",
+      "fonte": "Nike (SEC) e Sportico"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "Jordan não virou só garoto-propaganda. Virou **sócio** do produto.\n\nFoi essa cláusula que transformou um contrato de US$ 2,5 milhões numa marca bilionária."
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Michael Jordan nunca tinha usado um tênis da Nike quando assinou com a marca, em 1984.\n\nEle queria a Adidas. A Nike ofereceu US$ 2,5 milhões por cinco anos, mais que o dobro da rival, segundo a revista Time. E aceitou uma exigência atribuída à mãe dele, Deloris: Jordan ganharia uma parte de cada produto vendido com o nome dele.\n\nO Air Jordan chegou às lojas em abril de 1985. A meta era vender US$ 3 milhões em três anos. A cifra mais citada para o primeiro ano é de US$ 126 milhões.\n\nHoje, a Jordan Brand fatura US$ 7,03 bilhões por ano, segundo o balanço da Nike. A história virou filme em 2023: Air, de Ben Affleck.\n\nVocê já teve ou queria ter um Air Jordan?\n\n(Fotos: Steve Lipofsky/Basketballphoto.com, CC BY-SA 3.0; United Press International e Carmine Galasso, domínio público; Smithsonian e LeDroider, CC0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

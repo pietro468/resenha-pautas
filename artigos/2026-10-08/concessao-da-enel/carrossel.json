@@ -1,0 +1,50 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "A Enel pode ser a ==primeira== distribuidora de luz a perder a concessão no Brasil",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "slides": [
+    {
+      "tipo": "texto",
+      "titulo": "O que aconteceu",
+      "texto": "Na terça (6), a Aneel começou a julgar o fim do contrato da Enel em São Paulo.\n\nA relatora votou **sim**. O placar foi a **2 a 0**. Aí um diretor pediu mais tempo, e tudo parou.",
+      "fonte": "Agência Brasil e Canal Solar"
+    },
+    {
+      "tipo": "numero",
+      "numero": "8,5 milhões",
+      "texto": "de imóveis e empresas recebem luz da Enel em **24 cidades** da Grande São Paulo.\n\nÉ a maior distribuidora do país em número de clientes.",
+      "foto": "rede-eletrica-sao-paulo.jpg",
+      "fonte": "Canal Solar"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por que chegou a isso",
+      "texto": "==2023:== temporal, mais de 2 milhões sem luz.\n\n==2024:== nova tempestade, mais de 2 milhões.\n\n==2025:== ciclone. A falta de luz mais longa durou **quase 6 dias**.",
+      "fonte": "Canal Solar e SBT News"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que diz a Enel",
+      "texto": "A empresa afirma que cumpriu os índices de atendimento e respondeu bem às emergências.\n\nE diz que ninguém calculou quanto custaria trocar de empresa. O TCU fez a mesma pergunta.",
+      "fonte": "Band e Agência Brasil"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E a sua conta de luz?",
+      "texto": "Por enquanto, **nada muda**. A Enel segue no comando.\n\nSe o contrato cair, a luz não pode parar. O governo teria de escolher outra empresa e calcular o efeito na tarifa.",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "E agora?",
+      "texto": "O caso volta à Aneel em até **60 dias**, depois da eleição. A palavra final é do Ministério de Minas e Energia.\n\nE o contrato acaba em 2028 de qualquer jeito. Está em jogo quem cuida da luz de São Paulo depois disso."
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "A Enel pode ser a primeira distribuidora de energia do Brasil a perder a concessão por descumprir o contrato.\n\nNa terça-feira (6), a Aneel começou a julgar o caso. A relatora, Agnes da Costa, votou pela caducidade, o fim antecipado do contrato. O placar chegou a 2 a 0, mas um pedido de vista suspendeu a votação por até 60 dias, segundo a Agência Brasil e o Canal Solar.\n\nO processo começou depois de apagões longos em 2023, 2024 e 2025. No ciclone de dezembro de 2025, a interrupção mais longa durou 142,8 horas, segundo a sentença citada pelo SBT News.\n\nA Enel contesta. A empresa diz que atingiu os índices de atendimento e pede um estudo sobre os efeitos de trocar de operador. A decisão final é do Ministério de Minas e Energia.\n\nVocê já ficou sem luz por mais de um dia em São Paulo?\n\n(Fotos ilustrativas: Silvio Tanaka e Dornicke/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

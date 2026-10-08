@@ -1,4 +1,6 @@
-f-meuir.json https://api.openverse.org/v1/images/?q=Meu+Imposto+de+Renda+IRPF&license_type=commercial%2Cmodification&page_size=20
-f-irpf.json https://api.openverse.org/v1/images/?q=IRPF+declara%C3%A7%C3%A3o&license_type=commercial%2Cmodification&page_size=20
-f-leao.json https://api.openverse.org/v1/images/?q=Receita+Federal&license_type=commercial%2Cmodification&page_size=20
-f-malha.json https://api.openverse.org/v1/images/?q=imposto+de+renda+celular&license_type=commercial%2Cmodification&page_size=20
+g-ir1.jpg https://api.openverse.org/v1/images/9b290b30-29ad-4e78-a068-b6e2da566991/thumb/
+g-ir2.jpg https://api.openverse.org/v1/images/da0f6840-e03a-4ece-a8eb-906ebd432b72/thumb/
+g-ir3.jpg https://api.openverse.org/v1/images/20d00aa9-8a78-4812-932f-017be481019a/thumb/
+g-ir2f.jpg https://live.staticflickr.com/65535/52307531752_6a614318d9_b.jpg
+g-predio.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pr%C3%A9dio_da_Receita_Federal.JPG/1280px-Pr%C3%A9dio_da_Receita_Federal.JPG
+g-rf50.jpg https://api.openverse.org/v1/images/59fcfc23-e3a8-4386-8238-289236fbff28/thumb/

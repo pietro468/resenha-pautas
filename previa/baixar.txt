@@ -1,12 +1,5 @@
-x-ov-enel.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=enel%20sao%20paulo
-x-ov-enel2.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=enel%20energia%20brasil
-x-temporal.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=temporal+S%C3%A3o+Paulo+2023+%C3%A1rvore+filetype:bitmap
-x-eletropaulo.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Eletropaulo+filetype:bitmap
-x-damon.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=Matt+Damon+2007+filetype:bitmap
-y-att.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg/960px-Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg
-y-attnight.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dallas-cowboys-stadium-at-night.jpg/960px-Dallas-cowboys-stadium-at-night.jpg
-y-chase.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chase_Center_-_Warriors.jpg/960px-Chase_Center_-_Warriors.jpg
-y-chase2.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Chase_Center_-_East_Side_-_San_Francisco.jpg/960px-Chase_Center_-_East_Side_-_San_Francisco.jpg
-y-ramsfans.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/RamsFans2023.jpg/960px-RamsFans2023.jpg
-y-sofi.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SoFi_%2852372640610%29.jpg/960px-SoFi_%2852372640610%29.jpg
-y-enelbr.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Enel-Americas-Edificio-Corporativo-Brasil.jpg/960px-Enel-Americas-Edificio-Corporativo-Brasil.jpg
+z-ov-apagao.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=apag%C3%A3o%20s%C3%A3o%20paulo
+z-ov-arvore.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=%C3%A1rvore%20ca%C3%ADda%20s%C3%A3o%20paulo
+z-ov-poste.json https://api.openverse.org/v1/images/?license_type=commercial,modification&page_size=20&q=poste%20energia%20s%C3%A3o%20paulo
+z-c-enelsp.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=%22Enel%22+S%C3%A3o+Paulo+filetype:bitmap
+z-c-vendaval.json https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription&iiurlwidth=640&gsrsearch=vendaval+S%C3%A3o+Paulo+filetype:bitmap

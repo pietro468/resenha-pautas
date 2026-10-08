@@ -1,3 +1,0 @@
-h-predio.json https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File:Pr%C3%A9dio_da_Receita_Federal.JPG&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=LicenseShortName|Artist|ImageDescription|DateTimeOriginal
-h-ir1.jpg https://live.staticflickr.com/65535/52308783540_84f6161f00_b.jpg
-h-ir3.jpg https://live.staticflickr.com/65535/52308766589_44a8ab72ba_b.jpg

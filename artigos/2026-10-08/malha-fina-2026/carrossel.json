@@ -1,0 +1,52 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Sua restituição do IR não caiu? Pode ser a ==malha fina==",
+  "chamada": "Veja como saber",
+  "capa": "malha-fina-meu-imposto-de-renda-celular.jpg",
+  "capa_estilo": "circulo",
+  "capa_extra": "predio-receita-federal.jpg",
+  "slides": [
+    {
+      "tipo": "numero",
+      "numero": "498 mil",
+      "texto": "pessoas vão receber carta da Receita até **20 de outubro**.\n\nO aviso diz que a declaração do IR 2026 ficou presa na malha fina.",
+      "foto": "receita-federal-site-celular.jpg",
+      "fonte": "Receita Federal"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Como saber se é você",
+      "texto": "Entre no **Meu Imposto de Renda**, no site ou no app da Receita, com a conta gov.br prata ou ouro.\n\nSe aparecer ==Com Pendência==, a declaração está retida. O próprio sistema mostra o motivo.",
+      "fonte": "Receita Federal"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "Os erros mais comuns",
+      "texto": "Esquecer a renda de um dependente.\n\nNão somar duas aposentadorias.\n\nErrar o valor ou o ano de um gasto com médico.\n\nDescontar o VGBL, que não conta como previdência no IR.",
+      "fonte": "Receita Federal, via Agência Brasil"
+    },
+    {
+      "tipo": "comparacao",
+      "titulo": "Corrigir logo sai mais barato",
+      "esquerda": {"rotulo": "Antes do aviso", "valor": "até 20%", "detalhe": "de multa, mais juros"},
+      "direita": {"rotulo": "Depois", "valor": "75%", "detalhe": "de multa, mais juros"},
+      "texto": "Vale para quem tem imposto a pagar. Quem espera ser intimado paga bem mais.",
+      "fonte": "Lei 9.430/1996, Receita Federal"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Cuidado com golpe",
+      "texto": "A Receita já avisou que **não manda e-mail nem SMS** com link pedindo para corrigir a declaração.\n\nConsulte sempre pelo site ou pelo app oficial.",
+      "fonte": "Receita Federal"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "E agora?",
+      "texto": "Achou um erro? Mande a declaração retificadora pela internet, sem sair de casa.\n\nEstá tudo certo? Não mude nada. Guarde os comprovantes e espere a Receita chamar.",
+      "fonte": "Receita Federal"
+    },
+    {"tipo": "final"}
+  ],
+  "legenda": "Sua restituição do Imposto de Renda ainda não caiu? A declaração pode estar na malha fina.\n\nA Receita Federal começou a mandar, em 5 de outubro, cartas a 498.487 contribuintes com a declaração do IR 2026 retida. Os envios seguem em lotes semanais até 20 de outubro.\n\nPara conferir, entre no Meu Imposto de Renda, no site ou no app da Receita, com a conta gov.br prata ou ouro. Se aparecer \"Com Pendência\", o sistema mostra o motivo e como resolver.\n\nOs erros mais comuns, segundo a Receita: esquecer renda de dependentes, não somar mais de uma aposentadoria, errar o ano ou o valor de despesas médicas e deduzir o VGBL.\n\nCorrigir antes de ser intimado faz diferença. Quem tem imposto a pagar e se corrige sozinho paga multa de até 20%. Depois da intimação, a multa chega a 75%, segundo a Lei 9.430.\n\nE atenção: a Receita não manda link por e-mail ou SMS pedindo correção.\n\nVocê já caiu na malha fina alguma vez?\n\n(Fotos: Senado Federal, CC BY 2.0; Paulo rsmenezes/Wikimedia Commons, CC BY-SA 3.0 BR)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo.\n\n#impostoderenda #malhafina #receitafederal"
+}

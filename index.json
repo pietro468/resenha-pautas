@@ -816,9 +816,30 @@
    ],
    "titulo": "Michael Jordan e a Nike transformaram um tênis em US$ 7 bilhões",
    "data": "2026-10-08 11:00"
+  },
+  {
+   "slug": "malha-fina-2026",
+   "pasta": "artigos/2026-10-08/malha-fina-2026",
+   "arquivos": [
+    "malha-fina-2026.md",
+    "carrossel.json"
+   ],
+   "titulo": "Malha fina: Receita avisa 498 mil contribuintes até o dia 20",
+   "data": "2026-10-08 14:00"
+  },
+  {
+   "slug": "por-que-a-argentina-vive-em-crise",
+   "pasta": "artigos/2026-10-08/por-que-a-argentina-vive-em-crise",
+   "arquivos": [
+    "por-que-a-argentina-vive-em-crise.md",
+    "por-que-a-argentina-vive-em-crise-calotes.png",
+    "carrossel.json"
+   ],
+   "titulo": "Por que a Argentina vive em crise mesmo já tendo sido tão rica",
+   "data": "2026-10-08 16:00"
   }
  ],
- "atualizado": "2026-10-08 10:26",
+ "atualizado": "2026-10-08 16:17",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -1009,6 +1030,11 @@
    "slug": "hoje-nascimento-matt-damon",
    "pasta": "instagram/2026-10-08/hoje-nascimento-matt-damon",
    "data": "2026-10-08 10:00"
+  },
+  {
+   "slug": "placar-inflacao-america-do-sul",
+   "pasta": "instagram/2026-10-08/placar-inflacao-america-do-sul",
+   "data": "2026-10-08 17:30"
   }
  ]
 }

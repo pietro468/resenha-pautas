@@ -1,0 +1,22 @@
+{
+  "titulo": "Placar: inflação em 12 meses na América do Sul",
+  "data": "2026-10-08 17:30",
+  "fotos": [],
+  "carrossel": {
+    "formato": "unico",
+    "estilo": "frase",
+    "capa": "capa",
+    "capa_estilo": "placar",
+    "chamada": "Em números",
+    "gancho": "A inflação da ==Argentina== ainda é quase 8 vezes a do Brasil",
+    "fonte": "INDEC, IBGE, INE Chile, DANE e INE Uruguai, dados de agosto de 2026",
+    "linhas": [
+      {"rotulo": "Argentina", "valor": "33,5%", "num": 33.5},
+      {"rotulo": "Colômbia", "valor": "6,24%", "num": 6.24},
+      {"rotulo": "Uruguai", "valor": "4,6%", "num": 4.6},
+      {"rotulo": "Brasil", "valor": "4,22%", "num": 4.22, "destaque": 1},
+      {"rotulo": "Chile", "valor": "4,1%", "num": 4.1}
+    ],
+    "legenda": "A inflação da Argentina caiu muito desde 2023, mas ainda está em outro patamar. Em agosto de 2026, os preços acumulavam alta de 33,5% em 12 meses no país, segundo o INDEC. No Brasil, o IPCA em 12 meses era de 4,22%, segundo o IBGE: quase 8 vezes menos.\n\nOs vizinhos estão mais perto do Brasil. Na Colômbia, a inflação em 12 meses chegou a 6,24% em agosto, segundo o DANE. No Uruguai, foi de 4,6%, e no Chile, de 4,1%, segundo os institutos de estatística de cada país.\n\nPara comparar: em 2023, a inflação argentina fechou o ano em 211,4%, a maior desde 1990. Em agosto de 2026, a alta do mês foi de 1,7%, a menor em 14 meses.\n\nVocê sabia que a Argentina ainda tinha a inflação tão acima dos vizinhos?\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo.\n\n#inflacao #argentina #economia"
+  }
+}

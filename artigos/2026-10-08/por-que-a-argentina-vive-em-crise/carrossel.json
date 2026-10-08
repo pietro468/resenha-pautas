@@ -1,0 +1,63 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "A ==Argentina== já foi mais rica que a Alemanha. O que deu errado?",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "slides": [
+    {
+      "tipo": "comparacao",
+      "titulo": "Em 1913, era assim",
+      "esquerda": {
+        "rotulo": "Argentina",
+        "valor": "US$ 6.052",
+        "detalhe": "renda por pessoa"
+      },
+      "direita": {
+        "rotulo": "Brasil",
+        "valor": "US$ 1.046",
+        "detalhe": "renda por pessoa"
+      },
+      "texto": "Em dólares de 2011. O argentino ganhava mais que o alemão e o francês. Mas algo começou a quebrar.",
+      "fonte": "Projeto Maddison, via BBC News Mundo"
+    },
+    {
+      "tipo": "numero",
+      "numero": "9",
+      "texto": "calotes na dívida desde **1827**.\n\nO último foi em **2020**. Cada calote fecha o crédito, e o governo passa a imprimir dinheiro. Aí vem a inflação.",
+      "foto": "argentina-casa-de-cambio-dolar-2018.jpg",
+      "fonte": "Reuters e El Cronista"
+    },
+    {
+      "tipo": "foto_texto",
+      "titulo": "O dia em que os bancos travaram",
+      "texto": "Em dezembro de 2001, só dava para sacar **250 pesos por semana**. Vieram protestos, 39 mortes e a renúncia do presidente. E a conta foi parar no FMI.",
+      "foto": "crise-na-argentina-cacerolazo-corralito.jpg",
+      "fonte": "CNN en Español"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O maior empréstimo da história",
+      "texto": "Em 2018, o FMI aprovou **US$ 57 bilhões** para a Argentina, o maior da história do Fundo.\n\nEm 2025, veio mais um acordo, de **US$ 20 bilhões**.",
+      "foto": "casa-rosada-buenos-aires.jpg",
+      "fonte": "AFP, via Swissinfo"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E em 2026?",
+      "texto": "Preços subindo ==33,5%== em 12 meses.\n\nPobreza em ==32,3%== da população.\n\nO governo diz que o pior passou. A oposição fala em desindustrialização.",
+      "fonte": "INDEC e Bloomberg"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "O que fica",
+      "texto": "Gastar mais do que arrecada, imprimir dinheiro e mudar as regras a cada governo.\n\nEntre 1955 e 2018, foram mais de 30 mudanças de rumo na economia. É um ciclo que se alimenta sozinho.",
+      "fonte": "BBC News Mundo"
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "A Argentina já foi mais rica que a Alemanha. O que deu errado?\n\nEm 1913, a renda por pessoa do argentino era de US$ 6.052, acima da Alemanha e da França, segundo o Projeto Maddison citado pela BBC. O Brasil tinha US$ 1.046.\n\nDepois disso, vieram nove calotes na dívida (o último em 2020), a hiperinflação do fim dos anos 1980 e o corralito de 2001, quando os saques foram limitados a 250 pesos por semana.\n\nEm 2018, o FMI emprestou US$ 57 bilhões ao país, o maior empréstimo da sua história. Em 2025, veio mais um acordo, de US$ 20 bilhões.\n\nEm 2026, a inflação em 12 meses estava em 33,5% em agosto e a pobreza em 32,3%, segundo o INDEC. O governo diz que o pior passou; a oposição fala em desindustrialização.\n\nVocê já sentiu a crise argentina no bolso numa viagem para lá?\n\n(Fotos: Gastón Cuello, Pepe Robles e Diego Delso, via Wikimedia Commons, CC BY-SA)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo.\n\n#argentina #economia #inflacao"
+}

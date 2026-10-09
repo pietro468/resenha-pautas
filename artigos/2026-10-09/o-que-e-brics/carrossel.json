@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "classico",
+  "gancho": "O BRICS reúne quase ==metade do planeta==. E descartou de novo a moeda própria",
+  "chamada": "Entenda",
+  "capa": "o-que-e-brics-lideres-nova-delhi.jpg",
+  "capa_foco": "55,35",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que aconteceu", "texto": "Em **12 e 13 de setembro**, os líderes do BRICS se reuniram em Nova Délhi, na Índia.\n\nXi Jinping e Putin foram. ==Lula não:== a cúpula caiu 22 dias antes da eleição.\n\nE a grande pergunta era sobre o dólar.", "foto": "cupula-brics-2026-bharat-mandapam.jpg", "fonte": "Poder360"},
+    {"tipo": "numero", "numero": "48,5%", "texto": "da população do mundo vive nos **11 países** do BRICS, entre eles China, Índia e Brasil.", "foto": "capa", "fonte": "CNN Brasil, com dados do Banco Mundial"},
+    {"tipo": "citacao", "texto": "Não existe, atualmente, uma proposta para a criação de uma moeda comum do BRICS.", "autor": "Sudhakar Dalela", "contexto": "Representante da Índia nas negociações, em 12/9/2026"},
+    {"tipo": "foto_texto", "titulo": "Então o que eles querem?", "texto": "Usar mais as **próprias moedas** no comércio entre eles, para pagar menos taxa.\n\nE financiar obras pelo banco do bloco, comandado por **Dilma Rousseff** em Xangai.", "foto": "banco-do-brics-sede-xangai.jpg", "fonte": "BP Money e Congresso em Foco"},
+    {"tipo": "texto", "titulo": "O problema", "texto": "Irã e Emirados divergem sobre o Oriente Médio. Índia e China têm uma relação tensa.\n\nPor isso, a declaração final falou em paz e reforma da ONU, mas **sem citar nenhum país**.", "foto": "brics-modi-xi-prabowo.jpg", "fonte": "Business Today e BP Money"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O BRICS é mais um clube para combinar posições do que um bloco econômico.\n\nSem moeda e sem tarifa comum, o dólar segue no centro. A próxima cúpula é na China, em 2027.", "fonte": "Governo da África do Sul"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O BRICS reúne quase metade da população do planeta. E, mais uma vez, descartou criar uma moeda própria.\n\nA 18ª cúpula do bloco aconteceu em 12 e 13 de setembro de 2026, em Nova Délhi, com Narendra Modi, Xi Jinping, Vladimir Putin e Masoud Pezeshkian. Lula não foi por causa da eleição, e o chanceler Mauro Vieira chefiou a delegação brasileira (Poder360).\n\nHoje são 11 membros, com 48,5% da população mundial e 24% do comércio global (CNN Brasil).\n\nNa cúpula, o representante indiano Sudhakar Dalela disse que não existe proposta de moeda comum. O foco é usar mais as moedas locais no comércio entre os países (BP Money).\n\nO braço mais concreto do grupo é o Banco do BRICS, em Xangai, presidido por Dilma Rousseff desde 2023.\n\nVocê acha que o BRICS ainda vai mudar o peso do dólar no mundo?\n\n(Fotos: Prime Minister's Office e Ministry of Information and Broadcasting, Governo da Índia, GODL-India; Donnie28, CC BY-SA 4.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,4 +1,0 @@
-v_cit1.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Anitta_-_Citibank_Hall_%2830139698071%29.jpg/960px-Anitta_-_Citibank_Hall_%2830139698071%29.jpg
-v_cit2.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Anitta_-_Citibank_Hall_%2830224800455%29.jpg/960px-Anitta_-_Citibank_Hall_%2830224800455%29.jpg
-o_an2019.png https://upload.wikimedia.org/wikipedia/commons/c/ce/Anitta-2019.png
-v_an20212.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Anitta_en_2021_2.jpg/960px-Anitta_en_2021_2.jpg

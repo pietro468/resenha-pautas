@@ -899,9 +899,30 @@
    ],
    "titulo": "O que é pirâmide financeira e os sinais de que é golpe",
    "data": "2026-10-09 16:00"
+  },
+  {
+   "slug": "o-que-e-brics",
+   "pasta": "artigos/2026-10-09/o-que-e-brics",
+   "arquivos": [
+    "o-que-e-brics.md",
+    "carrossel.json"
+   ],
+   "titulo": "O que é o BRICS e o que saiu da cúpula de Nova Délhi",
+   "data": "2026-10-09 19:00"
+  },
+  {
+   "slug": "patrimonio-de-anitta",
+   "pasta": "artigos/2026-10-09/patrimonio-de-anitta",
+   "arquivos": [
+    "patrimonio-de-anitta.md",
+    "patrimonio-de-anitta-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "Qual o patrimônio de Anitta e como ela virou empresária",
+   "data": "2026-10-09 21:00"
   }
  ],
- "atualizado": "2026-10-09 16:16",
+ "atualizado": "2026-10-09 21:34",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -1117,6 +1138,11 @@
    "slug": "hoje-google-compra-youtube",
    "pasta": "instagram/2026-10-09/hoje-google-compra-youtube",
    "data": "2026-10-09 10:00"
+  },
+  {
+   "slug": "frase-lynch-saber-o-que-tem",
+   "pasta": "instagram/2026-10-10/frase-lynch-saber-o-que-tem",
+   "data": "2026-10-10 07:00"
   }
  ]
 }

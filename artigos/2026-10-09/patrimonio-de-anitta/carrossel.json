@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "capa_estilo": "circulo",
+  "gancho": "Antes de virar ==Anitta==, ela fez curso técnico de administração",
+  "chamada": "Deslize para ver",
+  "capa": "anitta-citibank-hall.jpg",
+  "capa_foco": "45,30",
+  "capa_extra": "patrimonio-de-anitta-entrevista-2021.jpg",
+  "slides": [
+    {"tipo": "foto_texto", "titulo": "Larissa, de Honório Gurgel", "texto": "Cantava no coral da igreja aos **7 anos**. Aos 16, terminou o técnico em administração e foi estagiária na Vale.\n\nO funk ainda nem estava no plano.", "foto": "anitta-show-2014.jpg", "fonte": "O Globo, via Folha de Pernambuco"},
+    {"tipo": "numero", "numero": "R$ 226 mil", "texto": "foi a multa que uma empresária pagou, em **2012**, para tirar Anitta de um contrato antigo e lançar a carreira dela.\n\nO clipe seguinte foi gravado em Las Vegas.", "foto": "capa", "fonte": "O Globo, via Folha de Pernambuco"},
+    {"tipo": "texto", "titulo": "A dona do negócio", "texto": "Depois do sucesso de **Show das Poderosas**, em 2013, ela passou a tocar a própria carreira.\n\nDecidia lançamentos, marcava reuniões e escolheu Miami para conquistar o mercado latino.", "foto": "anitta-citibank-hall-palco.jpg", "fonte": "Bloomberg Línea"},
+    {"tipo": "foto_texto", "titulo": "Topo do mundo", "texto": "Em março de 2022, **Envolver** chegou ao 1º lugar global do Spotify.\n\nFoi a primeira artista latina solo a conseguir isso. Mas o palco era só uma parte.", "foto": "anitta-spotify.jpg", "fonte": "Guinness World Records"},
+    {"tipo": "texto", "titulo": "Do palco ao conselho", "texto": "==2019:== chefe de criatividade da Skol Beats.\n\n==2021:== conselho do **Nubank**.\n\n==2022:== sócia da Fazenda Futuro e embaixadora global do Nubank.", "foto": "patrimonio-de-anitta-entrevista-2021.jpg", "fonte": "Money Times e Bloomberg Línea"},
+    {"tipo": "texto_claro", "titulo": "O que fica", "texto": "A Forbes México estimou a fortuna dela em **mais de US$ 100 milhões** em 2021.\n\nO segredo não foi só cantar: foi tratar a carreira como empresa.", "fonte": "Forbes México, via Money Times"},
+    {"tipo": "final"}
+  ],
+  "legenda": "Antes de virar Anitta, Larissa de Macedo Machado fez curso técnico de administração. E isso fez diferença.\n\nNascida em 1993 e criada em Honório Gurgel, no Rio, ela cantava no coral da igreja e foi estagiária na Vale antes da fama (O Globo).\n\nEm 2012, uma empresária pagou R$ 226 mil de multa para lançar a carreira dela. Em 2013, veio Show das Poderosas. Depois, a própria Anitta passou a tomar as decisões de negócio (Bloomberg Línea).\n\nEm 2022, Envolver chegou ao 1º lugar global do Spotify, feito inédito para uma artista latina solo (Guinness). Fora do palco, ela passou pela Skol Beats, pelo conselho do Nubank e virou sócia da Fazenda Futuro.\n\nSegundo a Forbes México, a fortuna dela passava de US$ 100 milhões em 2021.\n\nQual dessas viradas da Anitta mais te surpreendeu?\n\n(Fotos: Teca Lamboglia, CC BY 2.0; Tony Dandrades, CC BY 3.0; Renan Katayama, CC BY-SA 2.0; Adrian Arredondo, CC BY 3.0; Joel Rodrigues/Agência Brasília, CC BY 2.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

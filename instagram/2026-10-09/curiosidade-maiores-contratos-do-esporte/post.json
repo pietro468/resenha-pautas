@@ -1,0 +1,31 @@
+{
+  "titulo": "Curiosidades: os maiores contratos do esporte nos EUA",
+  "data": "2026-10-09 12:30",
+  "fotos": [
+    {"arquivo": "curiosidade-contratos-juan-soto-mets.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Soto_March_31_2026_1231seqn%29.png/1920px-Soto_March_31_2026_1231seqn%29.png", "credito": "Johnmaxmena2/Wikimedia Commons (CC BY 4.0)"},
+    {"arquivo": "curiosidade-contratos-shohei-ohtani.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Shohei_Ohtani_parade.jpg/1920px-Shohei_Ohtani_parade.jpg", "credito": "Garrett Brooks/Wikimedia Commons (CC BY 4.0)"},
+    {"arquivo": "curiosidade-contratos-vladimir-guerrero-jr.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vladimir_Guerrero_Jr._%2852065427672%29.jpg/1920px-Vladimir_Guerrero_Jr._%2852065427672%29.jpg", "credito": "Erik Drost/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-contratos-patrick-mahomes.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pat_Mahomes_Smile.jpg/1920px-Pat_Mahomes_Smile.jpg", "credito": "All-Pro Reels/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "curiosidade-contratos-mike-trout.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mike_Trout_%2848484059811%29.jpg/1920px-Mike_Trout_%2848484059811%29.jpg", "credito": "Erik Drost/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "curiosidade-contratos-mookie-betts.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mookie_Betts_%2853182259916%29.jpg/1920px-Mookie_Betts_%2853182259916%29.jpg", "credito": "Erik Drost/Wikimedia Commons (CC BY 2.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "curiosidade-contratos-juan-soto-mets.jpg",
+    "capa_estilo": "trio",
+    "capa_extras": ["curiosidade-contratos-shohei-ohtani.jpg", "curiosidade-contratos-patrick-mahomes.jpg"],
+    "chamada": "Curiosidades",
+    "gancho": "Quais são os ==maiores contratos== do esporte nos EUA?",
+    "slides": [
+      {"tipo": "item", "foto": "curiosidade-contratos-mookie-betts.jpg", "foco": "55,50", "posicao": "6º lugar", "detalhe": "Beisebol, Los Angeles Dodgers, 12 anos (2020)", "nome": "Mookie Betts", "valor": "US$ 365 milhões", "fonte": "Fox Sports, com dados da Spotrac"},
+      {"tipo": "item", "foto": "curiosidade-contratos-mike-trout.jpg", "posicao": "5º lugar", "detalhe": "Beisebol, Los Angeles Angels, 12 anos (2019)", "nome": "Mike Trout", "valor": "US$ 426,5 milhões", "fonte": "MLB.com, abril de 2026"},
+      {"tipo": "item", "foto": "curiosidade-contratos-patrick-mahomes.jpg", "posicao": "4º lugar", "detalhe": "Futebol americano, Kansas City Chiefs, 10 anos (2020)", "nome": "Patrick Mahomes", "valor": "US$ 450 milhões", "fonte": "Associated Press, julho de 2020"},
+      {"tipo": "item", "foto": "curiosidade-contratos-vladimir-guerrero-jr.jpg", "posicao": "3º lugar", "detalhe": "Beisebol, Toronto Blue Jays, 14 anos (2025)", "nome": "Vladimir Guerrero Jr.", "valor": "US$ 500 milhões", "fonte": "MLB.com, abril de 2026"},
+      {"tipo": "item", "foto": "curiosidade-contratos-shohei-ohtani.jpg", "posicao": "2º lugar", "detalhe": "Beisebol, Los Angeles Dodgers, 10 anos (2023)", "nome": "Shohei Ohtani", "valor": "US$ 700 milhões", "fonte": "MLB.com, abril de 2026"},
+      {"tipo": "item", "foto": "curiosidade-contratos-juan-soto-mets.jpg", "posicao": "1º lugar", "detalhe": "Beisebol, New York Mets, 15 anos (2024)", "nome": "Juan Soto", "valor": "US$ 765 milhões", "fonte": "MLB.com, abril de 2026"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Quais são os maiores contratos da história do esporte nos Estados Unidos?\n\n1. Juan Soto (New York Mets, beisebol): US$ 765 milhões por 15 anos, assinado em 2024\n2. Shohei Ohtani (Los Angeles Dodgers, beisebol): US$ 700 milhões por 10 anos, em 2023\n3. Vladimir Guerrero Jr. (Toronto Blue Jays, beisebol): US$ 500 milhões por 14 anos, em 2025\n4. Patrick Mahomes (Kansas City Chiefs, futebol americano): US$ 450 milhões por 10 anos, em 2020\n5. Mike Trout (Los Angeles Angels, beisebol): US$ 426,5 milhões por 12 anos, em 2019\n6. Mookie Betts (Los Angeles Dodgers, beisebol): US$ 365 milhões por 12 anos, em 2020\n\nOs valores são o total garantido de cada contrato, segundo levantamento do MLB.com publicado em abril de 2026, a lista da Fox Sports com dados da Spotrac e a Associated Press.\n\nO beisebol domina a lista: só um jogador de futebol americano aparece entre os seis. No basquete, o maior contrato da lista da Fox Sports, o de Jayson Tatum com o Boston Celtics, de US$ 313,9 milhões em 2024, nem entra no top 6.\n\nQual desses contratos você acha que valeu a pena?\n\n(Fotos: Johnmaxmena2 e Garrett Brooks, CC BY 4.0; Erik Drost, CC BY 2.0; All-Pro Reels, CC BY-SA 2.0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

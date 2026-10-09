@@ -1,0 +1,19 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "A conta de luz subiu quase ==8%== e a inflação voltou a estourar o teto",
+  "chamada": "Entenda",
+  "capa": "capa",
+  "capa_estilo": "circulo",
+  "capa_extra": "ipca-de-setembro-tomate-feira.jpg",
+  "slides": [
+    {"tipo": "numero", "numero": "0,82%", "texto": "foi a inflação oficial de **setembro**, segundo o IBGE. É a maior alta desde março.\n\nE quase 40% dessa alta veio de um lugar só.", "fonte": "IBGE, via Agência Brasil"},
+    {"tipo": "texto", "titulo": "O vilão do mês", "texto": "A conta de luz subiu **7,98%** em setembro.\n\nEm agosto, ela tinha vindo com o desconto do **Bônus de Itaipu**. Sem o desconto, a conta voltou ao normal e pesou no índice.", "foto": "ipca-de-setembro-usina-de-itaipu.jpg", "fonte": "IBGE, via Agência Brasil"},
+    {"tipo": "texto", "titulo": "E a comida?", "texto": "Depois de três meses caindo, o mercado voltou a subir: **0,96%**.\n\n==Tomate:== +37,76%\n==Batata:== +24,07%\n==Cebola:== +10,14%\n\nO frango ficou mais barato.", "foto": "inflacao-supermercado-brasil.jpg", "fonte": "IBGE, via InfoMoney"},
+    {"tipo": "comparacao", "titulo": "Inflação em 12 meses", "esquerda": {"rotulo": "Agosto", "valor": "4,22%", "detalhe": "dentro da meta"}, "direita": {"rotulo": "Setembro", "valor": "4,58%", "detalhe": "acima do teto de 4,5%"}, "texto": "A meta é 3%, com folga até 4,5%. Setembro passou do limite.", "fonte": "IBGE e Banco Central, via Agência Brasil"},
+    {"tipo": "texto", "titulo": "E o seu bolso?", "texto": "Quem gasta mais com **luz e comida** sentiu mais.\n\nE inflação acima do teto dá ao Banco Central motivo para segurar os juros altos. A Selic está em **13,75%**, e a próxima decisão sai em 4 de novembro.", "fonte": "Banco Central"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "A alta da luz já era esperada. A volta da comida cara, não.\n\nO mercado já prevê que 2026 termine com inflação acima de 5%."},
+    {"tipo": "final"}
+  ],
+  "legenda": "A conta de luz subiu quase 8% em setembro e levou a inflação de volta para cima do teto da meta.\n\nO IPCA, a inflação oficial do país, subiu 0,82% em setembro, segundo o IBGE. É a maior alta desde março. Em 12 meses, a inflação foi a 4,58%, acima do limite de 4,5%.\n\nA energia elétrica subiu 7,98% e respondeu por quase 40% da alta do mês. O motivo foi o fim do Bônus de Itaipu, um desconto que veio na conta de agosto.\n\nNa comida, o tomate subiu 37,76%, a batata, 24,07%, e a cebola, 10,14%. O frango e as frutas ficaram mais baratos.\n\nO Boletim Focus, do Banco Central, já previa inflação de 5,01% no fim de 2026 (fontes: IBGE, Agência Brasil e InfoMoney).\n\nVocê sentiu a diferença na conta de luz de setembro?\n\n(Fotos: Senado Federal, CC BY 2.0; RQL Santos, CC BY-SA 4.0; Jonas de Carvalho, CC BY-SA 2.0; Avelludo, CC BY-SA 4.0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

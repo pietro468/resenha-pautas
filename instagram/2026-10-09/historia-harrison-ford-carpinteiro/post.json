@@ -1,0 +1,32 @@
+{
+  "titulo": "História real: Harrison Ford, o carpinteiro que virou Han Solo",
+  "data": "2026-10-09 20:00",
+  "fotos": [
+    {"arquivo": "historia-ford-2015.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harrison_Ford_by_Gage_Skidmore_3.jpg/1920px-Harrison_Ford_by_Gage_Skidmore_3.jpg", "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "historia-ford-faculdade-1964.png", "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Harrison_Ford_1964_senior_photo_from_Ripon_College.png", "credito": "Anuário do Ripon College/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-ford-teatro-1963.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Harrison_Ford_in_May_1963_production_of_The_Threepenny_Opera_at_Ripon_College.jpg", "credito": "Ripon College/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-ford-star-wars-1977.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%27Star_Wars%27_%E2%80%94_big_step_for_three_young_actors%2C_The_Rock_Island_Argus%2C_1977.jpg", "credito": "The Rock Island Argus/Wikimedia Commons (domínio público)"},
+    {"arquivo": "historia-ford-comic-con-2017.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ryan_Gosling_%26_Harrison_Ford_%2835397115603%29.jpg/1920px-Ryan_Gosling_%26_Harrison_Ford_%2835397115603%29.jpg", "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "historia-ford-2017.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Harrison_Ford_2017.jpg", "credito": "Gage Skidmore/Wikimedia Commons (CC BY-SA 2.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "historia-ford-2015.jpg",
+    "capa_estilo": "historia",
+    "capa_foco": "50,28",
+    "chamada": "História real",
+    "gancho": "==Harrison Ford== era carpinteiro quando ganhou o papel de Han Solo",
+    "slides": [
+      {"tipo": "foto_texto", "foto": "historia-ford-teatro-1963.jpg", "titulo": "Teatro por acaso", "texto": "Na faculdade, ele fez uma aula de teatro só para ajudar a se formar. E acabou no palco.\n\nSaiu pouco antes da formatura e foi tentar a sorte em Los Angeles.\n\nO começo foi animador.", "fonte": "Ripon College"},
+      {"tipo": "foto_texto", "foto": "historia-ford-faculdade-1964.png", "titulo": "Contrato com um estúdio", "texto": "A Columbia Pictures o contratou por **US$ 150 por semana** para pequenos papéis.\n\nMas o chefe do programa de novos talentos achava que ele não tinha cara de astro.\n\nE o contrato acabou cedo.", "fonte": "Stacker e Grantland"},
+      {"tipo": "texto", "titulo": "Dispensado", "texto": "O contrato era de sete anos. A Columbia encerrou depois de **18 meses**.\n\nCom mulher e dois filhos para sustentar, ele precisava de outra renda.\n\nE achou numa biblioteca.", "fonte": "Grantland e Stacker"},
+      {"tipo": "texto_claro", "titulo": "O ator carpinteiro", "texto": "Aprendeu carpintaria sozinho, com livros emprestados.\n\nConstruiu um estúdio de gravação para o músico ==Sergio Mendes== e fez serviços para a escritora Joan Didion e para ==Francis Ford Coppola==.\n\nFoi aí que tudo mudou.", "fonte": "Grantland e Stacker"},
+      {"tipo": "texto", "titulo": "Uma porta, um teste", "texto": "Em 1973, George Lucas o colocou em American Graffiti por **US$ 485 por semana**.\n\nEm 1975, Ford fazia um serviço no escritório de Coppola enquanto Lucas testava atores para Star Wars.\n\nLucas pediu que ele lesse as falas com os candidatos.", "fonte": "Grantland"},
+      {"tipo": "foto_texto", "foto": "historia-ford-star-wars-1977.jpg", "titulo": "Nasce Han Solo", "texto": "Lucas viu no jeito dele o personagem que procurava.\n\nStar Wars estreou em ==1977==, ao lado de Mark Hamill e Carrie Fisher. Depois vieram Indiana Jones e Blade Runner.", "fonte": "Grantland"},
+      {"tipo": "foto_texto", "foto": "historia-ford-comic-con-2017.jpg", "titulo": "O que fica", "texto": "O trabalho que parecia o fim da carreira de ator foi o que o levou até o papel da vida.\n\nÀs vezes, o plano B coloca você na sala certa.", "fonte": "Grantland"},
+      {"tipo": "final"}
+    ],
+    "legenda": "Harrison Ford era carpinteiro quando ganhou o papel de Han Solo.\n\nEm 1964, ele foi para Los Angeles e conseguiu um contrato com a Columbia Pictures, que pagava US$ 150 por semana por pequenos papéis. Mas o estúdio não via nele um astro e encerrou o contrato de sete anos depois de 18 meses.\n\nCom mulher e dois filhos para sustentar, ele aprendeu carpintaria sozinho, com livros da biblioteca. Construiu um estúdio para o músico Sergio Mendes e trabalhou para a escritora Joan Didion e para o diretor Francis Ford Coppola.\n\nEm 1973, George Lucas o escalou em American Graffiti por US$ 485 por semana. Dois anos depois, Ford fazia um serviço de carpintaria no escritório de Coppola quando Lucas testava atores para Star Wars. Lucas pediu que ele lesse as falas com os candidatos e acabou dando a ele o papel de Han Solo.\n\nStar Wars estreou em 1977. Depois vieram Indiana Jones e Blade Runner. (Fontes: Grantland, Stacker e Ripon College)\n\nQual foi o plano B que mudou a sua vida?\n\n(Fotos: Gage Skidmore, CC BY-SA; Ripon College e The Rock Island Argus, domínio público/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

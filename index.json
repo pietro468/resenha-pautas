@@ -878,9 +878,30 @@
    ],
    "titulo": "Quanto o cinema ganha com o ingresso e por que a pipoca é cara",
    "data": "2026-10-09 11:00"
+  },
+  {
+   "slug": "ipca-de-setembro",
+   "pasta": "artigos/2026-10-09/ipca-de-setembro",
+   "arquivos": [
+    "ipca-de-setembro.md",
+    "carrossel.json"
+   ],
+   "titulo": "IPCA de setembro sobe 0,82% e inflação volta a passar do teto",
+   "data": "2026-10-09 14:00"
+  },
+  {
+   "slug": "piramide-financeira",
+   "pasta": "artigos/2026-10-09/piramide-financeira",
+   "arquivos": [
+    "piramide-financeira.md",
+    "piramide-financeira-capa.jpg",
+    "carrossel.json"
+   ],
+   "titulo": "O que é pirâmide financeira e os sinais de que é golpe",
+   "data": "2026-10-09 16:00"
   }
  ],
- "atualizado": "2026-10-09 10:18",
+ "atualizado": "2026-10-09 16:16",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -1086,6 +1107,11 @@
    "slug": "frase-bogle-palheiro",
    "pasta": "instagram/2026-10-09/frase-bogle-palheiro",
    "data": "2026-10-09 07:00"
+  },
+  {
+   "slug": "historia-harrison-ford-carpinteiro",
+   "pasta": "instagram/2026-10-09/historia-harrison-ford-carpinteiro",
+   "data": "2026-10-09 20:00"
   },
   {
    "slug": "hoje-google-compra-youtube",

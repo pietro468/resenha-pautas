@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "O homem que inventou a ==pirâmide financeira== morreu pobre no Rio de Janeiro",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "capa_foco": "50,30",
+  "slides": [
+    {"tipo": "texto", "titulo": "Quem era ele", "texto": "**Charles Ponzi**, um imigrante italiano em Boston.\n\nEm 1920, ele prometeu **50% de lucro em 45 dias**. Cerca de 40 mil pessoas acreditaram.\n\nSó que não existia negócio nenhum.", "fonte": "Smithsonian Magazine"},
+    {"tipo": "foto_texto", "foto": "piramide-financeira-anuncio-dont-be-ponzied-1920.jpg", "titulo": "Como o golpe funcionava", "texto": "O dinheiro de quem entrava depois pagava o lucro de quem entrou antes.\n\nEm oito meses, ele juntou perto de **US$ 15 milhões**. Até que o dinheiro novo parou de chegar.", "fonte": "Smithsonian Magazine"},
+    {"tipo": "texto_claro", "titulo": "Por que sempre quebra", "texto": "Se cada pessoa tem que trazer 6, em 13 rodadas a pirâmide precisa de **mais de 13 bilhões** de pessoas.\n\nO planeta não tem tanta gente. Os últimos sempre perdem.", "fonte": "Cálculo do Resenha Rentável"},
+    {"tipo": "foto_texto", "foto": "bernie-madoff-prisao-domiciliar-2008.jpg", "titulo": "O maior de todos", "texto": "Em 2008, **Bernie Madoff**, nome respeitado de Wall Street, confessou o maior esquema Ponzi da história de Wall Street.\n\nOs investidores tinham colocado US$ 17,5 bilhões. Ele pegou **150 anos** de prisão.", "fonte": "AP, via OPB"},
+    {"tipo": "texto", "titulo": "No Brasil também", "texto": "A Braiscompany prometia até **10% ao mês** com cripto. Cerca de 20 mil pessoas perderam dinheiro.\n\nEm 2024, os donos foram condenados em primeira instância. O fundador nega as acusações.", "fonte": "InfoMoney e Portal Tela"},
+    {"tipo": "texto", "titulo": "Os sinais de alerta", "texto": "==Lucro alto e garantido==\n==Ganho igual todo mês==\n==Sem registro na CVM==\n==Ganha quem traz amigos==\n==Saque difícil==", "foto": "faixa-alerta-esquema-ponzi.jpg", "fonte": "SEC (Investor.gov) e Banco do Brasil"},
+    {"tipo": "texto_claro", "titulo": "E o fim de Ponzi?", "texto": "Preso, deportado para a Itália, ele veio morar no Rio. Morreu num hospital de caridade em 1949 e deixou **US$ 75**.\n\nQuando o lucro só existe enquanto alguém novo entra, a conta sempre chega.", "fonte": "Smithsonian Magazine"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O homem que deu nome à pirâmide financeira morreu pobre no Rio de Janeiro.\n\nEm 1920, Charles Ponzi prometeu 50% de lucro em 45 dias em Boston. Cerca de 40 mil pessoas entraram, e ele juntou perto de US$ 15 milhões em oito meses, segundo a Smithsonian Magazine.\n\nNão havia negócio: o dinheiro de quem chegava pagava quem já estava dentro. Quando a entrada parou, o esquema caiu.\n\nO maior caso da história de Wall Street foi o de Bernie Madoff, condenado em 2009 a 150 anos de prisão. No Brasil, a Justiça Federal condenou em primeira instância, em 2024, os donos da Braiscompany, que prometia até 10% ao mês. A sentença cabia recurso, e o fundador nega as acusações.\n\nPonzi foi deportado e veio morar no Rio, onde morreu em 1949 num hospital de caridade, deixando US$ 75.\n\nVocê já recebeu convite para um investimento assim?\n\n(Fotos: Bain News Service/Biblioteca do Congresso dos EUA, domínio público; Washington Mutual Savings Bank, domínio público; Red Carlisle, CC BY 2.0; MspreilsCN, CC0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

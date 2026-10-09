@@ -1,0 +1,20 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Do seu ingresso, metade vai para Hollywood. O lucro do cinema está na ==pipoca==",
+  "chamada": "Veja os números",
+  "capa": "bilheteria-cinema-ingresso-amc.jpg",
+  "capa_estilo": "dupla",
+  "capa_extra": "balcao-de-pipoca-cinema-amc.jpg",
+  "rotulos": ["Ingresso", "Pipoca"],
+  "slides": [
+    {"tipo": "numero", "numero": "48%", "texto": "de tudo que a **AMC**, a maior rede de cinemas do mundo, vendeu em ingressos em 2025 foi para os estúdios e distribuidoras.\n\nE o resto ainda não é lucro.", "foto": "capa", "fonte": "Balanço da AMC, fevereiro de 2026"},
+    {"tipo": "texto", "titulo": "Como a conta funciona", "texto": "Você paga o **cinema**. O cinema repassa uma parte para a **distribuidora**, que divide com quem fez o filme.\n\nEm geral, fica meio a meio. Mas quem tem o filme do ano pode pedir mais.", "fonte": "Robert Marich, Marketing to Moviegoers"},
+    {"tipo": "texto", "titulo": "O caso Star Wars", "texto": "Em 2017, a Disney cobrou dos cinemas americanos **65%** da bilheteria de Os Últimos Jedi.\n\nE ainda exigiu 4 semanas na maior sala. Então como o cinema paga as contas?", "foto": "sala-de-cinema-gardena.jpg", "fonte": "Wall Street Journal, via Celluloid Junkie"},
+    {"tipo": "comparacao", "titulo": "O que fica com o cinema, por pessoa", "esquerda": {"rotulo": "Ingresso", "valor": "US$ 6,28", "detalhe": "de US$ 12,09 pagos"}, "direita": {"rotulo": "Pipoca", "valor": "US$ 6,13", "detalhe": "de US$ 7,62 pagos"}, "texto": "A pipoca rende quase o mesmo que o ingresso. E ninguém divide ela com Hollywood.", "fonte": "AMC, 2025 (cálculo do Resenha Rentável)"},
+    {"tipo": "texto", "titulo": "E no Brasil?", "texto": "Os cinemas ficavam em média com **52,5%** do ingresso, segundo o g1 em 2020.\n\nEm 2025, o país vendeu 112,8 milhões de ingressos. Deu perto de **R$ 20** cada, em média.", "fonte": "g1 e Ancine, via Portal Exibidor"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "O ingresso sustenta Hollywood. O balcão sustenta o cinema.\n\nQuando a pipoca parecer cara demais, lembre: é ela que paga a sala onde o filme passa."},
+    {"tipo": "final"}
+  ],
+  "legenda": "Metade do que você paga no ingresso de cinema vai para Hollywood. O lucro da sala está no balcão de pipoca.\n\nEm 2025, a AMC, maior rede de cinemas do mundo, vendeu US$ 2,65 bilhões em ingressos e repassou cerca de 48% aos estúdios e distribuidoras, segundo o balanço da empresa.\n\nJá no balcão, a rede vendeu US$ 1,67 bilhão e gastou só US$ 327 milhões com os produtos. De cada US$ 100 em pipoca e refrigerante, sobram cerca de US$ 80 antes das outras despesas.\n\nNo Brasil, os cinemas ficavam em média com 52,5% do ingresso, segundo reportagem do g1 de 2020. Em 2025, as salas do país arrecadaram R$ 2,3 bilhões, segundo a Ancine.\n\nVocê compra pipoca quando vai ao cinema?\n\n(Fotos: Ser Amantio di Nicolao, CC BY-SA 3.0; Andreas Praefcke, CC BY 3.0; Fred Cherrygarden, CC BY-SA 4.0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

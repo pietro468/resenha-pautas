@@ -1,0 +1,37 @@
+{
+  "titulo": "Hoje na história: 9 de outubro de 2006, o Google compra o YouTube",
+  "data": "2026-10-09 10:00",
+  "fotos": [
+    {"arquivo": "hoje-youtube-hurley-chen-2007.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walt_Mossberg%2C_Steve_Chen_and_Chad_Hurley.jpg/1920px-Walt_Mossberg%2C_Steve_Chen_and_Chad_Hurley.jpg", "credito": "Joi Ito/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-youtube-primeiro-escritorio.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Youtubeheadquarters.jpg", "credito": "Coolcaesar/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "hoje-youtube-chad-hurley.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ChadHurleyJI1.jpg/1920px-ChadHurleyJI1.jpg", "credito": "Joi Ito/Wikimedia Commons (CC BY 2.5)"},
+    {"arquivo": "hoje-youtube-steve-chen-2007.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ECDaily_40y_YouTubeForum_SteveChen.jpg", "credito": "Rico Shen/Wikimedia Commons (CC BY-SA 3.0)"},
+    {"arquivo": "hoje-youtube-page-brin-schmidt-2006.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Larry%2C_Sergey%2C_Eric_Schmidt_%28Google%27s_Geo_Developer_Day_2006%29.jpg/1920px-Larry%2C_Sergey%2C_Eric_Schmidt_%28Google%27s_Geo_Developer_Day_2006%29.jpg", "credito": "CodeSyntax/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "hoje-youtube-eric-schmidt-2006.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Eric_Schmidt_%28292169978%29.jpg/1920px-Eric_Schmidt_%28292169978%29.jpg", "credito": "JD Lasica/Wikimedia Commons (CC BY 2.0)"},
+    {"arquivo": "hoje-youtube-google-2006.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Google_Sign.jpg/1920px-Google_Sign.jpg", "credito": "brionv/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "hoje-youtube-sede-san-bruno.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/901cherryave.jpg/1920px-901cherryave.jpg", "credito": "Coolcaesar/Wikimedia Commons (CC BY-SA 3.0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-youtube-hurley-chen-2007.jpg",
+    "capa_foco": "62,45",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "9 out",
+    "ano": "2006",
+    "ha": "Há 20 anos",
+    "gancho": "O Google comprava o ==YouTube== por US$ 1,65 bilhão",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-youtube-primeiro-escritorio.jpg"},
+      {"tipo": "foto", "foto": "hoje-youtube-chad-hurley.jpg"},
+      {"tipo": "foto", "foto": "hoje-youtube-steve-chen-2007.jpg"},
+      {"tipo": "foto", "foto": "hoje-youtube-page-brin-schmidt-2006.jpg"},
+      {"tipo": "foto", "foto": "hoje-youtube-eric-schmidt-2006.jpg"},
+      {"tipo": "foto", "foto": "hoje-youtube-google-2006.jpg"},
+      {"tipo": "foto", "foto": "hoje-youtube-sede-san-bruno.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 20 ANOS, O GOOGLE COMPRAVA O YOUTUBE\n\nEm 9 de outubro de 2006, o Google anunciou a compra do YouTube por US$ 1,65 bilhão, pagos em ações. O site tinha sido fundado em fevereiro de 2005, ou seja, tinha só um ano e oito meses de vida, segundo o comunicado oficial da compra.\n\nNa época, o YouTube já somava mais de 100 milhões de vídeos assistidos por dia e recebia 65 mil vídeos novos por dia. Pelo acordo, a empresa continuaria em San Bruno, na Califórnia, com a própria marca e todos os funcionários.\n\nO comandante do YouTube era Chad Hurley, cofundador e presidente-executivo, que tinha criado o site com Steve Chen e Jawed Karim. Do outro lado da mesa estava Eric Schmidt, então presidente-executivo do Google, que chamou o YouTube de \"uma plataforma de mídia empolgante e poderosa\".\n\nO detalhe que mostra o tamanho da aposta: em 2025, o YouTube faturou US$ 60 bilhões, somando anúncios e assinaturas, segundo a Alphabet, dona do Google, em dado divulgado pela primeira vez em fevereiro de 2026 e publicado pelo Tubefilter. É como se o site devolvesse o preço da compra em pouco mais de dez dias.\n\nSó em anúncios, foram cerca de US$ 40,4 bilhões no ano. Em um ano, o YouTube fatura hoje cerca de 36 vezes o que o Google pagou por ele.\n\nQual foi o primeiro vídeo que você lembra de ter visto no YouTube?\n\n(Fotos: Joi Ito, CC BY 2.0 e CC BY 2.5; Coolcaesar e Rico Shen, CC BY-SA 3.0; CodeSyntax e brionv, CC BY-SA 2.0; JD Lasica, CC BY 2.0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

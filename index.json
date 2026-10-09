@@ -867,9 +867,20 @@
    ],
    "titulo": "Quem é Navi Pillay, a juíza sul-africana que ganhou o Nobel da Paz",
    "data": "2026-10-09 08:00"
+  },
+  {
+   "slug": "quanto-o-cinema-ganha-com-o-ingresso",
+   "pasta": "artigos/2026-10-09/quanto-o-cinema-ganha-com-o-ingresso",
+   "arquivos": [
+    "quanto-o-cinema-ganha-com-o-ingresso.md",
+    "quanto-o-cinema-ganha-com-o-ingresso-amc.png",
+    "carrossel.json"
+   ],
+   "titulo": "Quanto o cinema ganha com o ingresso e por que a pipoca é cara",
+   "data": "2026-10-09 11:00"
   }
  ],
- "atualizado": "2026-10-09 10:09",
+ "atualizado": "2026-10-09 10:15",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -1070,6 +1081,11 @@
    "slug": "frase-bogle-palheiro",
    "pasta": "instagram/2026-10-09/frase-bogle-palheiro",
    "data": "2026-10-09 07:00"
+  },
+  {
+   "slug": "hoje-google-compra-youtube",
+   "pasta": "instagram/2026-10-09/hoje-google-compra-youtube",
+   "data": "2026-10-09 10:00"
   }
  ]
 }

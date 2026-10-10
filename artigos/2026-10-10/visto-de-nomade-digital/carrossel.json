@@ -1,0 +1,71 @@
+{
+ "formato": "carrossel",
+ "estilo": "frase",
+ "gancho": "Quanto você precisa ganhar para morar fora como ==nômade digital==?",
+ "chamada": "Veja país por país",
+ "capa": "capa",
+ "capa_estilo": "circulo",
+ "capa_extra": "lisboa-bonde-28-visto-de-nomade-digital.jpg",
+ "slides": [
+  {
+   "tipo": "texto",
+   "titulo": "Que visto é esse?",
+   "texto": "É a autorização para **morar um tempo em outro país** trabalhando remoto para empresas ou clientes **de fora** dele.\n\nCada país cobra uma renda mínima diferente.",
+   "foto": "nomade-digital-cafe-notebook.jpg",
+   "fonte": "Governos e consulados"
+  },
+  {
+   "tipo": "foto_texto",
+   "foto": "lisboa-bonde-28-visto-de-nomade-digital.jpg",
+   "titulo": "Portugal: € 3.680 por mês",
+   "texto": "O visto D8 pede renda de **4 salários mínimos** portugueses.\n\nE a Espanha pede menos.",
+   "fonte": "VFS Global e idealista"
+  },
+  {
+   "tipo": "comparacao",
+   "titulo": "Espanha x Croácia",
+   "esquerda": {
+    "rotulo": "Espanha",
+    "valor": "€ 2,8 mil",
+    "detalhe": "por mês, cerca de"
+   },
+   "direita": {
+    "rotulo": "Croácia",
+    "valor": "€ 3.622",
+    "detalhe": "por mês"
+   },
+   "texto": "Na Croácia, dá para ficar até **18 meses**.",
+   "fonte": "Migratiolex e Ministério do Interior da Croácia"
+  },
+  {
+   "tipo": "foto_texto",
+   "foto": "medellin-colombia-panoramica.jpg",
+   "titulo": "América Latina",
+   "texto": "==Colômbia:== 3 salários mínimos de lá, por até 2 anos.\n\n==Argentina:== **sem renda mínima**, por 180 dias que podem virar 360.",
+   "fonte": "Noticias RCN e Governo da Argentina"
+  },
+  {
+   "tipo": "foto_texto",
+   "foto": "toquio-shibuya-cruzamento.jpg",
+   "titulo": "O mais exigente",
+   "texto": "O **Japão** pede renda de **¥ 10 milhões por ano**.\n\nE só deixa ficar **6 meses**, sem prorrogação.",
+   "fonte": "Ministério das Relações Exteriores do Japão"
+  },
+  {
+   "tipo": "numero",
+   "numero": "US$ 5.000",
+   "texto": "por mês é a renda que **Dubai** pede no programa próprio.\n\nO visto federal dos Emirados pede **US$ 3.500**.",
+   "fonte": "Portal oficial do governo dos Emirados"
+  },
+  {
+   "tipo": "texto_claro",
+   "titulo": "No fim das contas",
+   "texto": "Dá para trabalhar de outro país com a renda em dia e os documentos certos.\n\nAs regras mudam muito: confira sempre no **consulado** antes de pedir.",
+   "fonte": "Governos e consulados"
+  },
+  {
+   "tipo": "final"
+  }
+ ],
+ "legenda": "Quanto você precisa ganhar para trabalhar de outro país? Depende muito do destino.\n\nO visto de nômade digital deixa a pessoa morar um tempo fora trabalhando remoto para empresas ou clientes de outros países.\n\nPortugal pede 4 salários mínimos portugueses, ou € 3.680 por mês (VFS Global e idealista). A Espanha pede cerca de € 2,8 mil (Migratiolex) e a Croácia, € 3.622,50 (Ministério do Interior croata).\n\nNa América Latina, a Colômbia exige 3 salários mínimos colombianos e a Argentina não fixa renda mínima. No outro extremo, o Japão pede ¥ 10 milhões por ano e Dubai, US$ 5.000 por mês.\n\nPara qual país você iria trabalhar?\n\n(Fotos: AbhiSuryawanshi, CC BY-SA 4.0; Shadowgate, CC BY 2.0; perzon seo, CC BY 2.0; Luis90f, CC BY-SA 4.0; Benh LIEU SONG, CC BY-SA 2.0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

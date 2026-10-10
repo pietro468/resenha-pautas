@@ -1,0 +1,67 @@
+{
+ "formato": "carrossel",
+ "estilo": "frase",
+ "gancho": "Trabalhar 6 dias e folgar só 1 pode acabar. O Senado vota na ==quarta-feira==",
+ "chamada": "Veja o que muda",
+ "capa": "capa",
+ "capa_estilo": "classico",
+ "slides": [
+  {
+   "tipo": "texto",
+   "titulo": "O que vai a votação",
+   "texto": "Na quarta (14), o Senado vota a PEC que acaba com a **escala 6x1**.\n\nA jornada máxima cai de **44 para 40 horas** por semana, com **2 folgas** e sem corte de salário.\n\nMas não é de uma vez.",
+   "fonte": "Agência Senado, O Tempo"
+  },
+  {
+   "tipo": "comparacao",
+   "titulo": "Hoje x com a PEC",
+   "esquerda": {
+    "rotulo": "Hoje",
+    "valor": "44 h",
+    "detalhe": "por semana, 1 folga"
+   },
+   "direita": {
+    "rotulo": "Com a PEC",
+    "valor": "40 h",
+    "detalhe": "por semana, 2 folgas"
+   },
+   "texto": "Uma das folgas, de preferência, no **domingo**.",
+   "fonte": "Agência Senado"
+  },
+  {
+   "tipo": "texto_claro",
+   "titulo": "Quando valeria?",
+   "texto": "==2 meses depois:== a jornada cai para **42 horas**, já com 2 folgas.\n\n==1 ano depois disso:== chega às **40 horas**.\n\nE nem todo mundo entra na regra.",
+   "fonte": "Agência Brasil e Agência Senado"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Quem fica de fora",
+   "texto": "**Servidores públicos** não entram na mudança.\n\nQuem tem **diploma** e ganha a partir de cerca de **R$ 21,2 mil** fica fora da nova jornada, mas mantém as 2 folgas.",
+   "fonte": "Agência Senado e Agência Brasil"
+  },
+  {
+   "tipo": "numero",
+   "numero": "49 votos",
+   "texto": "é o mínimo que a PEC precisa entre os **81 senadores**, em **dois turnos**.\n\nSe o texto mudar, volta para a Câmara.",
+   "fonte": "Agência Senado",
+   "foto": "mesa-do-senado-votacao-fim-da-escala-6x1.jpg"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Os dois lados",
+   "texto": "==A favor:== o relator diz que trabalhador descansado rende mais e erra menos.\n\n==Contra:== senadores críticos dizem que a mudança pode gerar inflação e faltar mão de obra.",
+   "fonte": "Agência Senado (CCJ, 2/9/2026)"
+  },
+  {
+   "tipo": "texto_claro",
+   "titulo": "E agora?",
+   "texto": "Por enquanto, nada muda no seu contrato.\n\nSe passar nos dois turnos, a jornada de 40 horas só chegaria por inteiro cerca de **14 meses** depois da publicação.",
+   "fonte": "Agência Senado"
+  },
+  {
+   "tipo": "final"
+  }
+ ],
+ "legenda": "A escala de 6 dias de trabalho e 1 de folga pode acabar. O Senado vota a PEC na quarta-feira (14).\n\nO presidente do Senado, Davi Alcolumbre, marcou para esse dia o primeiro turno da PEC 221/2019. O texto reduz a jornada máxima de 44 para 40 horas semanais, garante 2 folgas por semana e proíbe corte de salário (Agência Senado e O Tempo).\n\nA mudança seria gradual: 42 horas dois meses depois da publicação e 40 horas um ano depois disso. Servidores públicos ficam de fora, assim como quem tem diploma e ganha a partir de cerca de R$ 21,2 mil (Agência Brasil).\n\nPara passar, a PEC precisa de 49 dos 81 votos em dois turnos. A favor, o relator Omar Aziz diz que trabalhador descansado rende mais. Contra, senadores como Jaime Bagattoli dizem que a mudança pode gerar inflação.\n\nVocê trabalha na escala 6x1?\n\n(Foto: Senado Federal/Wikimedia Commons, CC BY-SA 4.0)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,0 +1,62 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Ganhar dinheiro no YouTube vai exigir o ==dobro de horas== assistidas",
+  "chamada": "Deslize para ver",
+  "capa": "capa",
+  "capa_estilo": "circulo",
+  "capa_extra": "monetizacao-do-youtube-placa-100-mil-inscritos.png",
+  "capa_foco": "28,45",
+  "slides": [
+    {
+      "tipo": "comparacao",
+      "titulo": "O que muda em fevereiro de 2027",
+      "esquerda": {
+        "rotulo": "Hoje",
+        "valor": "4 mil h",
+        "detalhe": "assistidas em 12 meses"
+      },
+      "direita": {
+        "rotulo": "2027",
+        "valor": "8 mil h",
+        "detalhe": "assistidas em 365 dias"
+      },
+      "texto": "Os **1.000 inscritos** continuam iguais. Vale para quem entrar a partir de 1º de fevereiro.",
+      "fonte": "YouTube, via Meio & Mensagem e The Next Web"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E nos Shorts?",
+      "texto": "Hoje, o canal entra com **10 milhões** de visualizações em 90 dias.\n\nEm 2027, vão ser **20 milhões**.\n\nMas quem já ganha dinheiro pode ficar tranquilo.",
+      "foto": "sede-do-youtube-san-bruno.jpg",
+      "fonte": "The Next Web"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Quem já está dentro",
+      "texto": "Os mais de **3 milhões** de canais que já são parceiros **não são afetados**.\n\nA régua sobe só para quem está começando.",
+      "fonte": "Meio & Mensagem"
+    },
+    {
+      "tipo": "numero",
+      "numero": "55%",
+      "texto": "é a fatia do criador no dinheiro dos anúncios dos **vídeos longos**.\n\nNos Shorts, é **45%**. O resto fica com o YouTube.",
+      "fonte": "Meio & Mensagem"
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E no Brasil?",
+      "texto": "O YouTube pôs mais de **R$ 6 bilhões** no PIB brasileiro em 2025 e sustentou **150 mil empregos**, segundo a Oxford Economics.",
+      "fonte": "Relatório de Impacto do YouTube 2025"
+    },
+    {
+      "tipo": "texto_claro",
+      "titulo": "No fim das contas",
+      "texto": "Entrar no programa vai demorar mais. Mas o YouTube diz que vai pagar mais aos criadores em 2027.\n\nO bolo cresce. A porta fica mais estreita."
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "legenda": "Ganhar dinheiro com anúncios no YouTube vai ficar mais difícil para quem está começando.\n\nA partir de 1º de fevereiro de 2027, novos canais vão precisar de 8 mil horas assistidas em um ano para entrar no Programa de Parcerias, o dobro das 4 mil horas de hoje. Nos Shorts, a meta sobe de 10 milhões para 20 milhões de visualizações em 90 dias. Os 1.000 inscritos continuam iguais.\n\nQuem já é parceiro não é afetado. O programa tem mais de 3 milhões de criadores no mundo, e o criador fica com 55% da receita dos anúncios nos vídeos longos e 45% nos Shorts (Meio & Mensagem e The Next Web).\n\nNo Brasil, o ecossistema do YouTube somou mais de R$ 6 bilhões ao PIB em 2025, segundo estudo da Oxford Economics com a plataforma.\n\nVocê acha que ainda dá para começar um canal do zero e viver disso?\n\n(Fotos: LocoWiki, CC BY-SA 4.0; Mixedmorris, CC BY-SA 4.0; BrokenSphere, CC BY 3.0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

@@ -1,0 +1,18 @@
+{
+  "formato": "carrossel",
+  "estilo": "frase",
+  "gancho": "Governo anuncia R$ 0,89 de desconto na gasolina. Mas só ==R$ 0,26== é novo",
+  "chamada": "Entenda a conta",
+  "capa": "capa",
+  "capa_estilo": "classico",
+  "slides": [
+    {"tipo": "texto", "titulo": "O que aconteceu", "texto": "Na sexta (9), o governo zerou **PIS, Cofins e Cide** sobre a gasolina por **30 dias**.\n\nO imposto que deixa de ser cobrado subiu de **R$ 0,63** para **R$ 0,89** por litro.\n\nSó que tem um detalhe.", "foto": "gasolina-vai-baixar-fiscalizacao-anp.jpg", "fonte": "Agência Brasil e Poder360"},
+    {"tipo": "comparacao", "titulo": "O desconto que já existia", "esquerda": {"rotulo": "Desde setembro", "valor": "R$ 0,63", "detalhe": "por litro, já nas bombas"}, "direita": {"rotulo": "Agora", "valor": "R$ 0,89", "detalhe": "por litro"}, "texto": "A diferença, o que é novo de verdade, é de **R$ 0,26 por litro**.", "fonte": "Mercado & Consumo e Sindicombustíveis DF"},
+    {"tipo": "numero", "numero": "R$ 13", "texto": "é quanto você economizaria num tanque de **50 litros**, se o desconto novo chegar inteiro ao posto.\n\nE esse é o grande se.", "fonte": "Cálculo com dados do Sindicombustíveis DF"},
+    {"tipo": "texto", "titulo": "Por que não cai na hora?", "texto": "O posto não compra da Petrobras nem do governo. Compra das **distribuidoras**.\n\nA queda só aparece na bomba se elas repassarem o corte. O governo diz que vai acompanhar os preços.", "foto": "posto-petrobras-caminhao-diesel.jpg", "fonte": "Correio Braziliense e Agência Brasil"},
+    {"tipo": "texto", "titulo": "Quanto custa", "texto": "O pacote, que também ajuda o **etanol** e o **diesel importado**, custa **R$ 5,2 bilhões** em 30 dias.\n\nO governo diz que vai pagar a conta com o dinheiro extra que entra com o petróleo caro.", "fonte": "Agência Brasil"},
+    {"tipo": "texto_claro", "titulo": "No fim das contas", "texto": "A gasolina pode baixar, mas pouco: R$ 0,26 por litro, e só se o corte chegar ao posto.\n\nA medida vale por 30 dias e pode ser renovada ou não.", "fonte": "Agência Brasil"},
+    {"tipo": "final"}
+  ],
+  "legenda": "O governo anunciou R$ 0,89 de desconto por litro na gasolina. Mas só R$ 0,26 disso é novo.\n\nNa sexta-feira (9), o governo federal zerou o PIS, a Cofins e a Cide sobre a gasolina por 30 dias. Com isso, o imposto que deixa de ser cobrado subiu de R$ 0,63 para R$ 0,89 por litro (Agência Brasil).\n\nO detalhe é que os R$ 0,63 já valiam desde 10 de setembro. Por isso, o desconto novo é de R$ 0,26 por litro, como calculou o Sindicombustíveis DF. Num tanque de 50 litros, são cerca de R$ 13 a menos, se o corte for repassado por inteiro.\n\nO repasse depende das distribuidoras, que vendem aos postos. O pacote também amplia a ajuda ao etanol e ao diesel importado e custa R$ 5,2 bilhões em 30 dias, segundo o governo, que diz compensar o gasto com receitas extras do petróleo.\n\nA gasolina já baixou no posto onde você abastece?\n\n(Fotos: Mario Roberto Duran Ortiz, CC BY-SA 3.0; José Cruz/Agência Brasil, CC BY 3.0 BR; Moacir Ximenes, CC BY 3.0 BR/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+}

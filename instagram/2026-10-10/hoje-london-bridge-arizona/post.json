@@ -1,0 +1,30 @@
+{
+  "titulo": "Hoje na história: 10 de outubro de 1971, a London Bridge reabre no Arizona",
+  "data": "2026-10-10 10:00",
+  "fotos": [
+    {"arquivo": "hoje-london-bridge-arizona-2009.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/London_Bridge%2C_Lake_Havasu_City%2C_Arizona_%283227888290%29.jpg", "credito": "Ken Lund/Wikimedia Commons (CC BY-SA 2.0)"},
+    {"arquivo": "hoje-london-bridge-londres-photochrom.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/London_Bridge%2C_London%2C_England-LCCN2002696930.jpg/1920px-London_Bridge%2C_London%2C_England-LCCN2002696930.jpg", "credito": "Photochrom Print Collection/Library of Congress (domínio público)"},
+    {"arquivo": "hoje-london-bridge-londres-1927.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wonderful_London_%281927%29_08_%E2%80%93_London_Bridge.jpg/1920px-Wonderful_London_%281927%29_08_%E2%80%93_London_Bridge.jpg", "credito": "Donald Macleish/Wikimedia Commons (CC0)"},
+    {"arquivo": "hoje-london-bridge-arcos-havasu.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lake_Havasu_City-London_Bridge-1831-2.jpg/1920px-Lake_Havasu_City-London_Bridge-1831-2.jpg", "credito": "Marine 69-71/Wikimedia Commons (CC BY-SA 4.0)"},
+    {"arquivo": "hoje-london-bridge-lake-havasu-aerea.jpg", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/London_Bridge%2C_Lake_Havasu_City_-_2011_%28Aerial_Photo%29.jpg/1920px-London_Bridge%2C_Lake_Havasu_City_-_2011_%28Aerial_Photo%29.jpg", "credito": "S. Winkvist/Wikimedia Commons (CC0)"}
+  ],
+  "carrossel": {
+    "formato": "carrossel",
+    "estilo": "frase",
+    "capa": "hoje-london-bridge-arizona-2009.jpg",
+    "capa_estilo": "hoje",
+    "chamada": "Hoje na história",
+    "data_evento": "10 out",
+    "ano": "1971",
+    "ha": "Há 55 anos",
+    "gancho": "A ==London Bridge== reabria no meio do deserto americano",
+    "slides": [
+      {"tipo": "foto", "foto": "hoje-london-bridge-londres-photochrom.jpg"},
+      {"tipo": "foto", "foto": "hoje-london-bridge-londres-1927.jpg"},
+      {"tipo": "foto", "foto": "hoje-london-bridge-arcos-havasu.jpg"},
+      {"tipo": "foto", "foto": "hoje-london-bridge-lake-havasu-aerea.jpg"},
+      {"tipo": "final"}
+    ],
+    "legenda": "HÁ 55 ANOS, A LONDON BRIDGE REABRIA NO DESERTO DO ARIZONA\n\nEm 10 de outubro de 1971, uma ponte que tinha passado mais de um século sobre o rio Tâmisa, em Londres, foi reaberta ao público em Lake Havasu City, uma cidade no deserto do Arizona, nos Estados Unidos.\n\nO comprador foi Robert P. McCulloch, empresário que ficou rico com as motosserras da McCulloch e que tinha fundado a cidade nos anos 1960. Em 1968, a administração da City de Londres pôs a ponte à venda porque ela estava afundando no rio. McCulloch venceu o leilão com um lance de US$ 2,4 milhões, o dobro do custo estimado para desmontá-la, mais US$ 60 mil: US$ 1 mil por ano de idade dele.\n\nA ideia era usar a ponte como chamariz para vender terrenos. Os 10.276 blocos de granito foram numerados, levados para os EUA e remontados em pouco mais de três anos. A ponte foi construída em terra firme, e só depois cavaram um canal por baixo dela.\n\nO plano deu certo. Lake Havasu City tinha cerca de 4 mil moradores em 1970 e hoje passa de 50 mil. Até hoje circula a lenda de que McCulloch achava que estava comprando a Tower Bridge, a famosa ponte levadiça de Londres. Ele e o responsável pela venda sempre negaram.\n\nVocê pagaria milhões por uma ponte para vender terrenos no deserto?\n\nFontes: Wikipédia (London Bridge e Robert P. McCulloch) e Route 66 News.\n\n(Fotos: Ken Lund, CC BY-SA 2.0; Photochrom Print Collection/Library of Congress, domínio público; Donald Macleish, CC0; Marine 69-71, CC BY-SA 4.0; S. Winkvist, CC0/Wikimedia Commons)\n\nSiga o @resenharentavel para entender como o dinheiro move o mundo."
+  }
+}

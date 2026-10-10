@@ -920,9 +920,30 @@
    ],
    "titulo": "Qual o patrimônio de Anitta e como ela virou empresária",
    "data": "2026-10-09 21:00"
+  },
+  {
+   "slug": "gasolina-vai-baixar",
+   "pasta": "artigos/2026-10-10/gasolina-vai-baixar",
+   "arquivos": [
+    "gasolina-vai-baixar.md",
+    "carrossel.json"
+   ],
+   "titulo": "Gasolina vai baixar? O que muda com tributos federais zerados",
+   "data": "2026-10-10 08:00"
+  },
+  {
+   "slug": "monetizacao-do-youtube",
+   "pasta": "artigos/2026-10-10/monetizacao-do-youtube",
+   "arquivos": [
+    "monetizacao-do-youtube.md",
+    "monetizacao-do-youtube-regras-2027.png",
+    "carrossel.json"
+   ],
+   "titulo": "Como funciona a monetização do YouTube e o que muda em 2027",
+   "data": "2026-10-10 11:00"
   }
  ],
- "atualizado": "2026-10-09 21:34",
+ "atualizado": "2026-10-10 10:09",
  "instagram": [
   {
    "slug": "placar-gastos-contratacoes-2026",
@@ -1140,9 +1161,19 @@
    "data": "2026-10-09 10:00"
   },
   {
+   "slug": "curiosidade-maiores-economias-do-mundo",
+   "pasta": "instagram/2026-10-10/curiosidade-maiores-economias-do-mundo",
+   "data": "2026-10-10 12:30"
+  },
+  {
    "slug": "frase-lynch-saber-o-que-tem",
    "pasta": "instagram/2026-10-10/frase-lynch-saber-o-que-tem",
    "data": "2026-10-10 07:00"
+  },
+  {
+   "slug": "hoje-london-bridge-arizona",
+   "pasta": "instagram/2026-10-10/hoje-london-bridge-arizona",
+   "data": "2026-10-10 10:00"
   }
  ]
 }
